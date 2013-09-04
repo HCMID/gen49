@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/data/repos/git/gen49/collections/CiteCollectionInventory.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<collectionService xmlns="http://chs.harvard.edu/xmlns/cite">
+   <citeCollection canonicalId="" label="" urn="">
+        <namespaceMapping abbr="" fullValue=""></namespaceMapping>
+        <title xmlns="http://purl.org/dc/elements/1.1/"></title>
+        <creator xmlns="http://purl.org/dc/elements/1.1/"></creator>
+        <coverage xmlns="http://purl.org/dc/elements/1.1/"></coverage>
+        <description xmlns="http://purl.org/dc/elements/1.1/"></description>
+        <rights xmlns="http://purl.org/dc/elements/1.1/"></rights>
+        <orderedBy property=""></orderedBy>
+        <source type="" value=""></source>
+        <citeProperty name="" label="" type="">
+            <valueList>
+                <value></value>
+            </valueList>
+        </citeProperty>
+        <extendedBy abbr="" uri="" extendedCitation="">
+            <request name="">
+                <parameter name="" type=""></parameter>
+            </request>
+        </extendedBy>
+    </citeCollection>
+</collectionService>
