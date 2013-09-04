@@ -2,23 +2,18 @@
 <?xml-model href="file:/data/repos/git/gen49/collections/CiteCollectionInventory.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <collectionService xmlns="http://chs.harvard.edu/xmlns/cite">
    <citeCollection canonicalId="" label="" urn="">
-        <namespaceMapping abbr="" fullValue=""></namespaceMapping>
-        <title xmlns="http://purl.org/dc/elements/1.1/"></title>
-        <creator xmlns="http://purl.org/dc/elements/1.1/"></creator>
-        <coverage xmlns="http://purl.org/dc/elements/1.1/"></coverage>
-        <description xmlns="http://purl.org/dc/elements/1.1/"></description>
-        <rights xmlns="http://purl.org/dc/elements/1.1/"></rights>
-        <orderedBy property=""></orderedBy>
-        <source type="" value=""></source>
-        <citeProperty name="" label="" type="">
-            <valueList>
-                <value></value>
-            </valueList>
-        </citeProperty>
-        <extendedBy abbr="" uri="" extendedCitation="">
-            <request name="">
-                <parameter name="" type=""></parameter>
-            </request>
-        </extendedBy>
+        <namespaceMapping abbr="hcmid" fullValue="http://shot.holycross.edu/hcmid/datans"></namespaceMapping>
+        <title xmlns="http://purl.org/dc/elements/1.1/">Pages of Geneva Latin MS 49</title>
+        <creator xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
+        <coverage xmlns="http://purl.org/dc/elements/1.1/">All pages of Geneva Latin MS 49.</coverage>
+        <description xmlns="http://purl.org/dc/elements/1.1/">Folio pages of Geneva Latin MS 49.</description>
+        <rights xmlns="http://purl.org/dc/elements/1.1/">CC by-sa 3.0 unported</rights>
+        <orderedBy property="Sequence"></orderedBy>
+        <source  type="file" value="gen49.tsv"></source>
+        <citeProperty name="PageUrn" label="Page URN" type="citeurn"/>
+       <citeProperty name="Sequence" label="Sequence" type="number"/>
+ 
+        
+        
     </citeCollection>
 </collectionService>
