@@ -28,6 +28,7 @@
         <source  type="file" value="bifolios.tsv"></source>
         <citeProperty name="Bifolio" label="Bifolio" type="citeurn"/>
         <citeProperty name="Sequence" label="Sequence" type="number"/>
+        <citeProperty name="Image" label="Image"  type="citeimg"/>
         
     </citeCollection>
 </collectionService>
