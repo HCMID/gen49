@@ -44,19 +44,23 @@
                     docname="JerChronicles-tert.xml">
                     <validate
                         schema="chstei.rng"/>
+                    <namespaceMapping
+                        abbreviation="tei"
+                        nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
                         <citation
                             label="era"
-                            scope="/TEI.2/text/body"
-                            xpath="/div[@n = '?']">
+                            scope="/tei:TEI/tei:text/tei:body"
+                            xpath="/tei:div[@n = '?']">
                             <citation
                                 label="table"
-                                scope="/TEI.2/text/body/div[@n = '?']"
-                                xpath="/table[@n = '?']">
+                                scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                                xpath="/tei:table[@n = '?']">
+                              
                                 <citation
                                     label="row"
-                                    scope="/TEI.2/text/body/div[@n = '?']/table[@n = '?']"
-                                    xpath="/row[@n = '?']"/>
+                                    scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']/tei:table[@n = '?']"
+                                    xpath="/tei:row[@n = '?']"/> 
                             </citation>
                         </citation>
                     </citationMapping>
