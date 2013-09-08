@@ -64,11 +64,12 @@
                                 label="table"
                                 scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
                                 xpath="/tei:table[@n = '?']">
-                              
+                              <!--
                                 <citation
                                     label="row"
                                     scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']/tei:table[@n = '?']"
                                     xpath="/tei:row[@n = '?']"/> 
+                                    -->
                             </citation>
                         </citation>
                     </citationMapping>

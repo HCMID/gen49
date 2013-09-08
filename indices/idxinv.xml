@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/data/repos/git/gen49/indices/CiteIndexInventory.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<indexInventory xmlns="http://chs.harvard.edu/xmlns/cite">
+    <rdfNamespace
+        abbr="cite"
+        fullValue="http://www.homermultitext.org/cite/rdf/"/>
+    <index verb="cite:appearsOn" inverse="cite:hasOnIt">
+        <source type="file" value="tablesToImage.tsv"></source>
+    </index>
+</indexInventory>
