@@ -5,6 +5,6 @@
         abbr="cite"
         fullValue="http://www.homermultitext.org/cite/rdf/"/>
     <index verb="cite:appearsOn" inverse="cite:hasOnIt">
-        <source type="file" value="tablesToImage.tsv"></source>
+        <source type="file" value="tablesToImage.csv"></source>
     </index>
 </indexInventory>
