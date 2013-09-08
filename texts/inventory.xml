@@ -52,6 +52,14 @@
                             label="era"
                             scope="/tei:TEI/tei:text/tei:body"
                             xpath="/tei:div[@n = '?']">
+                            <citation label="paragraph" xpath="/tei:p[@n = '?']" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"></citation>
+                        </citation>
+              
+                        <citation
+                            label="era"
+                            scope="/tei:TEI/tei:text/tei:body"
+                            
+                            xpath="/tei:div[@n = '?']">
                             <citation
                                 label="table"
                                 scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"

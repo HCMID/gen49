@@ -126,7 +126,7 @@
         <table
           n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               ana="abraham"/>
             <cell
@@ -988,7 +988,7 @@
         <!-- This adds a computational column for years of the Covenant with Abraham -->
         <table n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               ana="abraham"/>
             <cell
@@ -1973,7 +1973,7 @@
         type="chronology">
         <table n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               n="abraham"/>
             <cell
@@ -5757,7 +5757,7 @@
         n="4" >
         <table n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               n="abraham"/>
             <cell
@@ -6485,7 +6485,7 @@
         n="5">
         <table  n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               n="abraham"/>
             <cell
@@ -9534,7 +9534,7 @@
         n="6">
         <table n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               n="abraham"/>
             <cell
@@ -11449,7 +11449,7 @@
         n="7">
         <table n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               n="abraham"/>
             <cell
@@ -12021,7 +12021,7 @@
           
      
         <row
-          role="header">
+          role="header" n="header">
           <cell
             n="abraham"/>
           <cell
@@ -12336,7 +12336,7 @@
         n="8">
         <table  n="t1"> 
           <row
-            role="header">
+            role="header" n="header">
             <cell
               n="abraham"/>
             <cell
@@ -12728,7 +12728,7 @@
         n="9">
         <table n="t1">  
           <row
-          role="header">
+          role="header" n="header">
           <cell
             n="abraham"/>
           <cell
@@ -13802,7 +13802,7 @@
         
         <table n="t3">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               n="abraham"/>
             <cell
@@ -14380,7 +14380,7 @@
       <div
         n="10">
         <table  n="t1"> <row
-          role="header">
+          role="header" n="header">
           <cell
             n="abraham"/>
           <cell
@@ -17574,7 +17574,7 @@
         <table
           n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               n="abraham"/>
             <cell
@@ -17731,7 +17731,7 @@
         n="12">
         <table  n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               n="abraham"/>
             <cell
@@ -18426,7 +18426,7 @@
         <!-- Corinthians dropped, Lydians added -->
         <table n="t1"> 
           <row
-            role="header">
+            role="header" n="header">
             <cell
               n="abraham"/>
             <cell
@@ -18563,7 +18563,7 @@
           n="t1">
           <head>OLYMPIAS PRIMA</head>
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years from Abraham</cell>
             <cell
@@ -18599,7 +18599,7 @@
             <cell> I Olympias </cell>
           </row>
           <row
-            n="1.1">
+            n="1_1">
             <cell/>
             <cell/>
             <cell>16</cell>
@@ -18629,7 +18629,7 @@
             <cell/>
           </row>
           <row
-            n="1.2">
+            n="1_2">
             <cell/>
             <cell/>
             <cell>17</cell>
@@ -18658,7 +18658,7 @@
             <cell>775</cell>
           </row>
           <row
-            n="1.3">
+            n="1_3">
             <cell/>
             <cell/>
             <cell>18</cell>
@@ -18693,7 +18693,7 @@
             n="150-151"
             unit="HelmPages"/>
           <row
-            n="1.4">
+            n="1_4">
             <cell/>
             <cell/>
             
@@ -18722,7 +18722,7 @@
             <cell> II Olympias </cell>
           </row>
           <row
-            n="2.1">
+            n="2_1">
             <cell/>
             <cell/>
             <cell>20</cell>
@@ -18738,7 +18738,7 @@
             <cell>772</cell>
           </row>
           <row
-            n="2.2">
+            n="2_2">
             <cell/>
             <cell/>
             <cell>21</cell>
@@ -18761,7 +18761,7 @@
             <cell>771</cell>
           </row>
           <row
-            n="2.3">
+            n="2_3">
             <cell/>
             <cell/>
             <cell>22</cell>
@@ -18777,7 +18777,7 @@
             <cell>770</cell>
           </row>
           <row
-            n="2.4">
+            n="2_4">
             <cell/>
             <cell/>
             <cell>23</cell>
@@ -18805,7 +18805,7 @@
             <cell> III Olympias </cell>
           </row>
           <row
-            n="3.1">
+            n="3_1">
             <cell/>
             <cell/>
             <cell>24</cell>
@@ -18821,7 +18821,7 @@
             <cell>768</cell>
           </row>
           <row
-            n="3.2">
+            n="3_2">
             <cell>1250</cell>
             <cell/>
             <cell>25</cell>
@@ -18843,7 +18843,7 @@
             <cell>767</cell>
           </row>
           <row
-            n="3.3">
+            n="3_3">
             <cell/>
             <cell/>
             <cell>26</cell>
@@ -18859,7 +18859,7 @@
             <cell>766</cell>
           </row>
           <row
-            n="3.4">
+            n="3_4">
             <cell/>
             <cell/>
             <cell>27</cell>
@@ -18902,7 +18902,7 @@
             </cell>
           </row>
           <row
-            n="4.1">
+            n="4_1">
             <cell/>
             <cell/>
             <cell>28</cell>
@@ -18918,7 +18918,7 @@
             <cell>764</cell>
           </row>
           <row
-            n="4.2">
+            n="4_2">
             <cell/>
             <cell/>
             <cell>29</cell>
@@ -18934,7 +18934,7 @@
             <cell>763</cell>
           </row>
           <row
-            n="4.3">
+            n="4_3">
             <cell/>
             <cell/>
             <cell>30</cell>
@@ -18975,7 +18975,7 @@
             <cell/>
           </row>
           <row
-            n="4.4">
+            n="4_4">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -18997,7 +18997,7 @@
             <cell> V Olympias </cell>
           </row>
           <row
-            n="5.1">
+            n="5_1">
             <cell/>
             <cell/>
             <cell>2</cell>
@@ -19020,7 +19020,7 @@
             <cell>760</cell>
           </row>
           <row
-            n="5.2">
+            n="5_2">
             <cell/>
             <cell/>
             <cell>3</cell>
@@ -19042,7 +19042,7 @@
             <cell>759</cell>
           </row>
           <row
-            n="5.3">
+            n="5_3">
             <cell/>
             <cell/>
             <cell>4</cell>
@@ -19077,7 +19077,7 @@
               nomen est, constituitur: Fuit autem sub regibus Lacedaemonis annis CCCL. </cell>
           </row>
           <row
-            n="5.4">
+            n="5_4">
             <cell>1260</cell>
             <cell/>
             <cell>5</cell>
@@ -19102,7 +19102,7 @@
             <cell> VI Olympias </cell>
           </row>
           <row
-            n="6.1">
+            n="6_1">
             <cell/>
             <cell/>
             <cell>6</cell>
@@ -19136,7 +19136,7 @@
             <cell/>
           </row>
           <row
-            n="6.2">
+            n="6_2">
             <cell/>
             <cell/>
             <cell>7</cell>
@@ -19166,7 +19166,7 @@
             <cell>755</cell>
           </row>
           <row
-            n="6.3">
+            n="6_3">
             <cell/>
             <cell/>
             <cell>8</cell>
@@ -19193,7 +19193,7 @@
             <cell/>
           </row>
           <row
-            n="6.4">
+            n="6_4">
             <cell/>
             <cell/>
             <cell>9</cell>
@@ -19245,7 +19245,7 @@
             <cell n="romulus"> ROMULUS Romanorum, annis XXXVIII </cell>
           </row>
           <row
-            n="7.1">
+            n="7_1">
             <cell/>
             <cell/>
             <cell>10</cell>
@@ -19261,7 +19261,7 @@
             <cell>752</cell>
           </row>
           <row
-            n="7.2">
+            n="7_2">
             <cell/>
             <cell/>
             <cell>11</cell>
@@ -19277,7 +19277,7 @@
             <cell>751</cell>
           </row>
           <row
-            n="7.3">
+            n="7_3">
             <cell/>
             <cell/>
             <cell>12</cell>
@@ -19293,7 +19293,7 @@
             <cell>750</cell>
           </row>
           <row
-            n="7.4">
+            n="7_4">
             <cell/>
             <cell/>
             <cell>13</cell>
@@ -19321,7 +19321,7 @@
             <cell> VIII Olympias </cell>
           </row>
           <row
-            n="8.1">
+            n="8_1">
             <cell/>
             <cell/>
             <cell>14</cell>
@@ -19337,7 +19337,7 @@
             <cell>748</cell>
           </row>
           <row
-            n="8.2">
+            n="8_2">
             <cell>1270</cell>
             <cell/>
             <cell>15</cell>
@@ -19386,7 +19386,7 @@
             n="154-155"
             unit="HelmPages"/>
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years since Abraham</cell>
             <cell
@@ -19413,7 +19413,7 @@
               role="julian">BC</cell>
           </row>
           <row
-            n="8.3">
+            n="8_3">
             <cell/>
             <cell/>
             
@@ -19441,7 +19441,7 @@
             <cell>746</cell>
           </row>
           <row
-            n="8.4">
+            n="8_4">
             <cell/>
             <cell/>
             <cell>17</cell>
@@ -19462,7 +19462,7 @@
             <cell> IX Olympias </cell>
           </row>
           <row
-            n="9.1">
+            n="9_1">
             <cell/>
             <cell/>
             <cell>18</cell>
@@ -19493,7 +19493,7 @@
             <cell n="aesimedes"> Atheniensium XV, AESIMEDES, annis X </cell>
           </row>
           <row
-            n="9.2">
+            n="9_2">
             <cell/>
             <cell/>
             <cell>19</cell>
@@ -19522,7 +19522,7 @@
             <cell/>
           </row>
           <row
-            n="9.3">
+            n="9_3">
             <cell/>
             <cell/>
             <cell>20</cell>
@@ -19552,7 +19552,7 @@
             <cell/>
           </row>
           <row
-            n="9.4">
+            n="9_4">
             <cell/>
             <cell/>
             <cell>21</cell>
@@ -19579,7 +19579,7 @@
             <cell> X Olympias </cell>
           </row>
           <row
-            n="10.1">
+            n="10_1">
             <cell/>
             <cell/>
             <cell>22</cell>
@@ -19594,7 +19594,7 @@
             <cell>740</cell>
           </row>
           <row
-            n="10.2">
+            n="10_2">
             <cell/>
             <cell/>
             <cell>23</cell>
@@ -19615,7 +19615,7 @@
             <cell>739</cell>
           </row>
           <row
-            n="10.3">
+            n="10_3">
             <cell/>
             <cell/>
             <cell>24</cell>
@@ -19636,7 +19636,7 @@
             <cell>738</cell>
           </row>
           <row
-            n="10.4">
+            n="10_4">
             <cell>1280</cell>
             <cell/>
             <cell>25</cell>
@@ -19657,7 +19657,7 @@
             <cell> XI Olympias </cell>
           </row>
           <row
-            n="11.1">
+            n="11_1">
             <cell/>
             <cell/>
             <cell>26</cell>
@@ -19693,7 +19693,7 @@
             <cell/>
           </row>
           <row
-            n="11.2">
+            n="11_2">
             <cell/>
             <cell/>
             <cell>27</cell>
@@ -19714,7 +19714,7 @@
             <cell>735</cell>
           </row>
           <row
-            n="11.3">
+            n="11_3">
             <cell/>
             <cell/>
             
@@ -19734,7 +19734,7 @@
             n="156-157"
             unit="HelmPages"/>
           <row
-            n="11.4">
+            n="11_4">
             <cell>
               <note
                 n="b"/>
@@ -19768,7 +19768,7 @@
             <cell> XII Olympias </cell>
           </row>
           <row
-            n="12.1">
+            n="12_1">
             <cell/>
             <cell/>
             <cell>30</cell>
@@ -19783,7 +19783,7 @@
             <cell>732</cell>
           </row>
           <row
-            n="12.2">
+            n="12_2">
             <cell/>
             <cell/>
             <cell>31</cell>
@@ -19798,7 +19798,7 @@
             <cell>731</cell>
           </row>
           <row
-            n="12.3">
+            n="12_3">
             <cell/>
             <cell/>
             <cell>32</cell>
@@ -19813,7 +19813,7 @@
             <cell>730</cell>
           </row>
           <row
-            n="12.4">
+            n="12_4">
             <cell/>
             <cell/>
             <cell>33</cell>
@@ -19846,7 +19846,7 @@
             <cell> Lydorum III, MELES, annis XII. </cell>
           </row>
           <row
-            n="13.1">
+            n="13_1">
             <cell/>
             <cell/>
             <cell>34</cell>
@@ -19867,7 +19867,7 @@
             <cell>728</cell>
           </row>
           <row
-            n="13.2">
+            n="13_2">
             <cell>1290</cell>
             <cell/>
             <cell>35</cell>
@@ -19882,7 +19882,7 @@
             <cell>727</cell>
           </row>
           <row
-            n="13.3">
+            n="13_3">
             <cell/>
             <cell/>
             <cell>36</cell>
@@ -19897,7 +19897,7 @@
             <cell>726</cell>
           </row>
           <row
-            n="13.4">
+            n="13_4">
             <cell/>
             <cell/>
             <cell>37</cell>
@@ -19918,7 +19918,7 @@
             <cell> XIV Olympias </cell>
           </row>
           <row
-            n="14.1">
+            n="14_1">
             <cell/>
             <cell/>
             <cell>38</cell>
@@ -19954,7 +19954,7 @@
             <cell/>
           </row>
           <row
-            n="14.2">
+            n="14_2">
             <cell/>
             <cell/>
             <cell>39</cell>
@@ -19969,7 +19969,7 @@
             <cell>723</cell>
           </row>
           <row
-            n="14.3">
+            n="14_3">
             <cell/>
             <cell/>
             <cell>40</cell>
@@ -19993,7 +19993,7 @@
             <cell/>
           </row>
           <row
-            n="14.4">
+            n="14_4">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -20020,7 +20020,7 @@
             <cell> XV Olympias </cell>
           </row>
           <row
-            n="15.1">
+            n="15_1">
             <cell/>
             <cell/>
             <cell>2</cell>
@@ -20042,7 +20042,7 @@
             <cell>720</cell>
           </row>
           <row
-            n="15.2">
+            n="15_2">
             <cell/>
             <cell/>
             <cell>3</cell>
@@ -20057,7 +20057,7 @@
             <cell>719</cell>
           </row>
           <row
-            n="15.3">
+            n="15_3">
             <cell/>
             <cell/>
             <cell>4</cell>
@@ -20072,7 +20072,7 @@
             <cell>718</cell>
           </row>
           <row
-            n="15.4">
+            n="15_4">
             <cell>1300</cell>
             <cell/>
             <cell>5</cell>
@@ -20111,7 +20111,7 @@
             n="158-159"
             unit="HelmPages"/>
           <row
-            n="16.1">
+            n="16_1">
             <cell/>
             <cell/>
             
@@ -20134,7 +20134,7 @@
             <cell>716</cell>
           </row>
           <row
-            n="16.2">
+            n="16_2">
             <cell/>
             <cell/>
             <cell>7</cell>
@@ -20159,7 +20159,7 @@
             <cell n="numa-pompilius"> Romanorum II, NUMA POMPILIUS, annis XLI. </cell>
           </row>
           <row
-            n="16.3">
+            n="16_3">
             <cell/>
             <cell/>
             <cell>8</cell>
@@ -20199,7 +20199,7 @@
             <cell n="leocrates"> Atheniensium XVIII, LEOCRATES, annis X. </cell>
           </row>
           <row
-            n="16.4">
+            n="16_4">
             <cell/>
             <cell/>
             <cell>9</cell>
@@ -20230,7 +20230,7 @@
             <cell n="manasses"> Hebraeorum Juda XVI, MANASSES, annis LV. </cell>
           </row>
           <row
-            n="17.1">
+            n="17_1">
             <cell/>
             <cell/>
             <cell>10</cell>
@@ -20270,7 +20270,7 @@
             <cell n="tarachus"> Aegypti TARACHUS Aethiops, annis XX. </cell>
           </row>
           <row
-            n="17.2">
+            n="17_2">
             <cell/>
             <cell/>
             <cell>11</cell>
@@ -20291,7 +20291,7 @@
             <cell>711</cell>
           </row>
           <row
-            n="17.3">
+            n="17_3">
             <cell/>
             <cell/>
             <cell>12</cell>
@@ -20306,7 +20306,7 @@
             <cell>710</cell>
           </row>
           <row
-            n="17.4">
+            n="17_4">
             <cell/>
             <cell/>
             <cell>13</cell>
@@ -20355,7 +20355,7 @@
             <cell/>
           </row>
           <row
-            n="18.1">
+            n="18_1">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -20370,7 +20370,7 @@
             <cell>708</cell>
           </row>
           <row
-            n="18.2">
+            n="18_2">
             <cell>1310</cell>
             <cell/>
             <cell>2</cell>
@@ -20385,7 +20385,7 @@
             <cell>707</cell>
           </row>
           <row
-            n="18.3">
+            n="18_3">
             <cell/>
             <cell/>
             <cell>3</cell>
@@ -20407,7 +20407,7 @@
             <cell>706</cell>
           </row>
           <row
-            n="18.4">
+            n="18_4">
             <cell/>
             <cell/>
             
@@ -20433,7 +20433,7 @@
             <cell> XIX Olympias </cell>
           </row>
           <row
-            n="19.1">
+            n="19_1">
             <cell/>
             <cell/>
             <cell>5</cell>
@@ -20457,7 +20457,7 @@
             <cell n="apsander"> Post quem APSANDER, annis X. </cell>
           </row>
           <row
-            n="19.2">
+            n="19_2">
             <cell/>
             <cell/>
             <cell>6</cell>
@@ -20472,7 +20472,7 @@
             <cell>703</cell>
           </row>
           <row
-            n="19.3">
+            n="19_3">
             <cell/>
             <cell/>
             <cell>7</cell>
@@ -20487,7 +20487,7 @@
             <cell>702</cell>
           </row>
           <row
-            n="19.4">
+            n="19_4">
             <cell/>
             <cell/>
             <cell>8</cell>
@@ -20508,7 +20508,7 @@
             <cell> XX Olympias </cell>
           </row>
           <row
-            n="20.1">
+            n="20_1">
             <cell/>
             <cell/>
             <cell>9</cell>
@@ -20535,7 +20535,7 @@
             <cell n="gyges"> Post quem GYGES, annis XXXV </cell>
           </row>
           <row
-            n="20.2">
+            n="20_2">
             <cell/>
             <cell/>
             <cell>10</cell>
@@ -20550,7 +20550,7 @@
             <cell>699</cell>
           </row>
           <row
-            n="20.3">
+            n="20_3">
             <cell/>
             <cell/>
             <cell>11</cell>
@@ -20565,7 +20565,7 @@
             <cell>698</cell>
           </row>
           <row
-            n="20.4">
+            n="20_4">
             <cell>1320</cell>
             <cell/>
             <cell>12</cell>
@@ -20586,7 +20586,7 @@
             <cell> XXI Olympias </cell>
           </row>
           <row
-            n="21.1">
+            n="21_1">
             <cell/>
             <cell/>
             <cell>13</cell>
@@ -20608,7 +20608,7 @@
             <cell>696</cell>
           </row>
           <row
-            n="22.2">
+            n="22_2">
             <cell/>
             <cell/>
             <cell>14</cell>
@@ -20623,7 +20623,7 @@
             <cell>695</cell>
           </row>
           <row
-            n="22.3">
+            n="22_3">
             <cell/>
             <cell/>
             <cell>15</cell>
@@ -20647,7 +20647,7 @@
             <cell n="eryxias"> Atheniensium XX, ERYXIAS, annis X. </cell>
           </row>
           <row
-            n="22.4">
+            n="22_4">
             <cell/>
             <cell/>
             <cell>16</cell>
@@ -20674,7 +20674,7 @@
             <cell> XXII Olympias </cell>
           </row>
           <row
-            n="22.1">
+            n="22_1">
             <cell/>
             <cell/>
             <cell>17</cell>
@@ -20707,7 +20707,7 @@
             n="162-163"
             unit="HelmPages"/>
           <row
-            n="22.2">
+            n="22_2">
             <cell/>
             <cell/>
             <cell>18</cell>
@@ -20728,7 +20728,7 @@
             <cell>691</cell>
           </row>
           <row
-            n="22.3">
+            n="22_3">
             <cell/>
             <cell/>
             <cell>19</cell>
@@ -20743,7 +20743,7 @@
             <cell>690</cell>
           </row>
           <row
-            n="22.4">
+            n="22_4">
             <cell/>
             <cell/>
             <cell>20</cell>
@@ -20764,7 +20764,7 @@
             <cell> XXIII Olympias </cell>
           </row>
           <row
-            n="23.1">
+            n="23_1">
             <cell/>
             <cell/>
             <cell>31</cell>
@@ -20785,7 +20785,7 @@
             <cell>688</cell>
           </row>
           <row
-            n="23.2">
+            n="23_2">
             <cell>1330</cell>
             <cell/>
             <cell>32</cell>
@@ -20800,7 +20800,7 @@
             <cell>687</cell>
           </row>
           <row
-            n="23.3">
+            n="23_3">
             <cell/>
             <cell/>
             <cell>33</cell>
@@ -20815,7 +20815,7 @@
             <cell>686</cell>
           </row>
           <row
-            n="23.4">
+            n="23_4">
             <cell/>
             <cell/>
             <cell>34</cell>
@@ -20848,7 +20848,7 @@
             <cell> Macedonum V, ARGAEUS, annis XXXVIII. </cell>
           </row>
           <row
-            n="24.1">
+            n="24_1">
             <cell/>
             <cell/>
             <cell>35</cell>
@@ -20894,7 +20894,7 @@
         <table
           n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years Since Abraham</cell>
             <cell
@@ -20919,7 +20919,7 @@
               role="julian"> BC</cell>
           </row>
           <row
-            n="24.2">
+            n="24_2">
             <cell/>
             <cell/>
             <cell>36</cell>
@@ -20933,7 +20933,7 @@
             <cell>683</cell>
           </row>
           <row
-            n="24.3">
+            n="24_3">
             <cell/>
             <cell/>
             <cell>37</cell>
@@ -20947,7 +20947,7 @@
             <cell>682</cell>
           </row>
           <row
-            n="24.4">
+            n="24_4">
             <cell/>
             <cell/>
             <cell>38</cell>
@@ -20967,7 +20967,7 @@
             <cell> XXV Olympias </cell>
           </row>
           <row
-            n="25.1">
+            n="25_1">
             <cell/>
             <cell/>
             <cell>39</cell>
@@ -20994,7 +20994,7 @@
             <cell n="stephinatis"> STEPHINATIS, annis VII. </cell>
           </row>
           <row
-            n="25.2">
+            n="25_2">
             <cell/>
             <cell/>
             <cell>40</cell>
@@ -21014,7 +21014,7 @@
             <cell>679</cell>
           </row>
           <row
-            n="25.3">
+            n="25_3">
             <cell/>
             <cell/>
             <cell>41</cell>
@@ -21028,7 +21028,7 @@
             <cell>678</cell>
           </row>
           <row
-            n="25.4">
+            n="25_4">
             <cell>1340</cell>
             <cell/>
             <cell>42</cell>
@@ -21048,7 +21048,7 @@
             <cell> XXVI Olympias </cell>
           </row>
           <row
-            n="26.1">
+            n="26_1">
             <cell/>
             <cell/>
             <cell>43</cell>
@@ -21062,7 +21062,7 @@
             <cell>676</cell>
           </row>
           <row
-            n="26.2">
+            n="26_2">
             <cell/>
             <cell/>
             <cell>44</cell>
@@ -21076,7 +21076,7 @@
             <cell>675</cell>
           </row>
           <row
-            n="26.3">
+            n="26_3">
             <cell/>
             <cell/>
             <cell>45</cell>
@@ -21107,7 +21107,7 @@
             <cell/>
           </row>
           <row
-            n="26.4">
+            n="26_4">
             <cell/>
             <cell/>
             
@@ -21137,7 +21137,7 @@
             <cell/>
           </row>
           <row
-            n="27.1">
+            n="27_1">
             <cell/>
             <cell/>
             <cell>37</cell>
@@ -21151,7 +21151,7 @@
             <cell>672</cell>
           </row>
           <row
-            n="27.2">
+            n="27_2">
             <cell/>
             <cell/>
             <cell>38</cell>
@@ -21165,7 +21165,7 @@
             <cell>671</cell>
           </row>
           <row
-            n="27.3">
+            n="27_3">
             <cell/>
             <cell/>
             <cell>39</cell>
@@ -21185,7 +21185,7 @@
             <cell>670</cell>
           </row>
           <row
-            n="27.4">
+            n="27_4">
             <cell/>
             <cell/>
             <cell>40</cell>
@@ -21205,7 +21205,7 @@
             <cell> XXVIII Olympias </cell>
           </row>
           <row
-            n="28.1">
+            n="28_1">
             <cell/>
             <cell/>
             <cell>41</cell>
@@ -21225,7 +21225,7 @@
             <cell>668</cell>
           </row>
           <row
-            n="28.2">
+            n="28_2">
             <cell>1350</cell>
             <cell/>
             <cell>42</cell>
@@ -21252,7 +21252,7 @@
             <cell n="nechao"> Post quem NECHAO, annis VIII. </cell>
           </row>
           <row
-            n="28.3">
+            n="28_3">
             <cell/>
             <cell/>
             <cell>43</cell>
@@ -21272,7 +21272,7 @@
             <cell>666</cell>
           </row>
           <row
-            n="28.4">
+            n="28_4">
             <cell/>
             <cell/>
             <cell>44</cell>
@@ -21303,7 +21303,7 @@
             <cell/>
           </row>
           <row
-            n="29.1">
+            n="29_1">
             <cell/>
             <cell/>
             <cell>45</cell>
@@ -21335,7 +21335,7 @@
             <cell n="ardys"> Lydorum VI, ARDYS, annis XXXVII. </cell>
           </row>
           <row
-            n="29.2">
+            n="29_2">
             <cell/>
             <cell/>
             <cell>46</cell>
@@ -21356,7 +21356,7 @@
             <cell>663</cell>
           </row>
           <row
-            n="29.3">
+            n="29_3">
             <cell/>
             <cell/>
             <cell>47</cell>
@@ -21370,7 +21370,7 @@
             <cell>662</cell>
           </row>
           <row
-            n="29.4">
+            n="29_4">
             <cell/>
             <cell/>
             <cell>48</cell>
@@ -21403,7 +21403,7 @@
             </cell>
           </row>
           <row
-            n="30.1">
+            n="30_1">
             <cell/>
             <cell/>
             <cell>49</cell>
@@ -21417,7 +21417,7 @@
             <cell>660</cell>
           </row>
           <row
-            n="30.2">
+            n="30_2">
             <cell/>
             <cell/>
             <cell>50</cell>
@@ -21450,7 +21450,7 @@
             <cell n="psammetichus"> PSAMMETICHUS, annis XLIV. </cell>
           </row>
           <row
-            n="30.3">
+            n="30_3">
             <cell/>
             <cell/>
             
@@ -21479,7 +21479,7 @@
             <cell n="hammon"> Hebraeorum Juda XVII, HAMMON, annis XII </cell>
           </row>
           <row
-            n="30.4">
+            n="30_4">
             <cell>1360</cell>
             <cell/>
             <cell>52</cell>
@@ -21513,7 +21513,7 @@
             <cell/>
           </row>
           <row
-            n="31.1">
+            n="31_1">
             <cell/>
             <cell/>
             <cell>53</cell>
@@ -21527,7 +21527,7 @@
             <cell>656</cell>
           </row>
           <row
-            n="31.2">
+            n="31_2">
             <cell/>
             <cell/>
             <cell>54</cell>
@@ -21553,7 +21553,7 @@
             <cell n="phraortes"> Medorum VI, PHRAORTES, annis XXIV </cell>
           </row>
           <row
-            n="31.3">
+            n="31_3">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -21573,7 +21573,7 @@
             <cell>654</cell>
           </row>
           <row
-            n="31.4">
+            n="31_4">
             <cell/>
             <cell/>
             <cell>2</cell>
@@ -21593,7 +21593,7 @@
             <cell> XXXII Olympias </cell>
           </row>
           <row
-            n="32.1">
+            n="32_1">
             <cell/>
             <cell/>
             <cell>3</cell>
@@ -21613,7 +21613,7 @@
             <cell>652</cell>
           </row>
           <row
-            n="32.2">
+            n="32_2">
             <cell/>
             <cell/>
             <cell>4</cell>
@@ -21627,7 +21627,7 @@
             <cell>651</cell>
           </row>
           <row
-            n="32.3">
+            n="32_3">
             <cell/>
             <cell/>
             <cell>5</cell>
@@ -21647,7 +21647,7 @@
             <cell>650</cell>
           </row>
           <row
-            n="32.4">
+            n="32_4">
             <cell/>
             <cell/>
             <cell>6</cell>
@@ -21667,7 +21667,7 @@
             <cell> XXXIII Olympias </cell>
           </row>
           <row
-            n="33.1">
+            n="33_1">
             <cell/>
             <cell/>
             <cell>7</cell>
@@ -21681,7 +21681,7 @@
             <cell>648</cell>
           </row>
           <row
-            n="33.2">
+            n="33_2">
             <cell>1370</cell>
             <cell/>
             <cell>8</cell>
@@ -21711,7 +21711,7 @@
             <cell n="philip"> Macedonum VI, PHILIPPUS, annis XXXVIII. </cell>
           </row>
           <row
-            n="33.3">
+            n="33_3">
             <cell/>
             <cell/>
             <cell>9</cell>
@@ -21732,7 +21732,7 @@
             <cell n="josias"> Post quem in Juda XVIII, JOSIAS, annis XXXII. </cell>
           </row>
           <row
-            n="33.4">
+            n="33_4">
             <cell/>
             <cell/>
             
@@ -21756,7 +21756,7 @@
             <cell>XXXIV Olympias</cell>
           </row>
           <row
-            n="34.1">
+            n="34_1">
             <cell/>
             <cell/>
             <cell>11</cell>
@@ -21770,7 +21770,7 @@
             <cell>644</cell>
           </row>
           <row
-            n="34.2">
+            n="34_2">
             <cell/>
             <cell/>
             <cell>12</cell>
@@ -21784,7 +21784,7 @@
             <cell>643</cell>
           </row>
           <row
-            n="34.3">
+            n="34_3">
             <cell/>
             <cell/>
             <cell>13</cell>
@@ -21813,7 +21813,7 @@
             <cell/>
           </row>
           <row
-            n="34.4">
+            n="34_4">
             <cell/>
             <cell/>
             <cell>14</cell>
@@ -21835,7 +21835,7 @@
             <cell/>
           </row>
           <row
-            n="35.1">
+            n="35_1">
             <cell/>
             <cell/>
             <cell>15</cell>
@@ -21851,7 +21851,7 @@
             <cell>640</cell>
           </row>
           <row
-            n="35.2">
+            n="35_2">
             <cell/>
             <cell/>
             <cell>16</cell>
@@ -21866,7 +21866,7 @@
             <cell>639</cell>
           </row>
           <row
-            n="35.3">
+            n="35_3">
             <cell/>
             <cell/>
             <cell>17</cell>
@@ -21880,7 +21880,7 @@
             <cell>638</cell>
           </row>
           <row
-            n="35.4">
+            n="35_4">
             <cell>1380</cell>
             <cell/>
             <cell>18</cell>
@@ -21902,7 +21902,7 @@
             <cell/>
           </row>
           <row
-            n="36.1">
+            n="36_1">
             <cell/>
             <cell/>
             <cell>19</cell>
@@ -21916,7 +21916,7 @@
             <cell>636</cell>
           </row>
           <row
-            n="36.2">
+            n="36_2">
             <cell/>
             <cell/>
             <cell>20</cell>
@@ -21931,7 +21931,7 @@
             <cell>635</cell>
           </row>
           <row
-            n="36.3">
+            n="36_3">
             <cell/>
             <cell/>
             <cell>21</cell>
@@ -21945,7 +21945,7 @@
             <cell>634</cell>
           </row>
           <row
-            n="36.4">
+            n="36_4">
             <cell/>
             <cell/>
             <cell>22</cell>
@@ -21968,7 +21968,7 @@
             <cell/>
           </row>
           <row
-            n="37.1">
+            n="37_1">
             <cell/>
             <cell/>
             <cell>23</cell>
@@ -21983,7 +21983,7 @@
             <cell>632</cell>
           </row>
           <row
-            n="37.2">
+            n="37_2">
             <cell/>
             <cell/>
             <cell>24</cell>
@@ -22008,7 +22008,7 @@
             <cell/>
           </row>
           <row
-            n="37.3">
+            n="37_3">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -22024,7 +22024,7 @@
             <cell>630</cell>
           </row>
           <row
-            n="37.4">
+            n="37_4">
             <cell/>
             <cell/>
             <cell>2</cell>
@@ -22046,7 +22046,7 @@
             <cell/>
           </row>
           <row
-            n="38.1">
+            n="38_1">
             <cell/>
             <cell/>
             
@@ -22065,7 +22065,7 @@
             n="170/171"
             unit="HelmPages"/>
           <row
-            n="38.2">
+            n="38_2">
             <cell>1390</cell>
             <cell/>
             
@@ -22096,7 +22096,7 @@
             <cell/>
           </row>
           <row
-            n="38.3">
+            n="38_3">
             <cell/>
             <cell/>
             <cell>5</cell>
@@ -22110,7 +22110,7 @@
             <cell>626</cell>
           </row>
           <row
-            n="38.4">
+            n="38_4">
             <cell/>
             <cell/>
             <cell>6</cell>
@@ -22133,7 +22133,7 @@
             <cell/>
           </row>
           <row
-            n="39.1">
+            n="39_1">
             <cell/>
             <cell/>
             <cell>7</cell>
@@ -22148,7 +22148,7 @@
             <cell>624</cell>
           </row>
           <row
-            n="39.2">
+            n="39_2">
             <cell/>
             <cell/>
             <cell>8</cell>
@@ -22162,7 +22162,7 @@
             <cell>623</cell>
           </row>
           <row
-            n="39.3">
+            n="39_3">
             <cell/>
             <cell/>
             <cell>9</cell>
@@ -22180,7 +22180,7 @@
             <cell>622</cell>
           </row>
           <row
-            n="39.4">
+            n="39_4">
             <cell/>
             <cell/>
             <cell>10</cell>
@@ -22201,7 +22201,7 @@
             <cell/>
           </row>
           <row
-            n="40.1">
+            n="40_1">
             <cell/>
             <cell/>
             <cell>11</cell>
@@ -22215,7 +22215,7 @@
             <cell>620</cell>
           </row>
           <row
-            n="40.2">
+            n="40_2">
             <cell/>
             <cell/>
             <cell>12</cell>
@@ -22241,7 +22241,7 @@
             <cell/>
           </row>
           <row
-            n="40.3">
+            n="40_3">
             <cell/>
             <cell/>
             <cell>13</cell>
@@ -22257,7 +22257,7 @@
             <cell>618</cell>
           </row>
           <row
-            n="40.4">
+            n="40_4">
             <cell>1400</cell>
             <cell/>
             <cell>14</cell>
@@ -22278,7 +22278,7 @@
             <cell/>
           </row>
           <row
-            n="41.1">
+            n="41_1">
             <cell/>
             <cell/>
             <cell>15</cell>
@@ -22297,7 +22297,7 @@
             <cell>616</cell>
           </row>
           <row
-            n="41.2">
+            n="41_2">
             <cell/>
             <cell/>
             <cell>16</cell>
@@ -22326,7 +22326,7 @@
             <cell/>
           </row>
           <row
-            n="41.3">
+            n="41_3">
             <cell/>
             <cell/>
             <cell>17</cell>
@@ -22343,7 +22343,7 @@
             n="172/173"
             unit="HelmPages"/>
           <row
-            n="41.4">
+            n="41_4">
             <cell/>
             <cell/>
             <cell>18</cell>
@@ -22365,7 +22365,7 @@
             <cell/>
           </row>
           <row
-            n="42.1">
+            n="42_1">
             <cell/>
             <cell/>
             <cell>19</cell>
@@ -22393,7 +22393,7 @@
             <cell/>
           </row>
           <row
-            n="42.2">
+            n="42_2">
             <cell/>
             <cell/>
             <cell>20</cell>
@@ -22408,7 +22408,7 @@
             <cell>611</cell>
           </row>
           <row
-            n="42.3">
+            n="42_3">
             <cell/>
             <cell/>
             <cell>21</cell>
@@ -22425,7 +22425,7 @@
             <cell>610</cell>
           </row>
           <row
-            n="42.4">
+            n="42_4">
             <cell/>
             <cell/>
             <cell>22</cell>
@@ -22456,7 +22456,7 @@
             <cell/>
           </row>
           <row
-            n="43.1">
+            n="43_1">
             <cell/>
             <cell/>
             <cell>23</cell>
@@ -22470,7 +22470,7 @@
             <cell>608</cell>
           </row>
           <row
-            n="43.2">
+            n="43_2">
             <cell>1410</cell>
             <cell/>
             <cell>24</cell>
@@ -22486,7 +22486,7 @@
             <cell>607</cell>
           </row>
           <row
-            n="43.3">
+            n="43_3">
             <cell/>
             <cell/>
             <cell>25</cell>
@@ -22500,7 +22500,7 @@
             <cell>606</cell>
           </row>
           <row
-            n="43.3">
+            n="43_3">
             <cell/>
             <cell/>
             <cell>26</cell>
@@ -22522,7 +22522,7 @@
             <cell/>
           </row>
           <row
-            n="44.1">
+            n="44_1">
             <cell/>
             <cell/>
             <cell>27</cell>
@@ -22536,7 +22536,7 @@
             <cell>604</cell>
           </row>
           <row
-            n="44.2">
+            n="44_2">
             <cell/>
             <cell/>
             <cell>28</cell>
@@ -22550,7 +22550,7 @@
             <cell>603</cell>
           </row>
           <row
-            n="44.3">
+            n="44_3">
             <cell/>
             <cell/>
             <cell>29</cell>
@@ -22579,7 +22579,7 @@
             n="174/175"
             unit="HelmPages"/>
           <row
-            n="44.4">
+            n="44_4">
             <cell/>
             <cell/>
             <cell>30</cell>
@@ -22602,7 +22602,7 @@
             <cell/>
           </row>
           <row
-            n="45.1">
+            n="45_1">
             <cell/>
             <cell/>
             <cell>31</cell>
@@ -22617,7 +22617,7 @@
             <cell>600</cell>
           </row>
           <row
-            n="45.2">
+            n="45_2">
             <cell/>
             <cell/>
             <cell>32</cell>
@@ -22645,7 +22645,7 @@
             <cell/>
           </row>
           <row
-            n="45.3">
+            n="45_3">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -22663,7 +22663,7 @@
             <cell>598</cell>
           </row>
           <row
-            n="45.4">
+            n="45_4">
             <cell>1420</cell>
             <cell/>
             <cell>2</cell>
@@ -22699,7 +22699,7 @@
             <cell/>
           </row>
           <row
-            n="46.1">
+            n="46_1">
             <cell/>
             <cell/>
             <cell>3</cell>
@@ -22713,7 +22713,7 @@
             <cell>596</cell>
           </row>
           <row
-            n="46.2">
+            n="46_2">
             <cell/>
             <cell/>
             <cell>4</cell>
@@ -22727,7 +22727,7 @@
             <cell>595</cell>
           </row>
           <row
-            n="46.3">
+            n="46_3">
             <cell/>
             <cell/>
             <cell>5</cell>
@@ -22743,7 +22743,7 @@
             <cell>594</cell>
           </row>
           <row
-            n="46.4">
+            n="46_4">
             <cell/>
             <cell/>
             <cell>6</cell>
@@ -22764,7 +22764,7 @@
             <cell/>
           </row>
           <row
-            n="47.1">
+            n="47_1">
             <cell/>
             <cell/>
             <cell>7</cell>
@@ -22778,7 +22778,7 @@
             <cell>592</cell>
           </row>
           <row
-            n="47.2">
+            n="47_2">
             <cell/>
             <cell/>
             <cell>8</cell>
@@ -22815,7 +22815,7 @@
           unit="HelmPages"/>
         <table  n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years from Abraham</cell>
             <cell
@@ -22869,7 +22869,7 @@
             <cell/>
           </row>
           <row
-            n="47.3">
+            n="47_3">
             <cell/>
             <cell/>
             <cell>9</cell>
@@ -22883,7 +22883,7 @@
             <cell>590</cell>
           </row>
           <row
-            n="47.4">
+            n="47_4">
             <cell/>
             <cell/>
             <cell>10</cell>
@@ -22904,7 +22904,7 @@
             <cell/>
           </row>
           <row
-            n="48.1">
+            n="48_1">
             <cell/>
             <cell/>
             <cell>11</cell>
@@ -22919,7 +22919,7 @@
             <cell>588</cell>
           </row>
           <row
-            n="48.2">
+            n="48_2">
             <cell>1430</cell>
             <cell/>
             <cell>12</cell>
@@ -22933,7 +22933,7 @@
             <cell>587</cell>
           </row>
           <row
-            n="48.3">
+            n="48_3">
             <cell/>
             <cell/>
             <cell>13</cell>
@@ -22948,7 +22948,7 @@
             <cell>586</cell>
           </row>
           <row
-            n="48.4">
+            n="48_4">
             <cell/>
             <cell/>
             
@@ -22971,7 +22971,7 @@
             <cell>XLIX Olympias</cell>
           </row>
           <row
-            n="49.1">
+            n="49_1">
             <cell/>
             <cell/>
             <cell>15</cell>
@@ -22985,7 +22985,7 @@
             <cell>584</cell>
           </row>
           <row
-            n="49.2">
+            n="49_2">
             <cell/>
             <cell/>
             <cell>16</cell>
@@ -23012,7 +23012,7 @@
             <cell/>
           </row>
           <row
-            n="49.3">
+            n="49_3">
             <cell/>
             <cell/>
             <cell>17</cell>
@@ -23037,7 +23037,7 @@
             <cell/>
           </row>
           <row
-            n="49.4">
+            n="49_4">
             <cell/>
             <cell/>
             <cell>18</cell>
@@ -23063,7 +23063,7 @@
             <cell/>
           </row>
           <row
-            n="50.1">
+            n="50_1">
             <cell/>
             <cell/>
             <cell>19</cell>
@@ -23077,7 +23077,7 @@
             <cell>580</cell>
           </row>
           <row
-            n="50.2">
+            n="50_2">
             <cell/>
             <cell/>
             <cell>20</cell>
@@ -23092,7 +23092,7 @@
             <cell>579</cell>
           </row>
           <row
-            n="50.3">
+            n="50_3">
             <cell/>
             <cell/>
             <cell>21</cell>
@@ -23106,7 +23106,7 @@
             <cell>578</cell>
           </row>
           <row
-            n="50.4">
+            n="50_4">
             <cell>1440</cell>
             <cell/>
             <cell>22</cell>
@@ -23128,7 +23128,7 @@
             <cell/>
           </row>
           <row
-            n="51.1">
+            n="51_1">
             <cell/>
             <cell/>
             <cell>23</cell>
@@ -23143,7 +23143,7 @@
             <cell>576</cell>
           </row>
           <row
-            n="51.2">
+            n="51_2">
             <cell/>
             <cell/>
             <cell>24</cell>
@@ -23157,7 +23157,7 @@
             <cell>575</cell>
           </row>
           <row
-            n="51.3">
+            n="51_3">
             <cell/>
             <cell/>
             <cell>25</cell>
@@ -23171,7 +23171,7 @@
             <cell>574</cell>
           </row>
           <row
-            n="51.4">
+            n="51_4">
             <cell/>
             <cell/>
             <cell>26</cell>
@@ -23193,7 +23193,7 @@
             <cell/>
           </row>
           <row
-            n="52.1">
+            n="52_1">
             <cell/>
             <cell/>
             <cell>27</cell>
@@ -23211,7 +23211,7 @@
             <cell>572</cell>
           </row>
           <row
-            n="52.2">
+            n="52_2">
             <cell/>
             <cell/>
             <cell>28</cell>
@@ -23226,7 +23226,7 @@
             <cell>571</cell>
           </row>
           <row
-            n="52.3">
+            n="52_3">
             <cell/>
             <cell/>
             <cell>29</cell>
@@ -23240,7 +23240,7 @@
             <cell>570</cell>
           </row>
           <row
-            n="52.4">
+            n="52_4">
             <cell/>
             <cell/>
             <cell>30</cell>
@@ -23262,7 +23262,7 @@
             <cell/>
           </row>
           <row
-            n="53.1">
+            n="53_1">
             <cell/>
             <cell/>
             
@@ -23280,7 +23280,7 @@
             n="180/181"
             unit="HelmPages"/>
           <row
-            n="53.2">
+            n="53_2">
             <cell>1450</cell>
             <cell/>
             
@@ -23314,7 +23314,7 @@
             <cell/>
           </row>
           <row
-            n="53.3">
+            n="53_3">
             <cell/>
             <cell/>
             <cell>33</cell>
@@ -23329,7 +23329,7 @@
             <cell>566</cell>
           </row>
           <row
-            n="53.4">
+            n="53_4">
             <cell/>
             <cell/>
             <cell>34</cell>
@@ -23350,7 +23350,7 @@
             <cell/>
           </row>
           <row
-            n="54.1">
+            n="54_1">
             <cell/>
             <cell/>
             <cell>35</cell>
@@ -23365,7 +23365,7 @@
             <cell>564</cell>
           </row>
           <row
-            n="54.2">
+            n="54_2">
             <cell/>
             <cell/>
             <cell>36</cell>
@@ -23393,7 +23393,7 @@
             <cell/>
           </row>
           <row
-            n="54.3">
+            n="54_3">
             <cell/>
             <cell/>
             <cell>37</cell>
@@ -23408,7 +23408,7 @@
             <cell>562</cell>
           </row>
           <row
-            n="54.4">
+            n="54_4">
             <cell/>
             <cell/>
             <cell>38</cell>
@@ -23435,15 +23435,15 @@
         n="18">
         <note
           resp="Smith">End of Median kingdom to end of Lydian kingdom. 560-548 B.C.</note>
-        <p>Cyrus Medorum destruxit imperium, et regnavit Persis, subverso Astyage rege Medorum. </p>
-        <p><note
+        <p n="1">Cyrus Medorum destruxit imperium, et regnavit Persis, subverso Astyage rege Medorum. </p>
+        <p n="2"><note
             n="a"/> Cyrus Hebraeorum captivitate laxata, quinquaginta ferme hominum millia regredi
           fecit in Judaeam, qui constructo altari, Templi fundamenta jecerunt: sed cum a vicinis
           gentibus fabricatio impediretur, imperfectum opus usque ad Darium permansit, solo tantum
           altari consistente. </p>
         <table  n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years from Abraham</cell>
             <cell
@@ -23483,7 +23483,7 @@
             <cell/>
           </row>
           <row
-            n="55.1">
+            n="55_1">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -23498,7 +23498,7 @@
             <cell>560</cell>
           </row>
           <row
-            n="55.2">
+            n="55_2">
             <cell/>
             <cell/>
             <cell>2</cell>
@@ -23513,7 +23513,7 @@
             <cell>559</cell>
           </row>
           <row
-            n="55.3">
+            n="55_3">
             <cell/>
             <cell/>
             <cell>3</cell>
@@ -23527,7 +23527,7 @@
             <cell>558</cell>
           </row>
           <row
-            n="55.4">
+            n="55_4">
             <cell>1460</cell>
             <cell/>
             <cell>4</cell>
@@ -23548,7 +23548,7 @@
             <cell/>
           </row>
           <row
-            n="56.1">
+            n="56_1">
             <cell/>
             <cell/>
             
@@ -23780,7 +23780,7 @@
           resp="Smith">End of Lydian kingdom to end of Babylonian captivity. 547-521 B.C.</note>
         <table  n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years from Abraham</cell>
             <cell
@@ -24197,8 +24197,8 @@
         <table
           n="t1">
           <row
-            n="r1"
-            role="header">
+           
+            role="header" n="header">
             <cell
               n="c1"> Years from Abraham </cell>
             <cell
@@ -24329,7 +24329,7 @@
         <table
           n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years from Abraham</cell>
             <cell
@@ -24481,7 +24481,7 @@
         <table
           n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years from Abraham</cell>
             <cell
@@ -26145,7 +26145,7 @@
         <table
           n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years from Abraham</cell>
             <cell
@@ -27373,7 +27373,7 @@
         <table
           n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years since Abraham</cell>
             <cell
@@ -27670,7 +27670,7 @@
         <table
           n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years since Abraham</cell>
             <cell
@@ -27769,7 +27769,7 @@
           multos imperio.</p>
         <table   n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years since Abraham</cell>
             <cell
@@ -27892,7 +27892,7 @@
           unit="HelmPages"/>
         <table   n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years since Abraham</cell>
             <cell
@@ -28005,7 +28005,7 @@
           resp="Smith">Hellenistic kingdoms: Alexandria, Syria, Macedonia, Asia. 312-284 B.C.</note>
         <table   n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years since Abraham</cell>
             <cell
@@ -28508,7 +28508,7 @@
         <table
           n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years since Abraham</cell>
             <cell
@@ -29093,7 +29093,7 @@
         <table
           n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years since Abraham</cell>
             <cell
@@ -30244,7 +30244,7 @@
         <table
           n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years since Abraham</cell>
             <cell
@@ -30332,7 +30332,7 @@
         <table
           n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years since Abraham</cell>
             <cell
@@ -31420,7 +31420,7 @@
             n="232/233"
             unit="HelmPages"/>
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years since Abraham</cell>
             <cell
@@ -31794,7 +31794,7 @@
         n="34">
         <table   n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years since Abraham</cell>
             <cell
@@ -32080,7 +32080,7 @@
           'Caesares' Romanorum principes appellati. </p>
         <table   n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years since Abraham</cell>
             <cell
@@ -32539,7 +32539,7 @@
           temple</note>
         <table   n="t1">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years since Abraham</cell>
             <cell
@@ -32927,7 +32927,7 @@
         
         <table ana="chronological" n="t2">
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years since Abraham</cell>
             <cell
@@ -34119,7 +34119,7 @@
             n="270"
             unit="HelmPages"/>
           <row
-            role="header">
+            role="header" n="header">
             <cell
               role="abraham">Years since Abraham</cell>
             <cell
@@ -34132,7 +34132,7 @@
               role="julian"> AD</cell>
           </row>
           <row
-            n="212.3">
+            n="212_3">
             <cell/>
             <cell/>
             <cell>3</cell>
@@ -34140,7 +34140,7 @@
             <cell>71</cell>
           </row>
           <row
-            n="212.4">
+            n="212_4">
             <cell/>
             <cell/>
             <cell>4</cell>
@@ -34161,7 +34161,7 @@
             <cell> CCXIII Olympias </cell>
           </row>
           <row
-            n="213.1">
+            n="213_1">
             <cell/>
             <cell/>
             <cell>5</cell>
@@ -34180,7 +34180,7 @@
             <cell>73</cell>
           </row>
           <row
-            n="213.2">
+            n="213_2">
             <cell>2090</cell>
             <cell/>
             <cell>6</cell>
@@ -34194,7 +34194,7 @@
             <cell>74</cell>
           </row>
           <row
-            n="213.3">
+            n="213_3">
             <cell/>
             <cell/>
             <cell>7</cell>
@@ -34213,7 +34213,7 @@
             <cell>75</cell>
           </row>
           <row
-            n="213.4">
+            n="213_4">
             <cell/>
             <cell/>
             <cell>8</cell>
@@ -34232,7 +34232,7 @@
             <cell> CCXIV Olympias </cell>
           </row>
           <row
-            n="214.1">
+            n="214_1">
             <cell/>
             <cell/>
             <cell>9</cell>
@@ -34252,7 +34252,7 @@
             <cell>77</cell>
           </row>
           <row
-            n="214.2">
+            n="214_2">
             <cell/>
             <cell/>
             <cell>10</cell>
@@ -34273,7 +34273,7 @@
             <cell/>
           </row>
           <row
-            n="214.3">
+            n="214_3">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -34300,7 +34300,7 @@
             <cell>79</cell>
           </row>
           <row
-            n="214.4">
+            n="214_4">
             <cell/>
             <cell/>
             <cell>2</cell>
@@ -34339,7 +34339,7 @@
             <cell n="domitian"> Romanorum IX, DOMITIANUS, regnavit annis XV, mensibus V. </cell>
           </row>
           <row
-            n="215.1">
+            n="215_1">
             <cell/>
             <cell/>
             <cell>1 </cell>
@@ -34354,7 +34354,7 @@
             n="272"
             unit="HelmPages"/>
           <row
-            n="215.2">
+            n="215_2">
             <cell/>
             <cell/>
             <cell>2</cell>
@@ -34365,7 +34365,7 @@
             <cell>82</cell>
           </row>
           <row
-            n="215.3">
+            n="215_3">
             <cell/>
             <cell/>
             <cell>3</cell>
@@ -34376,7 +34376,7 @@
             <cell>83</cell>
           </row>
           <row
-            n="215.4">
+            n="215_4">
             <cell>2100</cell>
             <cell/>
             <cell>4</cell>
@@ -34392,7 +34392,7 @@
             <cell>CCXVI Olympias</cell>
           </row>
           <row
-            n="216.1">
+            n="216_1">
             <cell/>
             <cell/>
             <cell>5</cell>
@@ -34401,7 +34401,7 @@
             <cell>85</cell>
           </row>
           <row
-            n="216.2">
+            n="216_2">
             <cell/>
             <cell/>
             <cell>6</cell>
@@ -34411,7 +34411,7 @@
             <cell>86</cell>
           </row>
           <row
-            n="216.3">
+            n="216_3">
             <cell/>
             <cell/>
             <cell>7</cell>
@@ -34421,7 +34421,7 @@
             <cell>87</cell>
           </row>
           <row
-            n="216.4">
+            n="216_4">
             <cell/>
             <cell/>
             <cell>8</cell>
@@ -34444,7 +34444,7 @@
             n="273"
             unit="HelmPages"/>
           <row
-            n="217.1">
+            n="217_1">
             <cell/>
             <cell/>
             <cell>9</cell>
@@ -34457,7 +34457,7 @@
             <cell>89</cell>
           </row>
           <row
-            n="217.2">
+            n="217_2">
             <cell/>
             <cell/>
             <cell>10</cell>
@@ -34465,7 +34465,7 @@
             <cell>90</cell>
           </row>
           <row
-            n="217.3">
+            n="217_3">
             <cell/>
             <cell/>
             <cell>11</cell>
@@ -34479,7 +34479,7 @@
             <cell>91</cell>
           </row>
           <row
-            n="217.4">
+            n="217_4">
             <cell/>
             <cell/>
             <cell>12</cell>
@@ -34495,7 +34495,7 @@
             <cell>CCXVIII Olympias</cell>
           </row>
           <row
-            n="218.1">
+            n="218_1">
             <cell/>
             <cell/>
             <cell>13</cell>
@@ -34509,7 +34509,7 @@
             n="274/275"
             unit="HelmPages"/>
           <row
-            n="218.2">
+            n="218_2">
             <cell>2110</cell>
             <cell/>
             
@@ -34522,7 +34522,7 @@
             <cell>94</cell>
           </row>
           <row
-            n="218.3">
+            n="218_3">
             <cell/>
             <cell/>
             <cell>15</cell>
@@ -34532,7 +34532,7 @@
             <cell>95</cell>
           </row>
           <row
-            n="218.4">
+            n="218_4">
             <cell/>
             <cell/>
             <cell>16</cell>
@@ -34560,7 +34560,7 @@
             <cell n="nerva">Romanorum X, NERVA, regnavit anno uno, mensibus IV. </cell>
           </row>
           <row
-            n="219.1">
+            n="219_1">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -34584,7 +34584,7 @@
             <cell n="trajan">Romanorum XI, TRAJANUS, regnavit annis XIX, mensibus VI.</cell>
           </row>
           <row
-            n="219.2">
+            n="219_2">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -34593,7 +34593,7 @@
             <cell>98</cell>
           </row>
           <row
-            n="219.3">
+            n="219_3">
             <cell/>
             <cell/>
             <cell>2</cell>
@@ -34602,7 +34602,7 @@
             <cell>99</cell>
           </row>
           <row
-            n="219.4">
+            n="219_4">
             <cell/>
             <cell/>
             <cell>3</cell>
@@ -34665,7 +34665,7 @@
             <cell>CCXXI Olympias</cell>
           </row>
           <row
-            n="221.1">
+            n="221_1">
             <cell/>
             <cell/>
             <cell>8</cell>
@@ -34675,7 +34675,7 @@
             <cell>105</cell>
           </row>
           <row
-            n="221.2">
+            n="221_2">
             <cell/>
             <cell/>
             <cell>9</cell>
@@ -34684,7 +34684,7 @@
             <cell>106</cell>
           </row>
           <row
-            n="221.3">
+            n="221_3">
             <cell/>
             <cell/>
             <cell>10</cell>
@@ -34695,7 +34695,7 @@
             <cell>107</cell>
           </row>
           <row
-            n="221.4">
+            n="221_4">
             <cell/>
             <cell/>
             <cell>11</cell>
@@ -34721,7 +34721,7 @@
             <cell>CCXXII Olympias</cell>
           </row>
           <row
-            n="222.1">
+            n="222_1">
             <cell/>
             <cell/>
             <cell>12</cell>
@@ -34733,7 +34733,7 @@
             <cell>109</cell>
           </row>
           <row
-            n="222.2">
+            n="222_2">
             <cell/>
             <cell/>
             <cell>13</cell>
@@ -34746,7 +34746,7 @@
             n="278"
             unit="HelmPages"/>
           <row
-            n="222.3">
+            n="222_3">
             <cell/>
             <cell/>
             <cell>14</cell>
@@ -34757,7 +34757,7 @@
             <cell>111</cell>
           </row>
           <row
-            n="223.4">
+            n="223_4">
             <cell/>
             <cell/>
             <cell>15</cell>
@@ -34771,7 +34771,7 @@
             <cell>CCXXIII Olympias</cell>
           </row>
           <row
-            n="223.1">
+            n="223_1">
             <cell/>
             <cell/>
             <cell>16</cell>
@@ -34781,7 +34781,7 @@
             <cell>113</cell>
           </row>
           <row
-            n="223.2">
+            n="223_2">
             <cell>2130</cell>
             <cell/>
             <cell>17</cell>
@@ -34792,7 +34792,7 @@
             <cell>114</cell>
           </row>
           <row
-            n="223.3">
+            n="223_3">
             <cell/>
             <cell/>
             <cell>18</cell>
@@ -34803,7 +34803,7 @@
             <cell>115</cell>
           </row>
           <row
-            n="223.4">
+            n="223_4">
             <cell/>
             <cell/>
             <cell>19</cell>
@@ -34832,7 +34832,7 @@
             <cell n="hadrian">Romanorum XII, HADRIANUS, regnavit annis XXI</cell>
           </row>
           <row
-            n="224.1">
+            n="224_1">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -34845,7 +34845,7 @@
             <cell>117</cell>
           </row>
           <row
-            n="224.2">
+            n="224_2">
             <cell/>
             <cell/>
             <cell>2</cell>
@@ -34861,7 +34861,7 @@
             n="280"
             unit="HelmPages"/>
           <row
-            n="224.3">
+            n="224_3">
             <cell/>
             <cell/>
             <cell>3</cell>
@@ -34874,7 +34874,7 @@
             <cell>119</cell>
           </row>
           <row
-            n="224.4">
+            n="224_4">
             <cell/>
             <cell/>
             <cell>4</cell>
@@ -34891,7 +34891,7 @@
             <cell>CCXXV Olympias</cell>
           </row>
           <row
-            n="225.1">
+            n="225_1">
             <cell/>
             <cell/>
             <cell>5</cell>
@@ -34901,7 +34901,7 @@
             <cell>121</cell>
           </row>
           <row
-            n="225.2">
+            n="225_2">
             <cell/>
             <cell/>
             <cell>6</cell>
@@ -34913,7 +34913,7 @@
             <cell>122</cell>
           </row>
           <row
-            n="225.3">
+            n="225_3">
             <cell/>
             <cell/>
             <cell>7</cell>
@@ -34923,7 +34923,7 @@
             <cell>123</cell>
           </row>
           <row
-            n="225.4">
+            n="225_4">
             <cell>2140</cell>
             <cell/>
             <cell>8</cell>
@@ -34944,7 +34944,7 @@
             <cell>CCXXVI Olympias</cell>
           </row>
           <row
-            n="226.1">
+            n="226_1">
             <cell/>
             <cell/>
             <cell>9</cell>
@@ -34954,7 +34954,7 @@
             <cell>125</cell>
           </row>
           <row
-            n="226.2">
+            n="226_2">
             <cell/>
             <cell/>
             <cell>10</cell>
@@ -34969,7 +34969,7 @@
             <cell>126</cell>
           </row>
           <row
-            n="226.3">
+            n="226_3">
             <cell/>
             <cell/>
             <cell>11</cell>
@@ -34977,7 +34977,7 @@
             <cell>127</cell>
           </row>
           <row
-            n="226.4">
+            n="226_4">
             <cell/>
             <cell/>
             <cell>12</cell>
@@ -34997,7 +34997,7 @@
             <cell>CCXXVII Olympias</cell>
           </row>
           <row
-            n="227.1">
+            n="227_1">
             <cell/>
             <cell/>
             <cell>13</cell>
@@ -35009,7 +35009,7 @@
             <cell>129</cell>
           </row>
           <row
-            n="227.2">
+            n="227_2">
             <cell/>
             <cell/>
             <cell>14</cell>
@@ -35018,7 +35018,7 @@
             <cell>130</cell>
           </row>
           <row
-            n="227.3">
+            n="227_3">
             <cell/>
             <cell/>
             <cell>15</cell>
@@ -35029,7 +35029,7 @@
             <cell>131</cell>
           </row>
           <row
-            n="227.4">
+            n="227_4">
             <cell/>
             <cell/>
             <cell>16</cell>
@@ -35051,7 +35051,7 @@
             <cell>CCXXVIII Olympias</cell>
           </row>
           <row
-            n="228.1">
+            n="228_1">
             <cell/>
             <cell/>
             <cell>17</cell>
@@ -35062,7 +35062,7 @@
             <cell>133</cell>
           </row>
           <row
-            n="228.2">
+            n="228_2">
             <cell>2150</cell>
             <cell/>
             <cell>18</cell>
@@ -35074,7 +35074,7 @@
             <cell>134</cell>
           </row>
           <row
-            n="228.3">
+            n="228_3">
             <cell/>
             <cell/>
             <cell>19</cell>
@@ -35084,7 +35084,7 @@
             <cell>135</cell>
           </row>
           <row
-            n="228.4">
+            n="228_4">
             <cell/>
             <cell/>
             <cell>20</cell>
@@ -35101,7 +35101,7 @@
             <cell>CCXXIX Olympias</cell>
           </row>
           <row
-            n="229.1">
+            n="229_1">
             <cell/>
             <cell/>
             <cell>21</cell>
@@ -35121,7 +35121,7 @@
               regnavit, annis XXII, mensibus III. </cell>
           </row>
           <row
-            n="229.2">
+            n="229_2">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -35130,7 +35130,7 @@
             <cell>138</cell>
           </row>
           <row
-            n="229.3">
+            n="229_3">
             <cell/>
             <cell/>
             <cell>2</cell>
@@ -35139,7 +35139,7 @@
             <cell>139</cell>
           </row>
           <row
-            n="229.4">
+            n="229_4">
             <cell/>
             <cell/>
             <cell>3</cell>
@@ -35200,7 +35200,7 @@
             <cell>CCXXXI Olympias</cell>
           </row>
           <row
-            n="231.1">
+            n="231_1">
             <cell/>
             <cell/>
             <cell>8</cell>
@@ -35209,7 +35209,7 @@
             <cell>145</cell>
           </row>
           <row
-            n="231.2">
+            n="231_2">
             <cell/>
             <cell/>
             <cell>9</cell>
@@ -35220,7 +35220,7 @@
             n="285"
             unit="HelmPages"/>
           <row
-            n="231.3">
+            n="231_3">
             <cell/>
             <cell/>
             <cell>10</cell>
@@ -35228,7 +35228,7 @@
             <cell>147</cell>
           </row>
           <row
-            n="231.4">
+            n="231_4">
             <cell/>
             <cell/>
             <cell>11</cell>
@@ -35242,7 +35242,7 @@
             <cell>CCXXXII Olympias</cell>
           </row>
           <row
-            n="232.1">
+            n="232_1">
             <cell/>
             <cell/>
             <cell>12</cell>
@@ -35251,7 +35251,7 @@
             <cell>149</cell>
           </row>
           <row
-            n="232.2">
+            n="232_2">
             <cell/>
             <cell/>
             <cell>13</cell>
@@ -35261,7 +35261,7 @@
             <cell>150</cell>
           </row>
           <row
-            n="232.3">
+            n="232_3">
             <cell/>
             <cell/>
             <cell>14</cell>
@@ -35269,7 +35269,7 @@
             <cell>151</cell>
           </row>
           <row
-            n="232.4">
+            n="232_4">
             <cell/>
             <cell/>
             <cell>15</cell>
@@ -35283,7 +35283,7 @@
             <cell>CCXXXIII Olympias</cell>
           </row>
           <row
-            n="233.1">
+            n="233_1">
             <cell/>
             <cell/>
             <cell>16</cell>
@@ -35292,7 +35292,7 @@
             <cell>153</cell>
           </row>
           <row
-            n="233.2">
+            n="233_2">
             <cell>2170</cell>
             <cell/>
             <cell>17</cell>
@@ -35303,7 +35303,7 @@
             <cell>154</cell>
           </row>
           <row
-            n="233.3">
+            n="233_3">
             <cell/>
             <cell/>
             <cell>18</cell>
@@ -35311,7 +35311,7 @@
             <cell>155</cell>
           </row>
           <row
-            n="233.4">
+            n="233_4">
             <cell/>
             <cell/>
             <cell>19</cell>
@@ -35325,7 +35325,7 @@
             <cell>CCXXXIV Olympias</cell>
           </row>
           <row
-            n="234.1">
+            n="234_1">
             <cell/>
             <cell/>
             <cell>20</cell>
@@ -35335,7 +35335,7 @@
             <cell>157</cell>
           </row>
           <row
-            n="234.2">
+            n="234_2">
             <cell/>
             <cell/>
             <cell>21</cell>
@@ -35343,7 +35343,7 @@
             <cell>158</cell>
           </row>
           <row
-            n="234.3">
+            n="234_3">
             <cell/>
             <cell/>
             <cell>22</cell>
@@ -35351,7 +35351,7 @@
             <cell>159</cell>
           </row>
           <row
-            n="234.4">
+            n="234_4">
             <cell/>
             <cell/>
             <cell>23</cell>
@@ -35381,7 +35381,7 @@
               annis XIX, mense uno. </cell>
           </row>
           <row
-            n="235.1">
+            n="235_1">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -35391,7 +35391,7 @@
             <cell>161</cell>
           </row>
           <row
-            n="235.2">
+            n="235_2">
             <cell/>
             <cell/>
             <cell>2</cell>
@@ -35401,7 +35401,7 @@
             <cell>162</cell>
           </row>
           <row
-            n="235.3">
+            n="235_3">
             <cell/>
             <cell/>
             <cell>3</cell>
@@ -35410,7 +35410,7 @@
             <cell>163</cell>
           </row>
           <row
-            n="235.4">
+            n="235_4">
             <cell>2180</cell>
             <cell/>
             <cell>4</cell>
@@ -35427,7 +35427,7 @@
             <cell>CCXXXVI Olympias</cell>
           </row>
           <row
-            n="236.1">
+            n="236_1">
             <cell/>
             <cell/>
             <cell>5</cell>
@@ -35440,7 +35440,7 @@
             n="287"
             unit="HelmPages"/>
           <row
-            n="236.2">
+            n="236_2">
             <cell/>
             <cell/>
             <cell>6</cell>
@@ -35452,7 +35452,7 @@
             <cell>166</cell>
           </row>
           <row
-            n="236.3">
+            n="236_3">
             <cell/>
             <cell/>
             <cell>7</cell>
@@ -35465,7 +35465,7 @@
             <cell>167</cell>
           </row>
           <row
-            n="236.4">
+            n="236_4">
             <cell/>
             <cell/>
             <cell>8</cell>
@@ -35481,7 +35481,7 @@
             <cell>CCXXXVII Olympias</cell>
           </row>
           <row
-            n="237.1">
+            n="237_1">
             <cell/>
             <cell/>
             <cell>9</cell>
@@ -35499,7 +35499,7 @@
             n="288"
             unit="HelmPages"/>
           <row
-            n="237.2">
+            n="237_2">
             <cell/>
             <cell/>
             <cell>10</cell>
@@ -35511,7 +35511,7 @@
             <cell>170</cell>
           </row>
           <row
-            n="237.3">
+            n="237_3">
             <cell/>
             <cell/>
             <cell>11</cell>
@@ -35523,7 +35523,7 @@
             <cell>171</cell>
           </row>
           <row
-            n="237.4">
+            n="237_4">
             <cell/>
             <cell/>
             <cell>12</cell>
@@ -35543,7 +35543,7 @@
             <cell>CCXXXVIII Olympias</cell>
           </row>
           <row
-            n="238.1">
+            n="238_1">
             <cell/>
             <cell/>
             <cell>13</cell>
@@ -35559,7 +35559,7 @@
             <cell/>
           </row>
           <row
-            n="238.2">
+            n="238_2">
             <cell>2190</cell>
             <cell/>
             <cell>14</cell>
@@ -35567,7 +35567,7 @@
             <cell>174</cell>
           </row>
           <row
-            n="238.3">
+            n="238_3">
             <cell/>
             <cell/>
             <cell>15</cell>
@@ -35575,7 +35575,7 @@
             <cell>175</cell>
           </row>
           <row
-            n="238.4">
+            n="238_4">
             <cell/>
             <cell/>
             <cell>16</cell>
@@ -35590,7 +35590,7 @@
             <cell>CCXXXIX Olympias</cell>
           </row>
           <row
-            n="239.1">
+            n="239_1">
             <cell/>
             <cell/>
             <cell>17</cell>
@@ -35600,7 +35600,7 @@
             <cell>177</cell>
           </row>
           <row
-            n="239.2">
+            n="239_2">
             <cell/>
             <cell/>
             <cell>18</cell>
@@ -35617,7 +35617,7 @@
             <cell>178</cell>
           </row>
           <row
-            n="239.3">
+            n="239_3">
             <cell/>
             <cell/>
             <cell>19</cell>
@@ -35638,7 +35638,7 @@
             <cell n="commodus">Romanorum XV, COMMODUS, regnavit annis XIII.</cell>
           </row>
           <row
-            n="239.4">
+            n="239_4">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -35695,7 +35695,7 @@
             <cell>CCXLI Olympias</cell>
           </row>
           <row
-            n="241.1">
+            n="241_1">
             <cell/>
             <cell/>
             <cell>6</cell>
@@ -35709,7 +35709,7 @@
             <cell>185</cell>
           </row>
           <row
-            n="241.2">
+            n="241_2">
             <cell/>
             <cell/>
             <cell>7</cell>
@@ -35717,7 +35717,7 @@
             <cell>186</cell>
           </row>
           <row
-            n="241.3">
+            n="241_3">
             <cell/>
             <cell/>
             <cell>8</cell>
@@ -35725,7 +35725,7 @@
             <cell>187</cell>
           </row>
           <row
-            n="241.4">
+            n="241_4">
             <cell/>
             <cell/>
             <cell>9</cell>
@@ -35741,7 +35741,7 @@
             <cell>CCXLII Olympias</cell>
           </row>
           <row
-            n="242.1">
+            n="242_1">
             <cell/>
             <cell/>
             <cell>10</cell>
@@ -35751,7 +35751,7 @@
             <cell>189</cell>
           </row>
           <row
-            n="242.2">
+            n="242_2">
             <cell/>
             <cell/>
             <cell>11</cell>
@@ -35762,7 +35762,7 @@
             <cell>190</cell>
           </row>
           <row
-            n="242.3">
+            n="242_3">
             <cell/>
             <cell/>
             <cell>12</cell>
@@ -35775,7 +35775,7 @@
             n="292"
             unit="HelmPages"/>
           <row
-            n="242.4">
+            n="242_4">
             <cell/>
             <cell/>
             <cell>13</cell>
@@ -35796,7 +35796,7 @@
             <cell n="pertinax">Romanorum XVI, AELIUS PERTINAX, regnavit mensibus VI.</cell>
           </row>
           <row
-            n="243.1">
+            n="243_1">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -35818,7 +35818,7 @@
             <cell n="severus">Romanorum XVII, SEVERUS, regnavit annis XVIII. </cell>
           </row>
           <row
-            n="243.2">
+            n="243_2">
             <cell>2210</cell>
             <cell/>
             <cell>2</cell>
@@ -35833,7 +35833,7 @@
             n="292/293"
             unit="HelmPages"/>
           <row
-            n="243.3">
+            n="243_3">
             <cell/>
             <cell/>
             <cell>3</cell>
@@ -35845,7 +35845,7 @@
             <cell>195</cell>
           </row>
           <row
-            n="243.4">
+            n="243_4">
             <cell/>
             <cell/>
             <cell>4</cell>
@@ -35864,7 +35864,7 @@
             <cell>CCXLIV Olympias</cell>
           </row>
           <row
-            n="244.1">
+            n="244_1">
             <cell/>
             <cell/>
             <cell>5</cell>
@@ -35873,7 +35873,7 @@
             <cell>197</cell>
           </row>
           <row
-            n="244.2">
+            n="244_2">
             <cell/>
             <cell/>
             <cell>6</cell>
@@ -35884,7 +35884,7 @@
             <cell>198</cell>
           </row>
           <row
-            n="244.3">
+            n="244_3">
             <cell/>
             <cell/>
             <cell>7</cell>
@@ -35892,7 +35892,7 @@
             <cell>199</cell>
           </row>
           <row
-            n="244.4">
+            n="244_4">
             <cell/>
             <cell/>
             <cell>8</cell>
@@ -35911,7 +35911,7 @@
             <cell>CCXLV Olympias</cell>
           </row>
           <row
-            n="245.1">
+            n="245_1">
             <cell/>
             <cell/>
             <cell>9</cell>
@@ -35920,7 +35920,7 @@
             <cell>201</cell>
           </row>
           <row
-            n="245.2">
+            n="245_2">
             <cell/>
             <cell/>
             <cell>10</cell>
@@ -35932,7 +35932,7 @@
             <cell>202</cell>
           </row>
           <row
-            n="245.3">
+            n="245_3">
             <cell/>
             <cell/>
             <cell>11</cell>
@@ -35940,7 +35940,7 @@
             <cell>203</cell>
           </row>
           <row
-            n="245.4">
+            n="245_4">
             <cell>2220</cell>
             <cell/>
             <cell>12</cell>
@@ -35959,7 +35959,7 @@
             <cell>CCXLVI Olympias</cell>
           </row>
           <row
-            n="246.1">
+            n="246_1">
             <cell/>
             <cell/>
             <cell>13</cell>
@@ -35971,7 +35971,7 @@
             <cell>205</cell>
           </row>
           <row
-            n="246.2">
+            n="246_2">
             <cell/>
             <cell/>
             <cell>14</cell>
@@ -35979,7 +35979,7 @@
             <cell>206</cell>
           </row>
           <row
-            n="246.3">
+            n="246_3">
             <cell/>
             <cell/>
             <cell>15</cell>
@@ -35987,7 +35987,7 @@
             <cell>207</cell>
           </row>
           <row
-            n="246.4">
+            n="246_4">
             <cell/>
             <cell/>
             <cell>16</cell>
@@ -36007,7 +36007,7 @@
             <cell>CCXLVII Olympias</cell>
           </row>
           <row
-            n="247.1">
+            n="247_1">
             <cell/>
             <cell/>
             <cell>17</cell>
@@ -36016,7 +36016,7 @@
             <cell>209</cell>
           </row>
           <row
-            n="247.2">
+            n="247_2">
             <cell/>
             <cell/>
             <cell>18</cell>
@@ -36031,7 +36031,7 @@
               VII.</cell>
           </row>
           <row
-            n="247.3">
+            n="247_3">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -36040,7 +36040,7 @@
             <cell>211</cell>
           </row>
           <row
-            n="247.4">
+            n="247_4">
             <cell/>
             <cell/>
             <cell>2</cell>
@@ -36056,7 +36056,7 @@
             <cell>CCXLVIII Olympias</cell>
           </row>
           <row
-            n="248.1">
+            n="248_1">
             <cell/>
             <cell/>
             <cell>3</cell>
@@ -36066,7 +36066,7 @@
             <cell>213</cell>
           </row>
           <row
-            n="248.2">
+            n="248_2">
             <cell>2230</cell>
             <cell/>
             <cell>4</cell>
@@ -36074,7 +36074,7 @@
             <cell>214</cell>
           </row>
           <row
-            n="248.3">
+            n="248_3">
             <cell/>
             <cell/>
             <cell>5</cell>
@@ -36083,7 +36083,7 @@
             <cell>215</cell>
           </row>
           <row
-            n="248.4">
+            n="248_4">
             <cell/>
             <cell/>
             <cell>6</cell>
@@ -36099,7 +36099,7 @@
             <cell>CCXLIX Olympias</cell>
           </row>
           <row
-            n="249.1">
+            n="249_1">
             <cell/>
             <cell/>
             <cell>7</cell>
@@ -36115,7 +36115,7 @@
             <cell n="macrinus">Romanorum XIX, MACRINUS, regnavit anno uno.</cell>
           </row>
           <row
-            n="249.2">
+            n="249_2">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -36180,7 +36180,7 @@
             <cell/>
           </row>
           <row
-            n="249.3">
+            n="249_3">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -36194,7 +36194,7 @@
             <cell>219</cell>
           </row>
           <row
-            n="249.4">
+            n="249_4">
             <cell/>
             <cell/>
             <cell>2</cell>
@@ -36294,7 +36294,7 @@
             <cell/>
           </row>
           <row
-            n="251.1">
+            n="251_1">
             <cell/>
             <cell/>
             <cell>3</cell>
@@ -36309,7 +36309,7 @@
             <cell>225</cell>
           </row>
           <row
-            n="251.2">
+            n="251_2">
             <cell/>
             <cell/>
             <cell>4</cell>
@@ -36324,7 +36324,7 @@
             <cell>226</cell>
           </row>
           <row
-            n="251.3">
+            n="251_3">
             <cell/>
             <cell/>
             <cell>5</cell>
@@ -36338,7 +36338,7 @@
             <cell>227</cell>
           </row>
           <row
-            n="251.4">
+            n="251_4">
             <cell/>
             <cell/>
             <cell>6</cell>
@@ -36362,7 +36362,7 @@
             <cell/>
           </row>
           <row
-            n="252.1">
+            n="252_1">
             <cell/>
             <cell/>
             <cell>7</cell>
@@ -36376,7 +36376,7 @@
             <cell>229</cell>
           </row>
           <row
-            n="252.2">
+            n="252_2">
             <cell/>
             <cell/>
             <cell>8</cell>
@@ -36404,7 +36404,7 @@
             <cell>231</cell>
           </row>
           <row
-            n="252.3">
+            n="252_3">
             <cell/>
             <cell/>
             <cell>10</cell>
@@ -36428,7 +36428,7 @@
             <cell/>
           </row>
           <row
-            n="253.1">
+            n="253_1">
             <cell/>
             <cell/>
             <cell>11</cell>
@@ -36443,7 +36443,7 @@
             <cell>233</cell>
           </row>
           <row
-            n="253.2">
+            n="253_2">
             <cell>2250</cell>
             <cell/>
             <cell>12</cell>
@@ -36458,7 +36458,7 @@
             <cell>234</cell>
           </row>
           <row
-            n="253.3">
+            n="253_3">
             <cell/>
             <cell/>
             <cell>13</cell>
@@ -36478,7 +36478,7 @@
             <cell/>
           </row>
           <row
-            n="253.4">
+            n="253_4">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -36497,7 +36497,7 @@
             <cell> CCLIV Olympias </cell>
           </row>
           <row
-            n="254.1">
+            n="254_1">
             <cell/>
             <cell/>
             <cell>2</cell>
@@ -36517,7 +36517,7 @@
             <cell>237</cell>
           </row>
           <row
-            n="254.2">
+            n="254_2">
             <cell/>
             <cell/>
             <cell>3</cell>
@@ -36536,7 +36536,7 @@
             <cell n="gordian">Romanorum XXIII, GORDIANUS 1, regnavit annis 6.</cell>
           </row>
           <row
-            n="254.3">
+            n="254_3">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -36551,7 +36551,7 @@
             <cell>239</cell>
           </row>
           <row
-            n="254.4">
+            n="254_4">
             <cell/>
             <cell/>
             <cell>2</cell>
@@ -36575,7 +36575,7 @@
             n="299"
             unit="HelmPages"/>
           <row
-            n="255.1">
+            n="255_1">
             <cell/>
             <cell/>
             <cell>3</cell>
@@ -36589,7 +36589,7 @@
             <cell>241</cell>
           </row>
           <row
-            n="255.2">
+            n="255_2">
             <cell/>
             <cell/>
             <cell>4</cell>
@@ -36597,7 +36597,7 @@
             <cell>242</cell>
           </row>
           <row
-            n="255.3">
+            n="255_3">
             <cell/>
             <cell/>
             <cell>5</cell>
@@ -36605,7 +36605,7 @@
             <cell>243</cell>
           </row>
           <row
-            n="255.4">
+            n="255_4">
             <cell>2260</cell>
             <cell/>
             <cell>6</cell>
@@ -36633,7 +36633,7 @@
             <cell/>
           </row>
           <row
-            n="256.1">
+            n="256_1">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -36646,7 +36646,7 @@
             <cell>245</cell>
           </row>
           <row
-            n="256.2">
+            n="256_2">
             <cell/>
             <cell/>
             <cell>2</cell>
@@ -36669,7 +36669,7 @@
             <cell>246</cell>
           </row>
           <row
-            n="256.3">
+            n="256_3">
             <cell/>
             <cell/>
             <cell>3</cell>
@@ -36683,7 +36683,7 @@
             <cell>247</cell>
           </row>
           <row
-            n="256.4">
+            n="256_4">
             <cell/>
             <cell/>
             <cell>4</cell>
@@ -36706,7 +36706,7 @@
             <cell>CCLVII Olympias</cell>
           </row>
           <row
-            n="257.1">
+            n="257_1">
             <cell/>
             <cell/>
             <cell>5</cell>
@@ -36715,7 +36715,7 @@
             <cell>249</cell>
           </row>
           <row
-            n="257.2">
+            n="257_2">
             <cell/>
             <cell/>
             <cell>6</cell>
@@ -36723,7 +36723,7 @@
             <cell>250</cell>
           </row>
           <row
-            n="257.3">
+            n="257_3">
             <cell/>
             <cell/>
             <cell>7</cell>
@@ -36738,7 +36738,7 @@
             <cell n="decius">Romanorum XXV, DECIUS, regnavit anno uno, mensibus III.</cell>
           </row>
           <row
-            n="257.4">
+            n="257_4">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -36776,7 +36776,7 @@
             <cell>CCLVIII Olympias</cell>
           </row>
           <row
-            n="258.1">
+            n="258_1">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -36790,7 +36790,7 @@
             <cell>253</cell>
           </row>
           <row
-            n="258.2">
+            n="258_2">
             <cell>2270</cell>
             <cell/>
             <cell>2</cell>
@@ -36814,7 +36814,7 @@
             <cell n="valerian-gallienus">Romanorum XXVII, VALERIANUS et GALLIENUS, regnaverunt annis XV.</cell>
           </row>
           <row
-            n="258.3">
+            n="258_3">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -36824,7 +36824,7 @@
             <cell>255</cell>
           </row>
           <row
-            n="258.4">
+            n="258_4">
             <cell/>
             <cell/>
             <cell>2</cell>
@@ -36839,7 +36839,7 @@
             <cell/>
           </row>
           <row
-            n="259.1">
+            n="259_1">
             <cell/>
             <cell/>
             <cell>3</cell>
@@ -36851,7 +36851,7 @@
             <cell>257</cell>
           </row>
           <row
-            n="259.2">
+            n="259_2">
             <cell/>
             <cell/>
             <cell>4</cell>
@@ -36862,7 +36862,7 @@
             <cell>258</cell>
           </row>
           <row
-            n="259.3">
+            n="259_3">
             <cell/>
             <cell/>
             <cell>5</cell>
@@ -36871,7 +36871,7 @@
             <cell>259</cell>
           </row>
           <row
-            n="259.4">
+            n="259_4">
             <cell/>
             <cell/>
             <cell>6</cell>
@@ -36933,7 +36933,7 @@
             <cell>CCLXI Olympias</cell>
           </row>
           <row
-            n="261.1">
+            n="261_1">
             <cell/>
             <cell/>
             <cell>11</cell>
@@ -36942,7 +36942,7 @@
             <cell>265</cell>
           </row>
           <row
-            n="261.2">
+            n="261_2">
             <cell/>
             <cell/>
             <cell>12</cell>
@@ -36954,7 +36954,7 @@
             <cell>266</cell>
           </row>
           <row
-            n="261.3">
+            n="261_3">
             <cell/>
             <cell/>
             <cell>13</cell>
@@ -36963,7 +36963,7 @@
             <cell>267</cell>
           </row>
           <row
-            n="261.4">
+            n="261_4">
             <cell/>
             <cell/>
             <cell>14</cell>
@@ -36980,7 +36980,7 @@
             <cell>CCLXII Olympias</cell>
           </row>
           <row
-            n="262.1">
+            n="262_1">
             <cell/>
             <cell/>
             <cell>15</cell>
@@ -36995,7 +36995,7 @@
             <cell n="claudius">Romanorum XXVIII, CLAUDIUS, regnavit anno uno, mensibus IX.</cell>
           </row>
           <row
-            n="262.2">
+            n="262_2">
             <cell/>
             <cell/>
             <cell>16</cell>
@@ -37010,7 +37010,7 @@
             <cell>270</cell>
           </row>
           <row
-            n="262.3">
+            n="262_3">
             <cell/>
             <cell/>
             <cell>2</cell>
@@ -37027,7 +37027,7 @@
             <cell n="aurelian">Romanorum XXIX, AURELIANUS, regnavit annis V, mensibus VI.</cell>
           </row>
           <row
-            n="262.4">
+            n="262_4">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -37042,7 +37042,7 @@
             <cell>CCLXIII Olympias</cell>
           </row>
           <row
-            n="263.1">
+            n="263_1">
             <cell/>
             <cell/>
             <cell>2</cell>
@@ -37056,7 +37056,7 @@
             <cell>273</cell>
           </row>
           <row
-            n="263.2">
+            n="263_2">
             <cell>2290</cell>
             <cell/>
             <cell>3</cell>
@@ -37070,7 +37070,7 @@
             <cell>274</cell>
           </row>
           <row
-            n="263.3">
+            n="263_3">
             <cell/>
             <cell/>
             <cell>4</cell>
@@ -37080,7 +37080,7 @@
             <cell>275</cell>
           </row>
           <row
-            n="263.4">
+            n="263_4">
             <cell/>
             <cell/>
             <cell>5</cell>
@@ -37104,7 +37104,7 @@
             <cell>CCLXIV Olympias</cell>
           </row>
           <row
-            n="264.1">
+            n="264_1">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -37120,7 +37120,7 @@
             <cell n="problus">Romanorum XXXI, PROBUS, regnavit annis VI, menses IV.</cell>
           </row>
           <row
-            n="264.2">
+            n="264_2">
             <cell/>
             <cell/>
             <cell>1</cell>
@@ -37130,7 +37130,7 @@
             <cell>278</cell>
           </row>
           <row
-            n="264.3">
+            n="264_3">
             <cell/>
             <cell/>
             <cell>2</cell>
@@ -37144,7 +37144,7 @@
             <cell>279</cell>
           </row>
           <row
-            n="264.4">
+            n="264_4">
             <cell/>
             <cell/>
             <cell>3</cell>
@@ -37165,7 +37165,7 @@
             <cell>CCLXV Olympias</cell>
           </row>
           <row
-            n="265.1">
+            n="265_1">
             <cell/>
             <cell/>
             <cell>4</cell>
@@ -37176,7 +37176,7 @@
             <cell>281</cell>
           </row>
           <row
-            n="265.2">
+            n="265_2">
             <cell/>
             <cell/>
             <cell>5</cell>
@@ -37186,7 +37186,7 @@
             <cell>282</cell>
           </row>
           <row
-            n="265.3">
+            n="265_3">
             <cell/>
             <cell/>
             <cell>6</cell>
@@ -37203,7 +37203,7 @@
             <cell n="carus">Romanorum XXXII, CARUS cum filiis CARINO et NUMERIANO, annis II.</cell>
           </row>
           <row
-            n="265.4">
+            n="265_4">
             <cell>2300</cell>
             <cell/>
             <cell>1</cell>
@@ -37217,7 +37217,7 @@
             <cell>CCLXVI Olympias</cell>
           </row>
           <row
-            n="266.1">
+            n="266_1">
             <cell/>
             <cell/>
             <cell>2</cell>
