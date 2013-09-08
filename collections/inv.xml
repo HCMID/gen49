@@ -31,4 +31,21 @@
         <citeProperty name="Image" label="Image"  type="citeimg"/>
         
     </citeCollection>
+    
+    
+    
+    
+    <citeCollection canonicalId="Graphic" label="Caption" urn="urn:cite:hcmid:gen49graphics">
+        <namespaceMapping abbr="hcmid" fullValue="http://shot.holycross.edu/hcmid/datans"></namespaceMapping>
+        <creator xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
+        <coverage xmlns="http://purl.org/dc/elements/1.1/">Graphic features of Geneva Latin MS 49.</coverage>
+        <description xmlns="http://purl.org/dc/elements/1.1/">Some graphic features in Geneva Latin MS 49.</description>
+        <rights xmlns="http://purl.org/dc/elements/1.1/">CC by-sa 3.0 unported</rights>
+        <orderedBy property="Sequence"></orderedBy>
+        <source  type="file" value="graphics.csv"></source>
+        <citeProperty name="Graphic" label="Graphic" type="citeurn"/>
+        <citeProperty name="Image" label="Image"  type="citeimg"/>
+        <citeProperty name="Caption" label="Summary" type="string"/>
+        
+    </citeCollection>
 </collectionService>
