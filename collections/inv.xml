@@ -12,7 +12,7 @@
         <source  type="file" value="gen49.tsv"></source>
         <citeProperty name="PageUrn" label="Page URN" type="citeurn"/>
        <citeProperty name="Sequence" label="Sequence" type="number"/>
- 
+ <citeProperty name="Quire" label="Quire number" type="number"></citeProperty>
         
         
     </citeCollection>
