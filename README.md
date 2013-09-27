@@ -1,7 +1,7 @@
 gen49
 =====
 
-Diplomatic edition of Geneva Latin MS 49.
+Diplomatic edition of Geneva Latin MS 49, Jerome's *Chronicles*.
 
 
 ## License ##
