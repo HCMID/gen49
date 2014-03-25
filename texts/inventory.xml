@@ -1,33 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="file:/data/repos/git/gen49/texts/TextInventory.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="TextInventory.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TextInventory
-    tiversion="4.0"
-    xmlns="http://chs.harvard.edu/xmlns/cts/ti">
+    tiversion="5.0.rc.1"
+    xmlns="http://chs.harvard.edu/xmlns/cts">
     <ctsnamespace
         abbr="latinLit"
         ns="http://www.stoa.org/ctsns/latinLit">
         <description
             xml:lang="eng"/>
     </ctsnamespace>
-    <collection
-        id="jerome">
-        <title
-            xml:lang="eng"
-            xmlns="http://purl.org/dc/elements/1.1/">Editions of Jerome's Chronicles</title>
-        <creator
-            xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
-        <coverage
-            xml:lang="eng"
-            xmlns="http://purl.org/dc/elements/1.1/">Versions edited from MSS, or in PD</coverage>
-        <description
-            xml:lang="eng"
-            xmlns="http://purl.org/dc/elements/1.1/">Selected editions of Jerome's
-            Chronicles</description>
-        <rights
-            xml:lang="eng"
-            xmlns="http://purl.org/dc/elements/1.1/">Creative Commons, Attribution Share-Alike
-            license</rights>
-    </collection>
+   
     <textgroup
         urn="urn:cts:latinLit:stoa0162">
         <groupname
@@ -42,8 +24,7 @@
                 <label xml:lang="eng">Digital edition based on public-domain text on tertullian web site, compared to readings in Helm</label>
                 <online
                     docname="JerChronicles-tert.xml">
-                    <validate
-                        schema="chstei.rng"/>
+                  
                     <namespaceMapping
                         abbreviation="tei"
                         nsURI="http://www.tei-c.org/ns/1.0"/>
