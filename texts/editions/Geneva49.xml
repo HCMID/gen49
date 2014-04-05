@@ -9,7 +9,10 @@
       <titleStmt>
         <title>Chronicles</title>
         <author>Jerome</author>
-        <editor>ADD YOUR NAME</editor>
+        <editor>Stephanie Neville</editor>
+        <editor>Steven Merolla</editor>
+        <editor>Charles Schufrieder</editor>
+        <editor>Nicholas Jalbert</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished</p>
@@ -27,28 +30,31 @@
       <table  n="t1">
           <row
             role="header" n="header">
-            <cell
-              role="abraham">Years from Abraham</cell>
-            <cell
-              role="olympiad"></cell>
+            <cell role="filum" n="medes">MEDORUM</cell>
+           
             
             <cell
-              role="filum" n="medes">Medorum</cell>
-            <cell
-              role="filum" n="captivity">Judaeorum Captivitas</cell>
+              role="filum" n="hebraeorum iudas">HEBRAEORUM IUDAS</cell>
             <cell
               role="spatium"/>
             <cell
-              role="filum" n="romans"></cell>
-            <cell
-              role="filum" n="macedonians"></cell>
-            <cell
-              role="filum" n="lydians"></cell>
+              role="filum" n="hebraeorum israel"><choice><abbr>HEBRAEOR</abbr><expan>HEBRAEORUM</expan></choice> ISRAEL</cell>
             <cell
               role="spatium"/>
+            <cell role="filum" n="Lydians">LUDORUM</cell>
+            <cell role="filum" n="Latins">LATINORUM</cell>
+            <cell role="filum" n="Athenians">ATHENIENSIUM</cell>
             <cell
-              role="filum" n="egyptians"></cell>
-            
+              role="spatium"/>
+            <cell role="filum" n="Macedonians">MACEDONUM</cell>
+            <cell
+              role="filium" n="Egyptians"><choice><abbr>REGN</abbr><expan>REGNUM</expan></choice> AEGYPTIORUM
+            </cell>
+            <cell role="annmundi">
+              <choice><abbr>ANN.</abbr><expan>ANNI</expan></choice> MUNDI
+            </cell>
+ 
+              
            
           </row>
           <row
