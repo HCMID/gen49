@@ -26,7 +26,7 @@
 
       <div n="14">
         <table n="t1">
-          <row role="header" n="header">
+          <row role="header" n="header_1">
             <cell role="filum" n="Medes">MEDORUM</cell>
 
 
@@ -134,7 +134,7 @@
             <cell>VIII</cell>
             <cell role="spatium"/>
           </row>
-          <row role="regnal">
+          <row role="regnal" n="1_3_r1">
             <cell>.</cell>
             <cell><choice>
                 <abbr>Hebraeoru</abbr>
@@ -171,7 +171,7 @@
             <cell>VI</cell>
             <cell>Athenis <choice>
                 <abbr>pmu</abbr>
-                <expan>primus</expan>
+                <expan>primum</expan>
               </choice> Trieres nauigauit: Amynocleo cursum dirigente.</cell>
             <cell>I</cell>
             <cell>IX</cell>
@@ -350,7 +350,7 @@
             <cell>XV</cell>
             <cell>Thersi. Cyrenem condiderunt ex responso phebi. Conditur urbis Bacthus cuius <choice>
                 <abbr>propum</abbr>
-                <expan>unknown</expan>
+                <expan>proprium</expan>
               </choice> aristeus.</cell>
             <cell>X</cell>
             <cell>XVIII</cell>
@@ -384,7 +384,7 @@
             <cell>XX</cell>
             <cell role="spatium"/>
           </row>
-          <row role="regnal">
+          <row role="regnal" n="4_3_r1">
             <cell><choice>
                 <abbr>Medoru</abbr>
                 <expan>Medorum</expan>
@@ -448,7 +448,7 @@
           </row>
 
 
-          <row role="header" n="header">
+          <row role="header" n="header_2">
             <cell role="filum" n="Medes">REGNUM MEDORUM</cell>
             <cell role="spatium"/>
             <cell role="filum" n="Judean Hebrews">HEBRAEORUM IUDA</cell>
@@ -503,7 +503,7 @@
                 <expan>unknown</expan>
               </choice> ethiopida composuit et <choice>
                 <abbr>Iliaca</abbr>
-                <expan>unknown</expan>
+                <expan>Iliacam</expan>
               </choice>
               <choice>
                 <abbr>uastatione</abbr>
@@ -522,7 +522,7 @@
             <cell>XXIIII</cell>
             <cell role="spatium"/>
           </row>
-          <row role="regnal">
+          <row role="regnal" n="5_3_r1">
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell>Hebraeorum Iuda .XIIII. ACHAZ. <choice>
@@ -570,7 +570,7 @@
                 <expan>unknown</expan>
               </choice> dies festus <choice>
                 <abbr>e</abbr>
-                <expan>unknown</expan>
+                <expan>est</expan>
               </choice> condita</cell>
             <cell>XVII</cell>
             <cell>XXV</cell>
@@ -608,7 +608,7 @@
             <cell>XXVI</cell>
             <cell role="spatium"/>
           </row>
-          <row role="regnal">
+          <row role="regnal" n="6_1_r1">
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
@@ -620,11 +620,49 @@
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
-            <cell>Remus rostro pastorali a fabio romuli duce occiditocciditur. ConsualibConsualibus
-              ludis sabine rapte anno ab urbe condita III. et una virginuvirginum pulcherrima
-              cunctocunctos acclamatione rapientiurapientium Talasso duci romuli decernitdecernitur.
-              ununknown in nuptianuptias solentiatib talasso uulgo clamentant. qunknown.sunknown.
-              talis nupta sit: que TalassuTalassum habere mercatur. </cell>
+            <cell>Remus rostro pastorali a fabio romuli duce <choice>
+                <abbr>occidit</abbr>
+                <expan>occiditur</expan>
+              </choice>
+              <choice>
+                <abbr>Consualib</abbr>
+                <expan>Consualibus</expan>
+              </choice> ludis sabine rapte anno ab urbe condita III. et una 
+              <choice>
+                <abbr>virginu</abbr>
+                <expan>virginum</expan>
+              </choice> pulcherrima cuncto
+              <choice>
+                <abbr>cuncto</abbr>
+                <expan>cunctorum</expan>
+              </choice> acclamatione 
+              <choice>
+                <abbr>rapientiu</abbr>
+                <expan>rapientium</expan>
+              </choice>Talasso duci romuli 
+              <choice>
+                <abbr>decernit</abbr>
+                <expan>decernitur</expan>
+              </choice>. 
+              <choice>
+                <abbr>un</abbr>
+                <expan>unknown</expan></choice> in 
+              <choice>
+                <abbr>nupita</abbr>
+                <expan>nuptiarum</expan>
+              </choice>
+              <choice>
+                <abbr>solenitatib</abbr>
+                <expan>unknown</expan>
+              </choice> talasso uulgo clamentant. 
+              <choice>
+                <abbr>q</abbr>
+                <expan>unknown</expan>
+              </choice>. <choice>
+                <abbr>s</abbr>
+                <expan>unknown</expan>
+              </choice>. talis nupta sit: que
+              <choice><abbr>Talassu</abbr><expan>Talassum</expan></choice> habere mercatur. </cell>
             <cell><choice>
                 <abbr>Atheniensiu.</abbr>
                 <expan>Atheniensium</expan>
@@ -670,7 +708,7 @@
             <cell role="spatium"/>
 
           </row>
-          <row role="regnal">
+          <row role="regnal" n="6_3_r1">
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
@@ -717,11 +755,11 @@
                 <expan>usque</expan>
               </choice> in. X. <choice>
                 <abbr>annu</abbr>
-                <expan>unknown</expan>
+                <expan>annum</expan>
               </choice>
               <choice>
                 <abbr>magistratuu</abbr>
-                <expan>unknown</expan>
+                <expan>magistratuum</expan>
               </choice> gsuetudo uersa est. <choice>
                 <abbr>regnauitq</abbr>
                 <expan>regnauitque</expan>
@@ -750,7 +788,7 @@
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
-          <row role="regnal">
+          <row role="regnal" n="7_r1">
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
@@ -893,7 +931,7 @@
             <cell>XXXV</cell>
             <cell role="spatium"/>
           </row>
-          <row role="regnal" n="7_2_1">
+          <row role="regnal" n="8_2_r1">
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
@@ -906,7 +944,7 @@
                 <expan>unknown</expan>
               </choice><choice>
                 <abbr>Sabina</abbr>
-                <expan>Sabinas</expan>
+                <expan>Sabinarum</expan>
               </choice>
               <choice>
                 <abbr>raptu</abbr>
@@ -930,7 +968,7 @@
       </div>
       <div n="15">
         <table n="t1">
-          <row role="header" n="header">
+          <row role="header" n="header_1">
             <cell role="filum" n="Medes">MEDORVM</cell>
             <cell role="filum" n="Hebrews">HEBRAEORVM.</cell>
             <cell role="filum" n="Lydians">LUDORVM</cell>
@@ -946,7 +984,7 @@
           </row>
         </table>
         <table n="t2">
-          <row>
+          <row role="header" n="header_1">
             <cell>Decem tribus gentis Iudae: que <choice>
                 <abbr>uocabant</abbr>
                 <expan>uocabantur</expan>
@@ -1006,7 +1044,7 @@
           </row>
         </table>
         <table n="t3">
-          <row role="header">
+          <row role="header" n="header_1">
             <cell role="filum" n="Medes">MEDORVM.</cell>
             <cell role="filum" n="Hebrews">
               <choice>
@@ -1053,7 +1091,7 @@
             <cell>XXXVI</cell>
             <cell role="spatium"/>
           </row>
-          <row n="84">
+          <row n="8_4">
             <cell>XVII</cell>
             <cell>XIII</cell>
             <cell role="spatium"/>
