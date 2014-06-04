@@ -1725,7 +1725,349 @@
             <cell role="spatium"/>
             <cell>VII</cell>
             <cell role="spatium"/>
+            </row>
+            <row
+              role="header"
+              n="header_3"> 
+              <cell role="filum" n="Medes">MEDORVM</cell>
+              <cell role="filum" n="Hebrews">HEBRAEORVM. iuda</cell>
+              <cell role="spatium"/>
+              <cell role="filum" n="Lydia">LVDORVM</cell>
+              <cell role="filum" n="Athenians">ATHENIENSIVM.</cell>
+              <cell role="spatium"/>
+              <cell role="filum" n="Macedonians"><choice><abbr>REGN</abbr><expan>regnum</expan></choice> MACEDONVM</cell>
+              <cell role="filum" n="Romans">ROMANORVM</cell>
+              <cell role="spatium"/>
+              <cell role="filum" n="Egyptians">AEGYPTIORVM</cell>
+              <cell role="spatium"/>
+              <cell role="annmundi"><choice><abbr>ANN.</abbr><expan>anni</expan></choice> MVNDI.</cell>
+            </row>
+          <row
+            n="15_4">
+            <cell>V</cell>
+            <cell>XXV</cell>
+            <cell role="spatium"/>
+            <cell>XII</cell>
+            <cell>VII</cell>
+            <cell>Bellum quod in <placeName n="Thirea">Thirea inter </placeName> <rs type="ethnic" n="lacedemonians">lacedemonios </rs> et <rs type="ethnic" n="argives">argiuos </rs> gestum est.</cell>
+            <cell>XVIIII</cell>
+            <cell>XXXVI</cell>
+            <cell role="spatium"/>
+            <cell>VIII</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
           </row>
+          <row
+            role="Olympiad"
+            n="16">
+            <cell>Olympias. XVI</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell><rs type="ethnic" n="Lydians">Lydorum</rs>.IV <persName n="Candaules">Candaules</persName>. <choice><abbr>ann.</abbr><expan>annos</expan></choice> XVII.  </cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+        
         </table>
       </div>
     </body>
