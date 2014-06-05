@@ -3485,7 +3485,7 @@
             <cell role="filum" n="Medes"><rs type="ethnic">MEDORVM</rs></cell>
             <cell role="spatium"/>
             <cell role="filum" n="Hebrews"><rs type="ethnic"><choice>
-                  <abbr>HEBRAEORU</abbr>
+                  <abbr>HEBRAEOR</abbr>
                   <expan>HEBRAEORVM</expan>
                 </choice> IVDA</rs></cell>
             <cell role="spatium"/>
@@ -3876,6 +3876,296 @@
                 <expan>unknownpaleo</expan>
               </choice> condita.</cell>
             <cell><num>XXVIII</num></cell>
+            <cell role="spatium"/>
+          </row>
+          <row>
+            <cell role="filum" n="Medes"><rs type="ethnic">MEDORVM</rs></cell>
+            <cell role="spatium"/>
+            <cell role="filum" n="Hebrews"><rs type="ethnic">HEBRAEORVM IVDA</rs></cell>
+            <cell role="filum" n="Lydia">
+              <rs type="ethnic">LYDORVM</rs></cell>
+            <cell role="filum" n="Macedonians"><rs type="ethnic">MACEDONVM</rs></cell>
+            <cell role="filum" n="Romans"><rs type="ethnic">ROMANORVM</rs></cell>
+            <cell role="spatium"/>
+            <cell role="filum" n="Egyptians"><rs type="ethnic">AEGYPTIORVM</rs></cell>
+            <cell role="annmundi"><choice>
+              <abbr>ANN.</abbr>
+              <expan>anni</expan>
+            </choice> MVNDI.</cell>
+          </row>
+          <row n="37_2">
+            <cell>XXIIII</cell>
+            <cell role="spatium"/>
+            <cell>XV</cell>
+            <cell>XXXIII</cell>
+            <cell>XVI</cell>
+            <cell>XI</cell>
+            <cell role="spatium"/>
+            <cell>XXIX</cell>
+            <cell role="spatium"/>
+          </row>
+          <row role="regnal" n="37_2_r1">
+            <cell><rs type="ethnic"><choice><abbr>Medoru</abbr><expan>Medorum</expan></choice></rs>. VII. <persName>Cyaxares</persName>. <choice><abbr>ann</abbr><expan>annos</expan></choice>. XXXII.</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="37_3">
+            <cell>I</cell>
+            <cell role="spatium"/>
+            <cell>XVI</cell>
+            <cell>XXXIIII</cell>
+            <cell>XVII</cell>
+            <cell>XII</cell>
+            <cell role="spatium"/>
+            <cell>XXX</cell>
+            <cell role="annmundi">IIIIDLXX</cell>
+          </row>
+          <row n="37_4">
+            <cell>II</cell>
+            <cell role="spatium"/>
+            <cell>XVII</cell>
+            <cell>XXXV</cell>
+            <cell>XVIII</cell>
+            <cell>XIII</cell>
+            <cell role="spatium"/>
+            <cell>XXXI</cell>
+            <cell role="spatium"/>
+          </row>
+          <row role="olympiad" n="38">
+            <cell><choice><abbr>Olymp</abbr><expan>Olympias</expan></choice>. XXXVIII</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="38_1">
+            <cell>III</cell>
+            <cell role="spatium"/>
+            <cell>XVIII</cell>
+            <cell>XXXVI</cell>
+            <cell>XIX</cell>
+            <cell>XIIII</cell>
+            <cell>Apud <rs type="ethnic">Chorinthios</rs> Tyrannidem execuit <persName>PERIANDER</persName>.</cell>
+            <cell>XXXII</cell>
+            <cell role="spatium"/>
+          </row>
+          <row n="38_2">
+            <cell>IIII</cell>
+            <cell role="spatium"/>
+            <cell>XIX</cell>
+            <cell>XXXVII</cell>
+            <cell>XX</cell>
+            <cell>XV</cell>
+            <cell role="spatium"/>
+            <cell>XXXIII</cell>
+            <cell role="spatium"/>
+          </row>
+          <row role="regnal">
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell><rs type="ethnic">Lydorum</rs>. VII. <persName>Sadiates</persName>. <choice><abbr>ann</abbr><expan>annos</expan></choice>. XV.</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="38_3">
+            <cell>V</cell>
+            <cell><placeName>Prussia</placeName> condita. <persName>Phalaridis</persName> tyrannis destructa.</cell>
+            <cell>XX</cell>
+            <cell>I</cell>
+            <cell>XXI</cell>
+            <cell>XVI</cell>
+            <cell><persName>Ancus marcus</persName> <persName>numae</persName> ex filia nepos: <placeName><choice><abbr>auentinu</abbr><expan>auentinum</expan></choice> <choice><abbr>monte</abbr><expan>montem</expan></choice></placeName> et <placeName>Ianiculum</placeName> urbi addidit. et supra mare <choice><abbr>XVI</abbr><expan>unknown</expan></choice> ab urbe miliario <placeName>Ostiam</placeName> condidit. Ad <choice><abbr>extremu</abbr><expan>extremum</expan></choice> morbo periit.</cell>
+            <cell>XXXIIII</cell>
+            <cell role="spatium"/>
+          </row>
+          <row n="38_4">
+            <cell>VI</cell>
+            <cell><placeName>Epidamnis</placeName> condita. <choice><abbr>q</abbr><expan>que</expan></choice> postea vocata <choice><abbr>e</abbr><expan>est</expan></choice> <placeName>dirachium</placeName>.</cell>
+            <cell>XXI</cell>
+            <cell>II</cell>
+            <cell>XXII</cell>
+            <cell>XXVII</cell>
+            <cell role="spatium"/>
+            <cell>XXXV</cell>
+            <cell role="spatium"/>
+          </row>
+          <row role="olympiad" n="39">
+            <cell><choice><abbr>Olymp</abbr><expan>Olympias</expan></choice>. XXXVIIII</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="39_1">
+            <cell>VII</cell>
+            <cell role="spatium"/>
+            <cell>XXII</cell>
+            <cell>III</cell>
+            <cell>XXIII</cell>
+            <cell>XVIII</cell>
+            <cell role="spatium"/>
+            <cell>XXXVI</cell>
+            <cell role="spatium"/>
+          </row>
+          <row n="39_2">
+            <cell>VIII</cell>
+            <cell role="spatium"/>
+            <cell>XXIII</cell>
+            <cell>IIII</cell>
+            <cell>XXIIII</cell>
+            <cell>XIX</cell>
+            <cell role="spatium"/>
+            <cell>XXXVII</cell>
+            <cell role="spatium"/>
+          </row>
+          <row n="39_3">
+            <cell>IX</cell>
+            <cell role="spatium"/>
+            <cell>XXIIII</cell>
+            <cell>V</cell>
+            <cell>XXV</cell>
+            <cell>XX</cell>
+            <cell role="spatium"/>
+            <cell>XXXVIII</cell>
+            <cell role="spatium"/>
+          </row>
+          <row n="39_4">
+            <cell>X</cell>
+            <cell role="spatium"/>
+            <cell>XXV</cell>
+            <cell>VI</cell>
+            <cell>XXVI</cell>
+            <cell>XXI</cell>
+            <cell><persName>Draco</persName> legum lator ut quibusdam <choice><abbr>videt</abbr><expan>videtur</expan></choice> <choice><abbr>agnoscit</abbr><expan>agnoscitur</expan></choice>.</cell>
+            <cell>XXXIX</cell>
+            <cell role="spatium"/>
+          </row>
+          <row role="Olympiad" n="40">
+            <cell><choice><abbr>Olymp</abbr><expan>Olympias</expan></choice>. XL</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="40_1">
+            <cell>XI</cell>
+            <cell role="spatium"/>
+            <cell>XXVI</cell>
+            <cell>VII</cell>
+            <cell>XXVII</cell>
+            <cell>XXII</cell>
+            <cell role="spatium"/>
+            <cell>XL</cell>
+            <cell role="annmundi">IIIIDLXXX.</cell>
+          </row>
+          <row n="40_2">
+            <cell>XII</cell>
+            <cell><persName>Cyazares</persName> aduersum <rs type="ethnic">Assyrios</rs> dimicans: <placeName>NINVM</placeName> ciuitatem capit.</cell>
+            <cell>XXVII</cell>
+            <cell>VIII</cell>
+            <cell>XXVIII</cell>
+            <cell>XXIII</cell>
+            <cell role="spatium"/>
+            <cell>XLI</cell>
+            <cell role="spatium"/>
+          </row>
+          <row role="regnal" n="40_2_r1">
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell><rs type="ethnic"><choice><abbr>Romanoru</abbr><expan>Romanorum</expan></choice></rs>. V. <persName>Tarquinus Priscus</persName>. <choice><abbr>ann.</abbr><expan>annos</expan></choice> XXXVII.</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="40_3">
+            <cell>XIII</cell>
+            <cell role="spatium"/>
+            <cell>XXVIII</cell>
+            <cell>IX</cell>
+            <cell>XXIX</cell>
+            <cell>I</cell>
+            <cell><placeName>TARquinus priscus</placeName> <choice><abbr>capitoliu</abbr><expan>capitolium</expan></choice> extruxit.</cell>
+            <cell>XLII</cell>
+            <cell role="spatium"/>
+          </row>
+          <row n="40_4">
+            <cell>XIIII</cell>
+            <cell role="spatium"/>
+            <cell>XXIX</cell>
+            <cell>X</cell>
+            <cell>XXX</cell>
+            <cell>II</cell>
+            <cell role="spatium"/>
+            <cell>XLIII</cell>
+            <cell role="spatium"/>
+          </row>
+          <row role="Olympiad" n="41">
+            <cell><choice><abbr>Olymp.</abbr><expan>Olympias</expan></choice> XLI.</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="41_1">
+            <cell>XV</cell>
+            <cell role="spatium"/>
+            <cell>XXX</cell>
+            <cell>XI</cell>
+            <cell>XXXI</cell>
+            <cell>III</cell>
+            <cell><persName>ARION</persName> <rs type="ethnic">Metynneus</rs> clarus <choice><abbr>hr</abbr><expan>habetur</expan></choice> qui a <placeName>Delfino</placeName> <choice><abbr>i</abbr><expan>in</expan></choice> portum <rs type="ethnic"><choice><abbr>tena</abbr><expan>tenarum</expan> </choice></rs><choice><abbr>dicit</abbr><expan>dicitur</expan></choice> tranportatus.</cell>
+            <cell>XLIIII</cell>
+            <cell role="spatium"/>
+          </row>
+          <row role="regnal" n="41_1_r1">
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell><rs type="ethnic">Aegypti</rs> <persName>Nechao</persName>. II. qui et <persName>Nechepsos</persName> <choice><abbr>ann.</abbr><expan>annos</expan></choice> VI.</cell>
+            <cell role="spatium"/>
+          </row>
+          <row n="41_2">
+            <cell>XVI</cell>
+            <cell role="spatium"/>
+            <cell>XXXI</cell>
+            <cell>XII</cell>
+            <cell>XXXII</cell>
+            <cell>IIII</cell>
+            <cell role="spatium"/>
+            <cell>I</cell>
             <cell role="spatium"/>
           </row>
         </table>
