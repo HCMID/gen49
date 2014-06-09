@@ -4267,14 +4267,15 @@
               <expan>anni</expan>
             </choice> MVNDI.</cell>
           </row>
-          <row>
-            <cell></cell>
+          <row
+            n="41_3">
+            <cell><num>XVII</num></cell>
             <cell role="spatium"/>
-            <cell></cell>
-            <cell role="spatium"/>
-            <cell></cell>
-            <cell></cell>
-            <cell></cell>
+            <cell><num>XXXII</num></cell>
+            <cell><persName>IOSIAS</persName> Rex <rs type="ethnic">Iudeorum</rs> <choice><abbr>cu</abbr><expan>cum</expan></choice> <persName>nechaone</persName> <rs type="ethnic">aegyptiorum</rs> rege congressus <choice><abbr>occidit</abbr><expan>occiditur</expan></choice>. ac <choice><abbr>m</abbr><expan>unknown</expan></choice> <choice><abbr>miraculu</abbr><expan>miraculum</expan></choice> subit <choice><abbr>quo</abbr><expan>unknown</expan> <choice><abbr>i</abbr><expan>in</expan></choice></choice> <choice><abbr>psens</abbr><expan>praesens</expan></choice> tempus sibi <choice><abbr>uterq</abbr><expan>uterque</expan></choice> conuenerit. Maxime cum scriptura diuina hunc eundem <choice><abbr>pharaone</abbr><expan>pharaonem</expan></choice> <persName><choice><abbr>Nechaone</abbr><expan>Nechaonem</expan></choice></persName> apellit.</cell>
+            <cell><num>XIII</num></cell>
+            <cell><num>XXXIII</num></cell>
+            <cell><num>V</num></cell>
             <cell role="spatium"/>
             <cell></cell>
             <cell role="spatium"/>
