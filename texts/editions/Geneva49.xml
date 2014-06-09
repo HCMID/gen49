@@ -4747,14 +4747,14 @@
             </choice> MVNDI.</cell>
           </row>
           <row n="45_3">
-            <cell>I</cell>
-            <cell>IIII</cell>
+            <cell><num>I</num></cell>
+            <cell><num>IIII</num></cell>
             <cell role="spatium"/>
-            <cell>XIIII</cell>
-            <cell>XI</cell>
-            <cell>XXI</cell>
+            <cell><num>XIIII</num></cell>
+            <cell><num>XI</num></cell>
+            <cell><num>XXI</num></cell>
             <cell><persName>TARQVINUS priscus</persName> circum <placeName>Rome</placeName> edificauit. <choice><abbr>Numeru</abbr><expan>Numerum</expan></choice> <choice><abbr>senatoru</abbr><expan>senatorum</expan></choice> auxit. <rs type="ethnic">Romanos</rs> ludos instituit. Muros et cloachos edificauit. Ab <persName>anci</persName> filiis occisus <choice><abbr>e</abbr><expan>est</expan></choice>: Regis eius qui <choice><abbr>ipe</abbr><expan>unknown</expan></choice> successerat.</cell>
-            <cell>XII</cell>
+            <cell><num>XII</num></cell>
             <cell role="spatium"/>
           </row>
           <row role="regnal" n="45_3_r1">
@@ -4769,18 +4769,18 @@
             <cell role="spatium"/>
           </row>
           <row n="45_4">
-            <cell>II</cell>
-            <cell>V</cell>
+            <cell><num>II</num></cell>
+            <cell><num>V</num></cell>
             <cell role="spatium"/>
-            <cell>XV</cell>
-            <cell>XII</cell>
-            <cell>XXII</cell>
+            <cell><num>XV</num></cell>
+            <cell><num>XII</num></cell>
+            <cell><num>XXII</num></cell>
             <cell><persName>Epimenides</persName> <placeName>athenas</placeName> emundauit. <persName>Solon</persName> <persName>draconis</persName> <choice><abbr>legib</abbr><expan>legibus</expan></choice> <choice><abbr>antiqatis</abbr><expan>antiquatisunknown</expan></choice> extra eas que ad sanguinem pertinebant: iura sua constituit.</cell> 
-            <cell>I</cell>
+            <cell><num>I</num></cell>
             <cell role="spatium"/>
           </row>
           <row role="olympiad" n="46">
-            <cell><choice><abbr>Olymp</abbr><expan>Olympias</expan></choice>. XLVI</cell>
+            <cell><choice><abbr>Olymp</abbr><expan>Olympias</expan></choice>. <num>XLVI</num></cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
@@ -4791,43 +4791,43 @@
             <cell role="spatium"/>
           </row>
           <row n="46_1">
-            <cell>III</cell>
-            <cell>VI</cell>
+            <cell><num>III</num></cell>
+            <cell><num>VI</num></cell>
             <cell role="spatium"/>
-            <cell>XVI</cell>
-            <cell>XIII</cell>
-            <cell>XXIII</cell>
+            <cell><num>XVI</num></cell>
+            <cell><num>XIII</num></cell>
+            <cell><num>XXIII</num></cell>
             <cell role="spatium"/>
-            <cell>II</cell>
+            <cell><num>II</num></cell>
             <cell role="spatium"/>
           </row>
           <row n="46_2">
-            <cell>IIII</cell>
-            <cell>XII</cell>
+            <cell><num>IIII</num></cell>
+            <cell><num>XII</num></cell>
             <cell role="spatium"/>
-            <cell>XVII</cell>
-            <cell>XIIII</cell>
-            <cell>XXIIII</cell>
+            <cell><num>XVII</num></cell>
+            <cell><num>XIIII</num></cell>
+            <cell><num>XXIIII</num></cell>
             <cell role="spatium"/>
-            <cell>III</cell>
+            <cell><num>III</num></cell>
             <cell role="spatium"/>
           </row>
           <row n="46_3">
-            <cell>V</cell>
-            <cell>VIII</cell>
+            <cell><num>V</num></cell>
+            <cell><num>VIII</num></cell>
             <cell role="spatium"/>
-            <cell>XVIII</cell>
-            <cell>XV</cell>
-            <cell>XXV</cell>
+            <cell><num>XVIII</num></cell>
+            <cell><num>XV</num></cell>
+            <cell><num>XXV</num></cell>
             <cell role="spatium"/>
-            <cell>IIII</cell>
+            <cell><num>IIII</num></cell>
             <cell role="spatium"/>
           </row>
           <row n="46_4">
-            <cell>VI</cell>
-            <cell>IX</cell>
+            <cell><num>VI</num></cell>
+            <cell><num>IX</num></cell>
             <cell role="spatium"/>
-            <cell>XIX</cell>
+            <cell><num>XIX</num></cell>
             <cell>XVI</cell>
             <cell>XXVI</cell>
             <cell role="spatium"/>
@@ -4835,7 +4835,7 @@
             <cell role="spatium"/>
           </row>
           <row role="olympiad" n="47">
-            <cell><choice><abbr>Olymp</abbr><expan>Olympias</expan></choice> XLVII</cell>
+            <cell><choice><abbr>Olymp</abbr><expan>Olympias</expan></choice> <num>XLVII</num></cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
@@ -4846,26 +4846,26 @@
             <cell role="spatium"/>
           </row>
           <row n="47_1">
-            <cell>VII</cell>
-            <cell>X</cell>
+            <cell><num>VII</num></cell>
+            <cell><num>X</num></cell>
             <cell role="spatium"/>
-            <cell>XX</cell>
-            <cell>XVII</cell>
-            <cell>XXVII</cell>
+            <cell><num>XX</num></cell>
+            <cell><num>XVII</num></cell>
+            <cell><num>XXVII</num></cell>
             <cell role="spatium"/>
             <cell>VI</cell>
             <cell role="spatium"/>
           </row>
           <row n="47_2">
-            <cell>VIII</cell>
-            <cell>XI</cell>
+            <cell><num>VIII</num></cell>
+            <cell><num>XI</num></cell>
             <cell role="spatium"/>
-            <cell>XXI</cell>
-            <cell>XVIII</cell>
-            <cell>XXVIII</cell>
-            <cell>His temporibus certantibus in agone Tragus. I. hircus <choice><abbr>i</abbr><expan>in</expan></choice> <choice><abbr>pmio</abbr><expan>praemio</expan></choice> <choice><abbr>dabat</abbr><expan>dabatur</expan></choice>. Vnde aiunt tragoedos nuncupatus. <rs type="ethnic"><choice><abbr>Corinthioru</abbr><expan>Corinthiorum</expan></choice> monarchia destructa est.</rs></cell>
-            <cell>VII</cell>
-            <cell role="annimundi">IIIIDCX.</cell>
+            <cell><num>XXI</num></cell>
+            <cell><num>XVIII</num></cell>
+            <cell><num>XXVIII</num></cell>
+            <cell>His temporibus certantibus in agone Tragus. <num>I</num>. hircus <choice><abbr>i</abbr><expan>in</expan></choice> <choice><abbr>pmio</abbr><expan>praemio</expan></choice> <choice><abbr>dabat</abbr><expan>dabatur</expan></choice>. Vnde aiunt tragoedos nuncupatus. <rs type="ethnic"><choice><abbr>Corinthioru</abbr><expan>Corinthiorum</expan></choice> monarchia destructa est.</rs></cell>
+            <cell><num>VII</num></cell>
+            <cell role="annimundi"><num>IIIIDCX</num>.</cell>
           </row>
           <row>
             <cell role="spatium"/>
