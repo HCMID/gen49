@@ -4970,7 +4970,8 @@
             <cell><p>CAPTIVITAS. <rs type="ethnic"><choice>
                     <abbr>IVDAEORV</abbr>
                     <expan>IVDAEORVM</expan>
-                  </choice></rs>.</p><persName>Nabuchdonosor</persName> Rex <rs type="ethnic"
+                  </choice></rs>.</p>
+              <p><persName>Nabuchdonosor</persName> Rex <rs type="ethnic"
                 >caldeorum</rs>
               <rs type="ethnic">hyersolimis</rs> captis templum incendit quod ab inicio
               edificationis suae permanserat <choice>
@@ -5027,7 +5028,14 @@
                 <abbr>annu</abbr>
                 <expan>annum</expan>
               </choice>
-              <persName>darii</persName>.<p/><p>Capta <placeName>hierosolima</placeName> ab <rs
+              <persName>darii</persName>.
+              
+              </p>
+              
+              
+              
+              
+              <p>Capta <placeName>hierosolima</placeName> ab <rs
                 type="ethnic">Assyriis</rs> ad <persName>Vafrem</persName> regem
                 <placeName>egypti</placeName> reliqui <rs type="ethnic"><choice>
                   <abbr>iudeoru</abbr>
