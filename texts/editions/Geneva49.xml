@@ -5356,7 +5356,7 @@
             <cell role="spatium"/>
             <cell><num>VIII</num></cell>
             <cell><num>VII</num></cell>
-            <cell role="spatium"/>
+            <cell>Agon <rs type="ethnic">nemeus</rs> <choice><abbr>pmu</abbr><expan>primum</expan></choice> ab <rs type="ethnic">argiuis</rs> actus. Post eum qui sub <persName>Archemoro</persName>fuerant.</cell>
             <cell><num>XXIII</num></cell>
             <cell role="spatium"/>
           </row>
@@ -5382,7 +5382,7 @@
             <cell role="spatium"/>
             <cell><num>X</num></cell>
             <cell><num>IX</num></cell>
-            <cell role="spatium"/>
+            <cell><persName>Phalaris</persName> tirannidem exercuit <choice><abbr>ann.</abbr><expan>annos</expan></choice> XVI.</cell>
             <cell><num>XXV</num></cell>
             <cell role="spatium"/>
           </row>
@@ -5434,7 +5434,7 @@
             <cell role="spatium"/>
             <cell><num>XIII</num></cell>
             <cell><num>XII</num></cell>
-            <cell role="spatium"/>
+            <cell><persName>Abaris</persName> de <placeName>Scythia</placeName> uenit <choice><abbr>i</abbr><expan>in</expan></choice> <placeName><choice><abbr>grecia</abbr><expan>greciam</expan></choice></placeName>.</cell>
             <cell><num>XXVIII</num></cell>
             <cell role="spatium"/>
           </row>
@@ -5473,7 +5473,7 @@
             <cell role="spatium"/>
             <cell><num>XV</num></cell>
             <cell><num>XIIII</num></cell>
-            <cell role="spatium"/>
+            <cell><persName>Eugamon</persName> <rs type="ethnic">Cyreneus</rs> qui <choice><abbr>theogonia</abbr><expan>theogoniam</expan></choice> scripsit <choice><abbr>agnoscit</abbr><expan>agnoscitur.</expan></choice></cell>
             <cell><num>XXX</num></cell>
             <cell role="spatium"/>
           </row>
