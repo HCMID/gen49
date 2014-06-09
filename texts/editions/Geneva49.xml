@@ -253,7 +253,7 @@
                 <abbr>secundu</abbr>
                 <expan>secundum</expan>
               </choice><choice>
-                <abbr>qsola</abbr>
+                <abbr>qsola</abbr><expan>unknown</expan>
               </choice> clarus <choice>
                 <abbr>hr</abbr>
                 <expan>habetur</expan>
@@ -1000,7 +1000,7 @@
             <cell role="filum" n="Medes"><rs type="ethnic">MEDORVM</rs></cell>
             <cell role="filum" n="Hebrews"><rs type="ethnic">HEBRAEORVM</rs>.</cell>
             <cell role="filum" n="Lydians"><rs type="ethnic">lLYDORVM</rs></cell>
-            <cell role="filum" n="Athenians"><rs type="ethnic">ATENIENSIVM</rs></cell>
+            <cell role="filum" n="Athenians"><rs type="ethnic"><choice><sic>ATENIENSIVM</sic><corr>ATHENIENSIVM</corr></choice></rs></cell>
             <cell role="filum" n="Macedonians"><rs type="ethnic">MACEDONVM</rs></cell>
             <cell role="filum" n="Romans"><rs type="ethnic">ROMANORVM</rs></cell>
             <cell role="filium" n="Egyptians"><rs type="ethnic">AEGYPTIORVM</rs>
@@ -3821,7 +3821,7 @@
             <cell><num>XXI</num></cell>
             <cell role="spatium"/>
             <cell><num>XII</num></cell>
-            <cell><persName>Olda</persName> mulier apud <rs type="ethnic">hebaeoshebraeos</rs>
+            <cell><persName>Olda</persName> mulier apud <rs type="ethnic"><choice><sic>hebaeos</sic><corr>hebraeos</corr></choice></rs>
               prophetabat.</cell>
             <cell><num>XXX</num></cell>
             <cell><num>XIII</num></cell>
