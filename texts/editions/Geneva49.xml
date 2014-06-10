@@ -6830,8 +6830,8 @@
               </choice> MVNDI.</cell>
           </row>
           <row n="64_4">
-            <cell>II</cell>
-            <cell>Ideo. II. annus bis <choice>
+            <cell><num>II</num></cell>
+            <cell>Ideo. <num>II</num>. annus bis <choice>
                 <abbr>scribit</abbr>
                 <expan>scribitur</expan>
               </choice> quia unus <choice>
@@ -6840,7 +6840,7 @@
               </choice> magorum <choice>
                 <abbr>fratru</abbr>
                 <expan>fratrum</expan>
-              </choice> VII. <choice>
+              </choice> <num>VII</num>. <choice>
                 <abbr>mensib</abbr>
                 <expan>mensibus</expan>
               </choice>
@@ -6848,14 +6848,14 @@
                 <abbr>computat</abbr>
                 <expan>computatur</expan>
               </choice>.</cell>
-            <cell>LXX</cell>
+            <cell><num>LXX</num></cell>
             <cell>Secundo anno <persName>Darii</persName> regis templum <rs type="ethnic"><choice>
                   <sic>hierosolims</sic>
                   <corr>hierosolimis</corr>
                 </choice></rs> extruitur ab <persName>ZORObabel</persName>. <choice>
                 <abbr>consumaturq</abbr>
                 <expan>consumaturque</expan>
-              </choice> opus annis. IIII. Remissio quidem captiuitatis <choice>
+              </choice> opus annis. <num>IIII</num>. Remissio quidem captiuitatis <choice>
                 <abbr>iudeo</abbr>
                 <expan>iudeorum</expan>
               </choice> et uenia templi edificandi su <persName>Cyro</persName> exordium habuit.
@@ -6880,16 +6880,16 @@
               </choice> StromateUnknown ita scribens. Et perseuerauit Captiuitas <choice>
                 <abbr>ann.</abbr>
                 <expan>annos</expan>
-              </choice> LXX. <choice>
+              </choice> <num>LXX</num>. <choice>
                 <abbr>usq</abbr>
                 <expan>usque</expan>
-              </choice> ad. II. annum <persName>darii</persName> filii
+              </choice> ad. <num>II</num>. annum <persName>darii</persName> filii
                 <persName>histaspis</persName>: qui <rs type="ethnic">persis</rs>
               <rs type="ethnic">assyriis</rs> et <placeName>egypto</placeName> regnauit. Sub <choice>
                 <abbr>q</abbr>
                 <expan>quo</expan>
               </choice>
-              <persName>Aggeus</persName> et <persName>Zacharias</persName> et unus ex XII. qui
+              <persName>Aggeus</persName> et <persName>Zacharias</persName> et unus ex <num>XII</num>. qui
               uocatur angelus prophetauerunt. <choice>
                 <abbr>Sacerdotioq</abbr>
                 <expan>Sacerdotioque</expan>
@@ -6899,7 +6899,7 @@
               </choice> uir. Quod <choice>
                 <abbr>aut</abbr>
                 <expan>autem</expan>
-              </choice> LXX annus desolationes templi altero anno <persName>Darii</persName> fuerit
+              </choice> <num>LXX</num> annus desolationes templi altero anno <persName>Darii</persName> fuerit
               expletus domesticus testis est <persName>Zacharias</persName> propheta: Secundo anno
                 <persName>darii</persName> ita dicens. Domine omnipotens: quo <choice>
                 <abbr>usq</abbr>
@@ -6912,13 +6912,13 @@
               <choice>
                 <abbr>qas</abbr>
                 <expan>quas</expan>
-              </choice> despexisti. Iste LXX annus.</cell>
-            <cell>XXXIII</cell>
-            <cell>XXVII</cell>
-            <cell role="annimundi">IIIIDCLXXX.</cell>
+              </choice> despexisti. Iste <num>LXX</num> annus.</cell>
+            <cell><num>XXXIII</num></cell>
+            <cell><num>XXVII</num></cell>
+            <cell role="annimundi"><num>IIIIDCLXXX</num>.</cell>
           </row>
           <row role="olympiad" n="65">
-            <cell>Olympias. LXV. IN QUA <rs type="ethnic"><choice><abbr>PERSARU</abbr><expan>PERSARUM</expan></choice></rs> REGIS <persName>DARII</persName> FILII <persName>HISTASPIS</persName> FVIT ANNVS SECVNDVS</cell>
+            <cell>Olympias. <num>LXV</num>. IN QUA <rs type="ethnic"><choice><abbr>PERSARU</abbr><expan>PERSARUM</expan></choice></rs> REGIS <persName>DARII</persName> FILII <persName>HISTASPIS</persName> FVIT ANNVS SECVNDVS</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
@@ -6938,9 +6938,9 @@
             <cell role="spatium"/>
           </row>
           <row n="65_1">
-            <cell>II</cell>
+            <cell><num>II</num></cell>
             <cell role="spatium"/>
-            <cell>XXVIII</cell>
+            <cell><num>XXVIII</num></cell>
             <cell/>
             <cell role="spatium"/>
             <cell role="spatium"/>
