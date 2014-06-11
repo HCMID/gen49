@@ -7033,7 +7033,7 @@
             <row role="header" n="header_1">
               <cell n="annimundi"><choice><abbr>ANN</abbr><expan>ANNI</expan></choice>. MVNDI</cell>
               <cell role="filum" n="Persians"><rs type="ethnic">PERSARVM</rs></cell>
-              <cell role="filum" n="Romans">INICIVM. CONSVLVM. <rs type="ethnic">ROMANORVM</rs>.</cell>
+              <cell role="filum" n="Roman Consuls">INICIVM. CONSVLVM. <rs type="ethnic">ROMANORVM</rs>.</cell>
               <cell role="filum" n="Macedonians"><rs type="ethnic">MACEDONVM</rs></cell>            
               <cell role="spatium"/>
             </row>
@@ -7184,7 +7184,7 @@
           </row>
           <row role="header" n="header_2">
             <cell role="filum" n="Persians"><rs type="ethnic"><choice><sic>RERSARVM</sic><corr>PERSARVM</corr></choice></rs></cell>
-            <cell role="filum" n="Romans">INICIVM. CONSVLVM. <rs type="ethnic">ROMANORVM</rs>.</cell>
+            <cell role="filum" n="Roman Consuls">CONSVLVM</cell>
             <cell role="filum" n="Macedonians"><rs type="ethnic">MACEDONVM</rs></cell>            
             <cell n="annimundi"><choice><abbr>ANN</abbr><expan>ANNI</expan></choice>. MVNDI</cell>
           </row>
