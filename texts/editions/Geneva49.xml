@@ -9274,101 +9274,101 @@
           </row>
           <row n="107_3">
             <cell role="spatium"/>
-            <cell>XVI</cell>
+            <cell><num>XVI</num></cell>
             <cell role="spatium"/>
             <cell role="regnal"><rs type="ethnic">AEGYPTORVM</rs> REGNVM. ITERVM. DEFECIT.</cell>
-            <cell>XIII</cell>
+            <cell><num>XIII</num></cell>
           </row>
           <row n="107_4">
             <cell role="spatium"/>
-            <cell>XVII</cell>
+            <cell><num>XVII</num></cell>
             <cell><persName><rs type="ethnic">Hucus</rs><choice><abbr>q</abbr><expan>que</expan></choice> Manethos</persName>.</cell>
             <cell role="spatium"/>
-            <cell>XIIII</cell>
+            <cell><num>XIIII</num></cell>
           </row>
           <row role="olympiad" n="108">
             <cell role="spatium"/>
-            <cell><choice><abbr>Olymp.</abbr><expan>Olympias.</expan></choice> CVIII.</cell>
+            <cell><choice><abbr>Olymp.</abbr><expan>Olympias.</expan></choice> <num>CVIII</num>.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row n="108_1">
             <cell role="spatium"/>
-            <cell>XVIII</cell>
+            <cell><num>XVIII</num></cell>
             <cell><persName>Ochus</persName> <placeName><choice><abbr>sidone</abbr><expan>sidonem</expan></choice></placeName> subuertit. Et <placeName><choice><abbr>aegyptu</abbr><expan>aegyptum</expan></choice></placeName> suo iunxit imperio.</cell>
             <cell role="spatium"/>
-            <cell>XV</cell>
+            <cell><num>XV</num></cell>
           </row>
           <row n="108_2">
             <cell role="spatium"/>
-            <cell>XIX</cell>
+            <cell><num>XIX</num></cell>
             <cell><rs type="ethnic">Romani</rs> <rs type="ethnic">gallos</rs> <choice><abbr>supant</abbr><expan>superant</expan></choice></cell>
             <cell role="spatium"/>
-            <cell>XVI</cell>
+            <cell><num>XVI</num></cell>
           </row>
           <row n="108_3">
             <cell role="spatium"/>
-            <cell>XX</cell>
+            <cell><num>XX</num></cell>
             <cell><persName>Dyonisius</persName> <placeName>corinchus</placeName> sub federe nauigauit.</cell>
             <cell role="spatium"/>
-            <cell>XVII</cell>
+            <cell><num>XVII</num></cell>
           </row>
           <row n="108_4">
             <cell role="spatium"/>
-            <cell>XXI</cell>
+            <cell><num>XXI</num></cell>
             <cell><persName>PLato</persName> <choice><abbr>morit</abbr><expan>moritur</expan></choice>. Post <choice><abbr>que</abbr><expan>quem</expan></choice> achademiam <persName>Speusippus</persName> tenuit.</cell>
             <cell role="spatium"/>
-            <cell>XVIII</cell>
+            <cell><num>XVIII</num></cell>
           </row>
          <row role="olympiad" n="109">
             <cell role="spatium"/>
-           <cell><choice><abbr>Olymp.</abbr><expan>Olympias.</expan></choice> CIX.</cell>
+           <cell><choice><abbr>Olymp.</abbr><expan>Olympias.</expan></choice> <num>CIX</num>.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row n="109_1">
             <cell role="spatium"/>
-            <cell>XXII</cell>
+            <cell><num>XXII</num></cell>
             <cell><rs type="ethnic">Romani</rs> cum <rs type="ethnic">Samnites</rs> <choice><abbr>duob</abbr><expan>duobus</expan></choice> preliis cecidissent: uinuersos confines qui a sua societate discesserant: in <choice><abbr>dicione</abbr><expan>dicionem</expan></choice> <choice><abbr>pstina</abbr><expan>pristinam</expan></choice> redigunt.</cell>
             <cell role="spatium"/>
-            <cell>XIX</cell>
+            <cell><num>XIX</num></cell>
           </row>
           <row n="109_2">
             <cell role="spatium"/>
-            <cell>XXIII</cell>
+            <cell><num>XXIII</num></cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
-            <cell>XX</cell>
+            <cell><num>XX</num></cell>
           </row>
           <row n="109_3">
             <cell role="spatium"/>
-            <cell>XXIIII</cell>
+            <cell><num>XXIIII</num></cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
-            <cell>XXI</cell>
+            <cell><num>XXI</num></cell>
           </row>
           <row n="109_4">
-            <cell role="annimundi">IIIIDCCCLX.</cell>
-            <cell>XXV</cell>
+            <cell role="annimundi"><num>IIIIDCCCLX</num>.</cell>
+            <cell><num>XXV</num></cell>
             <cell><persName>Dionysius</persName> <placeName>corintho</placeName> expulsus.</cell>
             <cell role="spatium"/>
-            <cell>XXII</cell>
+            <cell><num>XXII</num></cell>
           </row>
           <row role="olympiad" n="110">
             <cell role="spatium"/>
-            <cell><choice><abbr>Olymp.</abbr><expan>Olympias.</expan></choice> CX.</cell>
+            <cell><choice><abbr>Olymp.</abbr><expan>Olympias.</expan></choice> <num>CX</num>.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row n="110_1">
             <cell role="spatium"/>
-            <cell>XXVI</cell>
-            <cell>Descriptione facta <placeName>rome</placeName> Inuenta sunt <choice><abbr>ciuiu</abbr><expan>ciuium</expan></choice>. CLXVunknown.</cell>
+            <cell><num>XXVI</num></cell>
+            <cell>Descriptione facta <placeName>rome</placeName> Inuenta sunt <choice><abbr>ciuiu</abbr><expan>ciuium</expan></choice>. <num>CLXV</num>unknown.</cell>
             <cell role="spatium"/>
-            <cell>XXIII</cell>
+            <cell><num>XXIII</num></cell>
           </row>
         </table>
       </div>
