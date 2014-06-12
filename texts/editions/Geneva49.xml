@@ -9286,6 +9286,7 @@
           <row n="106_3">
             <cell role="spatium"/>
             <cell><num>XII</num></cell>
+            <cell><persName><choice><abbr>Dio.</abbr><expan>Dionysius</expan></choice></persName> <placeName>syracusis</placeName> <choice><abbr>interimit</abbr><expan>interimitur</expan></choice>.</cell>
             <cell><num>XV</num></cell>
             <cell><num>IX</num></cell>
           </row>
@@ -9322,23 +9323,15 @@
           </row>
           <row n="107_3">
             <cell role="spatium"/>
-            <cell/>
-            <cell role="spatium"/>
-            <cell/>
-            <cell/>
             <cell>XVI</cell>
             <cell role="spatium"/>
-            <cell></cell>
+            <cell/>
             <cell>XIII</cell>
           </row>
           <row n="107_4">
             <cell role="spatium"/>
-            <cell/>
-            <cell role="spatium"/>
-            <cell role="spatium"/>
-            <cell/>
             <cell>XVII</cell>
-            <cell role="spatium"/>
+            <cell/>
             <cell role="spatium"/>
             <cell>XIIII</cell>
           </row>
