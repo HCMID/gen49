@@ -9510,9 +9510,9 @@
             <cell role="spatium"/>
             <cell>VIII</cell>
             <cell role="spatium"/>
-            <cell role="spatium"/>
+            <cell><persName>Amaximenes</persName> et <persName>epicurus</persName> clari <choice><abbr>hntur</abbr><expan>habentur</expan></choice>.</cell>
             <cell>VIII</cell>
-            <cell role="spatium"/>
+            <cell><persName>Alexander</persName> <rs type="ethnic">hircanos</rs> et <rs type="ethnic">medos</rs> capit. <choice><abbr>Reuertensq</abbr><expan>Reuertensque</expan></choice> <choice><abbr>i</abbr><expan>in</expan></choice> <placeName>ammone</placeName> condit <placeName><choice><abbr>Parethoniu</abbr><expan>Parethonium</expan></choice>.</placeName></cell>
           </row>
           <row n="113">
             <cell role="spatium"/>
@@ -9528,75 +9528,53 @@
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell>IX.</cell>
+            <cell><persName>Alexander</persName> <placeName>Aornim pertram</placeName> capit. et <placeName>Indum amnem</placeName> <choice><abbr>transgred</abbr><expan>transgreditur</expan></choice>.</cell>
+          </row>
+          <row n="114_1">
+            <cell role="spatium"/>
+            <cell>I</cell>
+            <cell><rs type="ethnic"><choice><abbr>Macedonu</abbr><expan>Macedonum</expan></choice></rs> duces <choice><abbr>i</abbr><expan>in</expan></choice> sedicionem <choice><sic>uesi</sic><corr>uersi</corr></choice>.</cell>
+            <cell role="spatium"/>
+            <cell>I</cell>
             <cell role="spatium"/>
           </row>
-          <row>
+          <row n="114_2">
             <cell role="spatium"/>
-            <cell/>
-            <cell role="spatium"/>
-            <cell role="spatium"/>
-            <cell/>
-            <cell></cell>
-            <cell role="spatium"/>
-          </row>
-          <row>
-            <cell role="spatium"/>
-            <cell></cell>
-            <cell role="spatium"/>
-            <cell role="spatium"/>
-            <cell></cell>
+            <cell>II</cell>
+            <cell><persName>Perdica</persName> aduersus <rs type="ethnic">egyptios</rs> dimicat.</cell>
+            <cell><persName>Agathocles</persName> <placeName>syracusis</placeName> Tyrannidem exercet.</cell>
+            <cell>II</cell>
             <cell role="spatium"/>
           </row>
-          <row>
+          <row n="114_3">
             <cell role="spatium"/>
-            <cell/>
+            <cell>III</cell>
+            <cell role="spatium"/>
+            <cell><rs type="header">Lamiacum</rs> <choice><abbr>bellu</abbr><expan>bellum</expan></choice> <choice><abbr>motu</abbr><expan>motum</expan></choice>.</cell>
+            <cell>III</cell>
+            <cell><persName>Ptholemeus</persName> <persName>Iagi</persName> filius <placeName>hierosolimis</placeName> et <placeName>iudea</placeName> <choice><abbr>i</abbr><expan>in</expan></choice> <choice><abbr>dicione</abbr><expan>dicionem</expan></choice> suam dolo redactis plurimos <choice><abbr>captiuo</abbr><expan>captiuorum</expan></choice> <choice><abbr>i</abbr><expan>in</expan></choice> <placeName>egyptum</placeName> transtulit.</cell>
+          </row>
+          <row n="114_4">
+            <cell role="annimundi">IIIIDCCCXC.</cell>
+            <cell>IIII</cell>
+            <cell role="spatium"/>
+            <cell><persName>Menander</persName> <choice><abbr>pmam</abbr><expan>primam</expan></choice> <choice><abbr>fabula</abbr><expan>fabulam</expan></choice> cognomento <foreign>unknown</foreign> docens superat.</cell>
+            <cell>IIII</cell>
+            <cell><rs type="ethnic"><choice><abbr>Iudaeo</abbr><expan>Iudaeorum</expan></choice></rs> <choice><abbr>pont.</abbr><expan>pontifex</expan></choice> <choice><abbr>max.</abbr><expan>maximus</expan></choice> <persName>onias</persName> <persName>iaddi</persName> filius clarus <choice><abbr>hr</abbr><expan>habetur</expan></choice>.</cell>
+          </row>
+          <row role="olympiad" n="115">
+            <cell role="spatium"/>
+            <cell><choice><abbr>Olymp.</abbr><expan>Olympias.</expan></choice> CXV.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
-            <cell/>
-            <cell></cell>
+            <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
-          <row>
+          <row n="115_1">
             <cell role="spatium"/>
-            <cell/>
+            <cell>V</cell>
             <cell role="spatium"/>
-            <cell role="spatium"/>
-            <cell/>
-            <cell></cell>
-            <cell role="spatium"/>
-          </row>
-          <row>
-            <cell role="spatium"/>
-            <cell/>
-            <cell role="spatium"/>
-            <cell role="spatium"/>
-            <cell/>
-            <cell></cell>
-            <cell role="spatium"/>
-          </row>
-          <row>
-            <cell role="spatium"/>
-            <cell/>
-            <cell role="spatium"/>
-            <cell role="spatium"/>
-            <cell/>
-            <cell></cell>
-            <cell role="spatium"/>
-          </row>
-          <row>
-            <cell role="spatium"/>
-            <cell></cell>
-            <cell role="spatium"/>
-            <cell role="spatium"/>
-            <cell></cell>
-            <cell role="spatium"/>
-          </row>
-          <row>
-            <cell role="spatium"/>
-            <cell/>
-            <cell role="spatium"/>
-            <cell role="spatium"/>
-            <cell/>
+            <cell><p><persName>Theophrastus</persName> philosophus <choice><abbr>cogscit</abbr><expan>cognoscitur</expan></choice> qui a diuinitate loquendi ut ait <persName>Cicero</persName> nomen accepit.</p><p><persName><choice><abbr>Theodor</abbr><expan>Theodorus</expan></choice> Atheus</persName> <choice><abbr>agnoscit</abbr><expan>agnoscitur</expan></choice>. <persName>Demetrius <rs type="ethnic">phalerius</rs></persName> <choice><abbr>hr</abbr><expan>habetur</expan></choice> illustrius. <rs type="ethnic">Romani</rs> <rs type="ethnic">Samnites</rs> <choice><abbr>g</abbr><expan>unknown</expan></choice> se diutissime dimicantes <choice><abbr>pliantes</abbr><expan>praeliantes</expan></choice>: ad <choice><abbr>extremu</abbr><expan>extremum</expan></choice> <choice><abbr>i</abbr><expan>in</expan></choice> <choice><abbr>seruitute</abbr><expan>seruitutem</expan></choice> sui redigunt.</p></cell>
             <cell></cell>
             <cell role="spatium"/>
           </row>
