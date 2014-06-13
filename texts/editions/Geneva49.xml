@@ -10440,7 +10440,7 @@
             <cell>III</cell>
             <cell>XXI</cell>
             <cell role="spatium"/>
-            <cell role="spatium"/>
+            <cell><persName>Menander</persName> comicus <choice><abbr>morit</abbr><expan>moritur</expan></choice>. <rs type="ethnic"> Romani</rs> <rs type="ethnic">gallos</rs> <rs type="ethnic">tyrrhenos</rs><choice><abbr>q</abbr><expan>que</expan></choice> superant. Et <rs type="ethnic"><choice><abbr>sabino</abbr><expan>sabinorum</expan></choice> terra sorte <choice><abbr>diuidit</abbr><expan>diuiditur</expan></choice>.</rs></cell>
             <cell>XXXIII</cell>
             <cell role="spatium"/>
             <cell>X</cell>
@@ -10459,7 +10459,7 @@
             <cell role="spatium"/>
             <cell>V</cell>
             <cell>XXIII</cell>
-            <cell role="spatium"/>
+            <cell><persName>Seleucus</persName> in eas urbes quas extruxerat <rs type="ethnic">Iudeos</rs> transfert: Ius eis <choice><abbr>ciuiu</abbr><expan>ciuium</expan></choice> et municipalem <choice><abbr>ordine</abbr><expan>ordinem</expan></choice> <choice><abbr>cu</abbr><expan>cum</expan></choice> <rs type="ethnic">grecis</rs> <choice><abbr>eqli</abbr><expan>equali</expan></choice> honore concedens. <rs type="ethnic"><choice><abbr>Iudeo</abbr><expan>Iudeorum</expan></choice> pontifex <persName>eleazarus</persName> frater <persName>simonis</persName> suscepit templi ministerium filio <persName>simonis</persName> <persName>Onia</persName> parvo <choice><abbr>admodu</abbr><expan>admodum</expan></choice> derelicto.</rs></cell>
             <cell role="spatium"/>
             <cell>XXXIIIII</cell>
             <cell role="spatium"/>
@@ -10477,7 +10477,7 @@
           </row>
           <row role="regnal" n="122_4_r1">
             <cell role="spatium"/>
-            <cell role="spatium"/>
+            <cell><rs type="ethnic"><choice><abbr>Macedonu</abbr><expan>Macedonum</expan></choice></rs>. XXVIII. <persName><choice><abbr>Pyrhus</abbr><expan>Pyrrhus</expan></choice> <choice><abbr>mens.</abbr><expan>menses.</expan></choice> VII.</persName></cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
@@ -10519,7 +10519,7 @@
               </choice> MVNDI.</cell>
           </row>
           <row role="regnal" n="123_1_r1">
-            <cell role="spatium"/>
+            <cell>Post <choice><abbr>que</abbr><expan>quem</expan></choice> <persName><choice><abbr>Lysimach</abbr><expan>Lysimachus</expan></choice> <choice><abbr>ann.</abbr><expan>annos.</expan></choice> V.</persName></cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
@@ -10537,54 +10537,65 @@
             <cell role="spatium"/>
             <cell>XV</cell>
             <cell role="spatium"/>
+          </row> 
+          <row n="123_2_r1">
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell><persName><choice><abbr>Seleuc</abbr><expan>Seleucus</expan></choice></persName> in <placeName>Sicilia</placeName> capto <persName>Demetrio</persName> <placeName>Siriae</placeName> et <placeName>Asiae</placeName> pariter Imperauit.</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
           </row>
           <row n="123_3">
             <cell>II</cell>
             <cell>XXVII</cell>
-            <cell role="spatium"/>
-            <cell role="spatium"/>
+            <cell><note><persName>Serapis</persName> ingressus est <placeName><choice><abbr>Alexandria</abbr><expan>Alexandriam</expan></choice></placeName>.</note></cell>
+            <cell>Condite a <rs type="ethnic"><choice><abbr>Ro.</abbr><expan>Romanis</expan></choice></rs> <placeName><choice><abbr>Ariminu</abbr><expan>Ariminum</expan></choice> et <placeName><choice><abbr>beneuentu</abbr><expan>beneuentum</expan></choice>.</placeName></placeName></cell>
             <cell>XXXIX</cell>
             <cell role="spatium"/>
             <cell>XVI</cell>
             <cell role="spatium"/>
           </row>
-          <row n="123_3">
+         
+          <row n="123_4">
             <cell>III</cell>
             <cell>XXVIII</cell>
             <cell role="spatium"/>
-            <cell role="spatium"/>
+            <cell><persName><choice><abbr>Zeon</abbr><expan>Zenon</expan></choice></persName> stoichus philosophus cognoscitur <persName>polemon</persName> philosophus cognoscibatur.</cell>
             <cell>XL.</cell>
             <cell role="spatium"/>
             <cell>XVII</cell>
             <cell role="spatium"/>
           </row>
-          <row>
+          <row role="olympiad" n="124">
+            <cell><choice><abbr>Olymp.</abbr><expan>Olympias</expan></choice> CXXIIII.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
+            <cell role="regnal"><rs type="ethnic"><choice><abbr>Alexdrino</abbr><expan>Alexandrinorum</expan></choice> II. <persName>Ptholemeus <rs type="ethnic">philadelphus</rs></persName>. <choice><abbr>ann.</abbr><expan>annos.</expan></choice> XXXVIII.</rs></cell>
             <cell role="spatium"/>
-            <cell role="spatium"/>
-            <cell role="spatium"/>
-            <cell role="spatium"/>
+            <cell><persName><choice><abbr>Demetus</abbr><expan>Demetrius</expan></choice></persName> semet <choice><abbr>ip</abbr><expan>ipsem</expan></choice> <persName>Seleuco</persName> tradidit.</cell>
             <cell role="spatium"/>
           </row>
-          <row>
+          <row n="124_r1">
+            <cell role="spatium"/>
+            <cell role="filum" n="Syrians and Asians"><placeName>SYRIAE</placeName>. ET. <placeName>ASIAE</placeName>.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
-            <cell role="spatium"/>
-            <cell role="spatium"/>
-            <cell role="spatium"/>
+            <cell><placeName>ASIAE</placeName> REGNVM. DEFECIT.</cell>
             <cell role="spatium"/>
           </row>
           <row n="124_1">
             <cell>IIII</cell>
             <cell>XXIX</cell>
             <cell role="spatium"/>
-            <cell role="spatium"/>
+            <cell><persName>Antigonus</persName> <choice><abbr>cognomto</abbr><expan>cognomento</expan></choice> <persName>gonatas</persName> <placeName>Lacedemonem</placeName> obtinuit. <rs type="ethnic">Romani</rs> <placeName><choice><abbr>Crotone</abbr><expan>Crotonem</expan></choice></placeName> capiunt.</cell>
             <cell>I</cell>
-            <cell role="spatium"/>
+            <cell><persName>Sostratus <rs type="ethnic">gnidius</rs></persName>. pharon <choice><abbr>i</abbr><expan>in</expan></choice> <placeName>Alexandria</placeName> <choice><abbr>constituit</abbr><expan>constituitur</expan></choice>.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
@@ -10594,12 +10605,12 @@
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell>II</cell>
-            <cell role="spatium"/>
+            <cell><persName>Ptholemeus <rs type="ethnic">philadelphus</rs></persName> <rs type="ethnic">Iudaeos</rs> qui <choice><abbr>i</abbr><expan>in</expan></choice> <placeName>aegypto</placeName> erant liberos <choice><abbr>ee</abbr><expan>esse</expan></choice> permisit. Et uasa <persName>Eleazaro</persName> pontifici <rs type="ethnic"><choice><abbr>hierosolimo</abbr><expan>hierosolimorum</expan></choice> uotiua transmittens. diuniam scripturam <choice><abbr>i</abbr><expan>in</expan></choice></rs> <rs type="ethnic">grecam</rs> uotem ex <rs type="ethnic">hebraea</rs> lingua <choice><abbr>p</abbr><expan>per</expan></choice>. LXX. Interpretes <choice><abbr>t</abbr><expan>Unknown</expan></choice> transferri curauit. <choice><abbr>Qua</abbr><expan>Quam</expan></choice> in <rs type="ethnic">alexandrina</rs> bibliotecha habuit. quam sibi ex omni genere literature comparauerat.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row role="regnal" n="124_2_r1">
-            <cell role="spatium"/>
+            <cell><rs type="ethnic"><choice><abbr>Macedonu</abbr><expan>Macedonum</expan></choice></rs> <persName><choice><abbr>ptholem</abbr><expan>ptholemus</expan></choice></persName> <choice><abbr>cogmento</abbr><expan>cognomento</expan></choice> <persName>Ceraunos</persName> <choice><abbr>ann.</abbr><expan>annum</expan></choice> I.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
@@ -10620,7 +10631,7 @@
             <cell role="spatium"/>
           </row>
           <row role="regnal" n="124_3_r1">
-            <cell role="spatium"/>
+            <cell>Post quem <persName>Meleagrus</persName>. menses. II.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
@@ -10631,7 +10642,7 @@
             <cell role="spatium"/>
           </row>
           <row role="regnal" n="124_3_r2">
-            <cell role="spatium"/>
+            <cell><persName>Antipater</persName> diebus. XLV.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
@@ -10642,7 +10653,7 @@
             <cell role="spatium"/>
           </row>
           <row role="regnal" n="124_3_r3">
-            <cell role="spatium"/>
+            <cell>Post <choice><abbr>que</abbr><expan>quem</expan></choice> <persName>Sostenes</persName>. <choice><abbr>ann.</abbr><expan>annos</expan></choice> II.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
@@ -10665,7 +10676,7 @@
           <row role="olympiad" n="125">
             <cell><choice><abbr>Olymp.</abbr><expan>Olympias.</expan></choice> CXXV.</cell>
             <cell role="spatium"/>
-            <cell role="spatium"/>
+            <cell><placeName>Syriae</placeName> et <placeName>asie</placeName> post <persName><choice><abbr>Seleucu</abbr><expan>Seleucum</expan></choice></persName> regnauit <persName>ANTIOCVS soter</persName>. <choice><abbr>ann.</abbr><expan>annos</expan></choice> XIX.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
