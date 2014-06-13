@@ -783,7 +783,7 @@
               <choice>
                 <abbr>magistratuu</abbr>
                 <expan>magistratuum</expan>
-              </choice> <choice><abbr>gsuetudo</abbr><expan>unknown</expan></choice> uersa est. <choice>
+              </choice> <choice><abbr>gsuetudo</abbr><expan>consuetudo</expan></choice> uersa est. <choice>
                 <abbr>regnauitq</abbr>
                 <expan>regnauitque</expan>
               </choice>
@@ -1051,10 +1051,8 @@
                 <choice>
                   <abbr>Iudea</abbr>
                   <expan>Iudeam</expan>
-                </choice></placeName> accolas misit <rs type="ethnic">Assyrios</rs>. <choice>
-                <abbr>bnde</abbr>
-                <expan>unde unknown</expan>
-              </choice>
+                </choice></placeName> accolas misit <rs type="ethnic">Assyrios</rs>.
+                Vnde
               <rs type="ethnic">Samarite</rs> nuncupati <choice>
                 <abbr>st.</abbr>
                 <expan>sunt</expan>
@@ -3052,9 +3050,9 @@
             <cell><persName>Tullus hostilius</persName> post longam pacem bella reparauit. <rs
                 type="ethnic">Albanos</rs>: <rs type="ethnic">Veientes</rs>: <rs type="ethnic"
                 >fidenatos</rs> uicit. et adiecto monte celio urbem <choice>
-                <abbr>ampliauit.</abbr>
-                <expan>unknown</expan>
-              </choice></cell>
+                <sic>ampliaui</sic>
+                <corr>ampliauit</corr>
+              </choice>.</cell>
             <cell><num>VI</num></cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
@@ -4432,7 +4430,7 @@
               </choice>
               <choice>
                 <abbr>et</abbr>
-                <expan>Unknown</expan>
+                <expan>etiam</expan>
               </choice> partem <choice>
                 <abbr>uaso</abbr>
                 <expan>uasorum</expan>
@@ -4799,8 +4797,8 @@
                 <expan>legibus</expan>
               </choice>
               <choice>
-                <abbr>antiqatis</abbr>
-                <expan>antiquatisunknown</expan>
+                <abbr>antiqtis</abbr>
+                <expan>antiquatis</expan>
               </choice> extra eas que ad sanguinem pertinebant: iura sua constituit.</cell>
             <cell><num>I</num></cell>
             <cell role="spatium"/>
@@ -8920,10 +8918,8 @@
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell><placeName>Aegypti</placeName>
-              <persName><choice>
-                  <abbr>Theo.</abbr>
-                  <expan>unknown</expan>
-                </choice></persName>
+              <persName>Theo
+                </persName>.
               <choice>
                 <abbr>ann.</abbr>
                 <expan>annos</expan>
