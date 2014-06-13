@@ -76,8 +76,8 @@
             <cell><num>XXI</num></cell>
             <cell><num>III</num>
             </cell>
-            <cell><persName n="Arctinus">Arctinus</persName>
-              <rs type="ethnic">milesius</rs> uersificator florentissimus <choice>
+            <cell><persName n="Arctinus">Arctinus <rs type="ethnic">milesius</rs></persName>
+               uersificator florentissimus <choice>
                 <abbr>hr</abbr>
                 <expan>habetur</expan>
               </choice>.</cell>
@@ -253,8 +253,8 @@
                 <abbr>secundu</abbr>
                 <expan>secundum</expan>
               </choice><choice>
-                <abbr>qsola</abbr>
-                <expan>unknown</expan>
+                <abbr>qsda</abbr>
+                <expan>quosdam</expan>
               </choice> clarus <choice>
                 <abbr>hr</abbr>
                 <expan>habetur</expan>
@@ -301,8 +301,8 @@
             <cell><num>XII</num></cell>
             <cell><num>XXX</num></cell>
             <cell><num>XII</num></cell>
-            <cell><persName>Cynedon</persName>
-              <rs type="ethnic">Lacedemonius</rs> poeta: qui theogonian scripsit agnoscitur.</cell>
+            <cell><persName>Cynedon <rs type="ethnic">Lacedemonius</rs></persName>
+               poeta: qui theogonian scripsit agnoscitur.</cell>
             <cell><num>VII</num></cell>
             <cell><num>XV</num></cell>
             <cell role="spatium"/>
@@ -359,7 +359,7 @@
             <cell><num>XXXIII</num></cell>
             <cell><num>XV</num></cell>
             <cell><rs type="ethnic">Theraei</rs>
-              <placeName n="Cyrene">Cyrenem</placeName> condiderunt ex responso phebi. Conditor
+              <placeName n="Cyrene">Cyrenem</placeName> condiderunt ex responso <placeName>phebi</placeName>. Conditor
               urbis <persName n="Bacthus">Bacthus</persName> cuius <choice>
                 <abbr>propum</abbr>
                 <expan>proprium</expan>
@@ -514,7 +514,7 @@
                 <expan>europam</expan>
               </choice> et artinus <choice>
                 <abbr>q</abbr>
-                <expan>unknown</expan>
+                <expan>qui</expan>
               </choice> ethiopida composuit et <choice>
                 <abbr>Iliaca</abbr>
                 <expan>Iliacam</expan>
@@ -669,7 +669,7 @@
               </choice>
               <choice>
                 <abbr>solenitatib</abbr>
-                <expan>unknown</expan>
+                <expan>solemnitatibus</expan>
               </choice>
               <persName>talasso</persName> uulgo clamentant. <choice>
                 <abbr>q</abbr>
@@ -783,7 +783,7 @@
               <choice>
                 <abbr>magistratuu</abbr>
                 <expan>magistratuum</expan>
-              </choice> gsuetudo uersa est. <choice>
+              </choice> <choice><abbr>gsuetudo</abbr><expan>unknown</expan></choice> uersa est. <choice>
                 <abbr>regnauitq</abbr>
                 <expan>regnauitque</expan>
               </choice>
@@ -929,8 +929,8 @@
             <cell><num>V</num></cell>
             <cell role="spatium"/>
             <cell><num>VI</num></cell>
-            <cell><persName>Tales</persName>
-              <rs type="ethnic">milesius</rs> physicus <choice>
+            <cell><persName>Tales <rs type="ethnic">milesius</rs></persName>
+               physicus <choice>
                 <abbr>philosophu</abbr>
                 <expan>philosophus</expan>
               </choice> agnoscitur.</cell>
@@ -970,7 +970,7 @@
                 type="ethnic">Crustumini</rs>. <rs type="ethnic">Fidenates</rs>. <rs type="ethnic"
                 >Veientes</rs>. qui <choice>
                 <abbr>pp</abbr>
-                <expan>unknown</expan>
+                <expan>propter</expan>
               </choice><rs type="ethnic"><choice>
                   <abbr>Sabina</abbr>
                   <expan>Sabinarum</expan>
@@ -1142,10 +1142,10 @@
             <cell><persName>Tarpeia</persName> clipeis <rs type="ethnic"><choice>
                   <abbr>sabino</abbr>
                   <expan>Sabinorum</expan>
-                </choice></rs> obruta. unde mons <rs type="ethnic">tarpeius</rs> in <choice>
+                </choice></rs> obruta. unde <placeName>mons tarpeius</placeName> in <choice>
                 <abbr>q</abbr>
                 <expan>quo</expan>
-              </choice> nunc capitolium. </cell>
+              </choice> nunc <placeName>capitolium</placeName>. </cell>
             <cell><num>XXXVII</num></cell>
             <cell role="spatium"/>
           </row>
@@ -1167,12 +1167,12 @@
             <cell><num>XIIII</num></cell>
             <cell role="spatium"/>
             <cell><num>XXXV</num></cell>
-            <cell><persName>Eumelus</persName>
-              <rs type="ethnic">corinthius</rs> uersificator <choice>
+            <cell><persName>Eumelus <rs type="ethnic">corinthius</rs></persName>
+               uersificator <choice>
                 <abbr>agnoscit</abbr>
                 <expan>agnoscitur</expan>
-              </choice>. et <persName>Sibylla</persName>
-              <rs type="ethnic">erithea</rs>.</cell>
+               </choice>. et <persName>Sibylla <rs type="ethnic">erithea</rs></persName>
+              .</cell>
             <cell><num>X</num></cell>
             <cell><num>XXX</num></cell>
             <cell><num>IX</num></cell>
@@ -1380,8 +1380,8 @@
             <cell><num>XXXVII</num></cell>
             <cell><num>XVI</num></cell>
             <cell role="spatium"/>
-            <cell role="regnal"><persName>Sabachon</persName>
-              <rs type="ethnic">aethiops</rs>: <persName>BOCchorim</persName>
+            <cell role="regnal"><persName>Sabachon <rs type="ethnic">aethiops</rs></persName>
+              : <persName>BOCchorim</persName>
               <choice>
                 <abbr>captu</abbr>
                 <expan>captum</expan>
@@ -1418,11 +1418,7 @@
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell><placeName>AEGIPTI</placeName>. <num>XXV</num>. DYNAstia.
-                <persName>SABACHON</persName>
-              <rs type="ethnic"><choice>
-                  <abbr>Aetiops</abbr>
-                  <expan>unknown</expan>
-                </choice></rs>
+              <persName>SABACHON <rs type="ethnic">Aetiops</rs></persName>
               <choice>
                 <abbr>ann.</abbr>
                 <expan>annos</expan>
@@ -1493,11 +1489,11 @@
               </choice>
               <choice>
                 <abbr>miniu</abbr>
-                <expan>unknown</expan>
+                <expan>minium</expan>
               </choice>
               <choice>
-                <abbr>mutau</abbr>
-                <expan>unknown</expan>
+                <abbr>omutaui</abbr>
+                <expan>commutavi</expan>
               </choice></cell>
             <cell><num>XXVII</num></cell>
             <cell><num>VII</num></cell>
@@ -1935,7 +1931,7 @@
               Mortuo <persName>romulo</persName>
               <choice>
                 <abbr>p</abbr>
-                <expan>unknown</expan>
+                <expan>per</expan>
               </choice> quinos dies Senatores rem. <choice>
                 <abbr>p</abbr>
                 <expan>publicam</expan>
@@ -1998,7 +1994,7 @@
             <cell role="spatium"/>
             <cell><num>XXII</num></cell>
             <cell><num>I</num></cell>
-            <cell><persName n="Numa Pompilius">Numapompilius</persName> duos mentes anno adidit. <choice>
+            <cell><note></note><persName n="Numa Pompilius">Numapompilius</persName> duos mentes anno adidit. <choice>
                 <abbr>Ianuariu</abbr>
                 <expan>Ianuarium</expan>
               </choice>: et <choice>
@@ -2011,7 +2007,7 @@
               december <choice>
                 <abbr>diceret</abbr>
                 <expan>diceretur</expan>
-              </choice>. Capitolium <choice>
+              </choice>. <placeName>Capitolium</placeName> <choice>
                 <abbr>quoq</abbr>
                 <expan>quoque</expan>
               </choice> a fundamentis edificauit et congiarium dedit Asses ligneos et
@@ -2045,7 +2041,7 @@
             <cell><num>IIII</num></cell>
             <cell><num>I</num></cell>
             <cell><persName n="Sibyl">Sibilla</persName>
-              <placeName n="Samia">SAMia</placeName>que et erophila insignis <choice>
+              <placeName n="Samia">SAMia</placeName>que et <persName>erophila</persName> insignis <choice>
                 <abbr>habet</abbr>
                 <expan>habetur</expan>
               </choice>.</cell>
@@ -2071,8 +2067,7 @@
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
-            <cell><placeName>AEGIPTI</placeName>. <persName n="Tarachus">TARAchus</persName>
-              <rs type="ethnic">ethiops</rs>. <choice>
+            <cell><placeName>AEGIPTI</placeName>. <persName n="Tarachus">TARAchus <rs type="ethnic">ethiops</rs></persName>. <choice>
                 <abbr>ann.</abbr>
                 <expan>annos</expan>
               </choice>
@@ -2485,8 +2480,8 @@
             <cell><num>X</num></cell>
             <cell><num>XLII</num></cell>
             <cell><num>XXI</num></cell>
-            <cell><persName>CLaucus</persName>
-              <rs type="ethnic">chius</rs> primus ferri inter se glutinum excogitauit.</cell>
+            <cell><persName>CLaucus <rs type="ethnic">chius</rs></persName>
+               primus ferri inter se glutinum excogitauit.</cell>
             <cell>XIX</cell>
             <cell role="spatium"/>
           </row>
@@ -2530,8 +2525,8 @@
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="regnal"><placeName>Aegypti</placeName>
-              <num>XXVI</num> dynastia in qua regnauit <persName>MERRES</persName>. <rs
-                type="ethnic">aetiops</rs>. <choice>
+              <num>XXVI</num> dynastia in qua regnauit <persName>MERRES. <rs
+                type="ethnic">aetiops</rs></persName>. <choice>
                 <abbr>ann.</abbr>
                 <expan>annos</expan>
               </choice>
@@ -3338,8 +3333,8 @@
             <cell><persName>Alcmaeon</persName> clarus <choice>
                 <abbr>hr.</abbr>
                 <expan>habetur</expan>
-              </choice> et <persName>lesihes</persName>
-              <rs type="ethnic">lesbius</rs> qui paruam fecit Iliada.</cell>
+            </choice> et <persName>lesihes <rs type="ethnic">lesbius</rs></persName>
+               qui paruam fecit Iliada.</cell>
             <cell><num>III</num></cell>
             <cell role="spatium"/>
           </row>
@@ -3673,7 +3668,7 @@
           </row>
           <row n="34_4">
             <cell><num>XIIII</num></cell>
-            <cell>Oraculo dodoneo <choice>
+            <cell>Oraculo <rs type="ethnic">dodoneo</rs> <choice>
                 <abbr>primu</abbr>
                 <expan>primum</expan>
               </choice>
@@ -3683,8 +3678,7 @@
             <cell><num>XXIII</num></cell>
             <cell><num>VI</num></cell>
             <cell><num>I</num></cell>
-            <cell><persName>Thales</persName>
-              <rs type="ethnic">milesius</rs>
+            <cell><persName>Thales <rs type="ethnic">milesius</rs></persName>
               <persName>examyli</persName>
               <choice>
                 <abbr>fili</abbr>
@@ -3841,8 +3835,8 @@
             <cell><num>XXXI</num></cell>
             <cell><num>XIIII</num></cell>
             <cell><num>IX</num></cell>
-            <cell><persName>Mirieus</persName>
-              <rs type="ethnic">atheniensus</rs> poeta cognoscitur. <persName>Batthus</persName>
+            <cell><persName>Mirieus <rs type="ethnic">atheniensis</rs></persName>
+               poeta cognoscitur. <persName>Batthus</persName>
               condidit <placeName><choice>
                   <abbr>cyrene</abbr>
                   <expan>cyrenen</expan>
@@ -3873,9 +3867,8 @@
             <cell><num>XXXII</num></cell>
             <cell><num>XV</num></cell>
             <cell><num>X</num></cell>
-            <cell><placeName>Sinope</placeName> condita. <choice>
-                <abbr>Lypare</abbr>
-                <expan>unknownpaleo</expan>
+            <cell><placeName>Sinope</placeName> condita. <choice><sic>Lypar</sic>
+                <corr>Lypare</corr>
               </choice> condita.</cell>
             <cell><num>XXVIII</num></cell>
             <cell role="spatium"/>
@@ -4209,8 +4202,8 @@
             <cell><num>XI</num></cell>
             <cell><num>XXXI</num></cell>
             <cell><num>III</num></cell>
-            <cell><persName>ARION</persName>
-              <rs type="ethnic">Metynneus</rs> clarus <choice>
+            <cell><persName>ARION <rs type="ethnic"><choice><abbr>Metynneus</abbr><expan>Metymnneus</expan></choice></rs></persName>
+               clarus <choice>
                 <abbr>hr</abbr>
                 <expan>habetur</expan>
               </choice> qui a <placeName>Delfino</placeName>
@@ -4467,8 +4460,8 @@
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell>Post quem <persName><choice>
-                  <abbr>Samuthes alius</abbr>
-                  <expan>Unknown</expan>
+                  <abbr>Samuthes</abbr>
+                  <expan>Sammuthes</expan>
                 </choice></persName>: qui et <persName>psammeticus</persName>. <choice>
                 <abbr>ann.</abbr>
                 <expan>annos</expan>
@@ -4512,8 +4505,8 @@
           </row>
           <row n="43_1">
             <cell><num>XXIII</num></cell>
-            <cell><persName>Cyaxares</persName>
-              <rs type="ethnic">medus</rs> subuertit <placeName><choice>
+            <cell><persName>Cyaxares <rs type="ethnic">medus</rs></persName>
+               subuertit <placeName><choice>
                   <abbr>ninu</abbr>
                   <expan>ninum</expan>
                 </choice></placeName>.</cell>
@@ -4522,13 +4515,13 @@
             <cell><num>IIII</num></cell>
             <cell><num>I</num></cell>
             <cell><num>XI</num></cell>
-            <cell><persName>Pittacus</persName>
-              <rs type="ethnic">mitileneus</rs> qui de sabientibus fuit <choice>
+            <cell><persName>Pittacus <rs type="ethnic">mitileneus</rs></persName>
+               qui de sabientibus fuit <choice>
                 <abbr>cu</abbr>
                 <expan>cum</expan>
               </choice>
-              <persName>phrenone</persName>
-              <rs type="ethnic">athiensi</rs> olympiace congressus eum interfecit.</cell>
+              <persName>phrenone <rs type="ethnic">athiensi</rs></persName>
+               olympiace congressus eum interfecit.</cell>
             <cell><num>II</num></cell>
             <cell role="spatium"/>
           </row>
@@ -5383,8 +5376,8 @@
             <cell role="spatium"/>
             <cell><num>VII</num></cell>
             <cell><num>VI</num></cell>
-            <cell><persName>Anaxinander</persName>
-              <rs type="ethnic"> mylesius</rs> physicus <choice>
+            <cell><persName>Anaxinander <rs type="ethnic"> mylesius</rs></persName>
+               physicus <choice>
                 <abbr>agnoscit</abbr>
                 <expan>agnoscitur</expan>
               </choice>.</cell>
@@ -5538,8 +5531,8 @@
             <cell role="spatium"/>
             <cell><num>XV</num></cell>
             <cell><num>XIIII</num></cell>
-            <cell><persName>Eugamon</persName>
-              <rs type="ethnic">Cyreneus</rs> qui <choice>
+            <cell><persName>Eugamon <rs type="ethnic">Cyreneus</rs></persName>
+               qui <choice>
                 <abbr>theogonia</abbr>
                 <expan>theogoniam</expan>
               </choice> scripsit <choice>
@@ -5925,8 +5918,7 @@
           </row>
           <row n="56_1">
             <cell>V</cell>
-            <cell><persName>Xenophaneas</persName>
-              <rs type="ethnic">colophonius</rs>
+            <cell><persName>Xenophaneas <rs type="ethnic">colophonius</rs></persName>
               <choice>
                 <abbr>clar</abbr>
                 <expan>clarus</expan>
@@ -6550,11 +6542,10 @@
                 <abbr>auit</abbr>
                 <expan>aiunt</expan>
               </choice> ab <rs type="ethnic">hebraeis</rs>
-              <choice>
+              <persName><choice>
                 <abbr>secundu</abbr>
                 <expan>secundum</expan>
-              </choice>
-              <persName>Nabuchdonosor</persName> uocari. sub quo <persName>Iudit</persName> historia <choice>
+              </choice> Nabuchdonosor</persName> uocari. sub quo <persName>Iudit</persName> historia <choice>
                 <abbr>conscribit</abbr>
                 <expan>conscribitur</expan>
               </choice>.</cell>
@@ -8134,11 +8125,11 @@
           <row n="82_4">
             <cell><num>XVI</num></cell>
             <cell><persName>Abaris</persName>
-              <note><persName>Abaris</persName>
-                <rs type="ethnic"><choice>
-                    <abbr>hyperbolan</abbr>
-                    <expan>hyperbolanus</expan>
-                  </choice></rs> hariolus <choice>
+              <note><persName>Abaris <rs type="ethnic"><choice>
+                <abbr>hyperbolan</abbr>
+                <expan>hyperbolanus</expan>
+              </choice></rs></persName>
+                 hariolus <choice>
                   <abbr>agnoscit</abbr>
                   <expan>agnoscitur</expan>
                 </choice>.</note></cell>
@@ -8580,8 +8571,8 @@
           </row>
           <row n="89_2">
             <cell><num>II</num></cell>
-            <cell><persName>Eudoxus</persName>
-              <rs type="ethnic">gnidius</rs> clarus <choice>
+            <cell><persName>Eudoxus <rs type="ethnic">gnidius</rs></persName>
+               clarus <choice>
                 <abbr>hr</abbr>
                 <expan>habetur</expan>
               </choice>.</cell>
