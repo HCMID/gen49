@@ -11040,7 +11040,7 @@
             <cell role="spatium"/>
             <cell role="filum" n="Alexandrian Egyptians"><rs type="ethnic">ALEXANDRINORVM</rs></cell>
             <cell role="filum" n="Roman Consuls">CONSVLVM</cell>
-            <cell role="filum" n="Syrians and Asians"><placeName>SYRIAE. ET. ASIAE</placeName></cell>
+            <cell role="filum" n="Syrians and Asians"><placeName>SYRIAE ET ASIAE</placeName></cell>
           </row>
           <row n="133_2">
             <cell role="spatium"/>
@@ -11214,7 +11214,7 @@
             <cell role="filum" n="Macedonians"><rs type="ethnic">MACEDONVM</rs></cell>
             <cell role="filum" n="Alexandrian Egyptians"><rs type="ethnic">ALEXANDRINORVM</rs></cell>
             <cell role="filum" n="Roman Consuls">CONSVLVM</cell>
-            <cell role="filum" n="Syrians and Asians"><placeName>SYRIAE. ET. ASIAE</placeName></cell>
+            <cell role="filum" n="Syrians and Asians"><placeName>SYRIAE. ET ASIAE</placeName></cell>
             <cell role="spatium"/>
             <cell n="annimundi"><choice>
               <abbr>ANN.</abbr>
