@@ -13723,7 +13723,7 @@
             <cell>VIII</cell>
             <cell role="spatium"/>
             <cell>IIII</cell>
-            <cell role="spatium"/>
+            <cell><persName>Antiochus epiphanes</persName> cum de <placeName>regione ptholemeorum</placeName> <choice><abbr>qua</abbr><expan>quam</expan></choice> subito inuaserat senatus precepto recessisset <choice><abbr>i</abbr><expan>in</expan></choice> <placeName><choice><abbr>Iudea</abbr><expan>Iudeam</expan></choice></placeName> uenit. <choice><abbr>Ibiq</abbr><expan>Ibique</expan></choice> <persName>Ihesu</persName> cui nomen et <persName>Iasoni</persName> <choice><abbr>fri</abbr><expan>frateri</expan></choice> <persName>Oniae</persName> <choice><abbr>pontificatu</abbr><expan>pontificatum</expan></choice> tradidit. Quo deinde expulso <persName>Oniam</persName> <choice><abbr>cogmento</abbr><expan>cognomento</expan></choice> <persName><choice><abbr>menelau</abbr><expan>menelaum</expan></choice></persName> successorem ei dedit. <choice><abbr>itaq</abbr><expan>itaque</expan></choice> ob sacerdotii dignitatem orta sedicione inter <choice><abbr>pncipes</abbr><expan>principes</expan></choice>: <choice><abbr>Ingentiu</abbr><expan>ingentium</expan></choice> <choice><abbr>miseria</abbr><expan>miseriarum</expan></choice> semina pullularunt.</cell>
             <cell role="spatium"/>
           </row>
           <row n="152_2">
@@ -13763,13 +13763,13 @@
             <cell>XII</cell>
             <cell role="spatium"/>
             <cell>VIII</cell>
-            <cell role="spatium"/>
+            <cell><persName>Antiochus</persName> legem <rs type="ethnic">Iudeorum</rs> impugnat. <choice><abbr>Primu</abbr><expan>Primum</expan></choice> quidem <choice><abbr>omne</abbr><expan>omnem</expan></choice> <choice><abbr>eor</abbr><expan>eorum</expan></choice> prouinciam ad <choice><abbr>idolatria</abbr><expan>idolatriam</expan></choice> compellens. qui parere nouerunt <choice><sic>necat</sic><corr>enecat</corr></choice>. Postea uero <placeName>hierosolimam</placeName> ascendens: templum et uasa dei <choice><abbr>q</abbr><expan>quae</expan></choice> ministerio uerunt consecrat uastat. In templo <persName>Iouis olympii</persName> <choice><abbr>simulacru</abbr><expan>simulacrum</expan></choice> ponit. In <placeName>samaria</placeName> <choice><abbr>sup</abbr><expan>super</expan></choice> <choice><abbr>uertice</abbr><expan>uerticem</expan></choice> <placeName>montis garizi</placeName> <persName>Iouis peregrini</persName> <choice><abbr>delbru</abbr><expan>delebrum</expan></choice> aedificat. Ipsis <rs type="ethnic">samaritanis</rs> ut id faceret <choice><abbr>pcantib</abbr><expan>precantibus</expan></choice>. Verum hoc in tempore <persName>Matthatias</persName> quidam ex sacerdotibus <choice><abbr>fili</abbr><expan>filius</expan></choice> <persName>Asamonei</persName> uico <placeName>Modim</placeName> aduersus <persName>Antiochi</persName> duces arma corripiens fulctus <choice><abbr>et</abbr><expan>etiam</expan></choice> auxilio <choice><abbr>filio</abbr><expan>filiorum</expan></choice> leges patrias uendicauit. Olympiade. <num>CLIII</num>. </cell>
             <cell role="spatium"/>
           </row>
           <row n="153_2">
             <cell>X</cell>
             <cell>XIII</cell>
-            <cell role="spatium"/>
+            <cell><persName>Ennius</persName> poeta septuaginario maior articulari morbo perit <choice><abbr>sepultusq</abbr><expan>sepultusque</expan></choice> est <choice><abbr>i</abbr><expan>in</expan></choice> <persName>scipionis</persName> monumento <placeName>uia appia</placeName>: Intra <choice><abbr>pmu</abbr><expan>primum</expan></choice> ab urbe <choice><abbr>miliariu</abbr><expan>miliarium</expan></choice>. <choice><abbr>quida</abbr><expan>quidam</expan></choice> ossa eius <placeName><choice><abbr>rhodia</abbr><expan>rhodiam</expan></choice></placeName> (<choice><abbr>al</abbr><expan>unknown</expan></choice> <placeName>rudia</placeName>) ex ianiculo translata affirmat.</cell>
             <cell>IX</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
@@ -13785,7 +13785,7 @@
           <row n="153_4">
             <cell role="spatium"/>
             <cell>XV</cell>
-            <cell role="spatium"/>
+            <cell><rs type="ethnic">Romani</rs> interfecto <persName>perse</persName> (<choice><abbr>al</abbr><expan>unknown</expan></choice> superato) <rs type="ethnic">macedonas</rs> <rs type="ethnic">Illyrios</rs> et <rs type="ethnic">Galathas</rs> liberos esse uisserunt.</cell>
             <cell>XI</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
@@ -13802,7 +13802,7 @@
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
-            <cell role="spatium"/>
+            <cell><placeName>Syriae</placeName> et <placeName>Asiae</placeName>. VIIII <persName>Antiochus eupator</persName> <choice><abbr>ann.</abbr><expan>annos</expan></choice> II.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
