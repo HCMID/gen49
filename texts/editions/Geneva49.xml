@@ -16324,7 +16324,7 @@
             <cell role="spatium"/>
           </row>
           <row role="header" n="header_1">
-            <cell role="filum" n="Judean Hebrews"><rs type="ethnic">IVDAEORVM</rs>.</cell>
+            <cell role="filum" n="Judean Hebrews"><rs type="ethnic">IVDAEORVM.</rs>.</cell>
             <cell role="spatium"/>
             <cell role="filum" n="Alexandrian Egyptians"><rs type="ethnic">ALEXANDRINORVM.</rs></cell>
             <cell role="filum" n="Roman Consuls">CONSVLVM.</cell>
