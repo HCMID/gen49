@@ -16499,19 +16499,19 @@
             <cell role="spatium"/>
             <cell>VIIII</cell>
             <cell>XXII</cell>
-            <cell role="spatium"/>
+            <cell><persName><choice><sic>Messana</sic><corr>Messala</corr></choice> coruinus</persName> orator <choice><abbr>nascit</abbr><expan>nascitur</expan></choice>. Et <persName>titus liuius <rs type="ethnic"><choice><abbr>pataui</abbr><expan>patauius</expan></choice></rs></persName> scriptor historicus.</cell>
           </row>
           <row n="180_3">
             <cell role="spatium"/>
             <cell>X</cell>
             <cell>XXIII</cell>
-            <cell role="spatium"/>
+            <cell><persName>Virgilius</persName> <placeName>cremone</placeName> studiis <choice><abbr>erudit</abbr><expan>eruditur</expan></choice>.</cell>
           </row>
           <row n="180_4">
             <cell role="spatium"/>
             <cell>XI</cell>
             <cell>XXIIII</cell>
-            <cell role="spatium"/>
+            <cell><persName>Catullus</persName> <choice><abbr>XXXo</abbr><expan>unknown</expan></choice> aetatis anno <placeName>romae</placeName> <choice><abbr>morit</abbr><expan>moritur</expan></choice>. <persName><choice><abbr>M.</abbr><expan>Marcus</expan></choice> callidius</persName> orator clarus <choice><abbr>hr</abbr><expan>habetur</expan></choice>: qui bello postea ciuili caesarianas partes secutus: <choice><abbr>cu</abbr><expan>cum</expan></choice> <placeName><choice><abbr>togata</abbr><expan>togatam</expan></choice> galliam</placeName> regeret: <placeName>placentie</placeName> obiit.</cell>
           </row>
           <row role="Olympiad" n="181">
             <cell role="spatium"/>
@@ -16523,25 +16523,25 @@
             <cell role="spatium"/>
             <cell>XII</cell>
             <cell>XXV</cell>
-            <cell role="spatium"/>
+            <cell><persName>Caesar</persName> <placeName>rhenum</placeName> transiens <rs type="ethnic">germanos</rs> uastat.</cell>
           </row>
           <row n="181_2">
             <cell role="spatium"/>
             <cell>XIII</cell>
             <cell>XXVI</cell>
-            <cell role="spatium"/>
+            <cell><persName>Crassus</persName> consul <choice><abbr>cu</abbr><expan>cum</expan></choice> filio apud <placeName>carras</placeName> captus.</cell>
           </row>
           <row n="181_3">
             <cell role="spatium"/>
             <cell>XIIII</cell>
             <cell>XXVII</cell>
-            <cell role="spatium"/>
+            <cell><persName>Ventidius</persName> <choice><abbr>pmus</abbr><expan>primus</expan></choice> <rs type="ethnic"><choice><abbr>romano</abbr><expan>romanorum</expan></choice></rs> <rs type="ethnic">parthos</rs> <choice><abbr>supat</abbr><expan>superat</expan></choice>.</cell>
           </row>
           <row n="181_4">
             <cell role="spatium"/>
             <cell>XV</cell>
             <cell>XXVIII</cell>
-            <cell role="spatium"/>
+            <cell><persName>Curio</persName> promptus et popularis: orator <placeName>rome</placeName> <choice><abbr>hr</abbr><expan>habetur</expan></choice> insignis qui deinceps <choice><abbr>i</abbr><expan>in</expan></choice> <placeName>Africa</placeName> pudore amissi exercitus mori maluit <choice><abbr>g</abbr><expan>unknown</expan></choice> euadere. <persName>Virgilus</persName> sumpta toga <placeName><choice><abbr>mediolanu</abbr><expan>mediolanum</expan></choice></placeName> <choice><abbr>transgredit</abbr><expan>transgreditur</expan></choice>. et post breue tempus <placeName>romam</placeName> pergit.</cell>
           </row>
           <row role="Olympiad" n="182">
             <cell role="spatium"/>
@@ -16553,7 +16553,7 @@
             <cell role="spatium"/>
             <cell>XVI</cell>
             <cell>XXIX</cell>
-            <cell role="spatium"/>
+            <cell><choice><abbr>Simulacru</abbr><expan>Simulacrum</expan></choice> <persName><placeName>Olympiaci</placeName> Iouis</persName> tactum fulmine.</cell>
           </row>
           <row n="182_2">
             <cell role="spatium"/>
