@@ -17348,7 +17348,7 @@
             <cell><choice>
                 <abbr>Olymp.</abbr>
                 <expan>Olympias</expan>
-              </choice> CLXXXV.</cell>
+              </choice> <num>CLXXXV</num>.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
@@ -17356,10 +17356,10 @@
           </row>
           <row n="185_1">
             <cell role="spatium"/>
-            <cell>XXVIII</cell>
+            <cell><num>XXVIII</num></cell>
             <cell role="spatium"/>
-            <cell>XI</cell>
-            <cell>IIII</cell>
+            <cell><num>XI</num></cell>
+            <cell><num>IIII</num></cell>
             <cell><persName>Cornelius nepos</persName> scriptor historicus <choice>
                 <abbr>clar</abbr>
                 <expan>clarus</expan>
@@ -17371,7 +17371,7 @@
           </row>
           <row n="185_2">
             <cell role="spatium"/>
-            <cell>XXIX</cell>
+            <cell><num>XXIX</num></cell>
             <cell><persName>Antigonus</persName>
               <choice>
                 <abbr>otra</abbr>
@@ -17441,24 +17441,24 @@
                   <abbr>iudea</abbr>
                   <expan>iudeam</expan>
                 </choice>.</placeName></cell>
-            <cell>XII</cell>
-            <cell>V</cell>
+            <cell><num>XII</num></cell>
+            <cell><num>V</num></cell>
             <cell role="spatium"/>
           </row>
           <row n="185_3">
             <cell role="spatium"/>
-            <cell>XXX</cell>
+            <cell><num>XXX</num></cell>
             <cell role="spatium"/>
-            <cell>XIII</cell>
-            <cell>VI</cell>
+            <cell><num>XIII</num></cell>
+            <cell><num>VI</num></cell>
             <cell role="spatium"/>
           </row>
           <row n="185_4">
             <cell role="spatium"/>
-            <cell>XXXI</cell>
+            <cell><num>XXXI</num></cell>
             <cell role="spatium"/>
-            <cell>XIIII</cell>
-            <cell>VII</cell>
+            <cell><num>XIIII</num></cell>
+            <cell><num>VII</num></cell>
             <cell><persName>Formii</persName> pater et filius clari oratores <choice><abbr>hntur</abbr><expan>habentur</expan></choice>. <choice><abbr>quo</abbr><expan>quorum</expan></choice> filius consularis ante <choice><abbr>pre</abbr><expan>patrem</expan></choice> <choice><abbr>morit</abbr><expan>moritur</expan></choice>.</cell>
           </row>
           <row role="Olympiad" n="186">
@@ -17466,7 +17466,7 @@
             <cell><choice>
                 <abbr>Olymp.</abbr>
                 <expan>Olympias</expan>
-              </choice> CLXXXV</cell>
+              </choice> <num>CLXXXV</num></cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
@@ -17474,18 +17474,18 @@
           </row>
           <row n="186_1">
             <cell role="spatium"/>
-            <cell>XXXII</cell>
+            <cell><num>XXXII</num></cell>
             <cell role="spatium"/>
-            <cell>XV</cell>
-            <cell>VIII</cell>
+            <cell><num>XV</num></cell>
+            <cell><num>VIII</num></cell>
             <cell><persName>Salustius</persName> diem obiit <choice><abbr>qdriennio</abbr><expan>Unknown</expan></choice> ante <placeName><choice><abbr>attiacu</abbr><expan>attiacum</expan></choice></placeName> <choice><abbr>bellu</abbr><expan>bellum</expan></choice>.</cell>
           </row>
           <row n="186_2">
             <cell role="spatium"/>
-            <cell>XXXIII</cell>
+            <cell><num>XXXIII</num></cell>
             <cell role="spatium"/>
-            <cell>XVI</cell>
-            <cell>IX</cell>
+            <cell><num>XVI</num></cell>
+            <cell><num>IX</num></cell>
             <cell><persName><choice><abbr>M.</abbr><expan>Marcus</expan></choice> <choice><abbr>baui</abbr><expan>bauius</expan></choice></persName> poeta <choice><abbr>que</abbr><expan>quem</expan></choice> <persName><choice><abbr>uergili</abbr><expan>uergilius</expan></choice></persName> <choice><abbr>i</abbr><expan>in</expan></choice> <title>buccholicis</title> notat: <choice><abbr>i</abbr><expan>in</expan></choice> <placeName>capadocia</placeName> <choice><abbr>morit</abbr><expan>moritur</expan></choice>.</cell>
           </row>
         </table>
