@@ -16556,28 +16556,28 @@
             <cell><choice><abbr>Simulacru</abbr><expan>Simulacrum</expan></choice> <persName><placeName>Olympiaci</placeName> Iouis</persName> tactum fulmine.</cell>
           </row>
           <row n="182_2">
-            <cell role="spatium"/>
+            <cell role="annimundi"><choice><abbr>VCL</abbr><expan><num>V</num> milia <num>CL</num></expan></choice>.</cell>
             <cell>XVII</cell>
             <cell>XXX</cell>
-            <cell role="spatium"/>
+            <cell><persName>Caesar</persName> <rs type="ethnic">germanos</rs> et <rs type="ethnic">gallos</rs> capit.</cell>
           </row>
           <row role="regnal" n="182_2_r1">
             <cell role="spatium"/>
             <cell role="spatium"/>
-            <cell role="spatium"/>
+            <cell><rs type="ethnic"><choice><abbr>Alexandrino</abbr><expan>Alexandrinorum</expan></choice></rs> XII <persName>Cleopatra</persName> <choice><abbr>ann.</abbr><expan>annos</expan></choice> XXI.</cell>
             <cell role="spatium"/>
           </row>
           <row n="182_3">
             <cell role="spatium"/>
             <cell>XVIII</cell>
             <cell>I</cell>
-            <cell role="spatium"/>
+            <cell>Principium belli ciuilis <persName>Caesaris</persName> et <persName>Pompeii</persName>.</cell>
           </row>
           <row n="182_4">
             <cell role="spatium"/>
             <cell>XIX</cell>
             <cell>II</cell>
-            <cell role="spatium"/>
+            <cell><persName>Diodorus <rs type="ethnic">siculus</rs></persName> <placeName>grece</placeName> scriptor clarus <choice><abbr>hr</abbr><expan>habetur</expan></choice>.</cell>
           </row>
           <row role="Olympiad" n="183">
             <cell role="spatium"/>
@@ -16589,13 +16589,16 @@
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
-            <cell role="spatium"/>
+            <cell><persName><choice><abbr>C.</abbr><expan>GAIVS</expan></choice> IVLIVS. CAESAR. PRIMVS.</persName> apud <rs type="ethnic">romanos</rs> singulare arripuit <choice><abbr>imperiu</abbr><expan>imperium</expan></choice>. a quo Caesares <rs type="ethnic"><choice><abbr>romano</abbr><expan>romanorum</expan></choice></rs> principes appellati.</cell>
           </row>
           <row role="regnal" n="183_r2">
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
-            <cell role="spatium"/>
+            <cell role="filum" n="Romans">
+              <p><rs type="ethnic"><choice><abbr>ROMANORV</abbr><expan>ROMANORVM</expan></choice></rs></p>
+              <p><rs type="ethnic"><choice><abbr>ROMANORV</abbr><expan>ROMANORVM</expan></choice></rs>. <persName>PRIMVS. <choice><abbr>C.</abbr><expan>GAIVS</expan></choice> IVLIVS. CAESAR.</persName> <choice><abbr>ANN.</abbr><expan>ANNOS</expan></choice> IIII. <choice><abbr>M.</abbr><expan>MENSES</expan></choice>. VII.</p>
+            </cell>
           </row>  
         </table>
       </div>
