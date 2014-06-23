@@ -570,7 +570,7 @@
             <cell role="spatium"/>
             <cell>I</cell>
             <cell>In <placeName>lacedemone</placeName>
-              <foreign>ephorsunknown</foreign> quod magistratus nomen est. <choice>
+              <foreign>ἐφοροσ</foreign> quod magistratus nomen est. <choice>
                 <abbr>constituit</abbr>
                 <expan>constituitur</expan>
               </choice>. fuit <choice>
@@ -5925,7 +5925,7 @@
             <cell><persName>Chilon</persName> qui de <num>VII</num>. <choice>
                 <abbr>sapientib</abbr>
                 <expan>sapientibus</expan>
-              </choice> fuit <foreign>ephorsunknown</foreign> in <placeName>Lacedemone</placeName>
+              </choice> fuit <foreign>ἐφοροσ</foreign> in <placeName>Lacedemone</placeName>
               <choice>
                 <abbr>constituit</abbr>
                 <expan>constituitur</expan>
@@ -10489,7 +10489,7 @@
               <choice>
                 <abbr>fabula</abbr>
                 <expan>fabulam</expan>
-              </choice> cognomento <foreign>unknown</foreign> docens superat.</cell>
+              </choice> cognomento <foreign>ΟΡΘΗΡ</foreign> docens superat.</cell>
             <cell><num>IIII</num></cell>
             <cell><rs type="ethnic"><choice>
                   <abbr>Iudaeo</abbr>
