@@ -18224,6 +18224,108 @@
           </row>
         </table>
       </div>
+      <div n="30">
+        <table n="t1">
+          <row role="header" n="header_1">
+            <cell role="filum" n="Judean Hebrews"><rs type="ethnic">IVDAEORVM</rs>.</cell>
+            <cell role="spatium"/>
+            <cell role="filum" n="Romans"><rs type="ethnic">ROMANORVM</rs>.</cell>
+            <cell role="spatium"/>
+            <cell role="annimundi"><choice><abbr>ANN.</abbr><expan>ANNI.</expan></choice> MVNDI.</cell>
+          </row>
+          <row n="189_4">
+            <cell>XIII</cell>
+            <cell role="spatium"/>
+            <cell>XXIII</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row role="Olympiad" n="190">
+            <cell><choice><abbr>Olymp.</abbr><expan>Olympias</expan></choice>. CXC.</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="190_1">
+            <cell>XIIII</cell>
+            <cell role="spatium"/>
+            <cell>XXIIII</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="190_2">
+            <cell>XV</cell>
+            <cell role="spatium"/>
+            <cell>XXV</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="190_3">
+            <cell>XVI</cell>
+            <cell role="spatium"/>
+            <cell>XXVI</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="190_4">
+            <cell>XVII</cell>
+            <cell role="spatium"/>
+            <cell>XXVII</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row role="Olympiad" n="191">
+            <cell><choice><abbr>Olymp.</abbr><expan>Olympias</expan></choice> CXCI.</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="191_1">
+            <cell>XVIII</cell>
+            <cell role="spatium"/>
+            <cell>XXVIII</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="191_2">
+            <cell>XIX</cell>
+            <cell role="spatium"/>
+            <cell>XXIX</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="191_3">
+            <cell>XX</cell>
+            <cell role="spatium"/>
+            <cell>XXX</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="191_4">
+            <cell>XXI</cell>
+            <cell role="spatium"/>
+            <cell>XXXI</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row role="Olympiad" n="192">
+            <cell><choice><abbr>Olymp.</abbr><expan>Olympias</expan></choice> CXCII.</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="192_1">
+            <cell>XXII</cell>
+            <cell role="spatium"/>
+            <cell>XXXII</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+        </table>
+      </div>
     </body>
   </text>
 </TEI>
