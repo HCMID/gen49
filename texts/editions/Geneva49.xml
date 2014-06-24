@@ -19128,6 +19128,55 @@
             <cell><persName>Votienus <choice><abbr>montan</abbr><expan>montanus</expan></choice> <rs type="ethnic">narbonensis</rs></persName> orator <choice><abbr>i</abbr><expan>in</expan></choice> <placeName><choice><abbr>balearib</abbr><expan>balearibus</expan></choice> <choice><abbr>isulis</abbr><expan>insulis</expan></choice></placeName> <choice><abbr>morit</abbr><expan>moritur</expan></choice>. illic a <persName>Tiberio</persName> <choice><abbr>relegat</abbr><expan>relegatus</expan></choice>. 
             <persName>Herodes</persName> <placeName>Tiberiadem</placeName> condidit et <placeName>Liuiadem</placeName>.</cell>
           </row>
+          <row role="header" n="header_1">
+            <cell role="filum" n="Judean Hebrews"><rs type="ethnic">IVDAEORVM</rs>.</cell>
+            <cell role="spatium"/>
+            <cell role="filum" n="Romans"><rs type="ethnic">ROMANORVM</rs>.</cell>
+            <cell role="spatium"/>
+            <cell role="annimundi"><choice><abbr>ANN.</abbr><expan>ANNI.</expan></choice> MVNDI.</cell>
+          </row>
+          <row n="201_4">
+            <cell>XV</cell>
+            <cell role="spatium"/>
+            <cell>XV</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row role="Olympiad" n="202">
+            <cell><choice><abbr>Olymp.</abbr><expan>Olympias</expan></choice> CCII.</cell>
+            <cell role='spatium'/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="202_1">
+            <cell>XVI</cell>
+            <cell role="spatium"/>
+            <cell>XVI</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="202_2">
+            <cell>XVII</cell>
+            <cell role="spatium"/>
+            <cell>XVII</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="202_3">
+            <cell>XVIII</cell>
+            <cell role="spatium"/>
+            <cell>XVIII</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row role="regnal" n="202_3_r1">
+            <cell role="spatium"/>
+            <cell role='spatium'/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
         </table>
       </div>
     </body>
