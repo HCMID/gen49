@@ -19087,45 +19087,46 @@
           </row>
           <row n="200_3">
             <cell role="spatium"/>
-            <cell></cell>
+            <cell>X</cell>
             <cell role="spatium"/>
-            <cell></cell>
-            <cell role="spatium"/>
+            <cell>X</cell>
+            <cell><persName><choice><abbr>Q.</abbr><expan>Quintus</expan></choice> Aterius</persName> promptus et popularis orator <choice><abbr>usq</abbr><expan>usque</expan></choice> ad. <num>XC</num>. prope annum in <choice><abbr>sumo</abbr><expan>summo</expan></choice> honore consenescit.</cell>
           </row>
           <row n="200_4">
             <cell role="spatium"/>
-            <cell></cell>
+            <cell>XI</cell>
             <cell role="spatium"/>
-            <cell></cell>
-            <cell role="spatium"/>
+            <cell>XI</cell>
+            <cell><persName>Seruius plautus</persName> corrupti filii reus semet <choice><abbr>i</abbr><expan>in</expan></choice> iudicio <choice><abbr>eterficit</abbr><expan>interficit</expan></choice>.</cell>
           </row>
           <row role="olympiad" n="201">
             <cell role="spatium"/>
-            <cell role="spatium"/>
+            <cell><choice><abbr>Olymp.</abbr><expan>Olympias</expan></choice> CCI</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row n="201_1">
             <cell role="spatium"/>
-            <cell></cell>
+            <cell>XII</cell>
             <cell role="spatium"/>
-            <cell></cell>
-            <cell role="spatium"/>
+            <cell>XII</cell>
+            <cell><persName>Philippus</persName> tetrarcha <placeName>panchadem</placeName> in <choice><abbr>q</abbr><expan>quae</expan></choice> plurmis edes construxerat: <placeName>caesaream <persName>philippi</persName></placeName> uocauit: et <placeName>Iuliadem</placeName> <choice><abbr>alia</abbr><expan>aliam</expan></choice> <choice><abbr>ciuitate</abbr><expan>ciuitatem</expan></choice>.</cell>
           </row>
           <row n="201_2">
             <cell role="spatium"/>
-            <cell></cell>
+            <cell>XIII</cell>
             <cell role="spatium"/>
-            <cell></cell>
-            <cell role="spatium"/>
+            <cell>XIII.</cell>
+            <cell><persName><choice><abbr>Pilat</abbr><expan>Pilatus</expan></choice></persName> <choice><abbr>pcurato</abbr><expan>procurator</expan></choice> <placeName>Iudeae</placeName> a <persName>Tiberio</persName> <choice><abbr>mittit</abbr><expan>mittitur</expan></choice>.</cell>
           </row>
           <row n="201_3">
             <cell role="spatium"/>
-            <cell></cell>
+            <cell>XIIII</cell>
             <cell role="spatium"/>
-            <cell></cell>
-            <cell role="spatium"/>
+            <cell>XIIII</cell>
+            <cell><persName>Votienus <choice><abbr>montan</abbr><expan>montanus</expan></choice> <rs type="ethnic">narbonensis</rs></persName> orator <choice><abbr>i</abbr><expan>in</expan></choice> <placeName><choice><abbr>balearib</abbr><expan>balearibus</expan></choice> <choice><abbr>isulis</abbr><expan>insulis</expan></choice></placeName> <choice><abbr>morit</abbr><expan>moritur</expan></choice>. illic a <persName>Tiberio</persName> <choice><abbr>relegat</abbr><expan>relegatus</expan></choice>. 
+            <persName>Herodes</persName> <placeName>Tiberiadem</placeName> condidit et <placeName>Liuiadem</placeName>.</cell>
           </row>
         </table>
       </div>
