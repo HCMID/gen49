@@ -18832,124 +18832,123 @@
             <cell role="spatium"/>
           </row>
           <row n="194_4">
-            <cell>XXXIII</cell>
+            <cell><num>XXXIII</num></cell>
             <cell role="spatium"/>
-            <cell>XLIII</cell>
+            <cell><num>XLIII</num></cell>
             <cell><persName>Quirinus</persName> ex consilio (<choice><abbr>al</abbr><expan>unknown</expan></choice> consulto) senatus <placeName>iudeam</placeName> missus censum <choice><abbr>hominu</abbr><expan>hominum</expan></choice> <choice><abbr>possessionumq</abbr><expan>possessionumque</expan></choice> describit.</cell>
             <cell role="annimundi"><choice><abbr>VCC</abbr><expan><num>V</num> milia <num>CC</num></expan></choice></cell>
           </row>
           <row role="Olympiad" n="195">
-            <cell><choice><abbr>Olymp.</abbr><expan>Olympias</expan></choice> CXCV.</cell>
+            <cell><choice><abbr>Olymp.</abbr><expan>Olympias</expan></choice> <num>CXCV</num>.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row n="195_1">
-            <cell>XXXIIII.</cell>
+            <cell><num>XXXIIII</num>.</cell>
             <cell>
               <p><persName>Iudas <rs type="ethnic">Galileus</rs></persName> ad rebellandum <rs type="ethnic">Iudeos</rs> <choice><abbr>portat</abbr><expan>portatur</expan></choice>.</p>
               <p><persName>Herodes</persName> <choice><abbr>cu</abbr><expan>cum</expan></choice> <persName><choice><abbr>Xpi</abbr><expan>Christi</expan></choice></persName> <choice><abbr>natiuitate</abbr><expan>natiuitatem</expan></choice> magorum indicio cognouisset: uniuersos <placeName><choice><abbr>bethlee</abbr><expan>bethleem</expan></choice></placeName> paruulos iussit interfici.</p>
             </cell>
-            <cell>XLIIII.</cell>
+            <cell><num>XLIIII</num>.</cell>
             <cell>
               <p><persName>Caesar</persName> <choice><abbr>amicitia</abbr><expan>amicitiam</expan></choice> cum <rs type="ethnic">parthis</rs> facit.</p>
               <p><persName>Xistus</persName> pithagoricus philosophus <choice><abbr>agnoscit</abbr><expan>agnoscitur</expan></choice>.</p>
               <p><persName>Augustus</persName> <persName>Tiberium</persName> et <persName>Agrippam</persName> <choice><abbr>i</abbr><expan>in</expan></choice> filios <choice><sic>adop</sic><corr>adoptat</corr></choice>.</p>
-              <p></p>
             </cell>
             <cell role="spatium"/>
           </row>
           <row n="195_2">
-            <cell>XXXV</cell>
+            <cell><num>XXXV</num></cell>
             <cell role="spatium"/>
-            <cell>LXV.</cell>
+            <cell><num>LXV</num>.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row n="195_3">
-            <cell>XXXVI</cell>
+            <cell><num>XXXVI</num></cell>
             <cell role="spatium"/>
-            <cell>XLVI</cell>
+            <cell><num>XLVI</num></cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row n="195_4">
-            <cell>XXXVII</cell>
+            <cell><num>XXXVII</num></cell>
             <cell><p><persName>Herodes</persName> morbo <choice><abbr>intecutis</abbr><expan>intercutis</expan></choice> aque: et <choice><abbr>scatentib</abbr><expan>scatentibus</expan></choice> toto <choice><abbr>copor</abbr><expan>corporem</expan></choice> uermibus miserabiliter sed digne <choice><abbr>morit</abbr><expan>moritur</expan></choice>.</p>
               <p>In <persName>herodis</persName> locum filius eius <persName>archelaus</persName> ab <persName>augusto</persName> <choice><abbr>substituit</abbr><expan>substituitur</expan></choice>. Et Tetrarche fiunt quator fratres <choice><abbr>ei</abbr><expan>eius</expan></choice>. <persName>Herodes</persName>. <persName>Antipater</persName>. <persName>Lysias</persName>. et <persName>Philippus</persName>.</p>
             </cell>
-            <cell>XLVII</cell>
+            <cell><num>XLVII</num></cell>
             <cell><persName>Asinius pollio</persName> orator et consularis qui de <rs type="ethnic">dalmatis</rs> triumpharat. <choice><abbr><num>LXXX</num>o</abbr><expan>unknown</expan></choice> etatis anno <choice><abbr>i</abbr><expan>in</expan></choice> <placeName>uilla tusculana</placeName> <choice><abbr>morit</abbr><expan>moritur</expan></choice>.</cell>
             <cell role="spatium"/>
           </row>
           <row role="Olympiad" n="196">
-            <cell>CVCVI.</cell>
+            <cell><num>CVCVI</num>.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row role="regnal" n="196_r1">
-            <cell><rs type="ethnic"><choice><abbr>IVDAEORV</abbr><expan>IVDAEORVM</expan></choice></rs>. DVX. <persName>ARCHElaus</persName> <choice><abbr>ann.</abbr><expan>annos</expan></choice> VIIII.</cell>
+            <cell><rs type="ethnic"><choice><abbr>IVDAEORV</abbr><expan>IVDAEORVM</expan></choice></rs>. DVX. <persName>ARCHElaus</persName> <choice><abbr>ann.</abbr><expan>annos</expan></choice> <num>VIIII</num>.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row n="196_1">
-            <cell>I</cell>
+            <cell><num>I</num></cell>
             <cell role="spatium"/>
-            <cell>LXVIII</cell>
+            <cell><num>LXVIII</num></cell>
             <cell>Fames <placeName>rome</placeName> ita ingens facta: ut .<num>V</num>. modii <choice><abbr>uenderunt</abbr><expan>uenderuntur</expan></choice> denariis. <num>XXVII</num> semis.</cell>
             <cell role="spatium"/>
           </row>
           <row n="196_2">
-            <cell>II</cell>
+            <cell><num>II</num></cell>
             <cell role="spatium"/>
-            <cell>XLIX</cell>
+            <cell><num>XLIX</num></cell>
             <cell><persName>Philistion</persName> mimographus natione magnes <rs type="ethnic">asianus</rs> <placeName>rome</placeName> clarus <choice><abbr>hr</abbr><expan>habetur</expan></choice>.</cell>
             <cell role="spatium"/>
           </row>
           <row n="196_3">
-            <cell>III</cell>
+            <cell><num>III</num></cell>
             <cell role="spatium"/>
-            <cell>L</cell>
+            <cell><num>L</num></cell>
             <cell><persName>Tiberius cesar</persName> <rs type="ethnic">dalmatas</rs> <rs type="ethnic">Sarmatas</rs><choice><abbr>q</abbr><expan>que</expan></choice> <choice><abbr>i</abbr><expan>in</expan></choice> <rs type="ethnic"><choice><abbr>romana</abbr><expan>romanam</expan></choice></rs> redigit potestatem.</cell>
             <cell role="spatium"/>
           </row>
           <row n="196_4">
-            <cell>LI</cell>
+            <cell><num>LI</num></cell>
             <cell><persName>Athenodorus <rs type="ethnic">tharsensis</rs></persName> stoicus philosophus. et <persName><choice><abbr>M.</abbr><expan>Marcus</expan></choice> uerrius flaccus</persName> <choice><abbr>gramaticus</abbr><expan>grammaticus</expan></choice> insignis <choice><abbr>habent</abbr><expan>habentur</expan></choice>.</cell>
             <cell></cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row role="Olympiad" n="197">
-            <cell><choice><abbr>Olymp.</abbr><expan>Olympias</expan></choice> CXCVII.</cell>
+            <cell><choice><abbr>Olymp.</abbr><expan>Olympias</expan></choice> <num>CXCVII</num>.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row n="197_1">
-            <cell>V</cell>
+            <cell><num>V</num></cell>
             <cell role="spatium"/>
-            <cell>LII</cell>
+            <cell><num>LII</num></cell>
             <cell><rs type="ethnic">Athenienses</rs> res nouas contra <rs type="ethnic">romanos</rs> molientes <choice><abbr>oppmunt</abbr><expan>opprimuntur</expan></choice> <choice><abbr>auctorib</abbr><expan>auctoribus</expan></choice> sedicionis occissis.</cell>
             <cell role="spatium"/>
           </row>
           <row n="197_2">
-            <cell>VI</cell>
+            <cell><num>VI</num></cell>
             <cell role="spatium"/>
-            <cell>LIII</cell>
+            <cell><num>LIII</num></cell>
             <cell><persName>Messala coruinus</persName> orator ante <choice><abbr>bienniu</abbr><expan>biennium</expan></choice> <choice><abbr>q</abbr><expan>unknown</expan></choice> <choice><abbr>moreret</abbr><expan>moreretur</expan></choice> ita <choice><abbr>memoria</abbr><expan>memoriam</expan></choice> ac sensum amisit ut uix pauca uerba coniungeret. et ad <choice><abbr>extremu</abbr><expan>extremum</expan></choice> ulcere sibi circa sacrum <choice><abbr>spina</abbr><expan>spinam</expan></choice> nato: media se confecit anno etatis. <num>LXX</num>.</cell>
             <cell role="annimundi"><choice><abbr>VCXX</abbr><expan><num>V</num> milia <num>CXX</num>.</expan></choice></cell>
           </row>
           <row n="197_3">
-            <cell>VII</cell>
+            <cell><num>VII</num></cell>
             <cell role="spatium"/>
-            <cell>LIIII</cell>
+            <cell><num>LIIII</num></cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
