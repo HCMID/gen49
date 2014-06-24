@@ -18964,108 +18964,126 @@
           </row>
           <row n="197_4">
             <cell role="spatium"/>
-            <cell></cell>
+            <cell>VIII</cell>
             <cell role="spatium"/>
-            <cell></cell>
-            <cell role="spatium"/>
+            <cell>LV</cell>
+            <cell><persName>Augustus</persName> cum <persName>Tiberio</persName> filio suo <choice><abbr>censu</abbr><expan>censum</expan></choice> <placeName>rome</placeName> agitans. Inuenit <choice><abbr>hinu</abbr><expan>himnum</expan></choice> nonagies ter centena et sexaginta milia. <persName>Socio</persName> <choice><abbr>phus</abbr><expan>philosophus</expan></choice> <rs type="ethnic">Alexandrinus</rs> <choice><abbr>pceptor</abbr><expan>praeceptor</expan></choice> senece: clarus <choice><abbr>hr</abbr><expan>habetur</expan></choice>.</cell>
           </row>
           <row role="olympiad" n="198">
             <cell role="spatium"/>
-            <cell role="spatium"/>
+            <cell><choice><abbr>Olymp.</abbr><expan>Olympias</expan></choice> CXCVIII.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row n="198_1">
             <cell role="spatium"/>
-            <cell></cell>
-            <cell role="spatium"/>
-            <cell></cell>
-            <cell role="spatium"/>
+            <cell>IX</cell>
+            <cell><persName>Archelaus</persName> nono <choice><abbr>ano</abbr><expan>anno</expan></choice> regni sui in <placeName><choice><abbr>uienna</abbr><expan>uiennam</expan></choice></placeName> urbem <placeName>gallie</placeName> <choice><abbr>relegat</abbr><expan>relegatur</expan></choice>.</cell>
+            <cell>LVI</cell>
+            <cell>Defectio solis facta: et <persName>Augustus</persName> <num>LXXVI</num> aetatis anno: <persName>atelle</persName> <choice><abbr>i</abbr><expan>in</expan></choice> <placeName>campania</placeName> <choice><abbr>morit</abbr><expan>moritur</expan></choice>. <choice><abbr>sepellitq</abbr><expan>sepelliturque</expan></choice> <placeName>romae</placeName> <choice><abbr>i</abbr><expan>in</expan></choice> <placeName>campo martio</placeName>.</cell>
           </row>
           <row role="regnal" n="198_1_r1">
             <cell role="spatium"/>
+            <cell><rs type="ethnic">IVDaeorum</rs> <choice><abbr>pncipatum</abbr><expan>principatum</expan></choice> tenet <persName>herodes</persName> tetrarcha <choice><abbr>ann.</abbr><expan>annos</expan></choice> XXIIII.</cell>
             <cell role="spatium"/>
-            <cell role="spatium"/>
-            <cell role="spatium"/>
+            <cell><rs type="ethnic"><choice><abbr>ROMANORV</abbr><expan>ROMANORVM</expan></choice></rs>. III. <persName>TIBERIVS</persName>. <choice><abbr>Ann.</abbr><expan>Annos</expan></choice> XXIII.</cell>
             <cell role="spatium"/>
           </row>
           <row n="198_2">
             <cell role="spatium"/>
-            <cell></cell>
+            <cell>I</cell>
             <cell role="spatium"/>
-            <cell></cell>
-            <cell role="spatium"/>
+            <cell>I</cell>
+            <cell><persName><choice><abbr>C.</abbr><expan>Gaius</expan></choice> Asinnius gallus</persName> orator <persName>Asinii pollionis</persName> filius. Cuius <choice><abbr>et</abbr><expan>etiam</expan></choice> <persName>uirgilius</persName> meminit: diris a <persName>tiberio</persName> supliciis <choice><abbr>enecat</abbr><expan>enecatur</expan></choice>.</cell>
           </row>
           <row n="198_3">
             <cell role="spatium"/>
-            <cell></cell>
+            <cell>II</cell>
             <cell role="spatium"/>
-            <cell></cell>
+            <cell>II</cell>
             <cell role="spatium"/>
           </row>
           <row n="198_4">
             <cell role="spatium"/>
-            <cell></cell>
+            <cell>III</cell>
             <cell role="spatium"/>
-            <cell></cell>
+            <cell>III</cell>
             <cell role="spatium"/>
           </row>
           <row role="olympiad" n="199">
             <cell role="spatium"/>
-            <cell role="spatium"/>
+            <cell><choice><abbr>Olymp.</abbr><expan>Olympias</expan></choice> CXCVIIII.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row n="199_1">
             <cell role="spatium"/>
-            <cell></cell>
+            <cell>IIII</cell>
             <cell role="spatium"/>
-            <cell></cell>
-            <cell role="spatium"/>
+            <cell>IIII</cell>
+            <cell><persName>Liuius</persName> historiagraphus <placeName>patauii</placeName> <choice><abbr>morit</abbr><expan>moritur</expan></choice>.</cell>
           </row>
           <row n="199_2">
             <cell role="spatium"/>
-            <cell></cell>
+            <cell>V</cell>
             <cell role="spatium"/>
-            <cell></cell>
-            <cell role="spatium"/>
+            <cell>V</cell>
+            <cell>
+              <p><persName><choice><abbr>Ouidi</abbr><expan>Ouidius</expan></choice></persName> poeta <choice><abbr>i</abbr><expan>in</expan></choice> exilio diem obiit et iuxta oppidum <placeName>Tomos</placeName> <choice><abbr>sepelit</abbr><expan>sepelitur</expan></choice>. <persName>Germanicus caesar</persName> de <rs type="ethnic">parthis</rs> triumphat.</p>
+              <p><num>XIII</num>. urbes terraemotu corruerunt. 
+                <placeName>Ephesus</placeName>
+                <placeName>Magnesia</placeName>
+                <placeName>Sardis</placeName>
+                <placeName><choice><sic>oschene</sic><corr>nioschene</corr></choice></placeName>
+                <placeName>aegre</placeName>
+                <placeName>hiero</placeName>
+                <placeName>Caesarea</placeName>
+                <placeName>philadelphia</placeName>
+                <placeName>Tomolus.</placeName>
+                <placeName>Temus</placeName>
+                <placeName>Cimemirma</placeName>
+                <placeName>Apollonia</placeName>
+                <placeName>Dyahircania</placeName>
+                </p>
+              <p><persName>Fenestella</persName> <choice><abbr>historia</abbr><expan>historiarum</expan></choice> scriptor et <choice><abbr>carminu</abbr><expan>carminum</expan></choice>. <choice><abbr>septuaginari</abbr><expan>septuaginarius</expan></choice> <choice><abbr>morit</abbr><expan>moritur</expan></choice>: <choice><abbr>sepeliturq</abbr><expan>sepeliturque</expan></choice> <placeName>Cumis</placeName>.</p>
+            </cell>
           </row>
           <row n="199_3">
             <cell role="spatium"/>
-            <cell></cell>
+            <cell>VI</cell>
             <cell role="spatium"/>
-            <cell></cell>
+            <cell>VI</cell>
             <cell role="spatium"/>
           </row>
           <row n="199_4">
+            <cell role="annimundi"><choice><abbr>VCCXX</abbr><expan><num>V</num> milia <num>CCXX</num></expan></choice>.</cell>
+            <cell>VII</cell>
             <cell role="spatium"/>
-            <cell></cell>
-            <cell role="spatium"/>
-            <cell></cell>
-            <cell role="spatium"/>
+            <cell>VII</cell>
+            <cell><persName>Tiberius</persName> multos reges ad se <choice><abbr>p</abbr><expan>per</expan></choice> blandicias euocatos <choice><abbr>nunq</abbr><expan>nunque</expan></choice> remissit. In quibus <persName>Archelaum</persName> <placeName><choice><abbr>cappadore</abbr><expan>cappadorem</expan></choice></placeName>: Cuius regno in prouinciam uerso: <placeName>Mazeam</placeName> <choice><abbr>nobilissima</abbr><expan>nobilissimam</expan></choice> <choice><abbr>ciuitate</abbr><expan>ciuitatem</expan></choice> <placeName><choice><abbr>caesarea</abbr><expan>caesaream</expan></choice></placeName> appellari iussit.</cell>
           </row>
           <row role="olympiad" n="200">
             <cell role="spatium"/>
-            <cell role="spatium"/>
+            <cell><choice><abbr>Olymp.</abbr><expan>Olympias</expan></choice> CC.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row n="200_1">
             <cell role="spatium"/>
-            <cell></cell>
+            <cell>VIII</cell>
             <cell role="spatium"/>
-            <cell></cell>
-            <cell role="spatium"/>
+            <cell>VIII</cell>
+            <cell><placeName><persName>Pompeii</persName> Theatrum</placeName> incensum. <persName>Tiberius</persName> <persName>drusum</persName> consortem regni facit.</cell>
           </row>
           <row n="200_2">
             <cell role="spatium"/>
-            <cell></cell>
+            <cell>IX</cell>
             <cell role="spatium"/>
-            <cell></cell>
-            <cell role="spatium"/>
+            <cell>IX</cell>
+            <cell><persName>Drusus Caesar</persName> ueneno perit.</cell>
           </row>
           <row n="200_3">
             <cell role="spatium"/>
