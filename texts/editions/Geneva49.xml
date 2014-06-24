@@ -19861,12 +19861,19 @@
             <cell role="filum" n="Romans"><rs type="ethnic">ROMANORVM</rs>.</cell>
             <cell role="spatium"/>
           </row>
+          <row role="regnal" n="202_3_r1">
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell>Ecclesie <rs type="ethnic"><choice><abbr>hierosolimo</abbr><expan>hierosolimorum</expan></choice></rs> <choice><abbr>prim</abbr><expan>primus</expan></choice> <choice><abbr>epus</abbr><expan>episcopus</expan></choice> ab apostalis <choice><abbr>ordinat</abbr><expan>ordinatus</expan></choice> <persName>IACOBVS</persName> frater domini.</cell>
+            <cell role="spatium"/>
+          </row>
           <row n="202_4">
             <cell role="spatium"/>
-            <cell/>
+            <cell>XIX</cell>
             <cell role="spatium"/>
-            <cell/>
-            <cell role="spatium"/>
+            <cell>XIX</cell>
+            <cell><persName><choice><abbr>Cassi</abbr><expan>Cassius</expan></choice> <choice><abbr>seuer</abbr><expan>seuerus</expan></choice></persName> orator <choice><abbr>egregi</abbr><expan>egregius</expan></choice>: <choice><abbr>q</abbr><expan>qui</expan></choice> <persName><choice><abbr>quintianu</abbr><expan>quintianum</expan></choice></persName> illud prouerbium luserat. <num>XXV</num>. exilii sui anno in <choice><abbr>sumo</abbr><expan>summo</expan></choice> inopia <choice><abbr>morit</abbr><expan>moritur</expan></choice>. uix panno uerenda <choice><abbr>contert</abbr><expan>contertur</expan></choice>.</cell>
           </row>
           <row role="Olympiad" n="203">
             <cell role="spatium"/>
@@ -19880,31 +19887,31 @@
           </row>
           <row n="203_1">
             <cell role="spatium"/>
-            <cell/>
+            <cell>XX</cell>
             <cell role="spatium"/>
-            <cell/>
-            <cell role="spatium"/>
+            <cell>XX</cell>
+            <cell><persName>Pilatus</persName> post supradictam <choice><abbr>sedicione</abbr><expan>sedicionem</expan></choice> <choice><abbr>q</abbr><expan>Unknown</expan></choice> ob <persName>caesaris</persName> imagines fuerat concitata: <choice><abbr>sacru</abbr><expan>sacrum</expan></choice> thesarum quem <placeName><choice><abbr>Corbona</abbr><expan>Corbonam</expan></choice></placeName> uocant <rs type="ethnic">iudei</rs>: in aqueductu <rs type="ethnic"><choice><abbr>hierosolimo</abbr><expan>hierosolimorum</expan></choice></rs> expendens: secundae <choice><abbr>sedicious</abbr><expan>sedicionis</expan></choice> <choice><abbr>pbuit</abbr><expan>praebuit</expan></choice> semina.</cell>
           </row>
           <row n="203_2">
             <cell role="spatium"/>
-            <cell/>
+            <cell>XXI</cell>
             <cell role="spatium"/>
-            <cell/>
-            <cell role="spatium"/>
+            <cell>XXI</cell>
+            <cell><p><persName><choice><abbr>Seian</abbr><expan>Seianus</expan></choice></persName> <choice><abbr>pfectus</abbr><expan>praefectus</expan></choice> <persName>tiberii</persName> <choice><abbr>q</abbr><expan>qui</expan></choice> apud <choice><abbr>eiu</abbr><expan>eium</expan></choice> <choice><abbr>plurimu</abbr><expan>plurimum</expan></choice> poterat instantissime <choice><abbr>cohortat</abbr><expan>cohortatur</expan></choice> ut <choice><abbr>gente</abbr><expan>gentem</expan></choice> <rs type="ethnic"><choice><abbr>iudeo</abbr><expan>iudeorum</expan></choice></rs> deleat. <persName>Philo</persName> meminit libro legationis. <num>II</num>.</p> <p><persName>Persius flaccus</persName> Satyricus poeta uulteris <choice><abbr>nascit</abbr><expan>nascitur</expan></choice>.</p></cell>
           </row>
           <row n="203_3">
             <cell role="spatium"/>
-            <cell/>
-            <cell role="spatium"/>
-            <cell/>
+            <cell>XXII</cell>
+            <cell><persName>Agrippa</persName> <persName>herodis</persName> filius accusator <persName>herodes</persName> tetrarche <placeName>romam</placeName> profectus a <persName>tiberio</persName> in uincla <choice><abbr>coniicit</abbr><expan>coniicitur</expan></choice>.</cell>
+            <cell>XXII</cell>
             <cell role="spatium"/>
           </row>
           <row n="203_4">
             <cell role="spatium"/>
-            <cell/>
+            <cell>XXIII</cell>
             <cell role="spatium"/>
-            <cell/>
-            <cell role="spatium"/>
+            <cell>XXIII</cell>
+            <cell><note><p><persName>Pilato</persName> de <choice><abbr>christiano</abbr><expan>christianorum</expan></choice> dogmate ad <persName><choice><abbr>Tiberiu</abbr><expan>Tiberium</expan></choice></persName> <choice><abbr>referte</abbr><expan>referent</expan></choice> <persName><choice><abbr>tiberi</abbr><expan>tiberius</expan></choice></persName> retulit ad senatum ut inter cetera sacra <choice><abbr>reciperent</abbr><expan>reciperentur</expan></choice>. Verum <choice><abbr>cu</abbr><expan>cum</expan></choice> ex consulto <choice><abbr>patru</abbr><expan>patrum</expan></choice> christianos eliminari urbe placuisset: <persName><choice><abbr>Tiberi</abbr><expan>Tiberius</expan></choice></persName> per edictum <choice><abbr>accusatorib</abbr><expan>accusatoribus</expan></choice> <choice><abbr>cominat</abbr><expan>comminatus</expan></choice> est <choice><abbr>morte</abbr><expan>mortem</expan></choice>. Scribit <persName>Tertulianus</persName> in <title>apologetico</title>.</p> <p>Multi <choice><abbr>senato</abbr><expan>senatorum</expan></choice> et <choice><abbr>eqtu</abbr><expan>equitum</expan></choice> <placeName><choice><abbr>ro.</abbr><expan>rome</expan></choice></placeName> interfecti.</p> <p><persName><choice><abbr>Tiberi</abbr><expan>Tiberius</expan></choice></persName> <choice><abbr>i</abbr><expan>in</expan></choice> <placeName><choice><abbr>Capania</abbr><expan>Campania</expan></choice></placeName> <choice><abbr>morit</abbr><expan>moritur</expan></choice>.</p></note></cell>
           </row>
           <row role="Olympiad" n="204">
             <cell role="spatium"/>
