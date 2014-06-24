@@ -19651,7 +19651,8 @@
             <cell><choice>
                 <abbr>Olymp.</abbr>
                 <expan>Olympias</expan>
-              </choice> <num>CCII</num>.</cell>
+              </choice>
+              <num>CCII</num>.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
@@ -19848,6 +19849,106 @@
                 <expan>prima</expan>
               </choice> seditionis et turbarum <rs type="ethnic">iudeis</rs> causa extiterit.</cell>
             <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row role="header" n="header_1">
+            <cell role="annimundi"><choice>
+                <abbr>ANN.</abbr>
+                <expan>ANNI.</expan>
+              </choice> MVNDI.</cell>
+            <cell role="filum" n="Judean Hebrews"><rs type="ethnic">IVDAEORVM</rs>.</cell>
+            <cell role="spatium"/>
+            <cell role="filum" n="Romans"><rs type="ethnic">ROMANORVM</rs>.</cell>
+            <cell role="spatium"/>
+          </row>
+          <row n="202_4">
+            <cell role="spatium"/>
+            <cell/>
+            <cell role="spatium"/>
+            <cell/>
+            <cell role="spatium"/>
+          </row>
+          <row role="Olympiad" n="203">
+            <cell role="spatium"/>
+            <cell><choice>
+                <abbr>Olymp.</abbr>
+                <expan>Olympias</expan>
+              </choice> CCIII.</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="203_1">
+            <cell role="spatium"/>
+            <cell/>
+            <cell role="spatium"/>
+            <cell/>
+            <cell role="spatium"/>
+          </row>
+          <row n="203_2">
+            <cell role="spatium"/>
+            <cell/>
+            <cell role="spatium"/>
+            <cell/>
+            <cell role="spatium"/>
+          </row>
+          <row n="203_3">
+            <cell role="spatium"/>
+            <cell/>
+            <cell role="spatium"/>
+            <cell/>
+            <cell role="spatium"/>
+          </row>
+          <row n="203_4">
+            <cell role="spatium"/>
+            <cell/>
+            <cell role="spatium"/>
+            <cell/>
+            <cell role="spatium"/>
+          </row>
+          <row role="Olympiad" n="204">
+            <cell role="spatium"/>
+            <cell><choice>
+                <abbr>Olymp.</abbr>
+                <expan>Olympias</expan>
+              </choice> CCIIII.</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row role="regnal" n="204_r1">
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="204_1">
+            <cell role="spatium"/>
+            <cell/>
+            <cell role="spatium"/>
+            <cell/>
+            <cell role="spatium"/>
+          </row>
+          <row role="regnal" n="204_1_r1">
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="204_2">
+            <cell role="spatium"/>
+            <cell/>
+            <cell role="spatium"/>
+            <cell/>
+            <cell role="spatium"/>
+          </row>
+          <row n="204_3">
+            <cell role="spatium"/>
+            <cell/>
+            <cell role="spatium"/>
+            <cell/>
             <cell role="spatium"/>
           </row>
         </table>
