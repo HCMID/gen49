@@ -19543,7 +19543,7 @@
               </choice> MVNDI.</cell>
           </row>
           <row n="201_4">
-            <cell>XV</cell>
+            <cell><num>XV</num></cell>
             <cell><p><persName>IOHANNES</persName> filius <persName>Zacharie</persName>
                 <choice>
                   <abbr>i</abbr>
@@ -19643,7 +19643,7 @@
                   <abbr>IICCXLII</abbr>
                   <expan><num>II</num> milia <num>CCXLII</num></expan>
                 </choice>.</p></cell>
-            <cell>XV</cell>
+            <cell><num>XV</num></cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
@@ -19651,16 +19651,16 @@
             <cell><choice>
                 <abbr>Olymp.</abbr>
                 <expan>Olympias</expan>
-              </choice> CCII.</cell>
+              </choice> <num>CCII</num>.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row n="202_1">
-            <cell>XVI</cell>
+            <cell><num>XVI</num></cell>
             <cell role="spatium"/>
-            <cell>XVI</cell>
+            <cell><num>XVI</num></cell>
             <cell><persName>Ihesus christus</persName> filius dei <choice>
                 <abbr>salutare</abbr>
                 <expan>salutarem</expan>
@@ -19674,9 +19674,9 @@
             <cell role="spatium"/>
           </row>
           <row n="202_2">
-            <cell>XVII</cell>
+            <cell><num>XVII</num></cell>
             <cell role="spatium"/>
-            <cell>XVII</cell>
+            <cell><num>XVII</num></cell>
             <cell><persName>Ihiesus christus</persName> filius dei discipulos suos diuinis imbuens
               sacramentis ut uniuersis <choice>
                 <abbr>genitb</abbr>
@@ -19692,9 +19692,9 @@
               </choice>.</cell>
           </row>
           <row n="202_3">
-            <cell>XVIII</cell>
+            <cell><num>XVIII</num></cell>
             <cell role="spatium"/>
-            <cell>XVIII</cell>
+            <cell><num>XVIII</num></cell>
             <cell><p><persName>Ihiesus christus</persName> filius dei <choice>
                   <abbr>secundu</abbr>
                   <expan>secundum</expan>
@@ -19748,7 +19748,7 @@
                 <expan>in</expan>
               </choice>
               <choice>
-                <abbr><num>XIIIo</num></abbr>
+                <abbr><num>XIII</num>o</abbr>
                 <expan>Unknown</expan>
               </choice> libro ita direns. Quarto <choice>
                 <abbr>aut</abbr>
