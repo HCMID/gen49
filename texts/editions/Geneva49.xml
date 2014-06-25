@@ -20870,7 +20870,7 @@
             <cell>Ante mensam <persName>Neronis</persName> fulmen cedidit.</cell>
           </row>
           <row role="header" n="header_9">
-            <cell role="filum" n="Judean Hebrews"><rs type="ethnic">IVDAEORVM</rs></cell>
+            <cell role="filum" n="Judean Hebrews"><rs type="ethnic">IVDAEORVM</rs>.</cell>
             <cell role="spatium"/>
             <cell role="filum" n="Romans"><rs type="ethnic">ROMANORVM</rs></cell>
             <cell role="spatium"/>
@@ -20880,14 +20880,17 @@
             <cell>XIX</cell>
             <cell role="spatium"/>
             <cell>IX</cell>
-            <cell role="spatium"/>
+            <cell role="regnal">
+              Post <persName>Marcum euangelistam</persName> primus <rs type="ethnic">Alexandrine</rs> <choice><abbr>eccle</abbr><expan>ecclesie</expan></choice> <choice><abbr>ordinat</abbr><expan>ordinatur</expan></choice> <choice><abbr>eps</abbr><expan>episcopus</expan></choice>. <persName>ANNIANVS</persName>. Qui prefuit annis XXII.
+              <note><persName>Persius</persName> <choice><abbr>morit</abbr><expan>moritur</expan></choice> anno aetatis XXVIIII. Therme a <persName>Nerone</persName> edificate quas Neronianas <choice><abbr>appellau</abbr><expan>appellauit</expan></choice>. <persName>Nero</persName> <placeName>rome</placeName> in citharistarum agone contendens <choice><abbr>oms</abbr><expan>omnis</expan></choice> <choice><abbr>supat</abbr><expan>superat</expan></choice>.</note>
+            </cell>
             <cell role="spatium"/>
           </row>
           <row n="210_4">
             <cell>XX</cell>
             <cell role="spatium"/>
             <cell>X</cell>
-            <cell role="spatium"/>
+            <cell><persName><choice><abbr>M.</abbr><expan>Marcus</expan></choice> anneus lucanus <rs type="ethnic">cordubensis</rs></persName> poeta: <choice><abbr>i</abbr><expan>in</expan></choice> <placeName>pisoniana</placeName> coniuratione deprehensus <choice><abbr>brachiu</abbr><expan>brachium</expan></choice> ad secandas uenas medico prebuit. <persName>Nero</persName> ut <choice><abbr>similitudine</abbr><expan>similitudinem</expan></choice> <placeName>troiae</placeName> ardentis cerneret plurima partem <placeName><choice><abbr>rome</abbr><expan>romem</expan></choice></placeName> urbis incendit. In <placeName>Asia</placeName> tres urbes terre motu conciderunt. <placeName>Laodice</placeName>. <placeName>hieropolis</placeName>: <placeName>colosse</placeName>. <persName>Albino</persName> <persName>florus</persName> succedit: sub quo <rs type="ethnic">iudei</rs> contra <rs type="ethnic">romanos</rs> rebellauerunt. <persName><choice><abbr>Iuni</abbr><expan>Iunius</expan></choice>Anneus gallio</persName> <choice><abbr>fr</abbr><expan>frater</expan></choice> <persName>fenecae</persName> egregius <choice><abbr>declamato</abbr><expan>declamator</expan></choice> <choice><abbr>pa</abbr><expan>propria</expan></choice> se manu <choice><abbr>intficit</abbr><expan>interficit</expan></choice>: <persName>nerone</persName> in sua <choice><abbr>psentia</abbr><expan>presentia</expan></choice> deferente.</cell>
             <cell role="spatium"/>
           </row>
           <row role="Olympiad" n="211">
@@ -20901,21 +20904,21 @@
             <cell>XXI</cell>
             <cell role="spatium"/>
             <cell>XI</cell>
-            <cell role="spatium"/>
+            <cell>Due tantum prouincie sub <persName>nerone</persName> facte: <placeName>Pontus polemoniacus</placeName> <placeName>Alpes cottie</placeName>. <persName>Cottio</persName> rege defuncto. Multi nobilium <placeName>rome</placeName> a <persName>nerone</persName> interfecti. <persName>Nero</persName> in Olympiade <choice><abbr>coronat</abbr><expan>coronatur</expan></choice>: cericas: citharistas: tragoedos: aurigas uario certamine superans. <persName><choice><abbr>L.</abbr><expan>Lucius</expan></choice> Anneus Seneca <rs type="ethnic">cordubensis</rs></persName> preceptor <persName>neronis</persName> et patruus <persName>Lucani</persName> poetae Incisione <choice><abbr>uena</abbr><expan>uenarum</expan></choice> et ueneni haustu periit. Rursum <persName>nero</persName> Ischmia: pythia: actia celebrans inter cericas tragoedos et citharistas <choice><abbr>coronat</abbr><expan>coronatur</expan></choice>.</cell>
             <cell role="spatium"/>
           </row>
           <row n="211_2">
             <cell>XXII</cell>
             <cell role="spatium"/>
             <cell>XII</cell>
-            <cell role="spatium"/>
+            <cell><persName>Neroni</persName> in expensas centies centenamilia decreto senatus annua <choice><abbr>subministrant</abbr><expan>subministrantur</expan></choice>.</cell>
             <cell role="spatium"/>
           </row>
           <row n="211_3">
             <cell>XXIII</cell>
             <cell role="spatium"/>
             <cell>XIII</cell>
-            <cell role="spatium"/>
+            <cell><persName>Nero</persName> <choice><abbr>cu</abbr><expan>cum</expan></choice> <choice><abbr>ceteis</abbr><expan>ceteris</expan></choice> uiris <choice><abbr>insignib</abbr><expan>insignibus</expan></choice> et <persName><choice><abbr>octauia</abbr><expan>octauiam</expan></choice></persName> <choice><abbr>uxore</abbr><expan>uxorem</expan></choice> suam interficit. <persName>Cornutum</persName><choice><abbr>q</abbr><expan>que</expan></choice> <choice><abbr>philosophu</abbr><expan>philosophum</expan></choice> <choice><abbr>preceptore</abbr><expan>preceptorem</expan></choice> <persName>persii</persName> in exilium fugat.</cell>
             <cell role="spatium"/>
           </row>
           <row n="211_4">
