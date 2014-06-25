@@ -19913,6 +19913,13 @@
             <cell>XXIII</cell>
             <cell><note><p><persName>Pilato</persName> de <choice><abbr>christiano</abbr><expan>christianorum</expan></choice> dogmate ad <persName><choice><abbr>Tiberiu</abbr><expan>Tiberium</expan></choice></persName> <choice><abbr>referte</abbr><expan>referent</expan></choice> <persName><choice><abbr>tiberi</abbr><expan>tiberius</expan></choice></persName> retulit ad senatum ut inter cetera sacra <choice><abbr>reciperent</abbr><expan>reciperentur</expan></choice>. Verum <choice><abbr>cu</abbr><expan>cum</expan></choice> ex consulto <choice><abbr>patru</abbr><expan>patrum</expan></choice> christianos eliminari urbe placuisset: <persName><choice><abbr>Tiberi</abbr><expan>Tiberius</expan></choice></persName> per edictum <choice><abbr>accusatorib</abbr><expan>accusatoribus</expan></choice> <choice><abbr>cominat</abbr><expan>comminatus</expan></choice> est <choice><abbr>morte</abbr><expan>mortem</expan></choice>. Scribit <persName>Tertulianus</persName> in <title>apologetico</title>.</p> <p>Multi <choice><abbr>senato</abbr><expan>senatorum</expan></choice> et <choice><abbr>eqtu</abbr><expan>equitum</expan></choice> <placeName><choice><abbr>ro.</abbr><expan>rome</expan></choice></placeName> interfecti.</p> <p><persName><choice><abbr>Tiberi</abbr><expan>Tiberius</expan></choice></persName> <choice><abbr>i</abbr><expan>in</expan></choice> <placeName><choice><abbr>Capania</abbr><expan>Campania</expan></choice></placeName> <choice><abbr>morit</abbr><expan>moritur</expan></choice>.</p></note></cell>
           </row>
+          <row role="regnal" n="203_4_r1">
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell><rs type="ethnic">ROMANORVM</rs> .IIII. <persName><choice><abbr>C.</abbr><expan>Gaius</expan></choice> Caligula</persName>. <choice><abbr>ann.</abbr><expan>annos</expan></choice> III. <choice><abbr>mes.</abbr><expan>menses</expan></choice> X.</cell>
+            <cell role="spatium"/>
+          </row>
           <row role="Olympiad" n="204">
             <cell role="spatium"/>
             <cell><choice>
@@ -19923,40 +19930,33 @@
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
-          <row role="regnal" n="204_r1">
-            <cell role="spatium"/>
-            <cell role="spatium"/>
-            <cell role="spatium"/>
-            <cell role="spatium"/>
-            <cell role="spatium"/>
-          </row>
           <row n="204_1">
             <cell role="spatium"/>
-            <cell/>
+            <cell>XXIIII</cell>
             <cell role="spatium"/>
-            <cell/>
-            <cell role="spatium"/>
+            <cell>I</cell>
+            <cell><persName><choice><abbr>C.</abbr><expan>Gaius</expan></choice> Caesar</persName> cognomento <persName>Caligula</persName>: <persName>Agrippam</persName> uinculis liberatum regem <placeName>Iudeae</placeName> facit. <persName>Caius</persName> semet <choice><abbr>ip</abbr><expan>ipsum</expan></choice> in deos refert. <persName>Flaccus liuius</persName> prefectus <placeName>aegypti</placeName> multis <rs type="ethnic"><choice><abbr>iudeo</abbr><expan>iudeorum</expan></choice></rs> <choice><abbr>calamitatib</abbr><expan>calamitatibus</expan></choice> <choice><abbr>pmit</abbr><expan>praemit</expan></choice>: consentiente <rs type="ethnic">alexandrino</rs> populo et crebris aduersus eos <note><choice><abbr>al</abbr><expan>Unknown</expan></choice> <choice><abbr>cu</abbr><expan>cum</expan></choice></note> clamoribus personante. Sinagogas <choice><abbr>quoq</abbr><expan>quoque</expan></choice> <choice><abbr>eo</abbr><expan>eorum</expan></choice> imaginibus Statuis Aris et uictimis polluit. Refert <persName>philo</persName> in eo libro qui <persName>flaccus</persName> <choice><abbr>inscribit</abbr><expan>inscribitur</expan></choice>. hec <choice><abbr>oia</abbr><expan>omnia</expan></choice> se presente gesta ob que <choice><abbr>et</abbr><expan>etiam</expan></choice> <choice><abbr>legatione</abbr><expan>legationem</expan></choice> ad <persName>Caium</persName> <choice><abbr>ipe</abbr><expan>ipse</expan></choice> susceperit.</cell>
           </row>
           <row role="regnal" n="204_1_r1">
             <cell role="spatium"/>
-            <cell role="spatium"/>
+            <cell><rs type="ethnic"><choice><abbr>Iudeo</abbr><expan>Iudeorum</expan></choice></rs> <persName>AGRIPPA</persName>. <choice><abbr><sic>am</sic><corr>ann</corr></abbr><expan>annos</expan></choice>. VII.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row n="204_2">
             <cell role="spatium"/>
-            <cell/>
+            <cell>I</cell>
             <cell role="spatium"/>
-            <cell/>
-            <cell role="spatium"/>
+            <cell>II</cell>
+            <cell><persName>Passienus</persName> filius ob <choice><abbr>fraude</abbr><expan>fraudem</expan></choice> hereditatis suae <choice><abbr>necat</abbr><expan>necatur</expan></choice>.</cell>
           </row>
           <row n="204_3">
             <cell role="spatium"/>
-            <cell/>
+            <cell>II</cell>
             <cell role="spatium"/>
-            <cell/>
-            <cell role="spatium"/>
+            <cell>III</cell>
+            <cell><p><persName>Caius</persName> memmi reguli <choice><abbr>uxore</abbr><expan>uxorem</expan></choice> duxit impellens eum ut uxoris sue patrem esse se scriberet. <persName>Pontius Pilatus</persName> in multas incidens calamitates: propria se manu interfecit. Scribunt <rs type="ethnic"><choice><abbr>romano</abbr><expan>romanorum</expan></choice></rs> historici.</p> <p><persName>Caius</persName> pretonio prefecto <placeName>syrie</placeName> precepit ut <choice><abbr>i</abbr><expan>in</expan></choice> <placeName>hierosolimis</placeName> statuam suam sub nomine <persName>Iovis maximi</persName> poneret.</p></cell>
           </row>
         </table>
       </div>
