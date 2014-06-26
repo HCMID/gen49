@@ -21030,87 +21030,96 @@
           </row>
           <row n="213_4">
             <cell>VII</cell>
-            <cell role="spatium"/>
+            <cell>Colossus erectus habent altitudinis pedes. CVII. <persName><choice><abbr>Q.</abbr><expan>Quintus</expan></choice> Ascanius pedianus</persName> scriptor historicus clarus <choice><abbr>hr</abbr><expan>habetur</expan></choice>. Qui. LXXIII. aetatis anno captus <choice><abbr>Luminib</abbr><expan>Luminibus</expan></choice> XII. postea annis <choice><abbr>i</abbr><expan>in</expan></choice> <choice><abbr>sumo</abbr><expan>summo</expan></choice> <choice><abbr>omniu</abbr><expan>omnium</expan></choice> honore consenescit.</cell>
             <cell role="spatium"/>
           </row>
           <row role="Olympiad" n="214">
-            <cell role="spatium"/>
+            <cell><choice><abbr>Olymp.</abbr><expan>Olympias</expan></choice> CCXIIII.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row n="214_1">
             <cell>VIII</cell>
-            <cell role="spatium"/>
+            <cell><p><persName>Gabianus</persName> celeberrimi nominis rhetor in <placeName>Gallia</placeName> docuit.</p>
+            <p>Tres ciuitates <placeName>cipri</placeName> terre motu corruerunt.</p>
+            </cell>
             <cell role="spatium"/>
           </row>
           <row n="214_2">
             <cell>IX</cell>
-            <cell role="spatium"/>
+            <cell>Lues ingens <placeName>Rome</placeName> facta: ut <choice><abbr>p</abbr><expan>per</expan></choice> multos dies <choice><abbr>i</abbr><expan>in</expan></choice> ephemeridem. <choice><abbr>X</abbr><expan><num>X</num> milia</expan></choice>. ferme <choice><abbr>mortuor</abbr><expan>mortuorem</expan></choice> <choice><abbr>hominu</abbr><expan>hominum</expan></choice> <choice><abbr>referent</abbr><expan>referentur</expan></choice>. Nobilitatis <rs type="ethnic">romane</rs> morbo pars maxima periit.</cell>
             <cell role="spatium"/>
           </row>
           <row n="214_3">
             <cell>X</cell>
-            <cell role="spatium"/>
+            <cell><persName>Vespasianus</persName> colonias deduxit: et mortuuis est profugio uentris <choice><abbr>i</abbr><expan>in</expan></choice> uilla <choice><abbr>propa</abbr><expan>propria</expan></choice> circe <rs type="ethnic">sabinos</rs>. anno aetatis. <num>LXVIIII</num>.</cell>
             <cell role="spatium"/>
           </row>
           <row role="regnal" n="214_3_r1">
-            <cell role="spatium"/>
+            <cell><rs type="ethnic"><choice><abbr>ROMANORV</abbr><expan>ROMANORVM</expan></choice></rs>. VIII. <persName>TITVS</persName>. <choice><abbr>ANN.</abbr><expan>ANNOS</expan></choice> II.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row n="214_4">
             <cell>I</cell>
-            <cell role="spatium"/>
-            <cell role="spatium"/>
+            <cell><persName>Titus</persName> filius <persName>uespasiani</persName> in <choice><abbr>utraq</abbr><expan>utraque</expan></choice> lingua disertissimus fuit: et tante bonitatis: ut cum quadam die recordatus fuisset <choice><abbr>i</abbr><expan>in</expan></choice> coena nihil se illo die <choice><abbr>cuiq</abbr><expan>unknown</expan></choice> <choice><abbr>pstitisse</abbr><expan>praestitisse</expan></choice>: dixerit. Amici hodie diem perdidi. <placeName>Mons uesuius</placeName> ruptus in uertice: <choice><abbr>tantu</abbr><expan>tantum</expan></choice> ex se iecit incendii ut regiones uicinas cum <choice><abbr>pominib</abbr><expan>pominibus</expan></choice> exureret.</cell>
+            <cell role="annimundi"><choice><abbr>VCCLXXX</abbr><expan><num>V</num> milia <num>CCLXXX</num></expan></choice>.</cell>
           </row>
           <row role="Olympiad" n="215">
-            <cell role="spatium"/>
+            <cell><choice><abbr>Olymp.</abbr><expan>Olympias</expan></choice> CCXV.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row n="215_1">
             <cell>II</cell>
-            <cell role="spatium"/>
+            <cell role="regnal">
+              <note><persName>Titus</persName>: <persName><choice><abbr>Musoniu</abbr><expan>Musonium</expan></choice> rufum</persName> <choice><abbr>philosophu</abbr><expan>philosophum</expan></choice> de exilio reuocat. <persName>Titus</persName> <placeName>Amphitheatrum</placeName> <placeName>Rome</placeName> edificat: et <choice><abbr>i</abbr><expan>in</expan></choice> dedicatione <choice><abbr>ei</abbr><expan>eius</expan></choice>. <choice><abbr>V</abbr><expan><num>V</num> milia</expan></choice>. <choice><abbr>fera</abbr><expan>ferarum</expan></choice> occidit.</note>
+              <rs type="ethnic">Romanae</rs> <choice><abbr>eccle</abbr><expan>ecclesie</expan></choice> <num>III</num>. <choice><abbr>constituit</abbr><expan>constituitur</expan></choice> <choice><abbr>eps</abbr><expan>episcopus</expan></choice> <persName>CLETVS</persName>. <choice><abbr>ann.</abbr><expan>annos</expan></choice> <num>XII</num>.
+              <note>
+                <p><placeName>Rome</placeName> plurime edes indendium <choice><abbr>concremant</abbr><expan>concremantur</expan></choice>.</p>
+                <p><persName>Titus</persName> morbo periit: in ea uilla qua pater. Anno aetatis. XLII.</p>
+              </note>
+            </cell>
             <cell role="spatium"/>
           </row>
           <row role="regnal" n="215_1_r1">
-            <cell role="spatium"/>
+            <cell><rs type="ethnic"><choice><abbr>ROMANORV</abbr><expan>ROMANORVM</expan></choice></rs>. IX. <persName>DOMITIANVS</persName>. <choice><abbr>ann.</abbr><expan>annos</expan></choice> XV. <choice><abbr>mes.</abbr><expan>menses</expan></choice> V.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row n="215_2">
             <cell>I</cell>
-            <cell role="spatium"/>
+            <cell><persName>Domitianus</persName> <persName>Titi</persName> frater iunior.</cell>
             <cell role="spatium"/>
           </row>
           <row n="215_3">
             <cell>II</cell>
-            <cell role="spatium"/>
+            <cell><persName>Domitiani</persName> uxor <persName>Augusta</persName> <choice><abbr>appellat</abbr><expan>appellatur</expan></choice>. Decreto senatus <persName>titus</persName> inter deos <choice><abbr>refert</abbr><expan>refertur</expan></choice>.</cell>
             <cell role="spatium"/>
           </row>
           <row n="215_4">
             <cell>III</cell>
-            <cell role="spatium"/>
+            <cell><persName>Domitianus</persName> eunochos fieri prohibuit. Tres uirgines uestales ob stuprum damnate. Plurimos <choice><abbr>senator</abbr><expan>senatorum</expan></choice> <persName>domitianus</persName> in <choice><abbr>exiliu</abbr><expan>exilium</expan></choice> mittit.</cell>
             <cell role="spatium"/>
           </row>
           <row role="Olympiad" n="216">
-            <cell role="spatium"/>
+            <cell><choice><abbr>Olymp.</abbr><expan>Olympias</expan></choice> XVI.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row n="216_1">
             <cell>IIII</cell>
-            <cell role="spatium"/>
+            <cell role="regnal">Secundus <rs type="ethnic">Alexandrine</rs> <choice><abbr>eccle</abbr><expan>ecclesie</expan></choice> <choice><abbr>constituit</abbr><expan>constituitur</expan></choice> <choice><abbr>eps</abbr><expan>episcopus</expan></choice> <persName>ABILIVS</persName>. Qui prefuit.</cell>
             <cell role="spatium"/>
           </row>
           <row n="216_2">
             <cell>V</cell>
-            <cell role="spatium"/>
+            <cell><persName>Domitianus</persName> templum sine <choice><abbr>ligno</abbr><expan>lignorum</expan></choice> admixtione construxit.</cell>
             <cell role="spatium"/>
           </row>
           <row n="216_3">
             <cell>VI</cell>
-            <cell role="spatium"/>
+            <cell>Primus <persName>Domitianus</persName> <choice><abbr>dn</abbr><expan>dominem</expan></choice> se et <choice><abbr>deu</abbr><expan>deum</expan></choice> appellari Iussit. <rs type="ethnic">Nasamones</rs> et <rs type="ethnic">daci</rs> dimicantes auersum <rs type="ethnic">romanos</rs> uicti:</cell>
             <cell role="spatium"/>
           </row>
       </table>
