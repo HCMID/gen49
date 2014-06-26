@@ -21124,13 +21124,13 @@
           </row>
           <row role="header" n="header_2">
             <cell role="annimundi"><choice><abbr>ANN.</abbr><expan>ANNI.</expan></choice> MVNDI.</cell>
-            <cell role="filum" n="Romans"><rs type="ethnic">ROMANORVM</rs></cell>
+            <cell role="filum" n="Romans"><rs type="ethnic">ROMANORVM</rs>.</cell>
             <cell role="spatium"/>
           </row>
           <row n="216_4">
             <cell role="spatium"/>
             <cell>VII</cell>
-            <cell role="spatium"/>
+            <cell>Duo menses aliter appellati. September Germanicus. October Dimitianus.</cell>
           </row>
           <row role="Olympiad" n="217">
             <cell><choice><abbr>Olymp.</abbr><expan>Olympias</expan></choice> CCXVII.</cell>
@@ -21140,12 +21140,12 @@
           <row n="217_1">
             <cell role="spatium"/>
             <cell>VIII</cell>
-            <cell role="spatium"/>
+            <cell><p><persName>Quintilianus</persName> ex <placeName>hispania</placeName> <placeName>calagoritanus</placeName> <choice><abbr>pmus</abbr><expan>primus</expan></choice> <placeName>Rome</placeName> <choice><abbr>publica</abbr><expan>publicam</expan></choice> scolam et solarium e fisco accepit: et claruit.</p> <p><note><persName>Domitianus</persName> plurimos nobilium <choice><abbr>i</abbr><expan>in</expan></choice> <choice><abbr>exiliu</abbr><expan>exilium</expan></choice> mittit et occidit.</note></p></cell>
           </row>
           <row n="217_2">
             <cell role="annimundi"><choice><abbr>VCCLXXXX</abbr><expan><num>V</num> milia <num>CCLXXXX</num></expan></choice>.</cell>
             <cell>IX</cell>
-            <cell role="spatium"/>
+            <cell><note><persName>Domitianus</persName> mathematicos et philosophos. <placeName><choice><abbr>Ro</abbr><expan>Rome</expan></choice></placeName>. urbe pepulit. Multa opera <placeName>Rome</placeName> facta: in <choice><abbr>quibus</abbr><expan>Unknown</expan></choice> <choice><abbr>capitoliu</abbr><expan>capitolium</expan></choice>. <placeName>Forum <choice><abbr>transitoriu</abbr><expan>transitorium</expan></choice></placeName>: <placeName>Porticus Isium</placeName>: ac <placeName>Serapium</placeName> stadium. <placeName>horrea piperatoria <persName>uespasiani</persName></placeName>. <placeName>Templum <persName>Minerue <rs type="ethnic">chalchidice</rs></persName></placeName>. <placeName>Odium forum <persName>traiani</persName></placeName>. <placeName>Therme traiane</placeName>: et <placeName>titiane</placeName>: ac <placeName>Panteon</placeName>.</note></cell>
           </row>
           <row n="217_3">
             <cell role="spatium"/>
@@ -21155,7 +21155,7 @@
           <row n="217_4">
             <cell role="spatium"/>
             <cell>XI</cell>
-            <cell role="spatium"/>
+            <cell><persName>Domitianus</persName> de <rs type="ethnic">Dacis</rs> et <rs type="ethnic">Germanicis</rs> triumphat. Hic fuit tante superbie: ut aureas et argenteas statuas sibi in capitolio poni iusserit.</cell>
           </row>
           <row role="Olympiad" n="218">
             <cell><choice><abbr>Olymp.</abbr><expan>Olympias</expan></choice> CCXVIII</cell>
@@ -21165,22 +21165,27 @@
           <row n="218_1">
             <cell role="spatium"/>
             <cell>XII</cell>
+            <cell><persName>Domitianus</persName> prohibuit uites in urbibus feri.</cell>
+          </row>
+          <row role="regnal" n="218_1_r1">
             <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell>Tertius <note><choice><abbr>al</abbr><expan>Unknown</expan></choice> quartus</note> <rs type="ethnic"><choice><abbr>Ro.</abbr><expan>Romane</expan></choice></rs> <choice><abbr>eccle</abbr><expan>ecclesie</expan></choice> <choice><abbr>eps</abbr><expan>episcopis</expan></choice> prefuit. <persName>CLAEMENS</persName>. <choice><abbr>ann.</abbr><expan>annos</expan></choice> IX. <note><choice><abbr>ruidens</abbr><expan>Unknown</expan></choice></note></cell>
           </row>
           <row n="218_2">
             <cell role="spatium"/>
             <cell>XIII</cell>
-            <cell role="spatium"/>
+            <cell><persName>Flauius Iosephus</persName>. XX. librum <title><choice><abbr>antiquitatu</abbr><expan>antiquitatum</expan></choice></title> huius <choice><abbr>temporib</abbr><expan>temporibus</expan></choice> scribit.</cell>
           </row>
           <row n="218_3">
             <cell role="spatium"/>
             <cell>XIIII</cell>
-            <cell role="spatium"/>
+            <cell><persName>Domitianus</persName> multos <choice><abbr>nobiliu</abbr><expan>nobilium</expan></choice> perdit. Quosdam <choice><abbr>uo</abbr><expan>quorum</expan></choice> in <choice><abbr>exiliu</abbr><expan>exilium</expan></choice> mittit.</cell>
           </row>
           <row n="218_4">
             <cell role="spatium"/>
             <cell>XV</cell>
-            <cell role="spatium"/>
+            <cell>Secundus post <persName>Neronem</persName> <persName>Domitianus</persName> <choice><abbr>Xanos</abbr><expan>Christianos</expan></choice> <choice><abbr>perseqt</abbr><expan>persequitur</expan></choice>. et sub eo <persName>Iohannes</persName> apostolus in <placeName><choice><abbr>Pathmu</abbr><expan>Pathmum</expan></choice> insulam</placeName> relegatus Apocalypsim uidit: <choice><abbr>qua</abbr><expan>quam</expan></choice> <persName>hireneus</persName> <choice><abbr>interptat</abbr><expan>interpretator</expan></choice>. <persName>Domitianus</persName> rursum philosophos et Mathematicos <placeName>roma</placeName> <choice><abbr>p</abbr><expan>per</expan></choice> <choice><abbr>adictu</abbr><expan>adictum</expan></choice> extrudit.</cell>
           </row>
           <row role="Olympiad" n="219">
             <cell><choice><abbr>Olymp.</abbr><expan>Olympias</expan></choice> CCXVIIII.</cell>
@@ -21190,17 +21195,17 @@
           <row n="219_1">
             <cell role="spatium"/>
             <cell>XVI</cell>
-            <cell role="spatium"/>
+            <cell><persName>Apollonius <rs type="ethnic">thyanaeus</rs></persName> et <placeName>euphrates</placeName> insignes philosophi <choice><abbr>habent</abbr><expan>habentur</expan></choice>. <persName>Domitianus</persName> eos qui de genere <persName>David</persName> erant. interfici precipit: ut nullus <rs type="ethnic"><choice><abbr>iudaeo</abbr><expan>iudaeorum</expan></choice></rs> regni reliquus foret. Scribit <persName>Brutius</persName> plurimos <choice><abbr>Christiano</abbr><expan>Christianorum</expan></choice> sub <persName>Domitiano</persName> feresse <choice><abbr>marteriu</abbr><expan>martierium</expan></choice>. inter quos et <persName><choice><abbr>Flauia</abbr><expan>Flauiam</expan></choice> domicillam</persName> <persName>flauii clementis</persName> consulis ex sorore <choice><abbr>nepte</abbr><expan>neptem</expan></choice> in <placeName>insulam <choice><abbr>pontiana</abbr><expan>pontianam</expan></choice></placeName> relegatam: Quia se Christianam esse testata est. Multa signa <choice><abbr>atq</abbr><expan>atque</expan></choice> portenta <placeName>Rome</placeName> in toto orbe facta. <persName>Domitianus</persName> occisus in Palatio et per uispiliones ignobiliter asportatus. anno etatis. XXXV.</cell>
           </row>
           <row role="regnal" n="219_1_r1">
             <cell role="spatium"/>
-            <cell role="spatium"/>
+            <cell><rs type="ethnic">ROMANORVM</rs>. X. <persName>NERVA</persName>. <choice><abbr>Ann.</abbr><expan>Annum</expan></choice> I. <choice><abbr>Mes.</abbr><expan>Menses</expan></choice> IIII.</cell>
             <cell role="spatium"/>
           </row>
           <row n="219_2">
             <cell role="spatium"/>
             <cell>I</cell>
-            <cell role="spatium"/>
+            <cell role="regnal"><rs type="ethnic">Alexandrine</rs> <choice><abbr>eccle</abbr><expan>ecclesie</expan></choice> .III. <choice><abbr>eps</abbr><expan>episcopis</expan></choice> <persName>CERDO</persName>. <choice><abbr>ann.</abbr><expan>annos</expan></choice> VI. <note><p>Senatus decreuit ut <choice><abbr>oia</abbr><expan>omnia</expan></choice> <choice><abbr>q</abbr><expan>quae</expan></choice> <persName>domitianus</persName> statuerat in irritum <choice><abbr>deducerent</abbr><expan>deduceretur</expan></choice>. <choice><abbr>Itaq</abbr><expan>Itaque</expan></choice> multi quos iniuste eiecerat de exilio <choice><abbr>st</abbr><expan>sunt</expan></choice> reuersi. <choice><abbr>nonulli</abbr><expan>nonnulli</expan></choice> bona <choice><abbr>propa</abbr><expan>propria</expan></choice> <choice><abbr>reciperut</abbr><expan>reciperunt</expan></choice>. Aiunt et <choice><abbr>apostolu</abbr><expan>apostolum</expan></choice> <persName>iohannem</persName> hoc tempore exilio <choice><abbr>solutu</abbr><expan>solutum</expan></choice> <placeName>ephesum</placeName> secessisse. In qua urbe et <choice><abbr>hospitioliu</abbr><expan>hospitiolium</expan></choice> et amicos amantissimos sui habebat.</p> <p><persName>Iustus</persName> a <placeName>tiberiade</placeName> <rs type="ethnic"><choice><abbr>iudeo</abbr><expan>iudeorum</expan></choice></rs> scriptor <choice><abbr>agnoscit</abbr><expan>agnoscitur</expan></choice>. <persName>Nerua</persName> morbo periit <choice><abbr>i</abbr><expan>in</expan></choice> <placeName>hortis salustianis</placeName> anno etatis <num>LXXII</num>. <choice><abbr>cu</abbr><expan>cum</expan></choice> <choice><abbr>ia</abbr><expan>iam</expan></choice> <persName>Traianum</persName> adoptasset <choice><abbr>i</abbr><expan>in</expan></choice> filium. <persName>Traianus</persName> <persName>Agrippine</persName> in <placeName>galliis</placeName> <choice><abbr>impator</abbr><expan>imperator</expan></choice> factus natus <placeName>italice</placeName> <choice><abbr>i</abbr><expan>in</expan></choice> <placeName>hispania</placeName>.</p></note></cell>
           </row>
       </table>
       </div>
