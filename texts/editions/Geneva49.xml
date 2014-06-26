@@ -20935,6 +20935,75 @@
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
+          <row role="header" n="header_9">
+            <cell role="annimundi"><choice>
+              <abbr>ANN.</abbr>
+              <expan>ANNI.</expan>
+            </choice> MVNDI.</cell>
+            <cell role="filum" n="Judean Hebrews"><rs type="ethnic">IVDAEORVM</rs>.</cell>
+            <cell role="filum" n="Romans"><rs type="ethnic">ROMANORVM</rs>.</cell>
+            <cell role="spatium"/>
+          </row>
+          <row role="regnal" n="212_r1">
+            <cell role="spatium"/>
+            <cell role="spatium"></cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="212_1">
+            <cell role="spatium"/>
+            <cell>XV</cell>
+            <cell>I</cell>
+            <cell role="spatium"/>
+          </row>
+          <row role="regnal" n="212_1_r1">
+            <cell role="spatium"/>
+            <cell role="spatium"></cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="212_2">
+            <cell role="annimundi"><choice><abbr>VCCLXX</abbr><expan><num>V</num> milia <num>CCLXX</num></expan></choice>.</cell>
+            <cell>XXVI.</cell>
+            <cell>I</cell>
+            <cell role="spatium"/>
+          </row>
+          <row n="212_3">
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+            <cell>II</cell>
+            <cell role="spatium"/>
+          </row>
+          <row n="212_4">
+            <cell role="spatium"/>
+            <cell role="spatium"></cell>
+            <cell>III</cell>
+            <cell role="spatium"/>
+          </row>
+          <row role="olympiad" n="213">
+            <cell role="spatium"/>
+            <cell><choice><abbr>Olymp.</abbr><expan>Olympias</expan></choice> <num>CCXIII</num>.</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row n="213_1">
+            <cell role="spatium"/>
+            <cell role="spatium"></cell>
+            <cell>IIII</cell>
+            <cell role="spatium"/>
+          </row>
+          <row n="213_2">
+            <cell role="spatium"/>
+            <cell role="spatium"></cell>
+            <cell>V</cell>
+            <cell role="spatium"/>
+          </row>
+          <row n="213_3">
+            <cell role="spatium"/>
+            <cell role="spatium"></cell>
+            <cell>VI</cell>
+            <cell role="spatium"/>
+          </row>
         </table>
       </div>
     </body>
