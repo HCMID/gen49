@@ -21499,22 +21499,22 @@
           <row n="229_2">
             <cell role="spatium"/>
             <cell>XXI.</cell>
-            <cell role="spatium"/>
+            <cell><persName>Hadrianus</persName> morbo intercutis aque apud <placeName>baias</placeName> <choice><abbr>morit</abbr><expan>moritur</expan></choice> maior sexagenario.</cell>
           </row>
           <row role="regnal" n="229_2_r1">
             <cell role="spatium"/>
-            <cell role="spatium"/>
+            <cell><rs type="ethnic"><choice><abbr>ROMANORV</abbr><expan>ROMANORVM</expan></choice></rs>. XIII. <persName><choice><abbr>T.</abbr><expan>TITVS</expan></choice> ANTONINVS</persName>: Cognomento <persName>PIVS</persName>. Cum filiis suis <persName>Aurelio</persName> et <persName>Lucio</persName>. <choice><abbr>ann.</abbr><expan>annos</expan></choice> XXII. <choice><abbr>mes.</abbr><expan>menses</expan></choice> III.</cell>
             <cell role="spatium"/>
           </row>
           <row n="229_3">
             <cell role="spatium"/>
             <cell>I</cell>
-            <cell role="spatium"/>
+            <cell role="regnal"><rs type="ethnic">Romane</rs> <choice><abbr>eccle</abbr><expan>ecclesie</expan></choice> <choice><abbr>epatu</abbr><expan>episcopatum</expan></choice> suscipit. VIII. <persName>HYGINVS</persName>. <choice><abbr>Ann.</abbr><expan>Annos</expan></choice> IIII.</cell>
           </row>
           <row n="229_4">
             <cell role="spatium"/>
             <cell>II</cell>
-            <cell role="spatium"/>
+            <cell><persName>Antoninus</persName> pater patrie <choice><abbr>appellat</abbr><expan>appellatur</expan></choice>.</cell>
           </row>
           <row role="olympiad" n="230">
             <cell role="spatium"/>
@@ -21524,52 +21524,53 @@
           <row n="230_1">
             <cell role="annimundi"><choice><abbr>VCCCXL</abbr><expan><num>V</num> milia <num>CCCXL</num></expan></choice>.</cell>
             <cell>III</cell>
-            <cell role="spatium"/>
+            <cell>Sub <persName>hygino</persName> <rs type="ethnic"><choice><abbr>Ro.</abbr><expan>Romanae</expan></choice></rs> urbis <choice><abbr>epo</abbr><expan>episcopo</expan></choice>: <persName>Valentinus haeresiarches</persName> et <persName>cerdo</persName> magister <persName>marcionis</persName> <placeName>Romam</placeName> uenerunt. 
+              <persName>Iustinus</persName> philosophus librum pro nostra religione <choice><abbr>conscriptu</abbr><expan>conscriptum</expan></choice> <persName>Antonino</persName> tradit.</cell>
           </row>
           <row n="230_2">
             <cell role="spatium"/>
             <cell>IIII</cell>
-            <cell role="spatium"/>
+            <cell><persName>Iustinus</persName> philosophus librum pro <choice><abbr>nra</abbr><expan>nostra</expan></choice> religione <choice><abbr>conscriptu</abbr><expan>conscriptum</expan></choice> <persName>Antonino</persName> tradidit.</cell>
           </row>
           <row n="230_3">
             <cell role="spatium"/>
             <cell>V</cell>
-            <cell role="spatium"/>
+            <cell role="regnal"><rs type="ethnic"><choice><abbr>Ro.</abbr><expan>Romanus</expan></choice></rs> IX. episcopus ordinatur <persName>Pius</persName>. <choice><abbr>ann.</abbr><expan>annos</expan></choice> XI.</cell>
           </row>
           <row role="regnal" n="230_3_r1">
             <cell role="spatium"/>
             <cell role="spatium"/>
-            <cell role="spatium"/>
+            <cell><placeName>Antiochiae</placeName>. V <choice><abbr>constituit</abbr><expan>constituitur</expan></choice> <choice><abbr>epus</abbr><expan>episcopus</expan></choice> <persName>EROS</persName>.</cell>
           </row>
           <row n="230_4">
             <cell role="spatium"/>
             <cell>VI</cell>
-            <cell role="spatium"/>
+            <cell role="regnal"><rs type="ethnic">Alexandrine</rs>. VII. episcopatum suscipit <persName>Marchus</persName>. <choice><abbr>Ann.</abbr><expan>Annos</expan></choice> X.</cell>
           </row>
           <row role="olympiad" n="231">
             <cell role="spatium"/>
             <cell><choice><abbr>Olymp.</abbr><expan>Olympias</expan></choice> CCXXXI.</cell>
-            <cell role="spatium"/>
+            <cell><persName>Valentinus haereticus</persName> <choice><abbr>cognoscit</abbr><expan>cognoscitur</expan></choice> et permanet <choice><abbr>usq</abbr><expan>usque</expan></choice> ad <persName><choice><abbr>Anycetu</abbr><expan>Anycetum</expan></choice></persName>.</cell>
           </row>
           <row n="231_1">
             <cell role="spatium"/>
             <cell>VII</cell>
-            <cell role="spatium"/>
+            <cell><persName>Mesomedes <rs type="ethnic">cretensis</rs></persName> <choice><abbr>citarico</abbr><expan>citaricorum</expan></choice> <choice><abbr>carminu</abbr><expan>carminum</expan></choice> musicus poeta. <choice><abbr>cognoscit</abbr><expan>cognoscitur</expan></choice>.</cell>
           </row>
           <row n="231_2">
             <cell role="spatium"/>
             <cell>VIII</cell>
-            <cell role="spatium"/>
+            <cell><persName>Taurus <rs type="ethnic">beritius</rs></persName> platonice secte philosophus clarus <choice><abbr>habet</abbr><expan>habetur</expan></choice>.</cell>
           </row>
           <row n="231_3">
             <cell role="spatium"/>
             <cell>IX</cell>
-            <cell role="spatium"/>
+            <cell><persName>Arrianus</persName> philosophus <rs type="ethnic">comedensis</rs> <choice><abbr>agnoscit</abbr><expan>agnoscitur</expan></choice>. et <persName>maximus <rs type="ethnic">tyrius</rs></persName>.</cell>
           </row>
           <row n="231_4">
             <cell role="spatium"/>
             <cell>X.</cell>
-            <cell role="spatium"/>
+            <cell><persName>Apollonius</persName> stoicus natione <rs type="ethnic">chalcidius</rs>: et <persName>Basilides <rs type="ethnic">scyropilitanus</rs></persName> philosophi illustres <choice><abbr>hntur</abbr><expan>habentur</expan></choice>. Qui ueri <choice><abbr>quoq</abbr><expan>quoque</expan></choice> <persName>caesaris</persName> preceptores fuerunt.</cell>
           </row>
           <row role="olympiad" n="232">
             <cell role="spatium"/>
@@ -21589,7 +21590,7 @@
           <row n="232_3">
             <cell role="annimundi"><choice><abbr>VCCCL</abbr><expan><num>V</num> milia <num>CCCL</num></expan></choice>.</cell>
             <cell>XIII</cell>
-            <cell role="spatium"/>
+            <cell><persName>Crescens cynicus</persName> agnoscitur. qui <persName>Iustino</persName> <choice><abbr>nri</abbr><expan>nostri</expan></choice> dogmatis <choice><abbr>pho</abbr><expan>philosopho</expan></choice> quia se gulosum et <choice><abbr>puaricatorem</abbr><expan>peruaricatorem</expan></choice> philosophiae arguebat persecutionem suscitauit: in qua ille gloriose pro <persName>christo</persName> sanguinem fudit.</cell>
           </row>
           <row n="232_4">
             <cell role="spatium"/>
@@ -21609,7 +21610,7 @@
           <row n="233_2">
             <cell role="spatium"/>
             <cell>XVI</cell>
-            <cell role="spatium"/>
+            <cell><rs type="ethnic">Romane</rs> <choice><abbr>eccle.</abbr><expan>ecclesie</expan></choice> X. epsicopatum tenet <persName>ANICETVS</persName>. <choice><abbr>ann.</abbr><expan>annos</expan></choice> X. Sub quo <persName>Policarpus</persName> <placeName>Romam</placeName> ueniens multos ab heretico errore <choice><abbr>corexit</abbr><expan>correxit</expan></choice>.</cell>
           </row>
           <row n="233_3">
             <cell role="spatium"/>
