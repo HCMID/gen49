@@ -23773,7 +23773,7 @@
               <p><persName>Oppianus <rs type="ethnic">Cylex</rs></persName> poeta <choice>
                   <abbr>cognoscit</abbr>
                   <expan>cognoscitur</expan>
-                </choice> qui <foreign><title>alieuticha</title></foreign> miro splendore
+                </choice> qui <foreign><title>αλευτιχα</title></foreign> miro splendore
                 conscribit.</p>
               <p>Tanta per totum orbem pestilentia fuit: ut pene <choice>
                   <abbr>usq</abbr>
@@ -24037,7 +24037,17 @@
           </row>
           <row n="241_1">
             <cell>V</cell>
-            <cell role="spatium"/>
+            <cell role="regnal">
+              <p><placeName>Hierosolimis</placeName> <num>XXVI</num>. <choice><abbr>ordinat</abbr><expan>ordinatur</expan></choice> <choice><abbr>eps</abbr><expan>episcopus</expan></choice> <persName>Maximus</persName>.</p> 
+              <p>Post quem <num>XXVII</num>. <persName><choice><abbr>Antonin</abbr><expan>Antoninus</expan></choice></persName>.</p> 
+              <p><num>XXVIII</num>. <persName>Valens</persName>.</p> 
+              <p><num>XXIX</num>. <persName>Dulicianus</persName>.</p>
+              <p><num>XXX</num> <persName>Narcisus</persName>.</p>
+              <p><num>XXXI</num>. <persName>Dius</persName>.</p>
+              <p><num>XXXII</num>. <persName>Germanio</persName>.</p>
+              <p><num>XXXIII</num>. <persName>Gordius</persName>.</p>
+              <p><num>XXXIIII</num> rursus <persName>Narcisus</persName>.</p>
+            </cell>
             <cell role="spatium"/>
           </row>
           <row n="241_2">
@@ -24047,7 +24057,7 @@
           </row>
           <row n="241_3">
             <cell>VII</cell>
-            <cell role="spatium"/>
+            <cell>Tantis apud <placeName>hierosolimam</placeName> <choice><abbr>epis</abbr><expan>episcopus</expan></choice> constitutis <choice><abbr>no</abbr><expan>non</expan></choice> potuimus discernere </cell>
             <cell role="spatium"/>
           </row>
           <row n="241_4">
