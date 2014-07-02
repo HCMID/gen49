@@ -26003,7 +26003,7 @@
                 </choice></rs>. <num>XXVIII</num>. <persName>CLAVDIVS</persName> .<choice>
                 <abbr>ANN.</abbr>
                 <expan>ANNVM</expan>
-              </choice> I. <choice>
+              </choice> <num>I</num>. <choice>
                 <abbr>MES.</abbr>
                 <expan>MENSES</expan>
               </choice>
@@ -26015,7 +26015,7 @@
                 <abbr>VCCCCLXX</abbr>
                 <expan><num>V</num> milia <num>CCCCLXX</num>.</expan>
               </choice></cell>
-            <cell>I</cell>
+            <cell><num>I</num></cell>
             <cell>In <placeName>Alexandria</placeName>
               <placeName>Bruchium</placeName>
               <choice>
@@ -26039,7 +26039,7 @@
               </choice> MVNDI.</cell>
           </row>
           <row n="262_3">
-            <cell>II</cell>
+            <cell><num>II</num></cell>
             <cell><persName>Claudius</persName>
               <rs type="ethnic">Gothos</rs>
               <placeName>Illyricum</placeName> et <placeName><choice>
@@ -26062,7 +26062,7 @@
               <choice>
                 <abbr>fr</abbr>
                 <expan>frater</expan>
-              </choice> a senatu <persName>Augustus</persName> appellatus. XVII. Imperii sui die
+              </choice> a senatu <persName>Augustus</persName> appellatus. <num>XVII</num>. Imperii sui die
                 <placeName>aquilegie</placeName>
               <choice>
                 <abbr>occidit</abbr>
@@ -26074,23 +26074,23 @@
             <cell><rs type="ethnic"><choice>
                   <abbr>ROMANORV</abbr>
                   <expan>ROMANORVM</expan>
-                </choice></rs> XXIX. <persName>AVRELIANVS</persName>. <choice>
+                </choice></rs> <num>XXIX</num>. <persName>AVRELIANVS</persName>. <choice>
                 <abbr>ANN.></abbr>
                 <expan>ANNOS</expan>
-              </choice> V. <choice>
+              </choice> <num>V</num>. <choice>
                 <abbr>M.</abbr>
                 <expan>MENSES</expan>
-              </choice> IIII.</cell>
+              </choice> <num>IIII</num>.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row n="262_4">
-            <cell>I</cell>
+            <cell><num>I</num></cell>
             <cell role="regnal"><p><rs type="ethnic">Anthiochene</rs>
                 <choice>
                   <abbr>eccle</abbr>
                   <expan>ecclesie</expan>
-                </choice>. XVII. <choice>
+                </choice>. <num>XVII</num>. <choice>
                   <abbr>ordinat</abbr>
                   <expan>ordinatur</expan>
                 </choice>
@@ -26115,12 +26115,12 @@
             <cell><choice>
                 <abbr>Olymp.</abbr>
                 <expan>Olympias</expan>
-              </choice> CCLXIII.</cell>
+              </choice> <num>CCLXIII</num>.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row n="263_1">
-            <cell>II</cell>
+            <cell><num>II</num></cell>
             <cell><persName>Zenobia</persName> apud <rs type="ethnic">thymas</rs> haud longe ab
                 <placeName>Anthiochia</placeName>
               <choice>
@@ -26146,7 +26146,7 @@
             <cell role="spatium"/>
           </row>
           <row n="263_2">
-            <cell>III</cell>
+            <cell><num>III</num></cell>
             <cell><p><persName>EVSEBEIVS <rs type="ethnic">LAODICENVS</rs></persName> EPISCOPVS
                 INSIGNIS HABETVR.</p>
               <p><persName>Aureliano</persName> triumphante <placeName>Rome</placeName>
@@ -26178,12 +26178,12 @@
             <cell role="spatium"/>
           </row>
           <row n="263_3">
-            <cell>IIII</cell>
+            <cell><num>IIII</num></cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row n="263_4">
-            <cell>V</cell>
+            <cell><num>V</num></cell>
             <cell><persName>Aurelianus</persName> cum aduersum nos <choice>
                 <abbr>persecutione</abbr>
                 <expan>persecutionem</expan>
@@ -26213,7 +26213,7 @@
             <cell><choice>
                 <abbr>Olymp.</abbr>
                 <expan>Olympias</expan>
-              </choice> CCLXIIII.</cell>
+              </choice> <num>CCLXIIII</num>.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
@@ -26221,9 +26221,9 @@
             <cell><rs type="ethnic"><choice>
                   <abbr>ROMANOR</abbr>
                   <expan>ROMANORVM</expan>
-                </choice></rs>. XXX. <persName>TACITVS</persName> menses. VI. Quo apud
-                <placeName>pontem</placeName> occiso <persName>PHORIANVS</persName> imperium LXXX
-              IX. tenuit. Hoc <choice>
+                </choice></rs>. <num>XXX</num>. <persName>TACITVS</persName> menses. <num>VI</num>. Quo apud
+                <placeName>pontem</placeName> occiso <persName>PHORIANVS</persName> imperium <num>LXXX</num>
+              <num>IX</num>. tenuit. Hoc <choice>
                 <abbr>qq</abbr>
                 <expan>quaeque</expan>
               </choice>: apud <placeName><choice>
@@ -26234,7 +26234,7 @@
             <cell role="spatium"/>
           </row>
           <row n="264_1">
-            <cell>I</cell>
+            <cell><num>I</num></cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
@@ -26242,18 +26242,18 @@
             <cell><rs type="ethnic"><choice>
                   <abbr>ROMANOR</abbr>
                   <expan>ROMANORVM</expan>
-                </choice></rs>. XXXI. Regnauit <persName>PROBVS</persName>. <choice>
+                </choice></rs>. <num>XXXI</num>. Regnauit <persName>PROBVS</persName>. <choice>
                 <abbr>Ann.</abbr>
                 <expan>Annos</expan>
-              </choice> VI. <choice>
+              </choice> <num>VI</num>. <choice>
                 <abbr>M.</abbr>
                 <expan>Menses</expan>
-              </choice> IIII.</cell>
+              </choice> <num>IIII</num>.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
           <row n="264_2">
-            <cell>I</cell>
+            <cell><num>I</num></cell>
             <cell role="regnal"><rs type="ethnic">Romane</rs>
               <choice>
                 <abbr>eccle</abbr>
@@ -26262,14 +26262,14 @@
               <choice>
                 <abbr>episcopatu</abbr>
                 <expan>episcopatum</expan>
-              </choice>. XXV. suscipit <persName>FELIX</persName>. <choice>
+              </choice>. <num>XXV</num>. suscipit <persName>FELIX</persName>. <choice>
                 <abbr>ann.</abbr>
                 <expan>annos</expan>
-              </choice> V.</cell>
+              </choice> <num>V</num>.</cell>
             <cell role="spatium"/>
           </row>
           <row n="264_3">
-            <cell>II</cell>
+            <cell><num>II</num></cell>
             <cell><p><persName>Probus</persName>
                 <placeName>Gallias</placeName> a barbaris occupatas Ingenti uirtute restituit.</p>
               <p><persName>Anatolius <rs type="ethnic">Laodicenus</rs></persName>
@@ -26281,9 +26281,9 @@
                   <expan>celebratur</expan>
                 </choice>.</p>
               <p>Secundo anno <persName>probi</persName> iuxta <rs type="ethnic">Antiochenos</rs>
-                CCCXXV annus fuit Iuxta <rs type="ethnic">tyrios</rs> CCCII. Iuxta <rs type="ethnic"
-                  >Laodicenos</rs>. CCCXXIIII. Iuxta <rs type="ethnic">edessenos</rs> DLXXXVIII.
-                Iuxta <rs type="ethnic">ascalonitas</rs> CCCLXXX. Insana <choice>
+                CCCXXV annus fuit Iuxta <rs type="ethnic">tyrios</rs> <num>CCCII</num>. Iuxta <rs type="ethnic"
+                  >Laodicenos</rs>. <num>CCCXXIIII</num>. Iuxta <rs type="ethnic">edessenos</rs> <num>DLXXXVIII</num>.
+                Iuxta <rs type="ethnic">ascalonitas</rs> <num>CCCLXXX</num>. Insana <choice>
                   <abbr>manicheoru</abbr>
                   <expan>manicheorum</expan>
                 </choice> heresis in comune humani <choice>
