@@ -12836,7 +12836,7 @@
               <persName>Onias</persName> filius <persName>simonis</persName> insignis <choice>
                 <abbr>hr</abbr>
                 <expan>habetur</expan>
-              </choice> ad quem <rs type="ethinc"><choice>
+              </choice> ad quem <rs type="ethnic"><choice>
                   <abbr>Lacedemonio</abbr>
                   <expan>Lacedemoniorum</expan>
                 </choice> rex <persName>Arrius</persName> legatos mittit.</rs></cell>
@@ -14258,7 +14258,7 @@
             <cell role="spatium"/>
             <cell><num>XXVI</num></cell>
             <cell role="spatium"/>
-            <cell><persName>Pacuuius <rs type="ethinc"><choice>
+            <cell><persName>Pacuuius <rs type="ethnic"><choice>
                     <abbr>brundusin</abbr>
                     <expan>brundusinus</expan>
                   </choice></rs></persName> tragoedarium scriptor clarus <choice>
@@ -25550,7 +25550,7 @@
                 <persName><choice>
                     <abbr>Cypani</abbr>
                     <expan>Cypriani</expan>
-                  </choice>. <num>VIII</num>. epistole.</persName></p></cell>
+                  </choice></persName>. <num>VIII</num>. epistole.</p></cell>
             <cell role="spatium"/>
           </row>
           <row role="Olympiad" n="258">
@@ -25957,7 +25957,7 @@
               </choice>. <num>XVI</num>. <persName><choice>
                   <abbr>Domn</abbr>
                   <expan>Domnus</expan>
-                </choice>.</persName></cell>
+                </choice></persName>.</cell>
           </row>
           <row n="261_3">
             <cell role="spatium"/>
