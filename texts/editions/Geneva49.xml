@@ -570,7 +570,7 @@
             <cell role="spatium"/>
             <cell>I</cell>
             <cell>In <placeName>lacedemone</placeName>
-              <foreign>ἐφοροσ</foreign> quod magistratus nomen est. <choice>
+              <foreign>Εφοροσ</foreign> quod magistratus nomen est. <choice>
                 <abbr>constituit</abbr>
                 <expan>constituitur</expan>
               </choice>. fuit <choice>
@@ -3155,7 +3155,7 @@
             <cell role="filum" n="Egyptians"><rs type="ethnic">AEGYPTIORVM</rs></cell>
             <cell role="annimundi"><choice>
                 <abbr>ANN.</abbr>
-                <expan>anni</expan>
+                <expan>ANNI</expan>
               </choice> MVNDI</cell>
           </row>
           <row n="28_4">
@@ -3533,7 +3533,7 @@
             <cell role="filum" n="Egyptians"><rs type="ethnic">AEGYPTIORVM</rs></cell>
             <cell role="annimundi"><choice>
                 <abbr>ANN.</abbr>
-                <expan>anni</expan>
+                <expan>ANNI</expan>
               </choice> MVNDI.</cell>
           </row>
           <row role="olympiad" n="33">
@@ -3931,7 +3931,7 @@
             <cell role="filum" n="Egyptians"><rs type="ethnic">AEGYPTIORVM</rs></cell>
             <cell role="annimundi"><choice>
                 <abbr>ANN.</abbr>
-                <expan>anni</expan>
+                <expan>ANNI</expan>
               </choice> MVNDI.</cell>
           </row>
           <row n="37_2">
