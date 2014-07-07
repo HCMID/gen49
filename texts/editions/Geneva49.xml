@@ -28377,12 +28377,18 @@
           </row>
           <row n="283_1">
             <cell><num>XV</num></cell>
-            <cell role="spatium"/>
+            <cell><placeName>Rome</placeName> populus aduersus <persName>magnetiacos</persName> rebellans ab <persName>heraclida</persName> senatore <choice><abbr>pdit</abbr><expan>proditur</expan></choice>.</cell>
             <cell role="spatium"/>
           </row>
           <row n="283_2">
             <cell><num>XVI</num></cell>
-            <cell role="spatium"/>
+            <cell><p><persName>Nepotiani</persName> caput pilo <choice><abbr>p</abbr><expan>per</expan></choice> urbem <choice><abbr>circulatu</abbr><expan>circumlatum</expan></choice>: <choice><abbr>multeq</abbr><expan>multeque</expan></choice> proscriptiones <choice><abbr>nobiliu</abbr><expan>nobilium</expan></choice> et caedes factae.</p>
+              <p><persName>Vetranioni</persName> apud <placeName>Naysum</placeName> a <persName>Constantio</persName> <choice><abbr>regnu</abbr><expan>regnum</expan></choice> insigne detractum.</p>
+              <p><persName>Magnetius</persName> <placeName>Mursae</placeName> uictus: In quo <choice><abbr>plio</abbr><expan>praelio</expan></choice> <rs type="ethnic">romane</rs> uires <choice><abbr>conciderut</abbr><expan>conciderunt</expan></choice>.</p>
+            <p><persName>GALLVS</persName> <persName>constantii</persName> patruelis opera caesar <placeName>romae</placeName> factus.</p>
+              <p><persName>Gallus</persName> <rs type="ethnic"><choice><sic>Iudeos</sic><corr>Iudeios</corr></choice></rs> qui interfectis <choice><abbr>p</abbr><expan>per</expan></choice> noctem <choice><abbr>militib</abbr><expan>militibus</expan></choice> arma ad <choice><abbr>rebbellandu</abbr><expan>rebbellandum</expan></choice> inuaserant oppressis: caesis multis <choice><abbr>hominu</abbr><expan>hominum</expan></choice> <choice><abbr>milib</abbr><expan>milibus</expan></choice> <choice><abbr>usq</abbr><expan>usque</expan></choice> ad innoxiam <choice><abbr>aetae</abbr><expan>aetatem</expan></choice>: et ciuitates <choice><abbr>eo</abbr><expan>eorum</expan></choice> <placeName>diocesariam</placeName>: <placeName>tiberiadem</placeName>: et <placeName>Diospolim</placeName>. <choice><abbr>plurimaq</abbr><expan>plurimaque</expan></choice> oppida igni tradidit.</p>
+              <p>Nonnulli <choice><abbr>nobiliu</abbr><expan>nobilium</expan></choice> <placeName>Anthochie</placeName> a <persName>Gallo</persName> interfecti.</p>
+              <p><persName>Magnetius</persName> <placeName>lugduni</placeName> <choice><abbr>i</abbr><expan>in</expan></choice> pilatio <choice><abbr>propa</abbr><expan>propria</expan></choice> se manu interfecit: et <persName>Dicentius</persName> <choice><abbr>fr</abbr><expan>frater</expan></choice> eius: quem ad tuendas <rs type="ethnic">gallias</rs> <persName>caesarem</persName> miserat apud <rs type="ethnic">senonas</rs> Laqueo uitam explet.</p></cell>
             <cell role="spatium"/>
           </row>
           <row n="282_3">
@@ -28399,7 +28405,7 @@
             <cell><choice>
                 <abbr>Olyp.</abbr>
                 <expan>Olympias</expan>
-              </choice> <num>CCLXXXIIII</num>.</cell>
+              </choice> <num>CCLXXXiiii</num>.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
