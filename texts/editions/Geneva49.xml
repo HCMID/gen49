@@ -29505,7 +29505,7 @@
           </row>
           <row role="regnal" n="286_11_r1">
             <cell role="spatium"/>
-            <cell><p><placeName>Alexandrie</placeName> XX. <choice>
+            <cell><p><placeName>Alexandrie</placeName> <num>XX</num>. <choice>
                   <abbr>ordinat</abbr>
                   <expan>ordinatur</expan>
                 </choice>
@@ -29546,7 +29546,7 @@
             <cell role="spatium"/>
           </row>
           <row n="286_12">
-            <cell>XI</cell>
+            <cell><num>XI</num></cell>
             <cell>Post <persName>Auxentii</persName> seram <choice>
                 <abbr>morte</abbr>
                 <expan>mortem</expan>
@@ -29573,7 +29573,7 @@
             <cell role="spatium"/>
           </row>
           <row n="286_13">
-            <cell>XII</cell>
+            <cell><num>XII</num></cell>
             <cell><p><persName>Valentinianus</persName> subita sanguinis eruptione: quod <rs
                   type="ethnic">grece</rs> Apoplexis uocatur: <placeName>brigitio</placeName>
                 <choice>
@@ -29648,7 +29648,7 @@
             <cell role="spatium"/>
           </row>
           <row n="286_14">
-            <cell>XIII</cell>
+            <cell><num>XIII</num></cell>
             <cell><rs type="ethnic"><choice>
                   <abbr>Alemanoru</abbr>
                   <expan>Alemanorum</expan>
@@ -29666,7 +29666,7 @@
             <cell role="spatium"/>
           </row>
           <row n="286_15">
-            <cell>XIIII</cell>
+            <cell><num>XIIII</num></cell>
             <cell><p><persName>Florentinus</persName>
                 <persName>bonosus</persName> et <persName>rufinus</persName> insignes monachi <choice>
                   <abbr>habent</abbr>
