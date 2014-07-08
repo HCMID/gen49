@@ -29801,6 +29801,56 @@
             <cell>A. <choice><abbr>IIo</abbr><expan>Unknown</expan></choice>. anno <persName>Darii</persName> regis <rs type="ethnic"><choice><abbr>persaru</abbr><expan>persarum</expan></choice>: quo <choice><abbr>tpe</abbr><expan>tempore</expan></choice> <choice><abbr>templu</abbr><expan>templum</expan></choice></rs> <placeName>hierosolimis</placeName> Instauratum est. Anni.</cell>
             <cell>DCCCXCIX.</cell>
           </row>
+          <row role="header" n="header_1">
+            <cell><choice><abbr>ANN</abbr><expan>ANNI</expan></choice> MVNDI</cell>
+            <cell role="spatium"/>
+            <cell role="spatium"/>
+          </row>
+          <row role="regnal" n="286_15_r4">
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+          </row>
+          <row role="regnal" n="286_15_r5">
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+          </row>
+          <row role="regnal" n="286_15_r5">
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+          </row>
+          <row role="regnal" n="286_15_r6">
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+          </row>
+          <row role="regnal" n="286_15_r7">
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+          </row>
+          <row role="regnal" n="286_15_r8">
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+          </row>
+          <row role="regnal" n="286_15_r9">
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+          </row>
+          <row role="regnal" n="286_15_r10">
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+          </row>
+          <row role="regnal" n="286_15_r11">
+            <cell role="spatium"/>
+            <cell></cell>
+            <cell></cell>
+          </row>
         </table>
       </div>
     </body>
