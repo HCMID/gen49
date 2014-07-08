@@ -28904,19 +28904,19 @@
                 <choice>
                   <abbr>morit</abbr>
                   <expan>moritur</expan>
-                </choice> anno aetatis. LXV.</p>
+                </choice> anno aetatis. <num>LXV</num>.</p>
             </cell>
             <cell role="spatium"/>
           </row>
           <row role="regnal" n="285_2_r1">
-            <cell><rs type="ethnic">ROMANORVM</rs> XXXVI. <persName>IVLIANVS</persName>. <choice>
+            <cell><rs type="ethnic">ROMANORVM</rs> <num>XXXVI</num>. <persName>IVLIANVS</persName>. <choice>
                 <abbr>Ann.</abbr>
                 <expan>Annos</expan>
               </choice>
               <num>I</num>. <choice>
                 <abbr>Mes.</abbr>
                 <expan>Menses</expan>
-              </choice> VII.</cell>
+              </choice> <num>VII</num>.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
