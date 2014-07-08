@@ -29746,20 +29746,60 @@
               </choice> caruit.<p/></cell>
             <cell role="spatium"/>
           </row>
-          <row n="286_16">
-            <cell/>
-            <cell role="spatium"/>
-            <cell role="spatium"/>
+        </table>
+        <table n="t2">
+          <row role="regnal" n="286_15_r1">
+            <cell><p>Ab urbe condita <choice>
+                  <abbr>usq</abbr>
+                  <expan>usque</expan>
+                </choice> ad <choice>
+                  <abbr>extremu</abbr>
+                  <expan>extremum</expan>
+                </choice> huius operis annum fiun anni.</p>
+              <p>hoc <choice>
+                  <abbr>mo</abbr>
+                  <expan>Unknown</expan>
+                </choice> sub <choice>
+                  <abbr>regib</abbr>
+                  <expan>regibus</expan>
+                </choice> anni. CCXL.</p>
+              <p>Sub <choice>
+                  <abbr>COSS.</abbr>
+                  <expan>CONSVLIBVS</expan>
+                </choice> anni. CCCCLXIIII.</p>
+              <p>Sub <persName>Augustis <choice>
+                    <abbr>caes</abbr>
+                    <expan>caesaribus</expan>
+                  </choice></persName>. CCCCXXVII. </p>
+              <p><choice>
+                  <abbr>Colligunt</abbr>
+                  <expan>Colliguntur</expan>
+                </choice> omnes anni <choice>
+                  <abbr>usq</abbr>
+                  <expan>usque</expan>
+                </choice>
+                <choice>
+                  <abbr>i</abbr>
+                  <expan>in</expan>
+                </choice>
+                <choice>
+                  <abbr>consulatu</abbr>
+                  <expan>consulatum</expan>
+                </choice>
+                <persName>Valentis</persName>. VI. et <persName>Valentiniani iunioris</persName>
+                iterum augusti.</p></cell>
+            <cell><choice>
+                <abbr><num>ICXXXI</num></abbr>
+                <expan><num>I</num> mille <num>CXXXI</num></expan>
+              </choice>.</cell>
           </row>
-          <row>
-            <cell/>
-            <cell role="spatium"/>
-            <cell role="spatium"/>
+          <row role="regnal" n="286_15_r2">
+            <cell>A. XV. <persName>Tiberii</persName> anno et <choice><abbr>pdicatione</abbr><expan>praedicatione</expan></choice> <choice><abbr>dni</abbr><expan>domini</expan></choice> <choice><abbr>nri</abbr><expan>nostri</expan></choice> <persName>Ihesu <choice><abbr>Xi</abbr><expan>Christo</expan></choice></persName>. Anni.</cell>
+            <cell>CCCLI.</cell>
           </row>
-          <row>
-            <cell/>
-            <cell role="spatium"/>
-            <cell role="spatium"/>
+          <row role="regnal" n="286_15_r3">
+            <cell>A. <choice><abbr>IIo</abbr><expan>Unknown</expan></choice>. anno <persName>Darii</persName> regis <rs type="ethnic"><choice><abbr>persaru</abbr><expan>persarum</expan></choice>: quo <choice><abbr>tpe</abbr><expan>tempore</expan></choice> <choice><abbr>templu</abbr><expan>templum</expan></choice></rs> <placeName>hierosolimis</placeName> Instauratum est. Anni.</cell>
+            <cell>DCCCXCIX.</cell>
           </row>
         </table>
       </div>
