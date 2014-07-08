@@ -256,7 +256,7 @@
                 <abbr>secundu</abbr>
                 <expan>secundum</expan>
               </choice><choice>
-                <abbr>qsda</abbr>
+                <abbr>qosda</abbr>
                 <expan>quosdam</expan>
               </choice> clarus <choice>
                 <abbr>hr</abbr>
@@ -1040,7 +1040,7 @@
                 <abbr>st</abbr>
                 <expan>sunt</expan>
               </choice> in montes <choice>
-                <abbr>medo</abbr>
+                <abbr>medor</abbr>
                 <expan>medorum</expan>
               </choice>. <choice>
                 <abbr>Regnatumq</abbr>
@@ -1151,10 +1151,10 @@
             <cell><num>XXIX</num></cell>
             <cell><num>VIII</num></cell>
             <cell><persName>Tarpeia</persName> clipeis <rs type="ethnic"><choice>
-                  <abbr>sabino</abbr>
+                  <abbr>sabinor</abbr>
                   <expan>Sabinorum</expan>
                 </choice></rs> obruta. unde <placeName>mons tarpeius</placeName> in <choice>
-                <abbr>q</abbr>
+                <abbr>qo</abbr>
                 <expan>quo</expan>
               </choice> nunc <placeName>capitolium</placeName>. </cell>
             <cell><num>XXXVII</num></cell>
@@ -5413,7 +5413,7 @@
               </choice>
               <persName>Euilmerodach</persName>: Cui successit frater eius
                 <persName>Baldasar</persName>. Sub <choice>
-                <abbr>q</abbr>
+                <abbr>qo</abbr>
                 <expan>quo</expan>
               </choice>
               <persName>daniel</persName> eam <choice>
@@ -5854,7 +5854,7 @@
                   <expan>secundum</expan>
                 </choice>
                 <choice>
-                  <abbr>qsdam</abbr>
+                  <abbr>qosdam</abbr>
                   <expan>quosdam</expan>
                 </choice> a <num>III</num>. anno <persName>Ioachim</persName>
                 <choice>
@@ -5876,7 +5876,7 @@
                   <expan>computantur</expan>
                 </choice>. Torro secundum alios: a <persName>Iosie</persName>
                 <rs type="ethnic"><choice>
-                    <abbr>iudeo</abbr>
+                    <abbr>iudeor</abbr>
                     <expan>iudeorum</expan>
                   </choice></rs> anno <num>XIII</num>. sub quo <persName>hieremiah</persName>
                 prophetare cepit: <choice>
@@ -6908,7 +6908,7 @@
               </choice> ad. <num>II</num>. annum <persName>darii</persName> filii
                 <persName>histaspis</persName>: qui <rs type="ethnic">persis</rs>
               <rs type="ethnic">assyriis</rs> et <placeName>egypto</placeName> regnauit. Sub <choice>
-                <abbr>q</abbr>
+                <abbr>qo</abbr>
                 <expan>quo</expan>
               </choice>
               <persName>Aggeus</persName> et <persName>Zacharias</persName> et unus ex
@@ -8453,7 +8453,7 @@
                 <expan>Olympias</expan>
               </choice>. <num>LXXXVI</num></cell>
             <cell>Gens <rs type="ethnic"><choice>
-                  <abbr>capano</abbr>
+                  <abbr>capanor</abbr>
                   <expan>campanorum</expan>
                 </choice></rs>
               <choice>
@@ -9056,7 +9056,7 @@
                   <abbr>morit</abbr>
                   <expan>moritur</expan>
                 </choice>. <persName>Cyri</persName> regis ascensus de <choice>
-                  <abbr>q</abbr>
+                  <abbr>qo</abbr>
                   <expan>quo</expan>
                 </choice> scribit <persName>Xenophon</persName>.</p></cell>
             <cell>I</cell>
@@ -13150,7 +13150,7 @@
             <cell><num>XXVII</num></cell>
             <cell><num>XII</num></cell>
             <cell><p>Post prelium <choice>
-                  <abbr>q</abbr>
+                  <abbr>qo</abbr>
                   <expan>quo</expan>
                 </choice>
                 <choice>
@@ -21356,7 +21356,7 @@
                   <expan>sunt</expan>
                 </choice>
                 <choice>
-                  <abbr>q</abbr>
+                  <abbr>qo</abbr>
                   <expan>quo</expan>
                 </choice>
                 <choice>
@@ -26139,7 +26139,8 @@
                 <abbr>imperiu</abbr>
                 <expan>imperium</expan>
               </choice>: in <choice>
-                <abbr>q</abbr>
+                <abbr>qa
+                </abbr>
                 <expan>qua</expan>
               </choice> pugna strenuissime dimicauit aduersus eam <persName>Pompeianus</persName>
               dux cognomento <persName><rs type="ethnic">francus</rs></persName>. <choice>
