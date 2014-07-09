@@ -13903,7 +13903,7 @@
                   <expan>rhodiam</expan>
                 </choice></placeName> (<choice>
                 <abbr>al</abbr>
-                  <expan>aliter</expan>
+                <expan>aliter</expan>
               </choice>
               <placeName>rudia</placeName>) ex ianiculo translata affirmat.</cell>
             <cell><num>IX</num></cell>
@@ -13923,7 +13923,7 @@
             <cell><num>XV</num></cell>
             <cell><rs type="ethnic">Romani</rs> interfecto <persName>perse</persName> (<choice>
                 <abbr>al</abbr>
-              <expan>aliter</expan>
+                <expan>aliter</expan>
               </choice> superato) <rs type="ethnic">macedonas</rs>
               <rs type="ethnic">Illyrios</rs> et <rs type="ethnic">Galathas</rs> liberos esse
               uisserunt.</cell>
@@ -14451,7 +14451,7 @@
                   <expan>Opimus</expan>
                 </choice></persName> (<choice>
                 <abbr>al</abbr>
-                  <expan>aliter</expan>
+                <expan>aliter</expan>
               </choice>
               <persName><choice>
                   <abbr>Oppi</abbr>
@@ -14475,7 +14475,7 @@
                   <expan>redigitur</expan>
                 </choice> habens</persName> a conditione sui annos. <num>DCLXVIII</num>. <choice>
                 <abbr>al</abbr>
-                  <expan>aliter</expan>
+                <expan>aliter</expan>
               </choice>. <num>DCCXLVIII</num>.</cell>
             <cell><num>V</num></cell>
             <cell role="spatium"/>
@@ -16489,7 +16489,7 @@
             <cell><placeName>Antiochia</placeName>
               <note><choice>
                   <abbr>al</abbr>
-                <expan>aliter</expan>
+                  <expan>aliter</expan>
                 </choice>
                 <placeName>antiochia</placeName>
                 <placeName>syrie</placeName> capta.</note> et <placeName>syria</placeName> capte a
@@ -18867,7 +18867,7 @@
             <cell><num>XLIII</num></cell>
             <cell><persName>Quirinus</persName> ex consilio (<choice>
                 <abbr>al</abbr>
-              <expan>aliter</expan>
+                <expan>aliter</expan>
               </choice> consulto) senatus <placeName>iudeam</placeName> missus censum <choice>
                 <abbr>hominu</abbr>
                 <expan>hominum</expan>
@@ -19593,62 +19593,87 @@
                   <abbr>uirtutib</abbr>
                   <expan>uirtutibus</expan>
                 </choice> uera comprobans esse que diceret.</p>
-              <p><choice>
-                  <abbr>Computatnt</abbr>
-                  <expan>Computantur</expan>
-                </choice> in <choice>
-                  <abbr>psente</abbr>
-                  <expan>praesentem</expan>
-                </choice>
-                <choice>
-                  <abbr>annu</abbr>
-                  <expan>annum</expan>
-                </choice>. <num>I</num>. <num>XV</num>. <persName>Tiberii caesaris</persName>: a
-                secundo anno instaurationis templi que facta est sub altero anno
-                  <persName>Darii</persName> regis <rs type="ethnic">persarum</rs> Anni.
-                  <num>DXLVIII</num>.</p>
-              <p>A <persName>Salomone</persName>
-                <choice>
-                  <abbr>aut</abbr>
-                  <expan>autem</expan>
-                </choice> et prima edificatione templi. <choice>
-                  <abbr>ann</abbr>
-                  <expan>anni</expan>
-                </choice>. <choice>
-                  <abbr>ILX</abbr>
-                  <expan><num>I</num> milia <num>LX</num></expan>
-                </choice>.</p>
-              <p>A <persName>Mose</persName> et egressu <placeName><choice>
-                    <abbr>isrl</abbr>
-                    <expan>israel</expan>
-                  </choice></placeName> ex <placeName>egypto</placeName>. anni. <choice>
-                  <abbr>IDXXXVIIII</abbr>
-                  <expan><num>I</num> milia <num>DXXXVIIII</num></expan>
-                </choice>.</p>
-              <p>Ab <persName>Abraham</persName> et regno <persName>Nini</persName> et
-                  <persName>Semiramidis</persName>. <choice>
-                  <abbr>ann</abbr>
-                  <expan>anni</expan>
-                </choice>. <choice>
-                  <abbr>IIXLIIII</abbr>
-                  <expan><num>II</num> milia <num>XLIIII</num></expan>
-                </choice>.</p>
-              <p>A diluuio <choice>
-                  <abbr>usq</abbr>
-                  <expan>usque</expan>
-                </choice> ad <persName>Abraham</persName>. Anni. <num>DCCCCXLII</num>.</p>
-              <p>Ab <persName>Adam</persName>
-                <choice>
-                  <abbr>usq</abbr>
-                  <expan>usque</expan>
-                </choice> ad Diluuium. Anni. <choice>
-                  <abbr>IICCXLII</abbr>
-                  <expan><num>II</num> milia <num>CCXLII</num></expan>
-                </choice>.</p></cell>
+            </cell>
             <cell><num>XV</num></cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
           </row>
+        </table>
+        <table n="t2">
+          <row role="regnal" n="201_4_r1">
+            <cell>
+              <choice>
+                <abbr>Computatnt</abbr>
+                <expan>Computantur</expan>
+              </choice> in <choice>
+                <abbr>psente</abbr>
+                <expan>praesentem</expan>
+              </choice>
+              <choice>
+                <abbr>annu</abbr>
+                <expan>annum</expan>
+              </choice>. <num>I</num>. <num>XV</num>. <persName>Tiberii caesaris</persName>: a
+              secundo anno instaurationis templi que facta est sub altero anno
+                <persName>Darii</persName> regis <rs type="ethnic">persarum</rs> Anni. </cell>
+            <cell>
+              <num>DXLVIII</num>.</cell>
+          </row>
+          <row role="regnal" n="201_4_r2">
+            <cell>A <persName>Salomone</persName>
+              <choice>
+                <abbr>aut</abbr>
+                <expan>autem</expan>
+              </choice> et prima edificatione templi. <choice>
+                <abbr>ann</abbr>
+                <expan>anni</expan>
+              </choice>.</cell>
+            <cell><choice>
+                <abbr>ILX</abbr>
+                <expan><num>I</num> milia <num>LX</num></expan>
+              </choice>.</cell>
+          </row>
+          <row role="regnal" n="201_4_r3">
+            <cell>A <persName>Mose</persName> et egressu <placeName><choice>
+                  <abbr>isrl</abbr>
+                  <expan>israel</expan>
+                </choice></placeName> ex <placeName>egypto</placeName>. anni. </cell>
+            <cell><choice>
+                <abbr>IDXXXVIIII</abbr>
+                <expan><num>I</num> milia <num>DXXXVIIII</num></expan>
+              </choice>.</cell>
+          </row>
+          <row role="regnal" n="201_4_r4">
+            <cell>Ab <persName>Abraham</persName> et regno <persName>Nini</persName> et
+                <persName>Semiramidis</persName>. <choice>
+                <abbr>ann</abbr>
+                <expan>anni</expan>
+              </choice>. </cell>
+            <cell><choice>
+                <abbr>IIXLIIII</abbr>
+                <expan><num>II</num> milia <num>XLIIII</num></expan>
+              </choice>.</cell>
+          </row>
+          <row role="regnal" n="201_4_r5">
+            <cell>A diluuio <choice>
+                <abbr>usq</abbr>
+                <expan>usque</expan>
+              </choice> ad <persName>Abraham</persName>. Anni.</cell>
+            <cell>
+              <num>DCCCCXLII</num>.</cell>
+          </row>
+          <row role="regnal" n="201_4_r6">
+            <cell>Ab <persName>Adam</persName>
+              <choice>
+                <abbr>usq</abbr>
+                <expan>usque</expan>
+              </choice> ad Diluuium. Anni. </cell>
+            <cell><choice>
+                <abbr>IICCXLII</abbr>
+                <expan><num>II</num> milia <num>CCXLII</num></expan>
+              </choice>.</cell>
+          </row>
+        </table>
+        <table n="t3">
           <row role="Olympiad" n="202">
             <cell><choice>
                 <abbr>Olymp.</abbr>
@@ -20140,7 +20165,7 @@
               </choice>: consentiente <rs type="ethnic">alexandrino</rs> populo et crebris aduersus
               eos <note><choice>
                   <abbr>al</abbr>
-                <expan>aliter</expan>
+                  <expan>aliter</expan>
                 </choice>
                 <choice>
                   <abbr>cu</abbr>
@@ -21320,88 +21345,107 @@
                   <abbr>saluatore</abbr>
                   <expan>saluatorem</expan>
                 </choice> crucifixerant.</p>
-              <p>Cologitur omne tempus in. <num>II</num>. <choice>
-                  <abbr>annu</abbr>
-                  <expan>annum</expan>
-                </choice>
-                <persName>Vespasiani</persName>: et <choice>
-                  <abbr>nouissima</abbr>
-                  <expan>nouissimam</expan>
-                </choice> euersionem <rs type="ethnic"><choice>
-                    <abbr>hierosolimor</abbr>
-                    <expan>hierosolimorum</expan>
-                  </choice></rs>. a <num>XV</num>. anno <persName>Tiberii Caesaris</persName> et ab
-                exordio euangelice <choice>
-                  <abbr>pdicationis</abbr>
-                  <expan>predicationis</expan>
-                </choice>. Anni. <num>XXXXIII</num>.</p>
-              <p>A Captiuitate <choice>
-                  <abbr>aut</abbr>
-                  <expan>autem</expan>
-                </choice>
-                <choice>
-                  <abbr>qua</abbr>
-                  <expan>quam</expan>
-                </choice> ab <persName>Antiocho</persName>
-                <choice>
-                  <abbr>ppessi</abbr>
-                  <expan>perpessi</expan>
-                </choice>
-                <choice>
-                  <abbr>st</abbr>
-                  <expan>sunt</expan>
-                </choice>. Anni. <num>CCXXXIX</num>.</p>
-              <p>Porro a <persName>Darii</persName>. <num>II</num>. anno <choice>
-                  <abbr>st</abbr>
-                  <expan>sunt</expan>
-                </choice>
-                <choice>
-                  <abbr>qo</abbr>
-                  <expan>quo</expan>
-                </choice>
-                <choice>
-                  <abbr>rus</abbr>
-                  <expan>rusus</expan>
-                </choice>
-                <choice>
-                  <abbr>teplu</abbr>
-                  <expan>templum</expan>
-                </choice>
-                <choice>
-                  <abbr>edificatu</abbr>
-                  <expan>edificatum</expan>
-                </choice>
-                <choice>
-                  <abbr>e</abbr>
-                  <expan>est</expan>
-                </choice>. Anni. <num>DXCI</num>.</p>
-              <p>A <choice>
-                  <abbr>pma</abbr>
-                  <expan>prima</expan>
-                </choice>
-                <choice>
-                  <abbr>aut</abbr>
-                  <expan>autem</expan>
-                </choice> edificatione templi sub <persName>Solomone</persName>
-                <choice>
-                  <abbr>usq</abbr>
-                  <expan>usque</expan>
-                </choice> ad nouissimam <choice>
-                  <abbr>euersione</abbr>
-                  <expan>euersionem</expan>
-                </choice>
-                <choice>
-                  <abbr>q</abbr>
-                  <expan>quem</expan>
-                </choice> sub <persName>Vespasiano</persName> facta <choice>
-                  <abbr>e</abbr>
-                  <expan>est</expan>
-                </choice>. Anni. <choice>
-                  <abbr>ICIII</abbr>
-                  <expan><num>I</num> milia <num>CIII</num></expan>
-                </choice>.</p>
             </cell>
           </row>
+        </table>
+        <table n="t4">
+          <row role="regnal" n="212_3_r1">
+            <cell>Cologitur omne tempus in. <num>II</num>. <choice>
+                <abbr>annu</abbr>
+                <expan>annum</expan>
+              </choice>
+              <persName>Vespasiani</persName>: et <choice>
+                <abbr>nouissima</abbr>
+                <expan>nouissimam</expan>
+              </choice> euersionem <rs type="ethnic"><choice>
+                  <abbr>hierosolimor</abbr>
+                  <expan>hierosolimorum</expan>
+                </choice></rs>. a <num>XV</num>. anno <persName>Tiberii Caesaris</persName> et ab
+              exordio euangelice <choice>
+                <abbr>pdicationis</abbr>
+                <expan>predicationis</expan>
+              </choice>. Anni.</cell>
+            <cell>
+              <num>XXXXIII</num>.</cell>
+          </row>
+          <row role="regnal" n="212_3_r1">
+            <cell>A Captiuitate <choice>
+                <abbr>aut</abbr>
+                <expan>autem</expan>
+              </choice>
+              <choice>
+                <abbr>qua</abbr>
+                <expan>quam</expan>
+              </choice> ab <persName>Antiocho</persName>
+              <choice>
+                <abbr>ppessi</abbr>
+                <expan>perpessi</expan>
+              </choice>
+              <choice>
+                <abbr>st</abbr>
+                <expan>sunt</expan>
+              </choice>. Anni.</cell>
+            <cell>
+              <num>CCXXXIX</num>.</cell>
+          </row>
+          <row role="regnal" n="212_3_r1">
+            <cell>Porro a <persName>Darii</persName>. <num>II</num>. anno <choice>
+                <abbr>st</abbr>
+                <expan>sunt</expan>
+              </choice>
+              <choice>
+                <abbr>qo</abbr>
+                <expan>quo</expan>
+              </choice>
+              <choice>
+                <abbr>rus</abbr>
+                <expan>rusus</expan>
+              </choice>
+              <choice>
+                <abbr>teplu</abbr>
+                <expan>templum</expan>
+              </choice>
+              <choice>
+                <abbr>edificatu</abbr>
+                <expan>edificatum</expan>
+              </choice>
+              <choice>
+                <abbr>e</abbr>
+                <expan>est</expan>
+              </choice>. Anni.</cell>
+            <cell>
+              <num>DXCI</num>.</cell>
+          </row>
+          <row role="regnal" n="212_3_r1">
+            <cell>A <choice>
+                <abbr>pma</abbr>
+                <expan>prima</expan>
+              </choice>
+              <choice>
+                <abbr>aut</abbr>
+                <expan>autem</expan>
+              </choice> edificatione templi sub <persName>Solomone</persName>
+              <choice>
+                <abbr>usq</abbr>
+                <expan>usque</expan>
+              </choice> ad nouissimam <choice>
+                <abbr>euersione</abbr>
+                <expan>euersionem</expan>
+              </choice>
+              <choice>
+                <abbr>q</abbr>
+                <expan>quem</expan>
+              </choice> sub <persName>Vespasiano</persName> facta <choice>
+                <abbr>e</abbr>
+                <expan>est</expan>
+              </choice>. Anni. </cell>
+            <cell><choice>
+                <abbr>ICIII</abbr>
+                <expan><num>I</num> milia <num>CIII</num></expan>
+              </choice>.</cell>
+          </row>
+        </table>
+        <table n="t5">
           <row n="212_4">
             <cell role="spatium"/>
             <cell role="spatium"/>
@@ -21846,7 +21890,7 @@
             <cell role="spatium"/>
             <cell>Tertius <note><choice>
                   <abbr>al</abbr>
-              <expan>aliter</expan>
+                  <expan>aliter</expan>
                 </choice> quartus</note>
               <rs type="ethnic"><choice>
                   <abbr>Ro.</abbr>
@@ -22881,7 +22925,7 @@
                   <expan>hadrianus</expan>
                 </choice></persName> uehementer. <choice>
                 <abbr>al</abbr>
-                  <expan>aliter</expan>
+                <expan>aliter</expan>
               </choice> diligenter deperiens <choice>
                 <abbr>al</abbr>
                 <expan>aliter</expan>
@@ -24491,7 +24535,7 @@
                   <expan>Samaricum</expan>
                 </choice></rs> bellum ortum. <choice>
                 <abbr>al</abbr>
-                  <expan>aliter</expan>
+                <expan>aliter</expan>
               </choice>
               <rs type="ethnic"><choice>
                   <abbr>Sarmaticu</abbr>
@@ -28151,7 +28195,7 @@
                 </choice> pretorii apud <rs type="ethnic">gallias</rs> administrat.</p>
               <p><persName>Athanasius</persName> ad <persName>constantis</persName> (<choice>
                   <abbr>al</abbr>
-                <expan>aliter</expan>
+                  <expan>aliter</expan>
                 </choice> tii) litteras <placeName>Alexandriam</placeName>
                 <choice>
                   <abbr>reuertit</abbr>
@@ -28702,7 +28746,7 @@
                     <expan>Argentoratum</expan>
                   </choice></placeName> (<choice>
                   <abbr>al</abbr>
-                    <expan>aliter</expan>
+                  <expan>aliter</expan>
                 </choice>
                 <placeName>Argentarium</placeName> oppidium <rs type="ethnic">galliarum</rs> a
                   <persName>Caesare Iuliano</persName>
