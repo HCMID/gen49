@@ -681,10 +681,10 @@
               </choice>
               <persName>talasso</persName> uulgo clamentant. <choice>
                 <abbr>q</abbr>
-                <expan>unknown</expan>
+                <expan>quod</expan>
               </choice>. <choice>
                 <abbr>s</abbr>
-                <expan>unknown</expan>
+                <expan>scilicet</expan>
               </choice>. talis nupta sit: que <persName><choice>
                   <abbr>Talassu</abbr>
                   <expan>Talassum</expan>
@@ -1124,10 +1124,7 @@
             <cell><num>XVI</num></cell>
             <cell><num>XII</num></cell>
             <cell><rs type="ethnic">Lacedemonii</rs> contra <rs type="ethnic">Messenios</rs>
-              <choice>
-                <abbr>uaenalle</abbr>
-                <expan>unknown</expan>
-              </choice>
+            <sic>ucennale</sic>
               <choice>
                 <abbr>bellu</abbr>
                 <expan>bellum</expan>
@@ -2638,7 +2635,7 @@
             <cell><persName>Hipponax</persName>
               <choice>
                 <abbr>phus</abbr>
-                <expan>unknown</expan>
+                <expan>philosophus</expan>
               </choice> notissimus <choice>
                 <abbr>reddit</abbr>
                 <expan>redditur</expan>
@@ -4336,14 +4333,14 @@
                 <expan>occiditur</expan>
               </choice> Ac <choice>
                 <abbr>m</abbr>
-                <expan>Unknown</expan>
+                <expan>mihi</expan>
               </choice>
               <choice>
                 <abbr>miraculu</abbr>
                 <expan>miraculum</expan>
               </choice> subit <choice>
                 <abbr>quo</abbr>
-                <expan>Unknown</expan>
+                <expan>quomodo</expan>
               </choice>
               <choice>
                 <abbr>i</abbr>
@@ -4822,7 +4819,7 @@
                 <expan>est</expan>
               </choice>: Regis eius qui <choice>
                 <abbr>ipe</abbr>
-                <expan>unknown</expan>
+                <expan>ipse</expan>
               </choice> successerat.</cell>
             <cell><num>XII</num></cell>
             <cell role="spatium"/>
@@ -5891,7 +5888,7 @@
                   <expan>annum</expan>
                 </choice> supradicti <persName>Cyri</persName> regnis. Desolationis <choice>
                   <abbr>uo</abbr>
-                  <expan>unknown</expan>
+                  <expan>uero</expan>
                 </choice> templi sub <persName>Dario</persName> rege <choice>
                   <abbr>complentu</abbr>
                   <expan>unknown</expan>
@@ -6575,7 +6572,7 @@
           </row>
           <row n="62_2">
             <cell><num>XXX</num></cell>
-            <cell><persName>Cyrum</persName> regem <persName>Tomyrisunknown</persName> regina <rs
+            <cell><persName>Cyrum</persName> regem <persName><choice><sic>Tomyri</sic><corr>Tomyris</corr></choice></persName> regina <rs
                 type="ethnic"><choice>
                   <abbr>massageta</abbr>
                   <expan>massagetarum</expan>
@@ -7246,7 +7243,7 @@
                   <expan>dignitas</expan>
                 </choice> est creata. dictatura. <choice>
                   <abbr>s</abbr>
-                  <expan>unknown</expan>
+                  <expan>scilicet</expan>
                 </choice>. et magister equitum qui dictatori <choice>
                   <abbr>obsequerit</abbr>
                   <expan>obsequeritur</expan>
@@ -7889,10 +7886,10 @@
                 <expan>non</expan>
               </choice> puto. <choice>
                 <abbr>Nunq</abbr>
-                <expan>unknown</expan>
+                <expan>Nunquam</expan>
               </choice>. <choice>
-                <abbr>H</abbr>
-                <expan>unknown</expan>
+                <abbr>N</abbr>
+                <expan>enim</expan>
               </choice>. <persName>ezras</persName> de <persName>hester</persName> siluisset: qui
               scribit hoc tempore <persName>ezram</persName> et <persName><choice>
                   <abbr>neemia</abbr>
@@ -8027,7 +8024,7 @@
                 <abbr>Affirmatq</abbr>
                 <expan>Affirmaturque</expan>
               </choice> diuinas scripturas memoriter condidisse. Et ut <rs type="ethnic"
-                >Samaritanisunknown</rs>
+                ><choice><abbr>Samaritanis</abbr><expan>unknown</expan></choice></rs>
               <choice>
                 <abbr>no</abbr>
                 <expan>non</expan>
@@ -11665,10 +11662,10 @@
                   <expan>tarentum</expan>
                 </choice></placeName> tradit. <rs type="ethnic">Romani</rs>
               <placeName>Calabriam</placeName>
-              <choice>
-                <abbr>messanag</abbr>
-                <expan>unknown</expan>
-              </choice> tenuerunt.</cell>
+              <placeName><choice>
+                <abbr>messanaq</abbr>
+                <expan>messanamque</expan>
+              </choice></placeName> tenuerunt.</cell>
             <cell><num>X</num></cell>
           </row>
           <row n="126_3">
