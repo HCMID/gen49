@@ -17,14 +17,50 @@
             </publicationStmt>
             <sourceDesc>
                 <p>Diplomatic edition of Geneva 49 MS.</p>
-                
+
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <p></p>
+            <div type="header" n="1">
+                <p n="1"> INTERPRETATIO. <persName>EVSEBII . <rs type="ethnic"
+                        >CAESARIENSIS</rs></persName>. EDITA. PER. BEATVM.
+                        <persName>HIERONYMVN</persName>. ET. IPSIVS. <persName><choice>
+                            <abbr>PROSPERIQ</abbr>
+                            <expan>PROSPERIQUE</expan>
+                        </choice></persName>: ADDITIONES. DE. TEMPORIBVS. PROLOGVS. BEATI.
+                        <persName>HIERONYMI.</persName>
+                </p>
+            </div>
+            <div type="header" n="2">
+                <p><persName><choice>
+                            <sic>VSEBIV</sic>
+                            <corr>VSEBIVS</corr>
+                        </choice></persName>
+                    <persName>HIERONYMVS</persName>. <persName>VINCENTIO</persName>. ET.
+                        <persName>GALIENO</persName>. SVIS. SALVTEM.</p>
+            </div>
+            <div n="3">
+                <p n="1">VETVS ISTE <choice><abbr>DISERTOR</abbr><expan>DISERTORVM</expan></choice> mos fuit: ut exercendi ingenii causa: Grecos libros latino sermone absoluerent.</p>
+                <p n="2"> Et quod plus in se difficultatis <choice><abbr>ht</abbr><expan>habet</expan></choice>: Poemata illustrium <choice><abbr>uiroru</abbr><expan>uirorum</expan></choice> addita metri necessitate transferrent.</p>
+                <p n="3">Vnde et <choice><abbr>nr</abbr><expan>noster</expan></choice> <persName>Tullius</persName> <persName>Platonis</persName> integros libros ad <choice><abbr>uerbu</abbr><expan>uerbum</expan></choice> <choice><abbr>interptatis</abbr><expan>interpretatis</expan></choice> est.</p>
+                <p n="4">Et cum iam <persName><choice><abbr>Aratu</abbr><expan>Aratum</expan></choice> <rs type="ethnic">romanum</rs></persName> exametris <choice><abbr>uersib</abbr><expan>uersibus</expan></choice> edidisset: in <persName>Xenophontis</persName> <title>oeconomico</title> Iusit.</p>
+                <p n="5">In quo opere ita sepe aureum illud flumen eloquentie quibusdam scabris et turbulentis <choice><abbr>obicib</abbr><expan>obicibus</expan></choice> retardatur: ut qui interpretata nesciunt: a <persName>Cicerone</persName> dicta non credant.</p>
+                <p n="6">Difficile est. <choice><abbr>N</abbr><expan>unknown</expan></choice> alienas lineas <choice><abbr>insequente</abbr><expan>insequentem</expan></choice> <choice><abbr>no</abbr><expan>non</expan></choice> alicubi excidere: Arduum ut que in aliena lingua bene dicta <choice><abbr>st</abbr><expan>sunt</expan></choice>: eundem <choice><abbr>decore</abbr><expan>decorem</expan></choice> in <choice><abbr>traslatione</abbr><expan>translatione</expan></choice> conseruent.</p>
+                <p n="7"><choice><abbr>Significatu</abbr><expan>Significatum</expan></choice> est aliquid unius verbi proprietate.</p>
+                <p n="8">Non habeo meum quod id efferam: et dum quero implere sententiam longo ambitu uix breuis uitae spacio consumo.</p>
+                <p n="9">Accedunt <choice><abbr>hyperbator</abbr><expan>hyperbatorum</expan></choice> an fractus: dissimilitudine casuum: uarietates <choice><abbr>figuraru</abbr><expan>figurarum</expan></choice>: <choice><abbr>ipm</abbr><expan>ipsum</expan></choice> postremo <choice><abbr>suu</abbr><expan>suum</expan></choice>: et ut ita <choice><abbr>dica</abbr><expan>dicam</expan></choice> uernaculum lingue genus: si ad uerbum asurde resonat.</p>
+                <p n="10">Si ob <choice><abbr>necessitate</abbr><expan>necessitatem</expan></choice> aliquid in ordine in sermone mutauero ab interpretis uidebor officio recessisse.</p>
+                <p n="11"><choice><abbr>Itaq</abbr><expan>Itaque</expan></choice> mi <persName>Vincenti</persName> carissime: et tu <persName>Galiene</persName> pars animae meae absecro: ut quidquid hoc tumultuarii operis est: amicorum non iudicum animo relegatis.</p>
+                <p n="12">prefectim cum et notario: ut scitis uelocissime dictauerim: et difficultatem rei <choice><abbr>et</abbr><expan>etiam</expan></choice> <choice><abbr>diuinoru</abbr><expan>diuinorum</expan></choice> <choice><abbr>uoluminu</abbr><expan>uoluminum</expan></choice> <choice><abbr>instrumta</abbr><expan>instrumenta</expan></choice> <choice><abbr>testent</abbr><expan>testentur</expan></choice>: que a <num>LXX</num>. <choice><abbr>interpretib</abbr><expan>interpretibus</expan></choice> edita: <choice><abbr>no</abbr><expan>non</expan></choice>eundem <persName>saporem</persName> in greco sermone custodiunt.</p>
+                <p n="13">Quamobrem <placeName>Aquila</placeName> et <placeName>Synachus</placeName> et <placeName>Theodacion</placeName>  incitati diuersum pene <choice><abbr>op</abbr><expan>opus</expan></choice> eodem opere prodiderunt.</p>
+                <p n="14">Alio nitente uerbum de uerbo <choice><abbr>expmere</abbr><expan>exprimere</expan></choice>: Alio sensum potius sequi: Tertio non inultum a ueteribus discrepare.</p>
+                <p n="15">Quinta <choice><abbr>aut</abbr><expan>autem</expan></choice> et sexta et septima editio: licet quibus censeantur auctoribus <choice><abbr>ignoret</abbr><expan>ignoretur</expan></choice>: <choice><abbr>tn</abbr><expan>tamen</expan></choice> ita probabilem sui diuersitatem tenent: ut auctoritatem sine <choice><abbr>nomenib</abbr><expan>nomenibus</expan></choice> meruerint.</p>
+                <p n="16">Inde adeo uenit: ut sacrae litterae minus compte et dure sonantes <choice><abbr>uideant</abbr><expan>uideantur</expan></choice>: quod diserti homines </p>
+            </div>
+            <div n="4"> </div>
+            <div n="5"> </div>
         </body>
     </text>
 </TEI>
-
