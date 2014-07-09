@@ -14790,8 +14790,8 @@
           </row>
           <row n="160_4">
             <cell role="annimundi"><choice>
-                <abbr><num><num>VLXX</num></num></abbr>
-                <expan><num><num>V</num></num> milia <num><num>LXX</num></num></expan>
+                <abbr><num>VLXX</num></abbr>
+                <expan><num>V</num> milia <num>LXX</num></expan>
               </choice></cell>
             <cell><num>II</num></cell>
             <cell role="spatium"/>
@@ -15198,7 +15198,7 @@
             <cell><num>IIII</num></cell>
             <cell role="spatium"/>
             <cell role="annimundi"><choice>
-                <abbr>VLXXX</abbr>
+                <abbr><num>VLXXX</num></abbr>
                 <expan><num>V</num> milia <num>LXXX</num></expan>
               </choice>.</cell>
           </row>
@@ -15430,7 +15430,7 @@
           </row>
           <row n="167_2">
             <cell role="annimundi"><choice>
-                <abbr>VXC</abbr>
+                <abbr><num>VXC</num></abbr>
                 <expan><num>V</num> milia <num>XC</num></expan>
               </choice>.</cell>
             <cell><num>XX</num></cell>
@@ -15685,7 +15685,7 @@
             <cell><num>XII</num></cell>
             <cell role="spatium"/>
             <cell role="annimundi"><choice>
-                <abbr>VC</abbr>
+                <abbr><num>VC</num></abbr>
                 <expan><num>V</num> milia <num>C</num></expan>
               </choice>.</cell>
           </row>
@@ -15963,8 +15963,8 @@
           </row>
           <row n="172_2">
             <cell role="annimundi"><choice>
-                <abbr><num><num>VCX</num></num></abbr>
-                <expan><num><num>V</num></num> milia <num><num>CX</num></num></expan>
+                <abbr><num>VCX</num></abbr>
+                <expan><num>V</num> milia <num>CX</num></expan>
               </choice>.</cell>
             <cell><num>XIII</num></cell>
             <cell><num>VIII</num></cell>
@@ -16451,7 +16451,7 @@
                 <expan>Consules</expan>
               </choice>.</cell>
             <cell role="annimundi"><choice>
-                <abbr>VCXXX</abbr>
+              <abbr><num>VCXXX</num></abbr>
                 <expan><num>V</num> mila <num>CXXX</num></expan>
               </choice>.</cell>
           </row>
@@ -16665,7 +16665,7 @@
                 <expan>appellatur</expan>
               </choice>.</cell>
             <cell role="annimundi"><choice>
-                <abbr>VCXXXX</abbr>
+                <abbr><num>VCXXXX</num></abbr>
                 <expan><num>V</num> mila <num>CXXXX</num></expan>
               </choice>.</cell>
           </row>
@@ -16854,7 +16854,7 @@
           </row>
           <row n="182_2">
             <cell role="annimundi"><choice>
-                <abbr>VCL</abbr>
+                <abbr><num>VCL</num></abbr>
                 <expan><num>V</num> milia <num>CL</num></expan>
               </choice>.</cell>
             <cell><num>XVII</num></cell>
@@ -17270,7 +17270,7 @@
           </row>
           <row n="184_4">
             <cell role="annimundi"><choice>
-                <abbr>VCLX</abbr>
+                <abbr><num>VCLX</num></abbr>
                 <expan><num>V</num> milia <num>CLX</num></expan>
               </choice>.</cell>
             <cell>XXVII</cell>
@@ -17852,7 +17852,7 @@
                 <persName>cleopatram</persName> duxisset uxorem. Lune secundum <rs type="ethnic"
                 >romanos</rs> cursus inuentus est.</cell>
             <cell role="annimundi"><choice>
-                <abbr>VCLXX</abbr>
+                <abbr><num>VCLXX</num></abbr>
                 <expan><num>V</num> milia <num>CLXX</num></expan>
               </choice>.</cell>
           </row>
@@ -18257,7 +18257,7 @@
                   <expan>augustum</expan>
                 </choice></persName>.</cell>
             <cell role="annimundi"><choice>
-                <abbr>VCLXXX</abbr>
+                <abbr><num>VCLXXX</num></abbr>
                 <expan><num>V</num> milia <num>CLXXX</num></expan>
               </choice></cell>
           </row>
@@ -18520,7 +18520,7 @@
           </row>
           <row n="192_2">
             <cell role="annimundi"><choice>
-                <abbr>VCLXXXX</abbr>
+                <abbr><num>VCLXXXX</num></abbr>
                 <expan><num>V</num> milia <num>CLXXXX</num></expan>
               </choice></cell>
             <cell><num>XXIII</num>.</cell>
@@ -18877,7 +18877,7 @@
                 <expan>possessionumque</expan>
               </choice> describit.</cell>
             <cell role="annimundi"><choice>
-                <abbr>VCC</abbr>
+                <abbr><num>VCC</num></abbr>
                 <expan><num>V</num> milia <num>CC</num></expan>
               </choice></cell>
           </row>
@@ -19131,7 +19131,7 @@
                 <expan>spinam</expan>
               </choice> nato: media se confecit anno etatis. <num>LXX</num>.</cell>
             <cell role="annimundi"><choice>
-                <abbr>VCXX</abbr>
+                <abbr><num>VCXX</num></abbr>
                 <expan><num>V</num> milia <num>CXX</num>.</expan>
               </choice></cell>
           </row>
@@ -19366,7 +19366,7 @@
           </row>
           <row n="199_4">
             <cell role="annimundi"><choice>
-                <abbr>VCCXX</abbr>
+                <abbr><num>VCCXX</num></abbr>
                 <expan><num>V</num> milia <num>CCXX</num></expan>
               </choice>.</cell>
             <cell><num>VII</num></cell>
@@ -19715,7 +19715,7 @@
                 <expan>conuersionem</expan>
               </choice> ad deum annuncient imperat.</cell>
             <cell role="annimundi"><choice>
-                <abbr>VCCXXX</abbr>
+                <abbr><num>VCCXXX</num></abbr>
                 <expan><num>V</num> milia <num>CCXXX</num></expan>
               </choice>.</cell>
           </row>
@@ -20305,7 +20305,7 @@
                 <expan>in</expan>
               </choice> palatio. Anno aetatis sue <num>XXVIIII</num>.</cell>
             <cell role="annimundi"><choice>
-                <abbr>VCCXL</abbr>
+                <abbr><num>VCCXL</num></abbr>
                 <expan><num>V</num> milia <num>CCXL</num></expan>
               </choice>.</cell>
           </row>
@@ -20608,7 +20608,7 @@
           </row>
           <row n="207_2">
             <cell role="annimundi"><choice>
-                <abbr>VCCL</abbr>
+                <abbr><num>VCCL</num></abbr>
                 <expan><num>V</num> milia <num>CCL</num></expan>
               </choice></cell>
             <cell><num>VI</num></cell>
@@ -20827,7 +20827,7 @@
           </row>
           <row n="209_4">
             <cell role="annimundi"><choice>
-                <abbr>VCCLX</abbr>
+                <abbr><num>VCCLX</num></abbr>
                 <expan><num>V</num> milia <num>CCLX</num></expan>
               </choice></cell>
             <cell><num>XVI</num></cell>
@@ -21284,7 +21284,7 @@
           </row>
           <row n="212_2">
             <cell role="annimundi"><choice>
-                <abbr>VCCLXX</abbr>
+                <abbr><num>VCCLXX</num></abbr>
                 <expan><num>V</num> milia <num>CCLXX</num></expan>
               </choice>.</cell>
             <cell><num>XXVI</num>.</cell>
@@ -21624,7 +21624,7 @@
                 <expan>pominibus</expan>
               </choice> exureret.</cell>
             <cell role="annimundi"><choice>
-                <abbr>VCCLXXX</abbr>
+                <abbr><num>VCCLXXX</num></abbr>
                 <expan><num>V</num> milia <num>CCLXXX</num></expan>
               </choice>.</cell>
           </row>
@@ -21833,7 +21833,7 @@
           </row>
           <row n="217_2">
             <cell role="annimundi"><choice>
-                <abbr>VCCLXXXX</abbr>
+                <abbr><num>VCCLXXXX</num></abbr>
                 <expan><num>V</num> milia <num>CCLXXXX</num></expan>
               </choice>.</cell>
             <cell><num>IX</num></cell>
@@ -22188,7 +22188,7 @@
                   </choice></rs>.</persName>
             </cell>
             <cell role="annimundi"><choice>
-                <abbr>VCCC</abbr>
+                <abbr><num>VCCC</num></abbr>
                 <expan><num>V</num> milia <num>CCC</num></expan>
               </choice>.</cell>
           </row>
@@ -22390,7 +22390,7 @@
                 <expan>concrematum</expan>
               </choice>.</cell>
             <cell role="annimundi"><choice>
-                <abbr>VCCCX</abbr>
+                <abbr><num>VCCCX</num></abbr>
                 <expan><num>V</num> milia <num>CCCX</num></expan>
               </choice>.</cell>
           </row>
@@ -22691,7 +22691,7 @@
           </row>
           <row n="225_1">
             <cell role="annimundi"><choice>
-                <abbr>VCCCXX</abbr>
+                <abbr><num>VCCCXX</num></abbr>
                 <expan><num>V</num> milia <num>CCCXX</num></expan>
               </choice>.</cell>
             <cell><num>IIII</num></cell>
@@ -22960,7 +22960,7 @@
                   </choice> urbe factam.</p></note>
             </cell>
             <cell role="annimundi"><choice>
-                <abbr>VCCCXXX</abbr>
+                <abbr><num>VCCCXXX</num></abbr>
                 <expan><num>V</num> milia <num>CCCXXX</num></expan>
               </choice>.</cell>
           </row>
@@ -23203,7 +23203,7 @@
           </row>
           <row n="230_1">
             <cell role="annimundi"><choice>
-                <abbr>VCCCXL</abbr>
+                <abbr><num>VCCCXL</num></abbr>
                 <expan><num>V</num> milia <num>CCCXL</num></expan>
               </choice>.</cell>
             <cell><num>III</num></cell>
@@ -23360,7 +23360,7 @@
           </row>
           <row n="232_3">
             <cell role="annimundi"><choice>
-                <abbr>VCCCL</abbr>
+                <abbr><num>VCCCL</num></abbr>
                 <expan><num>V</num> milia <num>CCCL</num></expan>
               </choice>.</cell>
             <cell><num>XIII</num></cell>
@@ -23509,7 +23509,7 @@
                 <expan>moritur</expan>
               </choice>. Anno uitae suae. <num>LXXII</num>.</cell>
             <cell role="annimundi"><choice>
-                <abbr>VCCCLX</abbr>
+                <abbr><num>VCCCLX</num></abbr>
                 <expan><num>V</num> milia <num>CCCLX</num></expan>
               </choice>.</cell>
           </row>
@@ -23775,7 +23775,7 @@
                   <expan>eloquentissimus</expan>
                 </choice>.</p></cell>
             <cell role="annimundi"><choice>
-                <abbr>VCCCLXX</abbr>
+                <abbr><num>VCCCLXX</num></abbr>
                 <expan><num>V</num> milia <num>CCCLX</num></expan>
               </choice>.</cell>
           </row>
@@ -24030,7 +24030,7 @@
           </row>
           <row n="240_1">
             <cell role="annimundi"><choice>
-                <abbr>VCCCLXXX</abbr>
+                <abbr><num>VCCCLXXX</num></abbr>
                 <expan><num>V</num> milia <num>CCCLXXX</num></expan>
               </choice></cell>
             <cell><num>I</num></cell>
@@ -24238,7 +24238,7 @@
                 <expan>coequantur</expan>
               </choice>.</cell>
             <cell role="annimundi"><choice>
-                <abbr>VCCCXC</abbr>
+                <abbr><num>VCCCXC</num></abbr>
                 <expan><num>V</num> milia <num>CCCXC</num></expan>
               </choice>.</cell>
           </row>
@@ -24562,7 +24562,7 @@
           </row>
           <row n="244_4">
             <cell role="annimundi"><choice>
-                <abbr>VCCCC</abbr>
+                <abbr><num>VCCCC</num></abbr>
                 <expan><num>V</num> milia <num>CCCC</num></expan>
               </choice>.</cell>
             <cell><num>VII</num></cell>
@@ -24733,7 +24733,7 @@
           </row>
           <row n="247_2">
             <cell role="annimundi"><choice>
-                <abbr>V.CCCCX</abbr>
+                <abbr><num>V</num>.<num>CCCCX</num></abbr>
                 <expan><num>V</num>. milia <num>CCCCX</num></expan>
               </choice>.</cell>
             <cell>XVII</cell>
@@ -24973,7 +24973,7 @@
               </choice>
               <num>V</num>.</cell>
             <cell role="annimundi"><choice>
-                <abbr>VCCCCXX</abbr>
+                <abbr><num>VCCCCXX</num></abbr>
                 <expan><num>V</num> milia <num>CCCCXX</num></expan>
               </choice>.</cell>
           </row>
@@ -25154,7 +25154,7 @@
           </row>
           <row n="252_2">
             <cell role="annimundi"><choice>
-                <abbr>VCCCCXXX</abbr>
+                <abbr><num>VCCCCXXX</num></abbr>
                 <expan><num>V</num> milia <num>CCCCXXX</num></expan>
               </choice>.</cell>
             <cell><num>VIII</num></cell>
@@ -25317,7 +25317,7 @@
           </row>
           <row n="254_4">
             <cell role="annimundi">.<choice>
-                <abbr>VCCCCXL</abbr>
+                <abbr><num>VCCCCXL</num></abbr>
                 <expan><num>V</num> milia <num>CCCCXL</num></expan>
               </choice>.</cell>
             <cell><num>II</num></cell>
@@ -25496,7 +25496,7 @@
             <cell><num>VI</num></cell>
             <cell role="spatium"/>
             <cell role="annimundi"><choice>
-                <abbr>V.CCCCL</abbr>
+                <abbr><num>V</num>.<num>CCCCL</num></abbr>
                 <expan><num>V</num>. milia <num>CCCCL</num></expan>
               </choice>.</cell>
           </row>
@@ -25836,7 +25836,7 @@
           </row>
           <row n="259_4">
             <cell role="annimundi"><choice>
-                <abbr>VCCCCLX</abbr>
+                <abbr><num>VCCCCLX</num></abbr>
                 <expan><num>V</num> milia <num>CCCCLX</num></expan>
               </choice></cell>
             <cell><num>VI</num></cell>
@@ -26060,7 +26060,7 @@
           </row>
           <row n="262_2">
             <cell role="annimundi"><choice>
-                <abbr>VCCCCLXX</abbr>
+                <abbr><num>VCCCCLXX</num></abbr>
                 <expan><num>V</num> milia <num>CCCCLXX</num>.</expan>
               </choice></cell>
             <cell><num>I</num></cell>
@@ -26361,7 +26361,7 @@
           </row>
           <row n="264_4">
             <cell role="annimundi"><choice>
-                <abbr>VCCCCLXXX</abbr>
+                <abbr><num>VCCCCLXXX</num></abbr>
                 <expan><num>V</num> milia <num>CCCCLXXX</num></expan>
               </choice>.</cell>
             <cell><num>III</num></cell>
@@ -26665,7 +26665,7 @@
           </row>
           <row n="267_2">
             <cell role="annimundi"><choice>
-                <abbr>VCCCCXC</abbr>
+                <abbr><num>VCCCCXC</num></abbr>
                 <expan><num>V</num> milia <num>CCCCXC</num></expan>
               </choice>.</cell>
             <cell><num>V</num></cell>
@@ -26978,7 +26978,7 @@
             <cell><num>XV</num></cell>
             <cell role="spatium"/>
             <cell role="annimundi"><choice>
-                <abbr>VD</abbr>
+                <abbr><num>VD</num></abbr>
                 <expan><num>V</num> milia <num>D</num></expan>
               </choice>.</cell>
           </row>
@@ -27216,7 +27216,7 @@
           </row>
           <row n="272_2">
             <cell role="annimundi"><choice>
-                <abbr>VDX</abbr>
+                <abbr><num>VDX</num></abbr>
                 <expan><num>V</num> milia <num>DX</num></expan>
               </choice>.</cell>
             <cell><num>III</num></cell>
@@ -27456,7 +27456,7 @@
           </row>
           <row n="274_4">
             <cell role="annimundi"><choice>
-                <abbr>VDXX</abbr>
+                <abbr><num>VDXX</num></abbr>
                 <expan><num>V</num> milia <num>DXX</num></expan>
               </choice>.</cell>
             <cell><num>XIII</num></cell>
@@ -27703,7 +27703,7 @@
                 </choice>.</p>
             </cell>
             <cell role="annimundi"><choice>
-                <abbr>VDXXX</abbr>
+                <abbr><num>VDXXX</num></abbr>
                 <expan><num>V</num> milia <num>DXXX</num></expan>
               </choice>.</cell>
           </row>
@@ -28020,7 +28020,7 @@
           </row>
           <row n="279_4">
             <cell role="annimundi"><choice>
-                <abbr>VDXL</abbr>
+                <abbr><num>VDXL</num></abbr>
                 <expan><num>V</num> milia <num>DXL</num></expan>
               </choice>.</cell>
             <cell><num>II</num></cell>
