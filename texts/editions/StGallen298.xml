@@ -36,7 +36,7 @@
                     <cell role="spatium"/>
                     <cell role="filum" n="Israelite Hebrews"><rs type="ethnic"><choice><abbr>hebreo</abbr><expan>hebreorum</expan></choice></rs> israel</cell>
                     <cell role="filum" n="Egyptians"><rs type="ethnic"><choice><abbr>Egyptio</abbr><expan>Egyptiorum</expan></choice></rs></cell>
-                    <cell role ="filum" n="Latins"><rs type="ethnic"><choice><abbr></abbr><expan></expan></choice></rs>.</cell>
+                    <cell role ="filum" n="Latins"><rs type="ethnic"><choice><abbr>Latino</abbr><expan>Latinorum</expan></choice></rs>.</cell>
                     <cell role="spatium"></cell>
                     <cell role="filum" n="Athenians"><rs type="ethnic">Atheniensium</rs>.</cell>
                     <cell role="spatium"/>
