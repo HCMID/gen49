@@ -32,12 +32,12 @@
 
             <cell role="filum" n="Judean Hebrews"><rs type="ethnic">HEBRAEORVM IVDA</rs></cell>
             <cell role="spatium"/>
-            <cell role="filum" n="Israelite Hebrews"><choice>
+            <cell role="filum" n="Israelite Hebrews"><rs type="ethnic"><choice>
                 <abbr>HEBRAEOR</abbr>
                 <expan>HEBRAEORVM</expan>
-              </choice> ISRAEL</cell>
+            </choice> ISRAEL</rs></cell>
             <cell role="spatium"/>
-            <cell role="filum" n="Lydians"><rs type="ethnic">lLYDORVM</rs></cell>
+            <cell role="filum" n="Lydians"><rs type="ethnic">LYDORVM</rs></cell>
             <cell role="filum" n="Latins"><rs type="ethnic">LATINORVM</rs></cell>
             <cell role="filum" n="Athenians"><rs type="ethnic">ATHENIENSIVM</rs></cell>
             <cell role="spatium"/>
@@ -1014,7 +1014,7 @@
           <row role="header" n="header_1">
             <cell role="filum" n="Medes"><rs type="ethnic">MEDORVM</rs></cell>
             <cell role="filum" n="Hebrews"><rs type="ethnic">HEBRAEORVM</rs>.</cell>
-            <cell role="filum" n="Lydians"><rs type="ethnic">lLYDORVM</rs></cell>
+            <cell role="filum" n="Lydians"><rs type="ethnic">LYDORVM</rs></cell>
             <cell role="filum" n="Athenians"><rs type="ethnic"><choice>
                   <sic>ATENIENSIVM</sic>
                   <corr>ATHENIENSIVM</corr>
