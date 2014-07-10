@@ -1228,51 +1228,526 @@
                             <abbr>amatore</abbr>
                             <expan>amatorem</expan>
                         </choice> sapientie dici ualuit. </s>
-                    <s n="40">
-                        Quem <choice><abbr>secut</abbr><expan>sectus</expan></choice> <persName>socrates</persName> <persName>platonem</persName> erudiuit: a quo famosa <choice><abbr>i</abbr><expan>in</expan></choice> partes diuisa <choice><abbr>e</abbr><expan>est</expan></choice> philosophia.
-                    </s>
-                    <s n="41">
-                        Horum singulos iuxta ordinem sequentis historiae suis locis inseremus.
-                    </s>
+                    <s n="40"> Quem <choice>
+                            <abbr>secut</abbr>
+                            <expan>sectus</expan>
+                        </choice>
+                        <persName>socrates</persName>
+                        <persName>platonem</persName> erudiuit: a quo famosa <choice>
+                            <abbr>i</abbr>
+                            <expan>in</expan>
+                        </choice> partes diuisa <choice>
+                            <abbr>e</abbr>
+                            <expan>est</expan>
+                        </choice> philosophia. </s>
+                    <s n="41"> Horum singulos iuxta ordinem sequentis historiae suis locis
+                        inseremus. </s>
                     <s n="42">
-                        <choice><abbr>Igit</abbr><expan>Igitur</expan></choice> <persName>moses</persName> cunctos quos supra memorauimus antecedit: qui aetate <persName>caecropis</persName> fuisse monstratus est.
-                    </s>
-                    <s n="43">
-                        Ab. <choice><abbr><num>LXXX</num>o</abbr><expan>unknown</expan></choice>. <choice><abbr>aut</abbr><expan>autem</expan></choice> anno <persName>mosi</persName>: et egressu <placeName>israel</placeName> ex <placeName>aegypto</placeName> rursum ad <choice><abbr>supiore</abbr><expan>superiore</expan></choice> <choice><abbr>conuesus</abbr><expan>conuersus</expan></choice> <choice><abbr>usq</abbr><expan>usque</expan></choice>
-                        ad <choice><abbr>pmum</abbr><expan>primum</expan></choice> <choice><abbr>annu</abbr><expan>annum</expan></choice> <persName>Abrahe</persName> reperies annos. <num>DV</num>. quos similiter <choice><abbr><num>XLVo</num></abbr><expan>unknown</expan></choice>. anno <persName>cecropis</persName> <choice><abbr>usq</abbr><expan>usque</expan></choice> ad <persName><choice><abbr>Ninu</abbr><expan>Ninum</expan></choice></persName> et <persName>Semiramin</persName>
-                        <rs type="ethnic">assyriorum</rs> <choice><abbr>pncipes</abbr><expan>principes</expan></choice> supputabis. 
-                    </s>
+                        <choice>
+                            <abbr>Igit</abbr>
+                            <expan>Igitur</expan>
+                        </choice>
+                        <persName>moses</persName> cunctos quos supra memorauimus antecedit: qui
+                        aetate <persName>caecropis</persName> fuisse monstratus est. </s>
+                    <s n="43"> Ab. <choice>
+                            <abbr><num>LXXX</num>o</abbr>
+                            <expan>unknown</expan>
+                        </choice>. <choice>
+                            <abbr>aut</abbr>
+                            <expan>autem</expan>
+                        </choice> anno <persName>mosi</persName>: et egressu
+                            <placeName>israel</placeName> ex <placeName>aegypto</placeName> rursum
+                        ad <choice>
+                            <abbr>supiore</abbr>
+                            <expan>superiore</expan>
+                        </choice>
+                        <choice>
+                            <abbr>conuesus</abbr>
+                            <expan>conuersus</expan>
+                        </choice>
+                        <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad <choice>
+                            <abbr>pmum</abbr>
+                            <expan>primum</expan>
+                        </choice>
+                        <choice>
+                            <abbr>annu</abbr>
+                            <expan>annum</expan>
+                        </choice>
+                        <persName>Abrahe</persName> reperies annos. <num>DV</num>. quos similiter <choice>
+                            <abbr><num>XLVo</num></abbr>
+                            <expan>unknown</expan>
+                        </choice>. anno <persName>cecropis</persName>
+                        <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad <persName><choice>
+                                <abbr>Ninu</abbr>
+                                <expan>Ninum</expan>
+                            </choice></persName> et <persName>Semiramin</persName>
+                        <rs type="ethnic">assyriorum</rs>
+                        <choice>
+                            <abbr>pncipes</abbr>
+                            <expan>principes</expan>
+                        </choice> supputabis. </s>
                     <s n="44">
-                        <choice><abbr>Prim</abbr><expan>Primus</expan></choice> quippe omni <placeName>Asiae</placeName> exceptus <placeName>Indis</placeName> <persName>Ninus</persName> <persName>beli</persName>
-                        <choice><abbr>fili</abbr><expan>filius</expan></choice> regnauit.
-                    </s>
+                        <choice>
+                            <abbr>Prim</abbr>
+                            <expan>Primus</expan>
+                        </choice> quippe omni <placeName>Asiae</placeName> exceptus
+                            <placeName>Indis</placeName>
+                        <persName>Ninus</persName>
+                        <persName>beli</persName>
+                        <choice>
+                            <abbr>fili</abbr>
+                            <expan>filius</expan>
+                        </choice> regnauit. </s>
                     <s n="45">
-                        <choice><abbr>Itaq</abbr><expan>Itaque</expan></choice> manifestum est <persName>Abraham</persName> <persName>nini</persName> aetate generatum: iuxta eum <choice><abbr>tn</abbr><expan>tamen</expan></choice> <choice><abbr>numeru</abbr><expan>numerum</expan></choice>: quem contractiorem editione uulgata sermo prebet <rs type="ethnic">hebreus</rs>.
-                    </s>
-                    <s n="46">
-                        Verum in curiositate ne cesses: et <choice><abbr>cu</abbr><expan>cum</expan></choice> diuinam <choice><abbr>scriptura</abbr><expan>scripturam</expan></choice> diligenter euolueris a natiuitate <persName>Abrahe</persName> <choice><abbr>usq</abbr><expan>usque</expan></choice> a totius orbis diluuium unknown inuenies retrorsum annos <num>DCCCCXLII</num>.
-                    </s>
-                    <s n="47">
-                        Item a diluuio <choice><abbr>usq</abbr><expan>usque</expan></choice> ad <persName>Adam</persName> annos. <choice><abbr><num>IICCXLII</num></abbr><expan><num>II</num> milia <num>CCXLII</num></expan></choice>. in quibus nulla penitus nec <rs type="ethnic">greca</rs> nec barbara: et ut loquar <choice><abbr>i</abbr><expan>in</expan></choice> <choice><abbr>comune</abbr><expan>commune</expan></choice>
-                        gentilis <choice><abbr>inuenit</abbr><expan>inuenitur</expan></choice> historia.
-                    </s>
+                        <choice>
+                            <abbr>Itaq</abbr>
+                            <expan>Itaque</expan>
+                        </choice> manifestum est <persName>Abraham</persName>
+                        <persName>nini</persName> aetate generatum: iuxta eum <choice>
+                            <abbr>tn</abbr>
+                            <expan>tamen</expan>
+                        </choice>
+                        <choice>
+                            <abbr>numeru</abbr>
+                            <expan>numerum</expan>
+                        </choice>: quem contractiorem editione uulgata sermo prebet <rs
+                            type="ethnic">hebreus</rs>. </s>
+                    <s n="46"> Verum in curiositate ne cesses: et <choice>
+                            <abbr>cu</abbr>
+                            <expan>cum</expan>
+                        </choice> diuinam <choice>
+                            <abbr>scriptura</abbr>
+                            <expan>scripturam</expan>
+                        </choice> diligenter euolueris a natiuitate <persName>Abrahe</persName>
+                        <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> a totius orbis diluuium unknown inuenies retrorsum annos
+                            <num>DCCCCXLII</num>. </s>
+                    <s n="47"> Item a diluuio <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad <persName>Adam</persName> annos. <choice>
+                            <abbr><num>IICCXLII</num></abbr>
+                            <expan><num>II</num> milia <num>CCXLII</num></expan>
+                        </choice>. in quibus nulla penitus nec <rs type="ethnic">greca</rs> nec
+                        barbara: et ut loquar <choice>
+                            <abbr>i</abbr>
+                            <expan>in</expan>
+                        </choice>
+                        <choice>
+                            <abbr>comune</abbr>
+                            <expan>commune</expan>
+                        </choice> gentilis <choice>
+                            <abbr>inuenit</abbr>
+                            <expan>inuenitur</expan>
+                        </choice> historia. </s>
                     <s n="48">
-                        <choice><abbr>Quamobre</abbr><expan>Quamobrem</expan></choice> presens opusculum ab <persName>Abraham</persName> et <persName>nino</persName> <choice><abbr>usq</abbr><expan>usque</expan></choice> ad nostram inferiora tempora <choice><abbr>prosequet</abbr><expan>prosequetur</expan></choice>. et statim in <choice><abbr>pncipio</abbr><expan>principio</expan></choice> sui <rs type="ethnic">hebreroum</rs>
-                        <persName>Abraham</persName>: <rs type="ethnic"><choice><abbr>Assyrioru</abbr><expan>Assyriorum</expan></choice></rs> <persName>Ninum</persName> et <persName>Semiramin</persName> proponet.
-                    </s>
-                    <s n="49">
-                        Quia <choice><abbr>neq</abbr><expan>neque</expan></choice> <placeName>athenarum</placeName> adhuc urbs: <choice><abbr>neq</abbr><expan>neque</expan></choice> <rs type="ethnic"><choice><abbr>argiuoru</abbr><expan>argiuorum</expan></choice></rs> <choice><abbr>regnu</abbr><expan>regnum</expan></choice> nomen acceperat: solis <rs type="ethnic">Sicyniis</rs> in <placeName>grecia</placeName> <choice><abbr>florentib</abbr><expan>florentibus</expan></choice>: apud quos temporibus <persName>Abrahe</persName>
-                        et <persName>Nini</persName> <persName>europem</persName> secundum regnasse ferunt.
-                    </s>
-                    <s n="50">
-                        Quod cur <choice><abbr>et</abbr><expan>etiam</expan></choice> nos putemus et sequentibus <choice><abbr>demonstrabit</abbr><expan>demonstrabitur</expan></choice>. 
-                    </s>
-                    <s n="51">
-                        Si. <choice><abbr>N.</abbr><expan>uknown</expan></choice> diligenter enumeres ab ultima aetate <persName>Nini</persName>: <choice><abbr>usq</abbr><expan>usque</expan></choice> ad <placeName>troyae</placeName> <choice><abbr>captiuitate</abbr><expan>captiuitatem</expan></choice> inuenies annos <num>DCCCXXXIIII</num>.
-                    </s>
-                    <s n="52">
-                        
-                    </s>
+                        <choice>
+                            <abbr>Quamobre</abbr>
+                            <expan>Quamobrem</expan>
+                        </choice> presens opusculum ab <persName>Abraham</persName> et
+                            <persName>nino</persName>
+                        <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad nostram inferiora tempora <choice>
+                            <abbr>prosequet</abbr>
+                            <expan>prosequetur</expan>
+                        </choice>. et statim in <choice>
+                            <abbr>pncipio</abbr>
+                            <expan>principio</expan>
+                        </choice> sui <rs type="ethnic">hebreroum</rs>
+                        <persName>Abraham</persName>: <rs type="ethnic"><choice>
+                                <abbr>Assyrioru</abbr>
+                                <expan>Assyriorum</expan>
+                            </choice></rs>
+                        <persName>Ninum</persName> et <persName>Semiramin</persName> proponet. </s>
+                    <s n="49"> Quia <choice>
+                            <abbr>neq</abbr>
+                            <expan>neque</expan>
+                        </choice>
+                        <placeName>athenarum</placeName> adhuc urbs: <choice>
+                            <abbr>neq</abbr>
+                            <expan>neque</expan>
+                        </choice>
+                        <rs type="ethnic"><choice>
+                                <abbr>argiuoru</abbr>
+                                <expan>argiuorum</expan>
+                            </choice></rs>
+                        <choice>
+                            <abbr>regnu</abbr>
+                            <expan>regnum</expan>
+                        </choice> nomen acceperat: solis <rs type="ethnic">Sicyniis</rs> in
+                            <placeName>grecia</placeName>
+                        <choice>
+                            <abbr>florentib</abbr>
+                            <expan>florentibus</expan>
+                        </choice>: apud quos temporibus <persName>Abrahe</persName> et
+                            <persName>Nini</persName>
+                        <persName>europem</persName> secundum regnasse ferunt. </s>
+                    <s n="50"> Quod cur <choice>
+                            <abbr>et</abbr>
+                            <expan>etiam</expan>
+                        </choice> nos putemus et sequentibus <choice>
+                            <abbr>demonstrabit</abbr>
+                            <expan>demonstrabitur</expan>
+                        </choice>. </s>
+                    <s n="51"> Si. <choice>
+                            <abbr>N.</abbr>
+                            <expan>uknown</expan>
+                        </choice> diligenter enumeres ab ultima aetate <persName>Nini</persName>: <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad <placeName>troyae</placeName>
+                        <choice>
+                            <abbr>captiuitate</abbr>
+                            <expan>captiuitatem</expan>
+                        </choice> inuenies annos <num>DCCCXXXIIII</num>. </s>
+                    <s n="52"> Item in <placeName>sicione</placeName> a <choice>
+                            <abbr><num>XX</num>o</abbr>
+                            <expan>unknown</expan>
+                        </choice> anno regis <placeName>europis</placeName>
+                        <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad <choice>
+                            <abbr>supradictu</abbr>
+                            <expan>supradictum</expan>
+                        </choice> tempus eosdem annos inuenies <num>DCCCXXXIIII</num>. </s>
+                    <s n="53"> Apud <rs type="ethnic">hebreos</rs>
+                        <choice>
+                            <abbr>quoq</abbr>
+                            <expan>quoque</expan>
+                        </choice> a natiuitate <persName>abraae</persName>
+                        <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad <persName>Labdon</persName> et <persName>Sapson</persName>
+                        iudices <rs type="ethnic"><choice>
+                                <abbr>hebreoru</abbr>
+                                <expan>hebreorum</expan>
+                            </choice></rs>: qui <rs type="ethnic">troianis</rs>
+                        <choice>
+                            <abbr>temporib</abbr>
+                            <expan>temporibus</expan>
+                        </choice> populo <choice>
+                            <abbr>pfuerut</abbr>
+                            <expan>praefuerunt</expan>
+                        </choice>: aeque supputabis annos. <num>DCCCXXXIII</num>. </s>
+                    <s n="54"> Item apud <rs type="ethnic">aegyptios</rs> ab aetate
+                            <persName>Nini</persName> et <persName>Semiramidis</persName>: quo
+                        tempore sextadecima iam dynastia <placeName>Thebei</placeName>
+                        <rs type="ethnic">aegyptiis</rs> imperabant <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad <choice>
+                            <abbr><num>XX</num>a</abbr>
+                            <expan>unknown</expan>
+                        </choice> dinastiam et regem <placeName>egypti</placeName>
+                        <persName>Thuorim</persName>: qui ab <persName>homero</persName>
+                        <persName>polybus</persName> uocatur sub quo <placeName>troia</placeName>
+                        capta <choice>
+                            <abbr>e</abbr>
+                            <expan>est</expan>
+                        </choice>. </s>
+                    <s n="55"> Colliguntur <choice>
+                            <abbr>et</abbr>
+                            <expan>etiam</expan>
+                        </choice> supradicti anni. <num>DCCCXXXIIII</num>. </s>
+                    <s n="56">
+                        <choice>
+                            <abbr>Igit</abbr>
+                            <expan>Igitur</expan>
+                        </choice> consequenter in libelli fronte ponimus uno <choice>
+                            <abbr>eodeq</abbr>
+                            <expan>eodemque</expan>
+                        </choice> tempore <persName>Abraham</persName>
+                        <persName>Ninum</persName>
+                        <persName>Semiramin</persName>
+                        <persName>europem</persName>: <rs type="ethnic"><choice>
+                                <abbr>aegyptioru</abbr>
+                                <expan>aegyptiorum</expan>
+                            </choice></rs>
+                        <rs type="ethnic">Thebaeos</rs>: et hec quidem ita se habere ut prefati
+                        sumus posterior <choice>
+                            <abbr>text</abbr>
+                            <expan>textus</expan>
+                        </choice> ostendet. </s>
+                    <s n="57"> Nunc illud in cura <choice>
+                            <abbr>e</abbr>
+                            <expan>est</expan>
+                        </choice> ut etiam <rs type="ethnic">hebreorum</rs> annos in
+                        <num>IIII</num>. tempora <choice>
+                            <abbr>diuidam</abbr>
+                            <expan>diuidamus</expan>
+                        </choice>. Ab <persName>Abraham</persName>
+                        <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad <persName>mosen</persName>. A <persName>Mose</persName>
+                        <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad primam aedificationem templi. A <choice>
+                            <abbr>pma</abbr>
+                            <expan>prima</expan>
+                        </choice> edificatione <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad <choice>
+                            <abbr>secunda</abbr>
+                            <expan>secundam</expan>
+                        </choice> instaurationem eius. Ab instauratione <choice>
+                            <abbr>ei</abbr>
+                            <expan>eius</expan>
+                        </choice>
+                        <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad <choice>
+                            <abbr>aduentu</abbr>
+                            <expan>aduentum</expan>
+                        </choice>
+                        <persName>Christi</persName>. </s>
+                    <s n="58"> A natiuitate quippe <persName>Abrahe</persName>
+                        <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad <persName>Mosen</persName> et egressum
+                            <placeName>israelis</placeName> ex <placeName>aegypto</placeName>
+                        computantur anni. <num>DV</num>. </s>
+                    <s n="59"> A <persName>mose</persName>
+                        <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad <persName><choice>
+                                <abbr>Salomone</abbr>
+                                <expan>Salomonem</expan>
+                            </choice></persName> et <choice>
+                            <abbr>pma</abbr>
+                            <expan>primam</expan>
+                        </choice>
+                        <choice>
+                            <abbr>edificatione</abbr>
+                            <expan>edificationem</expan>
+                        </choice> templi: anni <num>CCCCLXXIX</num>. secundum minorem <choice>
+                            <abbr>tn</abbr>
+                            <expan>tamen</expan>
+                        </choice>
+                        <choice>
+                            <abbr>numeru</abbr>
+                            <expan>numerum</expan>
+                        </choice> quem tertius <title>regnorum liber</title> continet. </s>
+                    <s n="60"> Nam iuxta <title>uolumen <rs type="ethnic">iudicam</rs></title>
+                        <choice>
+                            <abbr>supputant</abbr>
+                            <expan>supputantur</expan>
+                        </choice> anni <num>DC</num>. </s>
+                    <s n="61"> A <persName>Salomone</persName> uero <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad <choice>
+                            <abbr>instauratione</abbr>
+                            <expan>instaurationem</expan>
+                        </choice> templi: que sub <persName>Dario</persName> unknown rege <rs
+                            type="ethnic"><choice>
+                                <abbr>persaru</abbr>
+                                <expan>persarum</expan>
+                            </choice></rs> facta est <choice>
+                            <abbr>colligunt</abbr>
+                            <expan>colliguntur</expan>
+                        </choice> anni. <num>DXII</num>. </s>
+                    <s n="62"> Porro a <persName>Dario</persName>
+                        <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad <choice>
+                            <abbr>predicatione</abbr>
+                            <expan>predicationem</expan>
+                        </choice>
+                        <choice>
+                            <abbr>dni</abbr>
+                            <expan>domini</expan>
+                        </choice>
+                        <choice>
+                            <abbr>nri</abbr>
+                            <expan>nostri</expan>
+                        </choice> unknown <persName>Ihesu christi</persName>: et <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad. <num>XV</num>. <choice>
+                            <abbr>annu</abbr>
+                            <expan>annum</expan>
+                        </choice>
+                        <persName>Tiberii</persName> principis <rs type="ethnic"><choice>
+                                <abbr>Ro.</abbr>
+                                <expan>Romanorum</expan>
+                            </choice></rs>
+                        <choice>
+                            <abbr>explent</abbr>
+                            <expan>explentur</expan>
+                        </choice> anni. <num>DXLVIII</num>. </s>
+                    <s n="63">
+                        <choice>
+                            <abbr>Itaq</abbr>
+                            <expan>Itaque</expan>
+                        </choice> simul fiunt ab <persName>Abraham</persName>
+                        <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad <num>XV</num>. <persName>tiberii</persName> annum anni. <choice>
+                            <abbr>IIXLIIII</abbr>
+                            <expan><num>II</num> milia <num>XLIIII</num></expan>
+                        </choice>. </s>
+                    <s n="64"> Similiter a <persName>Nino</persName> et
+                            <persName>semiramide</persName>
+                        <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad <persName>mosen</persName> et <persName>Cecropem</persName>
+                        anni. <num>DV</num>. </s>
+                    <s n="65"> A <persName>Cecrope</persName>
+                        <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad <choice>
+                            <abbr>captiuitate</abbr>
+                            <expan>captiuitatem</expan>
+                        </choice>
+                        <placeName>troiae</placeName> anni <num>CCCXXIX</num>. </s>
+                    <s n="66"> A captiuitate <placeName>troiae</placeName>
+                        <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad <choice>
+                            <abbr>pmam</abbr>
+                            <expan>primam</expan>
+                        </choice> olympiadem anni. <num>CCCCVI</num>. </s>
+                    <s n="67"> A <choice>
+                            <abbr>pma</abbr>
+                            <expan>prima</expan>
+                        </choice> Olympiade <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad. <num>II</num>. <persName>Darii</persName>
+                        <choice>
+                            <abbr>annu</abbr>
+                            <expan>annum</expan>
+                        </choice> et <choice>
+                            <abbr>instauratione</abbr>
+                            <expan>instaurationem</expan>
+                        </choice> templi anni <num>CCLVI</num>. </s>
+                    <s n="68"> A secundo <persName>Darii</persName> unknown anno et instauratione <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad. <num>XV</num>. <choice>
+                            <abbr>annu</abbr>
+                            <expan>annum</expan>
+                        </choice>
+                        <persName>tiberii caesaris</persName>: anni <num>DXLVIII</num>. </s>
+                    <s n="69"> Fiunt simul a <persName>Nino</persName> et
+                            <persName>Semiramide</persName>
+                        <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad <num>XV</num>. <persName>tiberii</persName>
+                        <choice>
+                            <abbr>annu</abbr>
+                            <expan>annum</expan>
+                        </choice> anni <choice>
+                            <abbr><num>IIXLIIII</num></abbr>
+                            <expan><num>II</num> milia <num>XLIIII</num></expan>
+                        </choice>. quos et ab <persName>Abraham</persName>
+                        <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad <persName>tiberium</persName> ostendimus supputatos. </s>
+                    <s n="70"> A <persName>tiberii</persName>
+                        <choice>
+                            <abbr>aut</abbr>
+                            <expan>autem</expan>
+                        </choice> anno <num>XV</num>. <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad <num>XIIII</num>. <persName>ualentis</persName>: quo interiit. <choice>
+                            <abbr>numerant</abbr>
+                            <expan>numerantur</expan>
+                        </choice>
+                        <num>CCCLI</num>. </s>
+                    <s n="71">
+                        <choice>
+                            <abbr>Itaq</abbr>
+                            <expan>Itaque</expan>
+                        </choice> fiunt omnes anni istius historie <choice>
+                            <abbr><num>IICCCXCV</num></abbr>
+                            <expan><num>II</num> milia <num>CCCXCV</num></expan>
+                        </choice>. </s>
+                    <s n="72"> Et ne longus ordo <choice>
+                            <abbr>numeroru</abbr>
+                            <expan>numerorum</expan>
+                        </choice> aliquid forte <choice>
+                            <abbr>turbatiois</abbr>
+                            <expan>turbationis</expan>
+                        </choice> afferat: <choice>
+                            <abbr>omne</abbr>
+                            <expan>omnem</expan>
+                        </choice>
+                        <choice>
+                            <abbr>honoru</abbr>
+                            <expan>honorum</expan>
+                        </choice> congeriem in decadas cecidimus: quas ex singularum <choice>
+                            <abbr>gentiu</abbr>
+                            <expan>gentium</expan>
+                        </choice> historiis congregantes: sibi inuicem <choice>
+                            <abbr>fecim</abbr>
+                            <expan>fecimus</expan>
+                        </choice>
+                        <choice>
+                            <abbr>ee</abbr>
+                            <expan>esse</expan>
+                        </choice> contrarias. ut facilis <choice>
+                            <abbr>prebeat</abbr>
+                            <expan>prebeatur</expan>
+                        </choice> inuentio: cuius <rs type="ethnic">greci</rs> aetate uel barbari:
+                        prophete et reges et sacerdotes fuerint <rs type="ethnic"><choice>
+                                <abbr>hebraeoru</abbr>
+                                <expan>hebraeorum</expan>
+                            </choice></rs>. </s>
+                    <s n="73"> Item <choice>
+                            <abbr>q</abbr>
+                            <expan>qui</expan>
+                        </choice> diuersarum gentium falso crediti dii qui heroes: que quando urbs
+                        condita qui de illustribus uiris Philosophi. poete: principes <choice>
+                            <abbr>scriptoresq</abbr>
+                            <expan>scriptoresque</expan>
+                        </choice>
+                        <choice>
+                            <abbr>uarioru</abbr>
+                            <expan>uariorum</expan>
+                        </choice>
+                        <choice>
+                            <abbr>operu</abbr>
+                            <expan>operum</expan>
+                        </choice> extiterunt: et si qua alia digna memoria putauit <choice>
+                            <abbr>antiqtas</abbr>
+                            <expan>antiquitas</expan>
+                        </choice>: Que uniuersa <choice>
+                            <abbr>i</abbr>
+                            <expan>in</expan>
+                        </choice> suis locis <choice>
+                            <abbr>cu</abbr>
+                            <expan>cum</expan>
+                        </choice> summa breuitate <choice>
+                            <abbr>ponem</abbr>
+                            <expan>ponemus</expan>
+                        </choice>. </s>
                 </p>
             </div>
         </body>
