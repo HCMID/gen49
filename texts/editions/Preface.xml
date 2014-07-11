@@ -1750,71 +1750,399 @@
                         </choice>. </s>
                 </p>
                 <p n="5">
-                   <s n="1">
-                       INCIPIVNT TEMPORA <choice><abbr>TOTI</abbr><expan>TOTIVS</expan></choice> saeculi <choice><abbr>regesq</abbr><expan>regesque</expan></choice> gentium 
-                       <choice><abbr>omniu</abbr><expan>omnium</expan></choice>: <choice><abbr>quib</abbr><expan>quibus</expan></choice> locis quibusue <choice><abbr>temporib</abbr><expan>temporibus</expan></choice> in suis prouinciis:
-                       et quantum regnauerunt: uel siquid memorie <choice><abbr>dignu</abbr><expan>dignum</expan></choice> per generationes natiuitates et regna: et ducatus: et <choice><abbr>p</abbr><expan>per</expan></choice> omnem <choice><abbr>actu</abbr><expan>actum</expan></choice>
-                       <choice><abbr>iudicu</abbr><expan>iudicum</expan></choice> et <choice><abbr>omniu</abbr><expan>omnium</expan></choice> regem et <placeName>Iuda</placeName>: et <choice><abbr>alioru</abbr><expan>aliorum</expan></choice> qui <choice><abbr>no</abbr><expan>non</expan></choice>
-                       ex eadem tribu regnauerunt: et <choice><abbr>p</abbr><expan>per</expan></choice> regna <rs type="ethnic"><choice><abbr>Assyrior</abbr><expan>Assyriorum</expan></choice></rs> <choice><abbr>ceterarq</abbr><expan>ceterarumque</expan></choice> <choice><abbr>gentiu</abbr><expan>gentium</expan></choice>:
-                       et tempore <choice><abbr>dictatoru</abbr><expan>dictatorum</expan></choice>: cum consulibus ordinariis.
-                   </s> 
-                   <s n="2">
-                       Sed et tempore <choice><abbr>imperatoru</abbr><expan>imperatorum</expan></choice> et Caesarum: et quibus temporibus historiographus fuisse dixerunt.
-                   </s>
-                    <s n="3">
-                        Sed et successiones <choice><abbr>eorudem</abbr><expan>eorundem</expan></choice>: <choice><abbr>qd</abbr><expan>quod</expan></choice> per ordinem <choice><abbr>reru</abbr><expan>rerum</expan></choice> superius declaratum est.
-                    </s>
-                    <s n="4">
-                        Quorum uniuersa <choice><abbr>tpa</abbr><expan>tempora</expan></choice> gesta: siue apud <rs type="ethnic">hebreos</rs> uel ad <rs type="ethnic">grecos</rs> uel ad <rs type="ethnic">romanos</rs>: siue ad barbaros <choice><abbr>ceterasq</abbr><expan>ceterasque</expan></choice> gentes:
-                        que gesserunt uel contituerunt <choice><abbr>p</abbr><expan>per</expan></choice> historias <choice><abbr>i</abbr><expan>in</expan></choice> libro hoc plenissime <choice><abbr>demonstrat</abbr><expan>demonstratur</expan></choice> <choice><abbr>Qd</abbr><expan>Quod</expan></choice> et
-                        <choice><abbr>i</abbr><expan>in</expan></choice> <choice><sic>libr</sic><corr>libro</corr></choice> hoc <choice><abbr>i</abbr><expan>in</expan></choice> historia singulae conscripte declarant. eorum generationem uel <choice><abbr>singuloru</abbr><expan>singulorum</expan></choice>
-                        <choice><abbr>progenie</abbr><expan>progeniem</expan></choice> siue his <choice><abbr>temporib</abbr><expan>temporibus</expan></choice> <choice><abbr>ipis</abbr><expan>ipsis</expan></choice> antelatis que gesserunt: et tempora <choice><abbr>olympiacor</abbr><expan>olympiacorum</expan></choice>
-                        ex <choice><abbr>qo</abbr><expan>quo</expan></choice> <choice><abbr>pmus</abbr><expan>primus</expan></choice> gynnicus contitutus est: quod <rs type="ethnic">greci</rs> olympia appellant.
-                    </s>
-                    <s n="5">
-                        Et <choice><abbr>qu</abbr><expan>quo</expan></choice> tempore aduentus fuit salutoris <choice><abbr>nri</abbr><expan>nostri</expan></choice> <persName><choice><abbr>yhu</abbr><expan>ihesu</expan></choice> <choice><abbr>xpi</abbr><expan>christi</expan></choice></persName>:
-                        siue <choice><abbr>passione</abbr><expan>passionem</expan></choice> <choice><abbr>ei</abbr><expan>eius</expan></choice>: <choice><abbr>simulq</abbr><expan>simulque</expan></choice> et nomina <choice><abbr>eporum</abbr><expan>episcoporum</expan></choice> <choice><abbr>ecclarum</abbr><expan>ecclesiarum</expan></choice>
-                        numero <choice><abbr><num>IIII</num>or</abbr><expan>unknown</expan></choice>. hoc est <rs type="ethnic"><choice><abbr>Romanor</abbr><expan>Romanorum</expan></choice></rs>: <placeName>Alexandriae</placeName>: <rs type='ethnic'><choice><abbr>hierosolymoru</abbr><expan>hierosolymorum</expan></choice></rs>: et <placeName>Antiochiae</placeName>: 
-                        qui per easdem ciuitates metropoles <choice><abbr>prouinciar</abbr><expan>prouinciarum</expan></choice> <choice><abbr>epi</abbr><expan>episcopi</expan></choice>.
-                    </s>
-                    <s n="6">
-                        Et quantum temporis singuli sederunt: uel qui <choice><abbr>eoru</abbr><expan>eorum</expan></choice> <choice><abbr>epat</abbr><expan>episcopatus</expan></choice> tempore sui martirio coronatus sit.
-                    </s>
-                    <s n="7">
-                        Siue <choice><abbr>tepora</abbr><expan>tempora</expan></choice> <choice><abbr>persecutionu</abbr><expan>persecutionum</expan></choice>: quibus <choice><abbr>temporib</abbr><expan>temporibus</expan></choice> <choice><abbr>eccle</abbr><expan>ecclesie</expan></choice> dissipate <choice><abbr>st</abbr><expan>sunt</expan></choice>.
-                    </s>
-                    <s n="8">
-                        Sed et tempora regum <rs type="ethnic"><choice><abbr>macedonu</abbr><expan>macedonum</expan></choice></rs>: <placeName>Alexandrie</placeName>: et quoto agone <choice><abbr>olympiacoru</abbr><expan>olympiacorum</expan></choice>: uel <choice><abbr>quib</abbr><expan>quibus</expan></choice> temporibus seu <choice><abbr>consulib</abbr><expan>consulibus</expan></choice>
-                        finem <persName>Alexander</persName> fecerit <rs type="ethnic">iudeis</rs>. uel <persName>Vespasianus</persName> insecutionem siue destructionem templi <choice><abbr>eoru</abbr><expan>eorum</expan></choice> misserit: et tributa eis <choice><abbr>constitueit</abbr><expan>constituerit</expan></choice>.
-                    </s>
-                    <s n="9">
-                        Numeratio <choice><abbr>temporu</abbr><expan>temporum</expan></choice>: <choice><abbr>no</abbr><expan>non</expan></choice> solum ante <choice><abbr>hominu</abbr><expan>hominum</expan></choice> <choice><abbr>gen</abbr><expan>genus</expan></choice> sed <choice><abbr>et</abbr><expan>etiam</expan></choice> ante lumina <choice><abbr>ipa</abbr><expan>ipsa</expan></choice>
-                        <choice><abbr>atq</abbr><expan>atque</expan></choice> stellas <choice><abbr>ee</abbr><expan>esse</expan></choice> <choice><abbr>cognoscit</abbr><expan>cognoscitur</expan></choice>.
-                    </s>
-                    <s n="10">
-                        Nam cum <choice><abbr>pmu</abbr><expan>primum</expan></choice> fecit <persName>deus</persName> <choice><abbr>celu</abbr><expan>celum</expan></choice> et terram: cum <choice><abbr>ipis</abbr><expan>ipsis</expan></choice> <choice><abbr>qoq</abbr><expan>quoque</expan></choice> que in his elementis condita <choice><abbr>st</abbr><expan>sunt</expan></choice>.
-                        <choice><abbr>I.</abbr><expan>Id est</expan></choice> aquam et <choice><abbr>spus</abbr><expan>sparsus</expan></choice> abissos et tenebras nec dum <choice><abbr>luminib</abbr><expan>luminibus</expan></choice> <choice><abbr>neq</abbr><expan>neque</expan></choice> sideribus constitutis: Dixit <persName>deus</persName> fiat lux: et facta est lux.  
-                    </s>
-                    <s n="11">
-                        Et uidit <persName>deus</persName> lucem quia bona erat: et separauit <persName>deus</persName> inter lucem et tenebras.
-                    </s>
-                    <s n="12">
-                        Et uocauit <persName>deus</persName> lucem diem. et tenebras <choice><abbr>nocte</abbr><expan>noctem</expan></choice>.
-                    </s>
-                    <s n="13">
-                        Et factum est uespere et mane dies unus.
-                    </s>
-                    <s n="14">
-                        Hic <choice><abbr>pm</abbr><expan>primus</expan></choice> dies seculi: <choice><abbr>no</abbr><expan>non</expan></choice> <choice><abbr>pmus</abbr><expan>primus</expan></choice> dies <choice><abbr>omniu</abbr><expan>omnium</expan></choice>.
-                    </s>
+                    <s n="1"> INCIPIVNT TEMPORA <choice>
+                            <abbr>TOTI</abbr>
+                            <expan>TOTIVS</expan>
+                        </choice> saeculi <choice>
+                            <abbr>regesq</abbr>
+                            <expan>regesque</expan>
+                        </choice> gentium <choice>
+                            <abbr>omniu</abbr>
+                            <expan>omnium</expan>
+                        </choice>: <choice>
+                            <abbr>quib</abbr>
+                            <expan>quibus</expan>
+                        </choice> locis quibusue <choice>
+                            <abbr>temporib</abbr>
+                            <expan>temporibus</expan>
+                        </choice> in suis prouinciis: et quantum regnauerunt: uel siquid memorie <choice>
+                            <abbr>dignu</abbr>
+                            <expan>dignum</expan>
+                        </choice> per generationes natiuitates et regna: et ducatus: et <choice>
+                            <abbr>p</abbr>
+                            <expan>per</expan>
+                        </choice> omnem <choice>
+                            <abbr>actu</abbr>
+                            <expan>actum</expan>
+                        </choice>
+                        <choice>
+                            <abbr>iudicu</abbr>
+                            <expan>iudicum</expan>
+                        </choice> et <choice>
+                            <abbr>omniu</abbr>
+                            <expan>omnium</expan>
+                        </choice> regem et <placeName>Iuda</placeName>: et <choice>
+                            <abbr>alioru</abbr>
+                            <expan>aliorum</expan>
+                        </choice> qui <choice>
+                            <abbr>no</abbr>
+                            <expan>non</expan>
+                        </choice> ex eadem tribu regnauerunt: et <choice>
+                            <abbr>p</abbr>
+                            <expan>per</expan>
+                        </choice> regna <rs type="ethnic"><choice>
+                                <abbr>Assyrior</abbr>
+                                <expan>Assyriorum</expan>
+                            </choice></rs>
+                        <choice>
+                            <abbr>ceterarq</abbr>
+                            <expan>ceterarumque</expan>
+                        </choice>
+                        <choice>
+                            <abbr>gentiu</abbr>
+                            <expan>gentium</expan>
+                        </choice>: et tempore <choice>
+                            <abbr>dictatoru</abbr>
+                            <expan>dictatorum</expan>
+                        </choice>: cum consulibus ordinariis. </s>
+                    <s n="2"> Sed et tempore <choice>
+                            <abbr>imperatoru</abbr>
+                            <expan>imperatorum</expan>
+                        </choice> et Caesarum: et quibus temporibus historiographus fuisse dixerunt. </s>
+                    <s n="3"> Sed et successiones <choice>
+                            <abbr>eorudem</abbr>
+                            <expan>eorundem</expan>
+                        </choice>: <choice>
+                            <abbr>qd</abbr>
+                            <expan>quod</expan>
+                        </choice> per ordinem <choice>
+                            <abbr>reru</abbr>
+                            <expan>rerum</expan>
+                        </choice> superius declaratum est. </s>
+                    <s n="4"> Quorum uniuersa <choice>
+                            <abbr>tpa</abbr>
+                            <expan>tempora</expan>
+                        </choice> gesta: siue apud <rs type="ethnic">hebreos</rs> uel ad <rs
+                            type="ethnic">grecos</rs> uel ad <rs type="ethnic">romanos</rs>: siue ad
+                        barbaros <choice>
+                            <abbr>ceterasq</abbr>
+                            <expan>ceterasque</expan>
+                        </choice> gentes: que gesserunt uel contituerunt <choice>
+                            <abbr>p</abbr>
+                            <expan>per</expan>
+                        </choice> historias <choice>
+                            <abbr>i</abbr>
+                            <expan>in</expan>
+                        </choice> libro hoc plenissime <choice>
+                            <abbr>demonstrat</abbr>
+                            <expan>demonstratur</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Qd</abbr>
+                            <expan>Quod</expan>
+                        </choice> et <choice>
+                            <abbr>i</abbr>
+                            <expan>in</expan>
+                        </choice>
+                        <choice>
+                            <sic>libr</sic>
+                            <corr>libro</corr>
+                        </choice> hoc <choice>
+                            <abbr>i</abbr>
+                            <expan>in</expan>
+                        </choice> historia singulae conscripte declarant. eorum generationem uel <choice>
+                            <abbr>singuloru</abbr>
+                            <expan>singulorum</expan>
+                        </choice>
+                        <choice>
+                            <abbr>progenie</abbr>
+                            <expan>progeniem</expan>
+                        </choice> siue his <choice>
+                            <abbr>temporib</abbr>
+                            <expan>temporibus</expan>
+                        </choice>
+                        <choice>
+                            <abbr>ipis</abbr>
+                            <expan>ipsis</expan>
+                        </choice> antelatis que gesserunt: et tempora <choice>
+                            <abbr>olympiacor</abbr>
+                            <expan>olympiacorum</expan>
+                        </choice> ex <choice>
+                            <abbr>qo</abbr>
+                            <expan>quo</expan>
+                        </choice>
+                        <choice>
+                            <abbr>pmus</abbr>
+                            <expan>primus</expan>
+                        </choice> gynnicus contitutus est: quod <rs type="ethnic">greci</rs> olympia
+                        appellant. </s>
+                    <s n="5"> Et <choice>
+                            <abbr>qu</abbr>
+                            <expan>quo</expan>
+                        </choice> tempore aduentus fuit salutoris <choice>
+                            <abbr>nri</abbr>
+                            <expan>nostri</expan>
+                        </choice>
+                        <persName><choice>
+                                <abbr>yhu</abbr>
+                                <expan>ihesu</expan>
+                            </choice>
+                            <choice>
+                                <abbr>xpi</abbr>
+                                <expan>christi</expan>
+                            </choice></persName>: siue <choice>
+                            <abbr>passione</abbr>
+                            <expan>passionem</expan>
+                        </choice>
+                        <choice>
+                            <abbr>ei</abbr>
+                            <expan>eius</expan>
+                        </choice>: <choice>
+                            <abbr>simulq</abbr>
+                            <expan>simulque</expan>
+                        </choice> et nomina <choice>
+                            <abbr>eporum</abbr>
+                            <expan>episcoporum</expan>
+                        </choice>
+                        <choice>
+                            <abbr>ecclarum</abbr>
+                            <expan>ecclesiarum</expan>
+                        </choice> numero <choice>
+                            <abbr><num>IIII</num>or</abbr>
+                            <expan>unknown</expan>
+                        </choice>. hoc est <rs type="ethnic"><choice>
+                                <abbr>Romanor</abbr>
+                                <expan>Romanorum</expan>
+                            </choice></rs>: <placeName>Alexandriae</placeName>: <rs type="ethnic"><choice>
+                                <abbr>hierosolymoru</abbr>
+                                <expan>hierosolymorum</expan>
+                            </choice></rs>: et <placeName>Antiochiae</placeName>: qui per easdem
+                        ciuitates metropoles <choice>
+                            <abbr>prouinciar</abbr>
+                            <expan>prouinciarum</expan>
+                        </choice>
+                        <choice>
+                            <abbr>epi</abbr>
+                            <expan>episcopi</expan>
+                        </choice>. </s>
+                    <s n="6"> Et quantum temporis singuli sederunt: uel qui <choice>
+                            <abbr>eoru</abbr>
+                            <expan>eorum</expan>
+                        </choice>
+                        <choice>
+                            <abbr>epat</abbr>
+                            <expan>episcopatus</expan>
+                        </choice> tempore sui martirio coronatus sit. </s>
+                    <s n="7"> Siue <choice>
+                            <abbr>tepora</abbr>
+                            <expan>tempora</expan>
+                        </choice>
+                        <choice>
+                            <abbr>persecutionu</abbr>
+                            <expan>persecutionum</expan>
+                        </choice>: quibus <choice>
+                            <abbr>temporib</abbr>
+                            <expan>temporibus</expan>
+                        </choice>
+                        <choice>
+                            <abbr>eccle</abbr>
+                            <expan>ecclesie</expan>
+                        </choice> dissipate <choice>
+                            <abbr>st</abbr>
+                            <expan>sunt</expan>
+                        </choice>. </s>
+                    <s n="8"> Sed et tempora regum <rs type="ethnic"><choice>
+                                <abbr>macedonu</abbr>
+                                <expan>macedonum</expan>
+                            </choice></rs>: <placeName>Alexandrie</placeName>: et quoto agone <choice>
+                            <abbr>olympiacoru</abbr>
+                            <expan>olympiacorum</expan>
+                        </choice>: uel <choice>
+                            <abbr>quib</abbr>
+                            <expan>quibus</expan>
+                        </choice> temporibus seu <choice>
+                            <abbr>consulib</abbr>
+                            <expan>consulibus</expan>
+                        </choice> finem <persName>Alexander</persName> fecerit <rs type="ethnic"
+                            >iudeis</rs>. uel <persName>Vespasianus</persName> insecutionem siue
+                        destructionem templi <choice>
+                            <abbr>eoru</abbr>
+                            <expan>eorum</expan>
+                        </choice> misserit: et tributa eis <choice>
+                            <abbr>constitueit</abbr>
+                            <expan>constituerit</expan>
+                        </choice>. </s>
+                    <s n="9"> Numeratio <choice>
+                            <abbr>temporu</abbr>
+                            <expan>temporum</expan>
+                        </choice>: <choice>
+                            <abbr>no</abbr>
+                            <expan>non</expan>
+                        </choice> solum ante <choice>
+                            <abbr>hominu</abbr>
+                            <expan>hominum</expan>
+                        </choice>
+                        <choice>
+                            <abbr>gen</abbr>
+                            <expan>genus</expan>
+                        </choice> sed <choice>
+                            <abbr>et</abbr>
+                            <expan>etiam</expan>
+                        </choice> ante lumina <choice>
+                            <abbr>ipa</abbr>
+                            <expan>ipsa</expan>
+                        </choice>
+                        <choice>
+                            <abbr>atq</abbr>
+                            <expan>atque</expan>
+                        </choice> stellas <choice>
+                            <abbr>ee</abbr>
+                            <expan>esse</expan>
+                        </choice>
+                        <choice>
+                            <abbr>cognoscit</abbr>
+                            <expan>cognoscitur</expan>
+                        </choice>. </s>
+                    <s n="10"> Nam cum <choice>
+                            <abbr>pmu</abbr>
+                            <expan>primum</expan>
+                        </choice> fecit <persName>deus</persName>
+                        <choice>
+                            <abbr>celu</abbr>
+                            <expan>celum</expan>
+                        </choice> et terram: cum <choice>
+                            <abbr>ipis</abbr>
+                            <expan>ipsis</expan>
+                        </choice>
+                        <choice>
+                            <abbr>qoq</abbr>
+                            <expan>quoque</expan>
+                        </choice> que in his elementis condita <choice>
+                            <abbr>st</abbr>
+                            <expan>sunt</expan>
+                        </choice>. <choice>
+                            <abbr>I.</abbr>
+                            <expan>Id est</expan>
+                        </choice> aquam et <choice>
+                            <abbr>spus</abbr>
+                            <expan>sparsus</expan>
+                        </choice> abissos et tenebras nec dum <choice>
+                            <abbr>luminib</abbr>
+                            <expan>luminibus</expan>
+                        </choice>
+                        <choice>
+                            <abbr>neq</abbr>
+                            <expan>neque</expan>
+                        </choice> sideribus constitutis: Dixit <persName>deus</persName> fiat lux:
+                        et facta est lux. </s>
+                    <s n="11"> Et uidit <persName>deus</persName> lucem quia bona erat: et separauit
+                            <persName>deus</persName> inter lucem et tenebras. </s>
+                    <s n="12"> Et uocauit <persName>deus</persName> lucem diem. et tenebras <choice>
+                            <abbr>nocte</abbr>
+                            <expan>noctem</expan>
+                        </choice>. </s>
+                    <s n="13"> Et factum est uespere et mane dies unus. </s>
+                    <s n="14"> Hic <choice>
+                            <abbr>pm</abbr>
+                            <expan>primus</expan>
+                        </choice> dies seculi: <choice>
+                            <abbr>no</abbr>
+                            <expan>non</expan>
+                        </choice>
+                        <choice>
+                            <abbr>pmus</abbr>
+                            <expan>primus</expan>
+                        </choice> dies <choice>
+                            <abbr>omniu</abbr>
+                            <expan>omnium</expan>
+                        </choice>. </s>
                     <s n="15">
-                        <choice><abbr>Ideoq</abbr><expan>Ideoque</expan></choice> <choice><abbr>no</abbr><expan>non</expan></choice> <choice><abbr>pm</abbr><expan>primus</expan></choice> sed unus nominatus est
-                    </s>
+                        <choice>
+                            <abbr>Ideoq</abbr>
+                            <expan>Ideoque</expan>
+                        </choice>
+                        <choice>
+                            <abbr>no</abbr>
+                            <expan>non</expan>
+                        </choice>
+                        <choice>
+                            <abbr>pm</abbr>
+                            <expan>primus</expan>
+                        </choice> sed unus nominatus est.</s>
                     <s n="16">
-                        
+                        Secundo <choice><abbr>aut</abbr><expan>autem</expan></choice> die <choice><abbr>factu</abbr><expan>factum</expan></choice> <choice><abbr>e</abbr><expan>est</expan></choice>
+                        <choice><abbr>firmamentu</abbr><expan>firmamentum</expan></choice> in medio <choice><abbr>aquar</abbr><expan>aquarum</expan></choice>: quod et diuisit inter aquam et aquam.
                     </s>
-                    <s n="17">
-                        
+                    <s n="17"> 
+                        Tertio <choice><abbr>aut</abbr><expan>autem</expan></choice> die congregate sunt aque quae <choice><abbr>st</abbr><expan>sunt</expan></choice> sub celo in <choice><abbr>congregatione</abbr><expan>congregationem</expan></choice>
+                        unam et apparuit arida: quam deus <choice><abbr>terra</abbr><expan>terram</expan></choice> nominauit. <choice><abbr>atq</abbr><expan>atque</expan></choice> congregationes <choice><abbr>aquaru</abbr><expan>aquarum</expan></choice>
+                        appellauit maria. <choice><abbr>herbamq</abbr><expan>herbamque</expan></choice> produxit terra: et <choice><abbr>lignu</abbr><expan>lignum</expan></choice> fructi <choice><abbr>ferru</abbr><expan>ferrum</expan></choice> cum semine 
+                        suo.
+                    </s>
+                    <s n="18">
+                        Quarta igitur die facta <choice><abbr>sut</abbr><expan>sunt</expan></choice> luminaria duo in firmamento celi: ut <choice><abbr>luceat</abbr><expan>luceant</expan></choice> super <choice><abbr>terra</abbr><expan>terram</expan></choice>
+                        ad <choice><abbr>inchoatione</abbr><expan>inchoationem</expan></choice> diei ac noctis: et ut diuidant inter diem et noctem: et sint in signa et tempore et dies et annos: et sint 
+                        <choice><abbr>i</abbr><expan>in</expan></choice> splendorem fermamenti celi et luceant super <choice><abbr>terra</abbr><expan>terram</expan></choice>.
+                    </s>
+                    <s n="19">
+                        Quibus ita perfectis manifestum <choice><abbr>e</abbr><expan>est</expan></choice> <choice><abbr>luminib</abbr><expan>luminibus</expan></choice> <choice><abbr>ipis</abbr><expan>ipsis</expan></choice> antecedere lucem diebus 
+                        <choice><abbr>trib</abbr><expan>tribus</expan></choice>.
+                    </s>
+                    <s n="20">
+                        <choice><abbr>Vn</abbr><expan>Vnde</expan></choice> mihi <choice><abbr>uident</abbr><expan>uidentur</expan></choice> <rs type="ethnic">aegyptii</rs> <choice><abbr>cetereq</abbr><expan>cetereque</expan></choice> gentes hoc sequentes
+                        decretum: ut quatuor annis impletis <choice><abbr>die</abbr><expan>diem</expan></choice> <choice><abbr>integru</abbr><expan>integrum</expan></choice> <choice><abbr>superfluu</abbr><expan>superfluum</expan></choice> adiicere: quem 
+                        <choice><abbr>et</abbr><expan>etiam</expan></choice> <choice><abbr>Bisextu</abbr><expan>Bisextum</expan></choice> nominauere.
+                    </s>
+                    <s n="21">
+                        Nam cum tres dies istos qui sunt: computare <choice><abbr>atq</abbr><expan>atque</expan></choice> recogitare uoluerimus unius anni <choice><abbr>centesima</abbr><expan>centesimam</expan></choice> <choice><abbr>atq</abbr><expan>atque</expan></choice>
+                        <choice><abbr>uigesima</abbr><expan>uigesimam</expan></choice> partem istam esse cognoscimus.
+                    </s>
+                    <s n="22">
+                        Centesima <choice><abbr>aut</abbr><expan>autem</expan></choice> et <num>XX</num> dies inuicem computata ista tertia pars anni esse dignoscitur. 
+                    </s>
+                    <s n="23">
+                        Tertia ergo addita parte annuali quadriennio dies integer <choice><abbr>complet</abbr><expan>completur</expan></choice> <choice><abbr>atq</abbr><expan>atque</expan></choice> ad <choice><abbr>partiu</abbr><expan>partiu</expan></choice> partes: menses 
+                        <choice><abbr>atq</abbr><expan>atque</expan></choice> anni superflui <choice><abbr>computant</abbr><expan>computantur</expan></choice>: quos <rs type='ethnic'>hebraei</rs> quidem ambolismos <w>uoca<del>nt</del>re</w> solent. <rs type="ethnic">egyptii</rs>
+                        <choice><abbr>aut</abbr><expan>autem</expan></choice> exaltationes <choice><abbr>sideru</abbr><expan>siderum</expan></choice> <choice><abbr>atq</abbr><expan>atque</expan></choice> <w>sta<unclear>b</unclear>itates</w> appellant: immo <choice><abbr>bissextu</abbr><expan>bissextum</expan></choice>:
+                        ob <choice><abbr>rememoratione</abbr><expan>rememorationem</expan></choice> lucis <choice><abbr>atq</abbr><expan>atque</expan></choice> <choice><abbr>dieru</abbr><expan>dierum</expan></choice> et <choice><abbr>noctiu</abbr><expan>noctium</expan></choice> que luminibus <choice><abbr>triduu</abbr><expan>triduum</expan></choice>
+                        antecesserunt celebriter ideo: ideo <choice><abbr>q</abbr><expan>unknown</expan></choice> tres dies sine auctore sole processerunt.
+                    </s>
+                    <s n="24">
+                        Nos igitur tempore conseribimus <choice><abbr>no</abbr><expan>non</expan></choice> que sunt seculi mundi <choice><abbr>neq</abbr><expan>neque</expan></choice> luminum aut siderum: <choice><abbr>neq</abbr><expan>neque</expan></choice> <choice><abbr>fructuu</abbr><expan>fructuum</expan></choice> aut
+                        <choice><abbr><choice><sic>ligr</sic><corr>ligor</corr></choice></abbr><expan>ligorum</expan></choice> <choice><abbr>atq</abbr><expan>atque</expan></choice> piscium: sed generationes <choice><abbr>hominu</abbr><expan>hominum</expan></choice>: quorum <choice><abbr>pmus</abbr><expan>primus</expan></choice>
+                        fuit <persName>ADAM</persName>. factus sexto die: Quinto <choice><abbr>aut</abbr><expan>autem</expan></choice> die dixit <persName>deus</persName>.
+                    </s>
+                    <s n="25">
+                        Educant aque reptilia animarum <choice><abbr>uiuaru</abbr><expan>uiuarum</expan></choice>: et uolatilia <choice><abbr>reru</abbr><expan>rerum</expan></choice> celi. et factum est sic.
+                    </s>
+                    <s n="26">
+                        Et fecit <persName>deus</persName> belluas et cetos: et omnem <choice><abbr>anima</abbr><expan>animam</expan></choice> <choice><abbr>uiua</abbr><expan>uiuam</expan></choice> 
+                        <choice><abbr>reptante</abbr><expan>reptantem</expan></choice>: quas eduxerunt aque secundum <choice><abbr>suu</abbr><expan>suum</expan></choice> genus.
+                    </s>
+                    <s n="27">
+                        Et uidit <persName>deus</persName> quia bona <choice><abbr>st</abbr><expan>sunt</expan></choice>: et <choice><abbr>Vn</abbr><expan>Vnde</expan></choice> dixit ea <persName>deus</persName>
+                        et dixit.
+                    </s>
+                    <s n="28">
+                        Crescite et multiplicamini et replete <choice><abbr>aqas</abbr><expan>aquas</expan></choice> <choice><sic>mari</sic><corr>maris</corr></choice>: et uolatilia <choice><abbr>multiplicent</abbr><expan>multiplicentur</expan></choice>
+                        <choice><abbr>sup</abbr><expan>super</expan></choice> terram. et <choice><abbr>factu</abbr><expan>factum</expan></choice> est mane dies quintus.
+                    </s>
+                    <s n="29">
+                        Serta <choice><abbr>aut</abbr><expan>autem</expan></choice> die dixit dominus.
+                    </s>
+                    <s n="30">
+                        educat terra <choice><abbr>anima</abbr><expan>animam</expan></choice> uiuam secundum suum genus.
+                    </s>
+                    <s n="31">
+                        et uidit <persName>deus</persName> quia bona sunt: et dixit.
+                    </s>
+                    <s n="32">
+                        Faciamus <choice><abbr>homine</abbr><expan>hominem</expan></choice> ad <choice><abbr>imagine</abbr><expan>imaginem</expan></choice> et <choice><abbr>similtudine</abbr><expan>similitudinem</expan></choice> nostram et habeat 
+                        <choice><abbr>potestate</abbr><expan>potestatem</expan></choice> piscium maris et uolatilium celi: et omnium reptilium que <choice><abbr>st</abbr><expan>sunt</expan></choice> super <choice><abbr>terra</abbr><expan>terram</expan></choice>.
+                    </s>
+                    <s n="33">
+                        Et fecit deus <choice><abbr>homine</abbr><expan>hominem</expan></choice> secundum <choice><abbr>imagine</abbr><expan>imaginem</expan></choice> <persName>dei</persName> fecit <choice><abbr>eu</abbr><expan>eum</expan></choice>. masculum 
+                        et feminam fecit eius: et benedixit eios <persName>deus</persName> dicens.
                     </s>
                 </p>
             </div>
