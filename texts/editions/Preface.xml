@@ -2730,7 +2730,27 @@
                             <expan>exierunt</expan>
                         </choice> de archa. </s>
                 </p>
-                <p n="6"> </p>
+                <p n="6">
+                <s n="1">
+                    ET FACTI SVNT omnes dies <persName>Noe</persName>. <num>DCCCCL</num>. anni.    
+                </s>
+                <s n="2">
+                    Ecce post diluuium <num>CCCL</num>. annis uixit <persName>Noe</persName>. ex quo <choice><abbr>perspicuu</abbr><expan>perspicuum</expan></choice> est. <num>CXX</num>. annos generationi 
+                    illi ut supra diximus ad penetentiam datos. et <choice><abbr>no</abbr><expan>non</expan></choice> uite mortalium constitutos.
+                </s>
+                <s n="3">
+                    Filii <persName><choice><sic>Iaphe</sic><corr>Iaphet</corr></choice></persName> <persName>Gomer</persName> et <persName>Magog</persName> et <persName>Madai</persName> et <persName>Iauan</persName>
+                    et <persName>Tubal</persName> et <persName>Mosoch</persName> et <persName>Thiras</persName>.
+                </s>
+                <s n="4">
+                    <persName>Iaphet</persName> filii <persName>Noe</persName> nati sunt septem filii qui possederunt <choice><abbr>terra</abbr><expan>terram</expan></choice> in <placeName>Asia</placeName>. et ab <placeName>amano</placeName>
+                    et <placeName>tauro</placeName> <placeName>syrie</placeName> et <placeName>cylicie</placeName> montibus <choice><abbr>usq</abbr><expan>usque</expan></choice> ad <placeName>fluuium tanai</placeName>.
+                </s>
+                <s n="5">
+                    In <placeName>europa</placeName> uero <choice><abbr>usq</abbr><expan>usque</expan></choice> ad <placeName>Gadira</placeName> <del>montib</del> nomina locis et gentibus relinquentes: e quibus postea 
+                    <choice><abbr>imutata</abbr><expan>immutata</expan></choice>
+                 </s>   
+                </p>
             </div>
         </body>
     </text>
