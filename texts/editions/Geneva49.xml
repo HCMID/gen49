@@ -21885,10 +21885,10 @@
           <row role="regnal" n="218_1_r1">
             <cell role="spatium"/>
             <cell role="spatium"/>
-            <cell>Tertius <note><choice>
+            <cell><choice><orig>Tertius</orig><reg><choice>
                   <abbr>al</abbr>
                   <expan>aliter</expan>
-                </choice> quartus</note>
+                </choice> quartus</reg></choice>
               <rs type="ethnic"><choice>
                   <abbr>Ro.</abbr>
                   <expan>Romane</expan>
