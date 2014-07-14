@@ -2788,7 +2788,7 @@
                      De <rs type="ethnic">Ionibus</rs> .<choice><abbr>i</abbr><expan>unknown</expan></choice>. <rs type="ethnic">grecis</rs> nascuntur <persName>elisaei</persName> <rs type="ethnic">aeolides</rs>.
                  </s>
                  <s n="17">
-                     Vnde et quinta lingua <placeName>grecie</placeName> <rs type="ethnic">ἈΙΟΛΙσ</rs> <choice><abbr>appellat</abbr><expan>appellatur</expan></choice>. illi  <gap unit="words" extent="1"/> uocant.
+                     Vnde et quinta lingua <placeName>grecie</placeName> <foreign><rs type="ethnic">ἈΙΟΛΙσ</rs></foreign> <choice><abbr>appellat</abbr><expan>appellatur</expan></choice>. illi  <gap unit="words" extent="1"/> uocant.
                  </s>
                  <s n="18">
                      <persName>Tharsis</persName> <persName>Iosephus</persName> <placeName>Cilicam</placeName> <choice><abbr>arbitrat</abbr><expan>arbitratur</expan></choice>: aspirationis litteram uiciose a posteris in <gap unit="words" extent='1'/> dicens fuisse corruptam.
@@ -2851,9 +2851,10 @@
                      Filii <persName>Rehemma</persName>  <persName>Saba</persName> et <persName>Datam</persName>.
                  </s>
                  <s n="37">
-                     hic <persName>Saba</persName> <choice><abbr>p</abbr><expan>per</expan></choice>
+                     hic <persName>Saba</persName> <choice><abbr>p</abbr><expan>per</expan></choice> .<rs type="waw">ש</rs>. scin litteram <choice><abbr>scribit</abbr><expan>scribitur</expan></choice>.  
                  </s>
                  <s n="38">
+                     Supra uero <choice><abbr>p</abbr><expan>per</expan></choice>. <rs type="waw">ם</rs>. Samech: a quo diximus appellatos <rs type="ethnic">sabaeos</rs>: <choice><abbr>interpretat</abbr><expan>interpretatur</expan></choice> <choice><abbr>go</abbr><expan>unknown</expan></choice> nunc <placeName>Saba</placeName> <placeName>Arabia</placeName>.
                      
                  </s>
                  <s n="39">
