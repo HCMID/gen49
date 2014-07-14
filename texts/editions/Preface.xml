@@ -2785,10 +2785,115 @@
                      Ab his diuisse sunt insule <choice><abbr>nationu</abbr><expan>nationum</expan></choice> in terris suis: uir secundu linguam suam et cognationem et <choice><abbr>gente</abbr><expan>gentem</expan></choice> suam.
                  </s>
                  <s n="16">
-                     De longibus .<choice><abbr>i</abbr><expan>unknown</expan></choice>. <rs type="ethnic">grecis</rs> nascuntur <persName>elisaei</persName> <persName>aeolides</persName>.
+                     De <rs type="ethnic">Ionibus</rs> .<choice><abbr>i</abbr><expan>unknown</expan></choice>. <rs type="ethnic">grecis</rs> nascuntur <persName>elisaei</persName> <rs type="ethnic">aeolides</rs>.
                  </s>
                  <s n="17">
-                     Vnde et quinta lingua <placeName>grecie</placeName> <rs type="ethnic">ἈΙΟΛΙσ</rs> <choice><abbr>appellat</abbr><expan>appellatur</expan></choice>. illi uocant <gap unit="words" extent="1"/> 
+                     Vnde et quinta lingua <placeName>grecie</placeName> <rs type="ethnic">ἈΙΟΛΙσ</rs> <choice><abbr>appellat</abbr><expan>appellatur</expan></choice>. illi  <gap unit="words" extent="1"/> uocant.
+                 </s>
+                 <s n="18">
+                     <persName>Tharsis</persName> <persName>Iosephus</persName> <placeName>Cilicam</placeName> <choice><abbr>arbitrat</abbr><expan>arbitratur</expan></choice>: aspirationis litteram uiciose a posteris in <gap unit="words" extent='1'/> dicens fuisse corruptam.
+                 </s>
+                 <s n="19">
+                     <choice><abbr>Vn</abbr><expan>Vnde</expan></choice> et metropolis <choice><abbr>eor</abbr><expan>eorum</expan></choice> ciuitas <placeName>Tharsus</placeName> <choice><abbr>appellat</abbr><expan>appellatur</expan></choice> <persName>paulo</persName> apostolo gloriosa.
+                 </s>
+                 <s n="20">
+                     <persName>Cethim</persName> <rs type='ethnic'>Cithii</rs>: a quibus <choice><abbr>hodieq</abbr><expan>hodieque</expan></choice> urbs <placeName>cipri</placeName> <placeName>citium</placeName> <choice><abbr>nominat</abbr><expan>nominatur</expan></choice>. 
+                 </s> 
+                 <s n="21">
+                     <persName>Dadamim</persName> <rs type="ethnic">Rhodii</rs>.
+                 </s>
+                 <s n="22">
+                     Ita <choice><abbr>N</abbr><expan>enim</expan></choice>. <num>LXX</num> interpretes transtulerunt.
+                 </s>
+                 <s n="23">
+                     Legamus <persName>uarronis</persName> <title>de antiquitatibus</title> libros. et <persName>Asinnii capitonis</persName>: et <persName><rs type='ethnic'>Grecum</rs> Flegonta</persName>: <choice><abbr>ceterosq</abbr><expan>ceterosque</expan></choice> eruditissimos uiros: et 
+                     <choice><abbr>uidebim</abbr><expan>uidebimus</expan></choice> pene <choice><abbr>ons</abbr><expan>omnes</expan></choice> <choice><abbr>isulas</abbr><expan>insulas</expan></choice> et totius orbis littora: <choice><abbr>terrasq</abbr><expan>terrasque</expan></choice> mari uicenas 
+                     <rs type="ethnic">grecis</rs> accolis occupatas: Qui ut supra <choice><abbr>dixim</abbr><expan>diximus</expan></choice> ab <placeName>Amano</placeName> et <placeName>Thauro</placeName> montibus omnia maritina loca <choice><abbr>usq</abbr><expan>usque</expan></choice> ad 
+                     <placeName><choice><abbr>occeanu</abbr><expan>occeanum</expan></choice></placeName> possedere <rs type="ethnic">britannicum</rs>. 
+                 </s>
+                 <s n="24">
+                     Filii <persName>Cam</persName> <persName>Chus</persName> et <persName>Mesraim</persName> et <persName>Fut</persName> et <persName><choice><abbr>Chanaa</abbr><expan>Chanaam</expan></choice></persName>.
+                 </s>
+                 <s n="25">
+                     <placeName>Chus</placeName> <choice><abbr>hodieq</abbr><expan>hodieque</expan></choice> ab <rs type='ethnic'>hebreis</rs> <placeName>aethiopia</placeName> <choice><abbr>nuncup</abbr><expan>nuncupatur</expan></choice>. <placeName>Mesraim</placeName> <placeName>aegyptus</placeName>.
+                     <placeName>Fut</placeName> <placeName>lybie</placeName>: a <choice><abbr>qo</abbr><expan>quo</expan></choice> et <placeName>mauritanie</placeName> fluuius <choice><abbr>usq</abbr><expan>usque</expan></choice> <choice><abbr>i</abbr><expan>in</expan></choice> praesens <placeName>Fut</placeName>
+                     <choice><abbr>dicit</abbr><expan>dicitur</expan></choice>.
+                 </s>
+                 <s n="26">
+                     <choice><abbr>Omnisq</abbr><expan>Omnisque</expan></choice> circa eum regio <rs type="ethnic">futensis</rs> multis scripturis tam <rs type="ethnic">greci</rs> <choice><abbr>q</abbr><expan>quam</expan></choice> latini huius rei sunt testes.
+                 </s>
+                 <s n="28">
+                     Quare <choice><abbr>aut</abbr><expan>autem</expan></choice> in unam climatis parte antiquum <placeName>Libyae</placeName> nomen resederit: et reliqua terra uocata sit <placeName>Africa</placeName>: <choice><abbr>no</abbr><expan>non</expan></choice> huius loci nec temporis <choice><abbr>e</abbr><expan>est</expan></choice>
+                     est dicere.
+                 </s>
+                 <s n="29">
+                     Porro <persName><choice><abbr>Chanaa</abbr><expan>Chanaam</expan></choice></persName> obtinuit <choice><abbr>terra</abbr><expan>terram</expan></choice> quam <rs type="ethnic">Iudei</rs> deinceps possederunt eiectis <rs type='ethnic'>chananeis</rs>.
+                 </s>
+                 <s n="30">
+                     Filii <persName>Chus</persName> <persName>Sabba</persName> et <persName>eiula</persName> <persName>Sabata</persName> et <persName>Rehemma</persName> <persName>Sabbatacha</persName>.
+                 </s>
+                 
+                    <persName>Saba</persName> a quo <rs type="ethnic">Sabbei</rs>: De <choice><abbr>quib</abbr><expan>quibus</expan></choice> <persName>Vergilius</persName> <q>Est thurea uirga <rs type="ethnic">sabeis</rs></q>: et Alibi <q><choice><abbr>centumq</abbr><expan>centumque</expan></choice> <rs type="ethnic">sabaeo</rs>: Thure calent Arae.</q>
+                 
+                 <s n="32">
+                     
+                 </s>
+                 <s n="33">
+                    <persName>Eiula</persName> <rs type="ethnic">getuli</rs> in parte remotioris <placeName>aphrice</placeName> heremo coherentes.
+                 </s>
+                 <s n="34">
+                     <persName>Sabata</persName> a quo <rs type="ethnic">sabateni</rs>: qui nunc <rs type="ethnic">Astabili</rs> <choice><abbr>nomenant</abbr><expan>nomenantur</expan></choice>.
+                 </s>
+                 <s n="35">
+                     
+                 </s>
+                 <s n="36">
+                     
+                 </s>
+                 <s n="37">
+                     
+                 </s>
+                 <s n="38">
+                     
+                 </s>
+                 <s n="39">
+                     
+                 </s>
+                 <s n="40">
+                     
+                 </s>
+                 <s n="41">
+                     
+                 </s>
+                 <s n="42">
+                     
+                 </s>
+                 <s n="43">
+                     
+                 </s>
+                 <s n="44">
+                     
+                 </s>
+                 <s n="45">
+                     
+                 </s>
+                 <s n="46">
+                     
+                 </s>
+                 <s n="47">
+                     
+                 </s>
+                 <s n="48">
+                     
+                 </s>
+                 <s n="49">
+                     
+                 </s>
+                 <s n="50">
+                     
+                 </s>
+                 <s n="51">
+                     
                  </s>   
                 </p>
             </div>
