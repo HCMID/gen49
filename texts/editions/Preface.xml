@@ -3298,183 +3298,390 @@
                             <expan>regnauerunt</expan>
                         </choice>
                         <placeName>epiphaniam</placeName> nuncupauerunt. </s>
-                    <s n="64">
-                        Nonnuli <placeName>Anthiochiam</placeName> ita appellatam putant.
-                    </s>
-                    <s n="65">
-                        Alii licet non uere: tamen opinionem <choice><abbr>sua</abbr><expan>suam</expan></choice> quasi ueresimili uocabula consolantes 
-                        <rs type='ethnic'>emmas</rs> <choice><abbr>pmam</abbr><expan>primam</expan></choice> ab <placeName>Antiochia</placeName>
-                        <choice><abbr>mansione</abbr><expan>mansionem</expan></choice> <placeName>edissam</placeName> pergentibus appellari putant.
-                    </s>
-                    <s n="66">
-                        et eandem <choice><abbr>ee</abbr><expan>esse</expan></choice> que apud ueteres dicta sit <placeName>emathim</placeName>. et fuit
-                        <choice><abbr>termin</abbr><expan>terminus</expan></choice> <rs type="ethnic"><choice><abbr>Cananeoru</abbr><expan>Cananeorum</expan></choice></rs>
-                        a <placeName>Sidone</placeName> donec uenias in <placeName>Geraa</placeName> <choice><abbr>usq</abbr><expan>usque</expan></choice> 
-                        <placeName>Gaza</placeName> pergentibus <placeName>sodomam</placeName> et <placeName>gomorram</placeName>.
-                    </s>
+                    <s n="64"> Nonnuli <placeName>Anthiochiam</placeName> ita appellatam putant. </s>
+                    <s n="65"> Alii licet non uere: tamen opinionem <choice>
+                            <abbr>sua</abbr>
+                            <expan>suam</expan>
+                        </choice> quasi ueresimili uocabula consolantes <rs type="ethnic">emmas</rs>
+                        <choice>
+                            <abbr>pmam</abbr>
+                            <expan>primam</expan>
+                        </choice> ab <placeName>Antiochia</placeName>
+                        <choice>
+                            <abbr>mansione</abbr>
+                            <expan>mansionem</expan>
+                        </choice>
+                        <placeName>edissam</placeName> pergentibus appellari putant. </s>
+                    <s n="66"> et eandem <choice>
+                            <abbr>ee</abbr>
+                            <expan>esse</expan>
+                        </choice> que apud ueteres dicta sit <placeName>emathim</placeName>. et fuit <choice>
+                            <abbr>termin</abbr>
+                            <expan>terminus</expan>
+                        </choice>
+                        <rs type="ethnic"><choice>
+                                <abbr>Cananeoru</abbr>
+                                <expan>Cananeorum</expan>
+                            </choice></rs> a <placeName>Sidone</placeName> donec uenias in
+                            <placeName>Geraa</placeName>
+                        <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice>
+                        <placeName>Gaza</placeName> pergentibus <placeName>sodomam</placeName> et
+                            <placeName>gomorram</placeName>. </s>
                     <s n="67">
-                        <placeName>ethadama</placeName> et <placeName>Seboim</placeName> note sunt omnibus.
-                    </s>
-                    <s n="68">
-                        hoc <choice><abbr>tm</abbr><expan>tamen</expan></choice> annotandum est <choice><abbr>qd</abbr><expan>quod</expan></choice> licet ista sit 
-                        que nunc <placeName>callirhoe</placeName> <choice><abbr>dicit</abbr><expan>dicitur</expan></choice> ubi aquae callide 
-                        <choice><abbr>prorupentes</abbr><expan>prorumpentes</expan></choice> in <placeName>mare mortuum</placeName> defluunt.
-                    </s>
-                    <s n="69">
-                        Filii <persName>Sem</persName> <persName>aelam</persName> et <persName>Assur</persName> et <persName>Arphaxat</persName> et 
-                        <persName>Ludim</persName> et <persName>Aran</persName>. hi ab <placeName>eufrate fluuio</placeName> partem <placeName>asiae</placeName>
-                        <choice><abbr>usq</abbr><expan>usque</expan></choice> ad <placeName><rs type="ethnic">Indicum</rs> <choice><abbr>oceanu</abbr><expan>oceanum</expan></choice></placeName>
-                        tenent.
-                     </s>
-                    <s n="70">
-                        est autem <persName>aelam</persName> a <choice><abbr>qo</abbr><expan>quo</expan></choice> <rs type="ethnic">aelamite</rs> 
-                        <choice><abbr>pncipes</abbr><expan>principes</expan></choice> <placeName>persidis</placeName>.
-                    </s>
+                        <placeName>ethadama</placeName> et <placeName>Seboim</placeName> note sunt
+                        omnibus. </s>
+                    <s n="68"> hoc <choice>
+                            <abbr>tm</abbr>
+                            <expan>tamen</expan>
+                        </choice> annotandum est <choice>
+                            <abbr>qd</abbr>
+                            <expan>quod</expan>
+                        </choice> licet ista sit que nunc <placeName>callirhoe</placeName>
+                        <choice>
+                            <abbr>dicit</abbr>
+                            <expan>dicitur</expan>
+                        </choice> ubi aquae callide <choice>
+                            <abbr>prorupentes</abbr>
+                            <expan>prorumpentes</expan>
+                        </choice> in <placeName>mare mortuum</placeName> defluunt. </s>
+                    <s n="69"> Filii <persName>Sem</persName>
+                        <persName>aelam</persName> et <persName>Assur</persName> et
+                            <persName>Arphaxat</persName> et <persName>Ludim</persName> et
+                            <persName>Aran</persName>. hi ab <placeName>eufrate fluuio</placeName>
+                        partem <placeName>asiae</placeName>
+                        <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> ad <placeName><rs type="ethnic">Indicum</rs>
+                            <choice>
+                                <abbr>oceanu</abbr>
+                                <expan>oceanum</expan>
+                            </choice></placeName> tenent. </s>
+                    <s n="70"> est autem <persName>aelam</persName> a <choice>
+                            <abbr>qo</abbr>
+                            <expan>quo</expan>
+                        </choice>
+                        <rs type="ethnic">aelamite</rs>
+                        <choice>
+                            <abbr>pncipes</abbr>
+                            <expan>principes</expan>
+                        </choice>
+                        <placeName>persidis</placeName>. </s>
+                    <s n="71"> De <persName>Assur</persName> ante dictum est <choice>
+                            <abbr>qd</abbr>
+                            <expan>quod</expan>
+                        </choice>
+                        <placeName>Ninum</placeName> urbem aedficauit. </s>
                     <s n="71">
-                        De <persName>Assur</persName> ante dictum est <choice><abbr>qd</abbr><expan>quod</expan></choice> <placeName>Ninum</placeName> urbem
-                        aedficauit.
-                    </s>
-                    <s n="71">
-                        <persName>Arphaxat</persName> autem a quo <rs type="ethnic">Chaldei</rs>.
-                    </s>
+                        <persName>Arphaxat</persName> autem a quo <rs type="ethnic">Chaldei</rs>. </s>
                     <s n="72">
-                        <persName>Ludim</persName> a quo <placeName>lydia</placeName>.
-                    </s>
+                        <persName>Ludim</persName> a quo <placeName>lydia</placeName>. </s>
                     <s n="73">
-                        <persName>Aram</persName> a quo <rs type="ethnic">siri</rs>: quorum metropolis est <placeName>Damascus</placeName>.
-                    </s>
-                    <s n="74">
-                        Filii <persName>Aran</persName> <persName>Vs</persName> et <persName>Vl</persName> et <persName>Gether</persName> et <persName>Mes</persName>.
-                    </s>
+                        <persName>Aram</persName> a quo <rs type="ethnic">siri</rs>: quorum
+                        metropolis est <placeName>Damascus</placeName>. </s>
+                    <s n="74"> Filii <persName>Aran</persName>
+                        <persName>Vs</persName> et <persName>Vl</persName> et
+                            <persName>Gether</persName> et <persName>Mes</persName>. </s>
                     <s n="75">
-                        <persName>Vs</persName> <placeName>Trachomitidis</placeName> et <placeName>damasci</placeName> conditor Inter <placeName>palestinam</placeName> et 
-                        <placeName>Celem syriam</placeName> tenuit <choice><abbr>pncipatum</abbr><expan>principatum</expan></choice>: a quo <num>LXX</num> interpretes in 
-                        <title>libro <persName>Iob</persName></title> ubi in hebreo <choice><abbr>scribit</abbr><expan>scribitur</expan></choice> 
+                        <persName>Vs</persName>
+                        <placeName>Trachomitidis</placeName> et <placeName>damasci</placeName>
+                        conditor Inter <placeName>palestinam</placeName> et <placeName>Celem
+                            syriam</placeName> tenuit <choice>
+                            <abbr>pncipatum</abbr>
+                            <expan>principatum</expan>
+                        </choice>: a quo <num>LXX</num> interpretes in <title>libro
+                                <persName>Iob</persName></title> ubi in hebreo <choice>
+                            <abbr>scribit</abbr>
+                            <expan>scribitur</expan>
+                        </choice>
                     </s>
-                    <q><choice><abbr>Terra</abbr><expan>Terrae</expan></choice> <persName>Vs</persName> <choice><abbr>regione</abbr><expan>regionem</expan></choice>
-                    <placeName>Auxitidem</placeName> quasi <placeName>ustidem</placeName> transtulerunt.</q>
+                    <q><choice>
+                            <abbr>Terra</abbr>
+                            <expan>Terrae</expan>
+                        </choice>
+                        <persName>Vs</persName>
+                        <choice>
+                            <abbr>regione</abbr>
+                            <expan>regionem</expan>
+                        </choice>
+                        <placeName>Auxitidem</placeName> quasi <placeName>ustidem</placeName>
+                        transtulerunt.</q>
                     <s n="76">
-                        <persName>Vl</persName> a <choice><abbr>qo</abbr><expan>quo</expan></choice> <rs type="ethnic">Armenii</rs>: <persName>Gether</persName> a 
-                        <choice><abbr>qo</abbr><expan>quo</expan></choice> <rs type="ethnic">acarnami</rs> seu <rs type="ethnic">etharii</rs>.
-                    </s>
-                    <s n="77">
-                        Porro <persName>mes</persName> pro <choice><abbr>qo</abbr><expan>quo</expan></choice>. <num>LXX</num> interpretes <placeName>mosoch</placeName> dixerunt qui nunc
-                        <choice><abbr>uocant</abbr><expan>uocantur</expan></choice> <rs type="ethnic">meones</rs>.
-                    </s>
+                        <persName>Vl</persName> a <choice>
+                            <abbr>qo</abbr>
+                            <expan>quo</expan>
+                        </choice>
+                        <rs type="ethnic">Armenii</rs>: <persName>Gether</persName> a <choice>
+                            <abbr>qo</abbr>
+                            <expan>quo</expan>
+                        </choice>
+                        <rs type="ethnic">acarnami</rs> seu <rs type="ethnic">etharii</rs>. </s>
+                    <s n="77"> Porro <persName>mes</persName> pro <choice>
+                            <abbr>qo</abbr>
+                            <expan>quo</expan>
+                        </choice>. <num>LXX</num> interpretes <placeName>mosoch</placeName> dixerunt
+                        qui nunc <choice>
+                            <abbr>uocant</abbr>
+                            <expan>uocantur</expan>
+                        </choice>
+                        <rs type="ethnic">meones</rs>. </s>
                     <s n="78">
-                        <persName>Arphaxat</persName> genuit <persName>Sala</persName>: et <persName>sala</persName> genuit <persName>heber</persName>.
-                    </s>
-                    <s n="79">
-                        et <persName>heber</persName> nati <choice><abbr>st</abbr><expan>sunt</expan></choice> duo filii: nomen unius <persName>phalech</persName>:
-                    </s>
+                        <persName>Arphaxat</persName> genuit <persName>Sala</persName>: et
+                            <persName>sala</persName> genuit <persName>heber</persName>. </s>
+                    <s n="79"> et <persName>heber</persName> nati <choice>
+                            <abbr>st</abbr>
+                            <expan>sunt</expan>
+                        </choice> duo filii: nomen unius <persName>phalech</persName>: quia in
+                        diebus eius diuisa est terra: et nomen fratris eius
+                            <persName>Iectan</persName>. </s>
                     <s n="80">
-                        
-                    </s>
+                        <persName>heber</persName> a quo <rs type="ethnic">hebrei</rs> uaticinio
+                        quodam filio suo <persName>phalech</persName> nomen imposuit qui <choice>
+                            <abbr>interpretat</abbr>
+                            <expan>interpretatur</expan>
+                        </choice> diuisio ab eo <choice>
+                            <abbr>qd</abbr>
+                            <expan>quod</expan>
+                        </choice> in diebus eius lingue in <placeName>babilone</placeName> diuise <choice>
+                            <abbr>st</abbr>
+                            <expan>sunt</expan>
+                        </choice>. </s>
                     <s n="81">
-                        
-                    </s>
-                    <s n="82">
-                        
-                    </s>
-                    <s n="83">
-                        
-                    </s>
-                    <s n="84">
-                        
-                    </s>
-                    <s n="85">
-                        
-                    </s>
-                    <s n="86">
-                        
-                    </s>
-                    <s n="87">
-                        
-                    </s>
-                    <s n="88">
-                        
-                    </s>
-                    <s n="89">
-                        
-                    </s>
-                    <s n="90">
-                        
-                    </s>
-                    <s n="91">
-                        
-                    </s>
-                    <s n="92">
-                        
-                    </s>
-                    <s n="93">
-                        
-                    </s>
-                    <s n="94">
-                        
-                    </s>
-                    <s n="95">
-                        
-                    </s>
-                    <s n="96">
-                        
-                    </s>
-                    <s n="97">
-                        
-                    </s>
-                    <s n="98">
-                        
-                    </s>
-                    <s n="99">
-                        
-                    </s>
-                    <s n="100">
-                        
-                    </s>
-                    <s n="101">
-                        
-                    </s>
-                    <s n="102">
-                        
-                    </s>
-                    <s n="103">
-                        
-                    </s>
-                    <s n="104">
-                        
-                    </s>
-                    <s n="105">
-                        
-                    </s>
-                    <s n="106">
-                        
-                    </s>
-                    <s n="107">
-                        
-                    </s>
-                    <s n="108">
-                        
-                    </s>
-                    <s n="109">
-                        
-                    </s>
-                    <s n="110">
-                        
-                    </s>
-                    <s n="111">
-                        
-                    </s>
-                    <s n="112">
-                        
-                    </s>
-                    <s n="113">
-                        
-                    </s>
-                    <s n="114">
-                        
-                    </s>
-                    <s n="115">
-                        
-                    </s>
+                        <persName>Iectan</persName> genuit <persName>elmodach</persName>
+                        <persName>Saleph</persName> et <persName>Asermath</persName>:
+                            <persName>Iare</persName> et <persName>Aduram</persName>:
+                            <persName>Izal</persName> et <persName>decla</persName>: et
+                            <persName>ebal</persName> et <persName>Abimael</persName>:
+                            <persName>Seba</persName>
+                        <persName>ofir</persName>
+                        <persName>eiula</persName>
+                        <persName>Iobab</persName>. </s>
+                    <s n="82"> harum gentium posteriora nomina inuenire <choice>
+                            <abbr>no</abbr>
+                            <expan>non</expan>
+                        </choice> potui. sed <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice> in presens: quia procul a nobis <choice>
+                            <abbr>st</abbr>
+                            <expan>sunt</expan>
+                        </choice> uel ita <choice>
+                            <abbr>uocant</abbr>
+                            <expan>uocantur</expan>
+                        </choice> ut <choice>
+                            <abbr>pmum</abbr>
+                            <expan>primum</expan>
+                        </choice>: uel <choice>
+                            <abbr>q</abbr>
+                            <expan>que</expan>
+                        </choice> immutata sit <choice>
+                            <abbr>ignorat</abbr>
+                            <expan>ignoratur</expan>
+                        </choice>. </s>
+                    <s n="83"> Possederunt <choice>
+                            <abbr>aut</abbr>
+                            <expan>autem</expan>
+                        </choice> a <placeName>Cosene fluuio</placeName> omnem
+                            <placeName>indie</placeName>
+                        <choice>
+                            <abbr>regione</abbr>
+                            <expan>regionem</expan>
+                        </choice> que <choice>
+                            <abbr>uocat</abbr>
+                            <expan>uocatur</expan>
+                        </choice>
+                        <placeName>hieria</placeName>. </s>
+                </p>
+                <p n="7">
+                    <s n="1">
+                        <placeName><gap unit="letters" extent="1"/>NDIA</placeName> VLTERIOR <choice>
+                            <abbr>finit</abbr>
+                            <expan>finitur</expan>
+                        </choice> ab Oriente <placeName>occeano aegeo</placeName>: ab occidente
+                            <placeName>flumine sintho</placeName>. a septentrione <placeName>monte
+                            tauro</placeName>. a meridie <placeName>oceano <rs type="ethnic"
+                                >syrico</rs></placeName>: cuius spatia patent in longitudine milia <choice>
+                            <abbr>possuu</abbr>
+                            <expan>possuum</expan>
+                        </choice>
+                        <num>XXX</num> et <num>CCC</num>. In latitudine milia <num>XI</num> et
+                            <num>CC</num>. <placeName>Ganges flumen</placeName> ibi est: et regio
+                        ubi piper <choice>
+                            <abbr>nascit</abbr>
+                            <expan>nascitur</expan>
+                        </choice>: et elefanti: dracones: sphinges: psitaci.</s>
+                    <s n="2"><placeName>Media</placeName>
+                        <placeName>parthia</placeName>
+                        <placeName>appiania</placeName>
+                        <placeName>carminia</placeName>
+                        <placeName>persida</placeName>
+                        <choice>
+                            <abbr>finiunt</abbr>
+                            <expan>finiuntur</expan>
+                        </choice> ab poriente <placeName>flumine <rs type="ethnic"
+                            >Sintho</rs></placeName> ab occidente Unknown
+                            <placeName>mesopotamia</placeName>: a septentrione <placeName>monte
+                            tauro</placeName>: a meridie <placeName>mari <rs type="ethnic"
+                                >persico</rs></placeName>. Quorum spacia <choice>
+                            <abbr>habet</abbr>
+                            <expan>habent</expan>
+                        </choice> in longitudine milia <choice>
+                            <abbr>passuu</abbr>
+                            <expan>passuum</expan>
+                        </choice>. <num>DCCCXI</num>.</s>
+                    <s n="3"><placeName>Mesopotamia</placeName>
+                        <choice>
+                            <abbr>finit</abbr>
+                            <expan>finitur</expan>
+                        </choice>
+                        <placeName>flumine tigri</placeName>: ab occidente <placeName>flumine
+                            euphrate</placeName>. a septentrione <placeName>monte tauro</placeName>:
+                        a meridie <placeName>mari <rs type="ethnic">persico</rs></placeName>: cuius
+                        spacia habent in longitudine milia <choice>
+                            <abbr>passuu</abbr>
+                            <expan>passuum</expan>
+                        </choice>. <num>DCCC</num>.</s>
+                    <s n="4"><placeName>Babilon</placeName>
+                        <placeName>syria</placeName>
+                        <choice>
+                            <abbr>finit</abbr>
+                            <expan>finitur</expan>
+                        </choice> ab oriente <placeName>flumine euphrate</placeName>: ab occidente
+                            <placeName>mare <rs type="ethnic">aegyptico</rs></placeName>: a
+                        septentrione <choice>
+                            <abbr>qd</abbr>
+                            <expan>quod</expan>
+                        </choice> inter <placeName><choice>
+                                <abbr>cypru</abbr>
+                                <expan>cyprum</expan>
+                            </choice></placeName> et <placeName>syriam</placeName> est mari: a
+                        meridie <placeName>arabia</placeName>
+                        <choice>
+                            <abbr>q</abbr>
+                            <expan>que</expan>
+                        </choice> est inter <placeName>mare <choice>
+                                <abbr>rubru</abbr>
+                                <expan>rubrum</expan>
+                            </choice></placeName> et <placeName>sinum <rs type="ethnic"
+                                >persicum</rs></placeName>: cuius spacia in longitudine milia <choice>
+                            <abbr>passuu</abbr>
+                            <expan>passuum</expan>
+                        </choice>. <num>CCC</num>. <choice>
+                            <abbr>i</abbr>
+                            <expan>in</expan>
+                        </choice> latitudine <num>CLXXV</num>.</s>
+                    <s n="5"><placeName>Mons Taurus</placeName> Insula <placeName>ciprus</placeName>
+                        ab oriente <placeName>mari <rs type="ethnic">syrio</rs></placeName> ab
+                        occidente Unknown <placeName>pamphilio</placeName>: a septentrione
+                            <placeName>aulones cylicie</placeName>: a meridie <placeName>mari <rs
+                                type="ethnic">phoeniceo</rs></placeName>: cuius spacia in
+                        longitudine milia <choice>
+                            <abbr>passuu</abbr>
+                            <expan>passuum</expan>
+                        </choice>
+                        <num>CLXXV</num>. in latitudine <num>CXXV</num>.</s>
+                    <s n="6"><placeName>Armenia</placeName>
+                        <choice>
+                            <abbr>finit</abbr>
+                            <expan>finitur</expan>
+                        </choice> a <placeName>mari caspio</placeName> et <choice>
+                            <abbr>q</abbr>
+                            <expan>que</expan>
+                        </choice> circa gentes sunt ab <placeName>occeano</placeName>: ab oriente
+                            <placeName>occeano <rs type="ethnic">indico</rs></placeName>: ab
+                        occidente iugis <placeName>montis caucasi</placeName>: a meridie
+                            <placeName>monte tauro</placeName> qui supra patet qoud cognitum est
+                        milia passuum <num>CCCCLXXX</num>. In Latitudine milia <choice>
+                            <abbr>passuu</abbr>
+                            <expan>passuum</expan>
+                        </choice>. <num>CCCCLXXX</num>.</s>
+                    <s n="7">Insula <placeName>Rhodus</placeName>
+                        <placeName>Samus</placeName>
+                        <placeName>chius</placeName> et que circa sunt
+                            <placeName>cyclades</placeName>
+                        <choice>
+                            <abbr>finiunt</abbr>
+                            <expan>finiuntur</expan>
+                        </choice> ab oriente <choice>
+                            <abbr>littorib</abbr>
+                            <expan>littoribus</expan>
+                        </choice>
+                        <placeName>asiae</placeName>: ab occidente <placeName>hicarico</placeName>:
+                        a septentrione <placeName>mari aegeo</placeName>: a meridie <placeName>mari
+                            carpatio</placeName>: qui patet in longitudine milia passuum.
+                            <num>D</num>. <choice>
+                            <abbr>i</abbr>
+                            <expan>in</expan>
+                        </choice> latitudine <num>CC</num>.</s>
+                    <s n="8"><placeName>Dacia <rs type="ethnic">Getica</rs></placeName>
+                        <choice>
+                            <abbr>finiunt</abbr>
+                            <expan>finiuntur</expan>
+                        </choice> ab oriente desertis <placeName>sarnatie</placeName>: ab occidente
+                            <placeName>flumine iustula</placeName>: a septentrione
+                            <placeName>oceano</placeName> a meridie <placeName>flumine
+                            histro</placeName>: qui patet <choice>
+                            <abbr>i</abbr>
+                            <expan>in</expan>
+                        </choice> longitudine Unknown milia <choice>
+                            <abbr>passuu</abbr>
+                            <expan>passuum</expan>
+                        </choice>. <num>CCLXXX</num>. in latitudine <choice>
+                            <abbr>qa</abbr>
+                            <expan>qua</expan>
+                        </choice>
+                        <choice>
+                            <abbr><sic>cogtum</sic><corr>cogitum</corr></abbr>
+                            <expan>cognitum</expan>
+                        </choice> est. <num>CCCLXXXVI</num>.</s>
+                    <s n="9"><placeName>Sarmathia</placeName> et <placeName>Scithia
+                            taurica</placeName>
+                        <choice>
+                            <abbr>finiunt</abbr>
+                            <expan>finiuntur</expan>
+                        </choice> ab oriente iugis <placeName>thauri montis</placeName>: ab
+                        occidente <placeName>flumine <rs type="ethnic">boristene</rs></placeName>: a
+                        septentrione <placeName>oceano</placeName> a meridie <placeName>prouincia
+                            pontica</placeName>: <choice>
+                            <abbr>q</abbr>
+                            <expan>que</expan>
+                        </choice> expandit <choice>
+                            <abbr>i</abbr>
+                            <expan>in</expan>
+                        </choice> longitudine milia <choice>
+                            <abbr>passuu</abbr>
+                            <expan>passuum</expan>
+                        </choice>. <num>DCCCCLXXX</num>. in latitudine qua cognitum <choice>
+                            <abbr>e</abbr>
+                            <expan>est</expan>
+                        </choice>
+                        <num>DCCCXVI</num>.</s>
+                    <s n="10"> </s>
+                    <s n="11"> </s>
+                    <s n="12"> </s>
+                    <s n="13"> </s>
+                    <s n="14"> </s>
+                    <s n="15"> </s>
+                    <s n="16"> </s>
+                    <s n="17"> </s>
+                    <s n="18"> </s>
+                    <s n="19"> </s>
+                    <s n="20"> </s>
+                    <s n="21"> </s>
+                    <s n="22"> </s>
+                    <s n="23"> </s>
+                    <s n="24"> </s>
+                    <s n="25"> </s>
+                    <s n="25"> </s>
+                    <s n="26"> </s>
+                    <s n="27"> </s>
+                    <s n="28"> </s>
+                    <s n="29"> </s>
+                    <s n="30"> </s>
+                    <s n="31"> </s>
                 </p>
             </div>
         </body>
