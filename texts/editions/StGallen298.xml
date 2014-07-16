@@ -23,7 +23,44 @@
     </teiHeader>
     <text>
         <body>
-        <div n="14">
+            <div n="13">
+                <table n="t1">
+                    <row role="header" n="header_1">
+                        <cell role="filum" n="Medes"><rs type="ethnic"><choice><abbr>Medo</abbr><expan>Medorum</expan></choice></rs>.</cell>
+                       <cell role="filum" n="Lacedaemonians"><rs type="ethnic"><choice><abbr>Lacedemonio</abbr><expan>Lacedemoniorum</expan></choice></rs></cell>
+                        <cell role="filum" n="Judean Hebrews"><rs type="ethnic"><choice><abbr>hebreo</abbr><expan>hebreorum</expan></choice> iude</rs>.</cell>
+                        <cell role="filum" n="Corinthians"><rs type="ethnic"><choice><abbr>Corynthio</abbr><expan>Corynthiorum</expan></choice></rs></cell>
+                        <cell role="spatium"/>
+                        <cell role="filum" n="Israelite Hebrews"><rs type="ethnic"><choice><abbr>hebreo</abbr><expan>hebreorum</expan></choice></rs> israel</cell>
+                        <cell role="filum" n="Egyptians"><rs type="ethnic"><choice><abbr>Egyptio</abbr><expan>Egyptiorum</expan></choice></rs></cell>
+                        <cell role="spatium"></cell>
+                        <cell role ="filum" n="Latins"><rs type="ethnic"><choice><abbr>Latino</abbr><expan>Latinorum</expan></choice></rs>.</cell>
+                        <cell role="filum" n="Athenians"><rs type="ethnic"><choice><abbr>Atheniensiu</abbr><expan>Atheniensium</expan></choice></rs>.</cell>
+                        <cell role="spatium"></cell>
+                        <cell role="filum" n="Macedonians"><rs type="ethnic"><choice><abbr>Macedonu</abbr><expan>Macedonum</expan></choice></rs>.</cell>
+                        <cell role="annimundi">Anni <choice><abbr>mun</abbr><expan>mundi</expan></choice></cell>
+                    </row>
+                </table>
+                <table n="t2">
+                    <row>
+                        <cell> </cell>
+                        <cell role="spatium"/>
+                    </row>
+                    <row>
+                        <cell> </cell>
+                        <cell></cell>
+                    </row>
+                    <row>
+                        <cell> </cell>
+                        <cell></cell>
+                    </row>
+                    <row>
+                        <cell> </cell>
+                        <cell role="spatium"/>
+                    </row>
+                </table>
+            </div>
+            <div n="14">
             <table n="t1">
                 <row role="header" n="header_1">
                     <cell role="spatium"/>
