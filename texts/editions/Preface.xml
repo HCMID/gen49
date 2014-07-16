@@ -3659,61 +3659,261 @@
                             <expan>est</expan>
                         </choice>
                         <num>DCCCXVI</num>.</s>
-                    <s n="10"> 
-                    Insula <placeName>Creta</placeName> et que circa <choice><abbr>st</abbr><expan>sunt</expan></choice>: <choice><abbr>finiunt</abbr><expan>finiuntur</expan></choice> ab 
-                    oriente <placeName>mari carpatio</placeName>: ab occidente <placeName>mari <rs type="ethnic">cretico</rs></placeName>: a meridie <placeName>mari <rs type="ethnic">liuico</rs></placeName>:
-                    a septentrione <placeName>mari aegeo</placeName>. <placeName>Creta</placeName> patet <choice><abbr>i</abbr><expan>in</expan></choice> longitudine milia passuum.
-                   <num>CLXXIII</num>. in Latitudine . . . . .</s>
-                    <s n="11"> <placeName>Macedonia</placeName> et <placeName>Hellespontus</placeName> et pars<placeName>ponti</placeName> 
-                        <choice><abbr>finiunt</abbr><expan>finiuntur</expan></choice> ab oriente <placeName>mari <rs type="ethnic">pontico</rs></placeName>: ab occidente destertis 
-                        <placeName>dardanie</placeName>: a settentrione <placeName>flumine histro</placeName>: a meridie <placeName>aegeo</placeName>: et patet 
-                        <choice><abbr>i</abbr><expan>in</expan></choice> longitudine milia <choice><abbr>passuu</abbr><expan>passuum</expan></choice> <num>DCCXX</num>. In latitudine
-                    milia passuum <num>CCCCXXXII</num>.</s>
-                    
-                    <s n="12"><placeName>Epyrrhus</placeName> <placeName>Achaia</placeName> <placeName>Thessalonia</placeName> <choice><abbr>finiunt</abbr><expan>finiuntur</expan></choice>
-                    ab oriente <placeName>mari oceano</placeName> ab occidente <placeName>mari adriatico</placeName>: a septentrione montibus <placeName>penio</placeName> et 
-                        <placeName>Olimpo</placeName>: a meridie <placeName>mari <rs n="ethnic">siculo</rs></placeName> et <placeName><rs type="ethnic">Lybicio</rs></placeName>. 
-                        Quarum spacia <choice><abbr>i</abbr><expan>in</expan></choice> Longitudine milia <choice><abbr>passuu</abbr><expan>passuum</expan></choice>. <num>DCCXX</num>.
-                    In latitudine. <num>CCCLXXVI</num>.</s>
-                    <s n="13">Insula <placeName>Sicilia</placeName> et <choice><abbr>q</abbr><expan>que</expan></choice> circa <choice><abbr>st</abbr><expan>sunt</expan></choice>  
-                        <choice><abbr>finiunt</abbr><expan>finiuntur</expan></choice> ab oriente et occidente Item septentrione <placeName>mari <rs type="ethnic">tyrrhenico</rs></placeName>: 
-                        a meridie <placeName>mari <rs type="ethnic">aphrico</rs></placeName>. <placeName>Sicilia</placeName> patet <choice><abbr>i</abbr><expan>in</expan></choice> longitudine
-                        milia passuum a <placeName>peloro</placeName> <choice><abbr>usq</abbr><expan>usque</expan></choice> <placeName>pachinum</placeName>. <num>CLXXXVII</num>.
-                        in latitudine milia <choice><abbr>passuu</abbr><expan>passuum</expan></choice>. <num>CLXXXVIIII</num>.</s>
-                    <s n="14">Pars <placeName>italie</placeName> <choice><abbr>finit</abbr><expan>finitur</expan></choice> ab oriente <placeName>mari adriatico</placeName> et freto 
-                        quod est inter <placeName>siciliam</placeName> et <placeName><choice><abbr>italia</abbr><expan>italiam</expan></choice></placeName>. Ab occidente urbe 
-                        <placeName>Roma</placeName>: a septentrione <placeName>sinu adriatico</placeName>: a meridie <placeName>mari <rs type="ethnic">tyrrhenico</rs></placeName> Cuius supra meminimus: 
-                        <choice><abbr>i</abbr><expan>in</expan></choice> longitudine milia <choice><abbr>passuu</abbr><expan>passuum</expan></choice>. <num>CCCXLVIIII</num>.
-                    In latitudine <num>CCXXIIII</num>.</s>
-                    <s n="15"> Pars <placeName>italie</placeName> ad <placeName>alpes</placeName> <choice><abbr>finit</abbr><expan>finitur</expan></choice> ab oriente iugis 
-                    <placeName>alpium</placeName>: ab occidente <placeName>histrio</placeName> et <placeName>Carnia</placeName>. a septentrione <placeName>sinu adriatico</placeName>:
-                    a meridie <placeName>mari <rs type="ethnic">ligustico</rs></placeName> et <placeName><rs type="ethnic">tyrrhenico</rs></placeName>: cuius spacia in longitudine milia 
-                        <choice><abbr>passuu</abbr><expan>passuum</expan></choice> <num>DCCCXX</num>. In latitudine <num>CCCXXX</num>.</s>
-                    <s n="16">INsula <placeName>Corsica</placeName> ab oriente <placeName>promontorio sacre</placeName>: ab occidente  <placeName>portuciano</placeName>: a septentrione 
-                        <placeName><rs type="ethnic">ligustico</rs></placeName>: a meridie <placeName>mari <rs type="ethnic">aphrico</rs></placeName>. Insula illa habet in longitudine
-                        milia <choice><abbr>passuu</abbr><expan>passuum</expan></choice>. <num>C</num>. <num>XXX</num>. In latitudine milia <choice><abbr>passuu</abbr><expan>passuu</expan></choice>.
-                    <num>XX</num>.</s>
-                    <s n="17"><placeName>Sardinia</placeName> ab oriente <placeName>corscia</placeName> et <placeName>mari <rs type="ethnic">sardico</rs></placeName>:
-                        a septentrione <placeName><rs type="ethnic">tyrrhenico</rs></placeName>: a meridie <placeName>mari <rs type="ethnic">aphrico</rs></placeName>. In longitudine milia 
-                        <choice><abbr>passuu</abbr><expan>passuum</expan></choice> <num>CCLXXX</num>. In latitudine <num>CCXXX</num>.</s>
-                    <s n="18"><placeName>Illyricum</placeName> <placeName>Pannonia</placeName> ab oriente <placeName>flumine trino</placeName>: ab occidente desertis
-                    in quibus habitant <rs type="ethnic">Voi</rs> et <rs type="ethnic">Carmi</rs>. a Septentrione <placeName>flumine danubio</placeName>: a meridie 
-                        <placeName>mari Adriatico</placeName>: qui  pandit in longitudine milia <choice><abbr>passuu</abbr><expan>passuum</expan></choice>. <num>DCXXX</num>.
-                        In latitudine milia <choice><abbr>passuu</abbr><expan>passuum</expan></choice>. <num>CCCXXV</num>.</s>
-                    <s n="19"> </s>
-                    <s n="20"> </s>
-                    <s n="21"> </s>
-                    <s n="22"> </s>
-                    <s n="23"> </s>
-                    <s n="24"> </s>
-                    <s n="25"> </s>
-                    <s n="25"> </s>
-                    <s n="26"> </s>
-                    <s n="27"> </s>
-                    <s n="28"> </s>
-                    <s n="29"> </s>
-                    <s n="30"> </s>
-                    <s n="31"> </s>
+                    <s n="10"> Insula <placeName>Creta</placeName> et que circa <choice>
+                            <abbr>st</abbr>
+                            <expan>sunt</expan>
+                        </choice>: <choice>
+                            <abbr>finiunt</abbr>
+                            <expan>finiuntur</expan>
+                        </choice> ab oriente <placeName>mari carpatio</placeName>: ab occidente
+                            <placeName>mari <rs type="ethnic">cretico</rs></placeName>: a meridie
+                            <placeName>mari <rs type="ethnic">liuico</rs></placeName>: a
+                        septentrione <placeName>mari aegeo</placeName>. <placeName>Creta</placeName>
+                        patet <choice>
+                            <abbr>i</abbr>
+                            <expan>in</expan>
+                        </choice> longitudine milia passuum. <num>CLXXIII</num>. in Latitudine . . .
+                        . .</s>
+                    <s n="11">
+                        <placeName>Macedonia</placeName> et <placeName>Hellespontus</placeName> et
+                            pars<placeName>ponti</placeName>
+                        <choice>
+                            <abbr>finiunt</abbr>
+                            <expan>finiuntur</expan>
+                        </choice> ab oriente <placeName>mari <rs type="ethnic"
+                            >pontico</rs></placeName>: ab occidente destertis
+                            <placeName>dardanie</placeName>: a settentrione <placeName>flumine
+                            histro</placeName>: a meridie <placeName>aegeo</placeName>: et patet <choice>
+                            <abbr>i</abbr>
+                            <expan>in</expan>
+                        </choice> longitudine milia <choice>
+                            <abbr>passuu</abbr>
+                            <expan>passuum</expan>
+                        </choice>
+                        <num>DCCXX</num>. In latitudine milia passuum <num>CCCCXXXII</num>.</s>
+                    <s n="12"><placeName>Epyrrhus</placeName>
+                        <placeName>Achaia</placeName>
+                        <placeName>Thessalonia</placeName>
+                        <choice>
+                            <abbr>finiunt</abbr>
+                            <expan>finiuntur</expan>
+                        </choice> ab oriente <placeName>mari oceano</placeName> ab occidente
+                            <placeName>mari adriatico</placeName>: a septentrione montibus
+                            <placeName>penio</placeName> et <placeName>Olimpo</placeName>: a meridie
+                            <placeName>mari <rs n="ethnic">siculo</rs></placeName> et <placeName><rs
+                                type="ethnic">Lybicio</rs></placeName>. Quarum spacia <choice>
+                            <abbr>i</abbr>
+                            <expan>in</expan>
+                        </choice> Longitudine milia <choice>
+                            <abbr>passuu</abbr>
+                            <expan>passuum</expan>
+                        </choice>. <num>DCCXX</num>. In latitudine. <num>CCCLXXVI</num>.</s>
+                    <s n="13">Insula <placeName>Sicilia</placeName> et <choice>
+                            <abbr>q</abbr>
+                            <expan>que</expan>
+                        </choice> circa <choice>
+                            <abbr>st</abbr>
+                            <expan>sunt</expan>
+                        </choice>
+                        <choice>
+                            <abbr>finiunt</abbr>
+                            <expan>finiuntur</expan>
+                        </choice> ab oriente et occidente Item septentrione <placeName>mari <rs
+                                type="ethnic">tyrrhenico</rs></placeName>: a meridie <placeName>mari
+                                <rs type="ethnic">aphrico</rs></placeName>.
+                            <placeName>Sicilia</placeName> patet <choice>
+                            <abbr>i</abbr>
+                            <expan>in</expan>
+                        </choice> longitudine milia passuum a <placeName>peloro</placeName>
+                        <choice>
+                            <abbr>usq</abbr>
+                            <expan>usque</expan>
+                        </choice>
+                        <placeName>pachinum</placeName>. <num>CLXXXVII</num>. in latitudine milia <choice>
+                            <abbr>passuu</abbr>
+                            <expan>passuum</expan>
+                        </choice>. <num>CLXXXVIIII</num>.</s>
+                    <s n="14">Pars <placeName>italie</placeName>
+                        <choice>
+                            <abbr>finit</abbr>
+                            <expan>finitur</expan>
+                        </choice> ab oriente <placeName>mari adriatico</placeName> et freto quod est
+                        inter <placeName>siciliam</placeName> et <placeName><choice>
+                                <abbr>italia</abbr>
+                                <expan>italiam</expan>
+                            </choice></placeName>. Ab occidente urbe <placeName>Roma</placeName>: a
+                        septentrione <placeName>sinu adriatico</placeName>: a meridie
+                            <placeName>mari <rs type="ethnic">tyrrhenico</rs></placeName> Cuius
+                        supra meminimus: <choice>
+                            <abbr>i</abbr>
+                            <expan>in</expan>
+                        </choice> longitudine milia <choice>
+                            <abbr>passuu</abbr>
+                            <expan>passuum</expan>
+                        </choice>. <num>CCCXLVIIII</num>. In latitudine <num>CCXXIIII</num>.</s>
+                    <s n="15"> Pars <placeName>italie</placeName> ad <placeName>alpes</placeName>
+                        <choice>
+                            <abbr>finit</abbr>
+                            <expan>finitur</expan>
+                        </choice> ab oriente iugis <placeName>alpium</placeName>: ab occidente
+                            <placeName>histrio</placeName> et <placeName>Carnia</placeName>. a
+                        septentrione <placeName>sinu adriatico</placeName>: a meridie
+                            <placeName>mari <rs type="ethnic">ligustico</rs></placeName> et
+                                <placeName><rs type="ethnic">tyrrhenico</rs></placeName>: cuius
+                        spacia in longitudine milia <choice>
+                            <abbr>passuu</abbr>
+                            <expan>passuum</expan>
+                        </choice>
+                        <num>DCCCXX</num>. In latitudine <num>CCCXXX</num>.</s>
+                    <s n="16">INsula <placeName>Corsica</placeName> ab oriente
+                            <placeName>promontorio sacre</placeName>: ab occidente
+                            <placeName>portuciano</placeName>: a septentrione <placeName><rs
+                                type="ethnic">ligustico</rs></placeName>: a meridie <placeName>mari
+                                <rs type="ethnic">aphrico</rs></placeName>. Insula illa habet in
+                        longitudine milia <choice>
+                            <abbr>passuu</abbr>
+                            <expan>passuum</expan>
+                        </choice>. <num>C</num>. <num>XXX</num>. In latitudine milia <choice>
+                            <abbr>passuu</abbr>
+                            <expan>passuu</expan>
+                        </choice>. <num>XX</num>.</s>
+                    <s n="17"><placeName>Sardinia</placeName> ab oriente
+                            <placeName>corscia</placeName> et <placeName>mari <rs type="ethnic"
+                                >sardico</rs></placeName>: a septentrione <placeName><rs
+                                type="ethnic">tyrrhenico</rs></placeName>: a meridie <placeName>mari
+                                <rs type="ethnic">aphrico</rs></placeName>. In longitudine milia <choice>
+                            <abbr>passuu</abbr>
+                            <expan>passuum</expan>
+                        </choice>
+                        <num>CCLXXX</num>. In latitudine <num>CCXXX</num>.</s>
+                    <s n="18"><placeName>Illyricum</placeName>
+                        <placeName>Pannonia</placeName> ab oriente <placeName>flumine
+                            trino</placeName>: ab occidente desertis in quibus habitant <rs
+                            type="ethnic">Voi</rs> et <rs type="ethnic">Carmi</rs>. a Septentrione
+                            <placeName>flumine danubio</placeName>: a meridie <placeName>mari
+                            Adriatico</placeName>: qui pandit in longitudine milia <choice>
+                            <abbr>passuu</abbr>
+                            <expan>passuum</expan>
+                        </choice>. <num>DCXXX</num>. In latitudine milia <choice>
+                            <abbr>passuu</abbr>
+                            <expan>passuum</expan>
+                        </choice>. <num>CCCXXV</num>.</s>
+                    <s n="19">
+                        <placeName>Germania</placeName>
+                        <placeName>rhetia</placeName>
+                        <placeName>ager <rs type="ethnic">noricus</rs></placeName> ab oriente
+                            <placeName>flumine Iustula</placeName> et <placeName>silua
+                            hironia</placeName>. ab occidente <placeName>flumine eneo</placeName>:
+                        ab septentrione <placeName>occeano</placeName>: a meridie iugis
+                            <placeName>Achemei</placeName>
+                        <placeName>flumine danubio</placeName>: quo pars pandit in longo milia
+                        passuum <num>DCXXIII</num>. In lato milia posita. <num>CCCXXVIII</num>. </s>
+                    <s n="20">
+                        <placeName>Gallia comata</placeName> finitur ab oriente <placeName>flumine
+                            rheno</placeName> ab occidente saltu <placeName>saltu
+                            pyrrhenaeo</placeName>: a septentrione: a septentrione
+                            <placeName>oceano</placeName>. a meridie <placeName>Gallia
+                            narbonensis</placeName> et <placeName>Aquitanica</placeName>: Ab oriente
+                            <placeName>alpibus</placeName>: ab occidente <placeName>saltu
+                            pyrrheneo</placeName>: a septentrione <del>oceano</del>
+                        <placeName>montes cateuene</placeName> et uiribus: a meridie <placeName>mari
+                                <rs type="ethnic">gallico</rs></placeName>: qui supra in longitudine
+                        milia passuum <num>CCCLXXIIII</num>. In Latitudine milia passuum
+                            <num>CCXL</num>. </s>
+                    <s n="21">
+                        <placeName>Hispania citerior</placeName>
+                        <choice>
+                            <abbr>finit</abbr>
+                            <expan>finitur</expan>
+                        </choice> ab oriente <placeName>saltu pyrrheneo</placeName>: a occidente
+                            <placeName>oretannia</placeName>: a septentrione
+                            <placeName>oceano</placeName>: a meridie <placeName>mari <rs
+                                type="ethnic">hiberico</rs></placeName>: cuius spacia in longo milia
+                        passuum. <num>DCCCV</num>. in Latitudine milia passuum <num>CLXIII</num>. </s>
+                    <s n="22">
+                        <placeName>Adstodio</placeName> et <placeName>Galicia Iusitania</placeName>
+                        ab occidente <placeName>oceano</placeName> ab oriente
+                            <placeName>cantabria</placeName> et <placeName>oretannia</placeName>.
+                        qui supra in longo milia <choice>
+                            <abbr>passuu</abbr>
+                            <expan>passuum</expan>
+                        </choice>. <num>DLXXX</num>. in Lato milia passuum. <num>DLXXX</num>. </s>
+                    <s n="23">
+                        <placeName>Hispania ulterior</placeName> ab oriente
+                            <placeName>oretannia</placeName>: ab occidente
+                            <placeName>oceano</placeName>: a septentrione <placeName>flumine
+                            Ana</placeName>: a meridie <placeName>mari <rs type="ethnic"
+                                >hiberico</rs></placeName>: huius expandit <choice>
+                            <abbr>i</abbr>
+                            <expan>in</expan>
+                        </choice> longitudine milia passuum. <num>CCLXXXIIII</num>. </s>
+                    <s n="24">
+                        <placeName>Getulia</placeName> et <placeName>mauritania</placeName>
+                        <choice>
+                            <abbr>finiunt</abbr>
+                            <expan>finiuntur</expan>
+                        </choice> in oriente <placeName>flumine Ansabo</placeName>: a occidente
+                            <placeName>oceano <placeName>aetiopiae</placeName></placeName>. Cuius
+                        supra in longo milia passuum <num>CCCCLII</num>. In Lato.
+                        <num>CCCCLXX</num>. </s>
+                    <s n="25">
+                        <placeName>Aphrica</placeName>: <placeName><choice>
+                                <sic>Cartago</sic>
+                                <corr>Carthago</corr>
+                            </choice></placeName>
+                        <placeName>numidia</placeName>
+                        <choice>
+                            <abbr>finiunt</abbr>
+                            <expan>finiuntur</expan>
+                        </choice> ab oriente <placeName>syrti minori</placeName>. Ab occidente
+                            <placeName>fluuio amsaca</placeName>: a septentrione <placeName>mari
+                            unknown <rs type="ethnic">aphrico</rs></placeName>: a meridie
+                            <placeName>oceano <rs type="ethnic">aethiopico</rs></placeName>: Cuius <choice>
+                            <abbr>s.</abbr>
+                            <expan>supra</expan>
+                        </choice> in longitudine milia passuum <num>CCCCXX</num>. In latitudine.
+                            <num>CCC</num>. </s>
+                    <s n="25">
+                        <placeName>Aphrica <rs type="ethnic">cyrenaica</rs></placeName>
+                        <placeName>superior libye</placeName>: ab oriente
+                            <placeName>Cathabatom</placeName>: ab occidente <placeName>sirti
+                            minori</placeName>: a septentrione <placeName>mari <rs type="ethnic"
+                                >cretico</rs></placeName>: a meridie <placeName>mari <rs
+                                type="ethnic">ethiopico</rs></placeName>. Cuius supra Longitudine
+                        milia passuum. <num>DCCCCLXXX</num>. In Latitudine. <num>CCCCXX</num>. </s>
+                    <s n="26">
+                        <placeName>Aegypti</placeName> pars inferior et <placeName>mareotis
+                            Lybia</placeName>
+                        <choice>
+                            <abbr>finiunt</abbr>
+                            <expan>finiuntur</expan>
+                        </choice>: ab oriente <placeName>Arabia</placeName>: ab occidente
+                            <placeName>Lybia deserta</placeName>: a septentrione mari quod
+                                <placeName><rs type="ethnic">aegyptium</rs></placeName>
+                        <choice>
+                            <abbr>uocat</abbr>
+                            <expan>uocatur</expan>
+                        </choice>: a meridie <placeName>aegypto superiori</placeName> et desertis.
+                        habet <choice>
+                            <abbr>i</abbr>
+                            <expan>in</expan>
+                        </choice> longitudine milia <choice>
+                            <abbr>passuu</abbr>
+                            <expan>passuum</expan>
+                        </choice>. <num>CXC</num>. in Latitudine. <num>CLXXX</num>. </s>
+                    <s n="27"> Epitome totius orbis <choice>
+                            <abbr>finit</abbr>
+                            <expan>finitur</expan>
+                        </choice> ab oriente <placeName>oceano</placeName>. a meridie
+                            <placeName>Atlantico</placeName>: a septentrione:
+                            <placeName>oceano</placeName>
+                        <rs type="ethnic">britannico</rs>. </s>
+                    <s n="28">
+                        <placeName>Britannia</placeName> in longitudine milia <choice>
+                            <abbr>passuu</abbr>
+                            <expan>passuum</expan>
+                        </choice>
+                        <num>DCCC</num>. In latitudine. <num>CCC</num>. </s>
                 </p>
             </div>
         </body>
