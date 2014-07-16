@@ -64,25 +64,25 @@
             <table n="t1">
                 <row role="header" n="header_1">
                     <cell role="spatium"/>
-                    <cell role="filum" n="Medes"><rs type="ethnic"><choice><abbr>Medo</abbr><expan>Medorum</expan></choice></rs>.</cell>
-                    <cell role="filum" n="Macedonians"><rs type="ethnic"><choice><abbr>Macedonu</abbr><expan>Macedonum</expan></choice></rs>.</cell>
+                    <cell role="filum" n="Medes">Ȼ<rs type="ethnic"><choice><abbr>Medo</abbr><expan>Medorum</expan></choice></rs>.</cell>
+                    <cell role="filum" n="Macedonians">Ȼ<rs type="ethnic"><choice><abbr>Macedonu</abbr><expan>Macedonum</expan></choice></rs>.</cell>
                     <cell role="spatium"/>
-                    <cell role="filum" n="Judean Hebrews"><rs type="ethnic"><choice><abbr>hebreo</abbr><expan>hebreorum</expan></choice> iude</rs>.</cell>
+                    <cell role="filum" n="Judean Hebrews">Ȼ<rs type="ethnic"><choice><abbr>hebreo</abbr><expan>hebreorum</expan></choice> iude</rs>.</cell>
                     <cell role="spatium"/>
-                    <cell role="filum" n="Lydians"><rs type="ethnic"><choice><abbr>Lydo</abbr><expan>Lydorum</expan></choice></rs>.</cell>
+                    <cell role="filum" n="Lydians">Ȼ<rs type="ethnic"><choice><abbr>Lydo</abbr><expan>Lydorum</expan></choice></rs>.</cell>
                     <cell role="spatium"/>
-                    <cell role="filum" n="Israelite Hebrews"><rs type="ethnic"><choice><abbr>hebreo</abbr><expan>hebreorum</expan></choice></rs> israel</cell>
-                    <cell role="filum" n="Egyptians"><rs type="ethnic"><choice><abbr>Egyptio</abbr><expan>Egyptiorum</expan></choice></rs></cell>
-                    <cell role ="filum" n="Latins"><rs type="ethnic"><choice><abbr>Latino</abbr><expan>Latinorum</expan></choice></rs>.</cell>
+                    <cell role="filum" n="Israelite Hebrews">Ȼ<rs type="ethnic"><choice><abbr>hebreo</abbr><expan>hebreorum</expan></choice></rs> israel</cell>
+                    <cell role="filum" n="Egyptians">Ȼ<rs type="ethnic"><choice><abbr>Egyptio</abbr><expan>Egyptiorum</expan></choice></rs></cell>
+                    <cell role ="filum" n="Latins">Ȼ<rs type="ethnic"><choice><abbr>Latino</abbr><expan>Latinorum</expan></choice></rs>.</cell>
                     <cell role="spatium"></cell>
-                    <cell role="filum" n="Athenians"><rs type="ethnic">Atheniensium</rs>.</cell>
+                    <cell role="filum" n="Athenians">Ȼ<rs type="ethnic">Atheniensium</rs>.</cell>
                     <cell role="spatium"/>
                 </row>
                 <row n="1_1">
                     <cell role="spatium"/>
                     <cell>XVI.</cell>
                     <cell>X</cell>
-                    <cell role="spatium"/>
+                    <cell>Ȼ</cell>
                     <cell>L.</cell>
                     <cell role="spatium"/>
                     <cell>III.</cell>
