@@ -9129,7 +9129,7 @@
           </row>
           <row n="95_4">
             <cell>IX</cell>
-            <cell><persName>Socratici</persName> clari <choice>
+            <cell><rs type="person">Socratici</rs> clari <choice>
                 <abbr>hntur</abbr>
                 <expan>habentur</expan>
               </choice>.</cell>
@@ -9459,7 +9459,7 @@
             <cell role="spatium"/>
             <cell><num>XXXI</num></cell>
             <cell><persName>PLato</persName> et <persName>Xenophon</persName> necnon et alii
-                <persName>Socratici</persName> clari <choice>
+              <rs type="person">Socratici</rs> clari <choice>
                 <abbr>hntur</abbr>
                 <expan>habentur</expan>
               </choice>.</cell>
@@ -17074,7 +17074,7 @@
             <cell role="spatium"/>
             <cell><num>V</num></cell>
             <cell><p><persName>Nigidius figulus</persName>
-                <persName>pythagoricus</persName> et magus in exilio <choice>
+              <rs type="person">pythagoricus</rs> et magus in exilio <choice>
                   <abbr>morit</abbr>
                   <expan>moritur</expan>
                 </choice>. <persName>Antonius</persName> decreuit quintilem <choice>
@@ -17982,8 +17982,8 @@
                   </choice></rs>
                 <num>XLI</num> Centena et <num>LXIIII</num> milia.</p>
               <p>Colonie deducte.</p>
-              <p><persName>Anaxilaus <rs type="ethnic">Larysseus</rs></persName><persName>
-                  pythagoricus</persName> et magus ab <persName>augusto</persName> urbe
+              <p><persName>Anaxilaus <rs type="ethnic">Larysseus</rs></persName>
+                <rs type="person">pythagoricus</rs> et magus ab <persName>augusto</persName> urbe
                   <placeName>italia</placeName><choice>
                   <abbr>q</abbr>
                   <expan>que</expan>
@@ -18922,7 +18922,7 @@
                   <abbr>amicitia</abbr>
                   <expan>amicitiam</expan>
                 </choice> cum <rs type="ethnic">parthis</rs> facit.</p>
-              <p><persName>Xistus</persName> pithagoricus philosophus <choice>
+              <p><persName>Xistus</persName> <rs type="person">pithagoricus</rs> philosophus <choice>
                   <abbr>agnoscit</abbr>
                   <expan>agnoscitur</expan>
                 </choice>.</p>
@@ -20039,10 +20039,10 @@
             <cell><num>XXIII</num></cell>
             <cell role="spatium"/>
             <cell><num>XXIII</num></cell>
-            <cell><note><p><persName>Pilato</persName> de <choice>
+            <cell><note><p><persName>Pilato</persName> de <rs type="person"><choice>
                     <abbr>christiano</abbr>
                     <expan>christianorum</expan>
-                  </choice> dogmate ad <persName><choice>
+                  </choice></rs> dogmate ad <persName><choice>
                       <abbr>Tiberiu</abbr>
                       <expan>Tiberium</expan>
                     </choice></persName>
@@ -20062,7 +20062,7 @@
                   </choice> ex consulto <choice>
                     <abbr>patru</abbr>
                     <expan>patrum</expan>
-                  </choice> christianos eliminari urbe placuisset: <persName><choice>
+                  </choice> <rs type="person">christianos</rs> eliminari urbe placuisset: <persName><choice>
                       <abbr>Tiberi</abbr>
                       <expan>Tiberius</expan>
                     </choice></persName> per edictum <choice>
@@ -21125,7 +21125,7 @@
                   <choice>
                     <abbr>persecutione</abbr>
                     <expan>persecutionem</expan>
-                  </choice> in Christianos facit: in quod <persName>petrus</persName> et
+                  </choice> in <rs type="person">Christianos</rs> facit: in quod <persName>petrus</persName> et
                     <persName>Paulus</persName> gloriose <placeName>rome</placeName>
                   occubuerunt.</p></note>
               <p>Post <persName>Petrum</persName> Primus <rs type="ethnic"><choice>
@@ -21941,7 +21941,7 @@
               <persName>Domitianus</persName>
               <choice>
                 <abbr>Xanos</abbr>
-                <expan>Christianos</expan>
+                <expan><rs type="person">Christianos</rs></expan>
               </choice>
               <choice>
                 <abbr>perseqt</abbr>
@@ -21988,10 +21988,10 @@
                 <persName>David</persName> erant. interfici precipit: ut nullus <rs type="ethnic"><choice>
                   <abbr>iudaeor</abbr>
                   <expan>iudaeorum</expan>
-                </choice></rs> regni reliquus foret. Scribit <persName>Brutius</persName> plurimos <choice>
+                </choice></rs> regni reliquus foret. Scribit <persName>Brutius</persName> plurimos <rs type="person"><choice>
                 <abbr>Christianor</abbr>
                 <expan>Christianorum</expan>
-              </choice> sub <persName>Domitiano</persName> feresse <choice>
+              </choice></rs> sub <persName>Domitiano</persName> feresse <choice>
                 <abbr>marteriu</abbr>
                 <expan>martierium</expan>
               </choice>. inter quos et <persName><choice>
@@ -22004,7 +22004,7 @@
               </choice> in <placeName>insulam <choice>
                   <abbr>pontiana</abbr>
                   <expan>pontianam</expan>
-                </choice></placeName> relegatam: Quia se Christianam esse testata est. Multa signa <choice>
+              </choice></placeName> relegatam: Quia se <rs type="person">Christianam</rs> esse testata est. Multa signa <choice>
                 <abbr>atq</abbr>
                 <expan>atque</expan>
               </choice> portenta <placeName>Rome</placeName> in toto orbe facta.
@@ -22267,7 +22267,7 @@
           </row>
           <row n="221_4">
             <cell><num>X</num></cell>
-            <cell role="regnal"><persName>Traiano</persName> aduersum christianos <choice>
+            <cell role="regnal"><persName>Traiano</persName> aduersum <rs type="person">christianos</rs> <choice>
                 <abbr>persecutione</abbr>
                 <expan>persecutionem</expan>
               </choice> mouente <persName>Simon</persName> filius <persName>Cleopae</persName>
@@ -22319,7 +22319,7 @@
             <cell><persName>PLINIVS</persName>. <num>II</num>. cum quandam <choice>
                 <abbr>prouincia</abbr>
                 <expan>prouinciam</expan>
-              </choice> regeret: et in magistratu suo plurimos christianorum interfecisset:
+            </choice> regeret: et in magistratu suo plurimos <rs type="person">christianorum</rs> interfecisset:
               multitudine <choice>
                 <abbr>eor</abbr>
                 <expan>eorum</expan>
@@ -22802,7 +22802,7 @@
                 philosophus <choice>
                   <abbr>nr</abbr>
                   <expan>noster</expan>
-                </choice>: libros pro christiana religione <persName>hadriano</persName> dedere
+                </choice>: libros pro <rs type="person">christiana</rs> religione <persName>hadriano</persName> dedere
                 compositos. Et <persName>serenus granius</persName> legatus uir opprime nobilis
                 literas ad <choice>
                   <abbr>imperatore</abbr>
@@ -22847,7 +22847,7 @@
                   <placeName>asie</placeName> scripsit sine obiectu <choice>
                   <abbr>ciminu</abbr>
                   <expan>criminum</expan>
-                </choice> christianos <choice>
+                  </choice> <rs type="person">christianos</rs> <choice>
                   <abbr>no</abbr>
                   <expan>non</expan>
                 </choice> condemnandos. Cuius epistole <choice>
@@ -23028,10 +23028,10 @@
                 <expan>aliter</expan>
               </choice>
               <persName>Barchocabas</persName> dux <rs type="ethnic">iudiace</rs> factionis:
-              nolentes sibi <choice>
+              nolentes sibi <rs type="person"><choice>
                 <abbr>xanos</abbr>
                 <expan>christianos</expan>
-              </choice> aduersum. <rs type="ethnic"><choice>
+              </choice></rs> aduersum. <rs type="ethnic"><choice>
                   <abbr>Ro.</abbr>
                   <expan>Romanum</expan>
                 </choice></rs> militem ferre subsidium omnimodis <choice>
@@ -23308,7 +23308,7 @@
             <cell role="spatium"/>
             <cell><num>VIII</num></cell>
             <cell><persName>Taurus <rs type="ethnic">beritius</rs></persName>
-              <persName>platonice</persName> secte philosophus clarus <choice>
+              <rs type="person">platonice</rs> secte philosophus clarus <choice>
                 <abbr>habet</abbr>
                 <expan>habetur</expan>
               </choice>.</cell>
@@ -23750,7 +23750,7 @@
                   <abbr>epus</abbr>
                   <expan>episcopus</expan>
                 </choice>
-                <title>Apologeticum</title> pro christianis tradidit.</p>
+              <title>Apologeticum</title> pro <rs type="person">christianis</rs> tradidit.</p>
               <p><persName>Apollinaris <rs type="ethnic">asianus</rs>
                   <rs type="ethnic">hieropolitanus</rs></persName> insignis <choice>
                   <abbr>habet</abbr>
@@ -23852,10 +23852,10 @@
                   </choice> Aurelii</persName> grauissimi <choice>
                   <abbr>imp.</abbr>
                   <expan>imperatoris</expan>
-                </choice> quibus illam <rs type="ethnic">germicum</rs> sitim <choice>
+                  </choice> quibus illam <rs type="ethnic">germicum</rs> sitim <rs type="person"><choice>
                   <abbr>christianor</abbr>
                   <expan>christianorum</expan>
-                </choice> forte <choice>
+                </choice> </rs>forte <choice>
                   <abbr>militu</abbr>
                   <expan>militum</expan>
                 </choice>
@@ -23896,7 +23896,7 @@
             <cell role="spatium"/>
             <cell><num>XVI</num></cell>
             <cell><persName>Atticus</persName>
-              <persName>platonice</persName> secte philosophus <choice>
+              <rs type="person">platonice</rs> secte philosophus <choice>
                 <abbr>agnoscit</abbr>
                 <expan>agnoscitur</expan>
               </choice>.</cell>
@@ -24611,10 +24611,10 @@
                   <abbr>i</abbr>
                   <expan>in</expan>
                 </choice>
-                <choice>
+                <rs type="person"><choice>
                   <abbr>xanos</abbr>
                   <expan>christianos</expan>
-                </choice> facta <persName>Leonides</persName>
+                </choice></rs> facta <persName>Leonides</persName>
                 <persName>origenis</persName>
                 <choice>
                   <abbr>pr</abbr>
@@ -25414,7 +25414,7 @@
               <choice>
                 <abbr>impatorib</abbr>
                 <expan>imperatoribus</expan>
-              </choice> christianus fuit.</cell>
+              </choice> <rs type="person">christianus</rs> fuit.</cell>
             <cell role="spatium"/>
           </row>
           <row n="256_2">
@@ -25530,7 +25530,7 @@
                     <persName>philippos</persName> patrem et filium interemisset ob odium <choice>
                     <abbr>eo</abbr>
                     <expan>eorum</expan>
-                  </choice> in christianos persecutionem mouet. Qua diaconus <persName>Laurentius
+                    </choice> in <rs type="person">christianos</rs> persecutionem mouet. Qua diaconus <persName>Laurentius
                       <placeName>Rome</placeName></persName> martirium duxit.</p>
                 <p><persName>ANTONIVS monachus</persName> in <placeName>aegypto</placeName>
                   <choice>
@@ -25799,10 +25799,10 @@
           <row n="259_2">
             <cell role="spatium"/>
             <cell><num>IIII</num></cell>
-            <cell><persName>Volarianus</persName> in <choice>
+            <cell><persName>Volarianus</persName> in <rs type="person"><choice>
                 <abbr>xanos</abbr>
                 <expan>christianos</expan>
-              </choice> persecutione <choice>
+              </choice></rs> persecutione <choice>
                 <abbr>comoto</abbr>
                 <expan>commoto</expan>
               </choice>: statim a <persName>sapore</persName>
@@ -26933,7 +26933,7 @@
                   <expan>carpentum</expan>
                 </choice>
                 <persName>diocletiani</persName> purpuratus cucurrit.</p>
-              <p><persName>Veturius</persName> magister milite christianos milites <choice>
+              <p><persName>Veturius</persName> magister milite <rs type="person">christianos</rs> milites <choice>
                   <abbr>psecuit</abbr>
                   <expan>persequitur</expan>
                 </choice>
@@ -27311,7 +27311,7 @@
           <row n="273_1">
             <cell role="spatium"/>
             <cell><num>VI</num></cell>
-            <cell><persName>Maximianus</persName> persecutione in Christianos facta <choice>
+            <cell><persName>Maximianus</persName> persecutione in <rs type="person">Christianos</rs> facta <choice>
                 <abbr>cu</abbr>
                 <expan>cum</expan>
               </choice> iam a <persName>Licinio</persName> puniendus esset apud
@@ -27435,7 +27435,7 @@
           <row n="274_2">
             <cell role="spatium"/>
             <cell><num>XI</num></cell>
-            <cell><persName>Licinius</persName> de palatio suo Christianos pellit.</cell>
+            <cell><persName>Licinius</persName> de palatio suo <rs type="person">Christianos</rs> pellit.</cell>
           </row>
           <row n="274_3">
             <cell role="spatium"/>
@@ -27672,7 +27672,7 @@
                 </choice> in <choice>
                   <abbr>psentem</abbr>
                   <expan>presentem</expan>
-                </choice> diem <persName>Arriani</persName> ecclesiam occuparunt. I.
+                </choice> diem <rs type="person">Arriani</rs> ecclesiam occuparunt. I.
                   <persName>Eulalius</persName>
                 <persName>miletius</persName>: quorum <sic>iccrco</sic> tempora non digessi: <choice>
                   <abbr>qd</abbr>
@@ -27863,7 +27863,7 @@
                 </choice>.</p>
               <p><persName>Pater</persName> rhetor <placeName>rome</placeName> gloriosissime
                 docet.</p>
-              <p><persName>Nazarii</persName> rhetoris filia christiana uirgo <choice>
+              <p><persName>Nazarii</persName> rhetoris filia <rs type="person">christiana</rs> uirgo <choice>
                   <abbr>i</abbr>
                   <expan>in</expan>
                 </choice> eloquentia <choice>
@@ -27995,7 +27995,7 @@
                   <abbr>e</abbr>
                   <expan>est</expan>
                 </choice>.</p>
-              <p>Ex hoc loco impietas <persName>Arriana</persName>
+              <p>Ex hoc loco impietas <rs type="person">Arriana</rs>
                 <persName>Constantini</persName>
                 <choice>
                   <abbr>impatoris</abbr>
@@ -28066,7 +28066,7 @@
                 <persName>Paulum</persName> quem regio <choice>
                   <abbr>impio</abbr>
                   <expan>imperio</expan>
-                </choice> et <persName>arriana</persName> factione pellebat</p>
+                </choice> et <rs type="person">arriana</rs> factione pellebat</p>
             </cell>
           </row>
           <row n="280_2">
@@ -28089,7 +28089,7 @@
               <p><persName>Macedonius</persName> artis plumarie <choice>
                   <abbr>i</abbr>
                   <expan>in</expan>
-                </choice> locum <persName>pauli</persName> ab <persName>Arrianis</persName>
+              </choice> locum <persName>pauli</persName> ab <rs type="person">Arrianis</rs>
                 <choice>
                   <abbr>epis</abbr>
                   <expan>episcopis</expan>
@@ -28099,10 +28099,10 @@
                   <expan>surrogatur</expan>
                 </choice>: a quo nunc heresis <persName>macedoniana</persName>.</p>
               <p><persName>Paulus</persName> crudelitate prefecti <persName>philippi</persName>: Nam
-                fautor <persName>macedonii</persName> partium erat et <persName><choice>
+                fautor <persName>macedonii</persName> partium erat et <rs type="person"><choice>
                     <abbr>Arrianor</abbr>
                     <expan>Arrianorum</expan>
-                  </choice></persName> insidiis <choice>
+                  </choice></rs> insidiis <choice>
                   <abbr>stragulat</abbr>
                   <expan>stragulatur</expan>
                 </choice>.</p>
@@ -28149,7 +28149,7 @@
             <cell role="spatium"/>
             <cell><num>VII</num></cell>
             <cell>
-              <p><persName>Sapor</persName> rex <rs type="ethnic">persarum</rs> christianos <choice>
+              <p><persName>Sapor</persName> rex <rs type="ethnic">persarum</rs> <rs type="person">christianos</rs> <choice>
                   <abbr>persequit</abbr>
                   <expan>persequitur</expan>
                 </choice>.</p>
@@ -28308,7 +28308,7 @@
                   <abbr>eccla</abbr>
                   <expan>ecclesiam</expan>
                 </choice>
-                <persName>Arriani</persName> inuaserunt. <num>I</num>.
+                <rs type="person">Arriani</rs> inuaserunt. <num>I</num>.
                 <persName>Cyrillus</persName>. <persName>Eutychius</persName>. Rursum
                   <persName>Cyrillus</persName>. <persName>hireneus</persName>. tertio
                   <persName>Cyrillus</persName>. <persName>hilarius</persName>: quarto
@@ -29042,7 +29042,7 @@
                   <expan>episcopum</expan>
                 </choice> facit.</p>
               <p><persName>Proheresius</persName> sophista <rs type="ethnic">atheniensis</rs> lege
-                data ne christiani <choice>
+                data ne <rs type="person">christiani</rs> <choice>
                   <abbr>liberaliu</abbr>
                   <expan>liberalium</expan>
                 </choice>
@@ -29050,7 +29050,7 @@
                   <abbr>artiu</abbr>
                   <expan>artium</expan>
                 </choice> doctores essent. Cum sibi specialiter <persName>Iulianus</persName>
-                concederet ut Christianus doceret. scolam sponte deseruit.</p>
+                concederet ut <rs type="person">Christianus</rs> doceret. scolam sponte deseruit.</p>
               <p><persName>Aemilianus</persName> ob Ararum <choice>
                   <abbr>subuersione</abbr>
                   <expan>subuersionem</expan>
@@ -29362,7 +29362,7 @@
               <choice>
                 <abbr>i</abbr>
                 <expan>in</expan>
-              </choice> christianos <choice>
+              </choice> <rs type="person">christianos</rs> <choice>
                 <abbr>psecutione</abbr>
                 <expan>persecutione</expan>
               </choice> commota plurimus interficit. et de propriis sedibus in <rs type="ethnic"
