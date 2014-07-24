@@ -670,7 +670,7 @@
                 <expan>decernitur</expan>
               </choice>. <choice>
                 <abbr>un</abbr>
-                <expan>unknown</expan>
+                <expan>unde</expan>
               </choice> in <choice>
                 <abbr>nupita</abbr>
                 <expan>nuptiarum</expan>
@@ -6179,7 +6179,7 @@
               </choice> loci <choice>
                 <abbr>habebat</abbr>
                 <expan>habebatur</expan>
-              </choice> aduesusunknown <placeName>ioniam</placeName> dimicat.</cell>
+              </choice> <choice><abbr>aduesus</abbr><expan>aduersus</expan></choice> <placeName>ioniam</placeName> dimicat.</cell>
             <cell><num>XLII</num></cell>
             <cell><num>XIIII</num></cell>
             <cell role="spatium"/>
@@ -7748,16 +7748,13 @@
             <cell><num>XXXII</num></cell>
           </row>
           <row n="77_2">
-            <cell role="annimundi"><num>IIIIDCCXXX</num>.</cell>
+            <cell role="annimundi"><choice><abbr><num>IIIIDCCXXX</num></abbr><expan><num>IIII</num> milia <num>DCCXXX</num></expan></choice>.</cell>
             <cell><num>XV</num></cell>
             <cell><placeName>Rome</placeName> uirgo <persName>sunia</persName> in stupro <choice>
                 <abbr>dephensa</abbr>
                 <expan>deprehensa</expan>
               </choice> uiua defossa est.</cell>
-            <cell><choice>
-                <abbr><num>IIIIDCCXXX</num></abbr>
-                <expan><num>IIII</num> milia <num>DCCXXX</num></expan>
-              </choice></cell>
+            <cell>XXXIII</cell>
           </row>
           <row n="77_3">
             <cell role="spatium"/>
@@ -10542,7 +10539,7 @@
                 <choice>
                   <abbr>g</abbr>
                   <expan>unknown</expan>
-                </choice> se diutissime dimicantes <choice>
+                </choice> se diutissime <del>dimicantes</del> <choice>
                   <abbr>pliantes</abbr>
                   <expan>praeliantes</expan>
                 </choice>: ad <choice>
@@ -12426,7 +12423,7 @@
               <title>sapientiae <choice>
                   <abbr>libru</abbr>
                   <expan>librum</expan>
-                </choice></title> componens quem uocant panaretonunknown. <choice>
+                </choice></title> componens quem uocant <title>panareton</title>. <choice>
                 <abbr>et</abbr>
                 <expan>etiam</expan>
               </choice>
@@ -21940,7 +21937,7 @@
             <cell>Secundus post <persName>Neronem</persName>
               <persName>Domitianus</persName>
               <choice>
-                <abbr>Xanos</abbr>
+                <abbr>Xianos</abbr>
                 <expan>Christianos</expan>
               </choice>
               <choice>
@@ -23029,7 +23026,7 @@
               </choice>
               <persName>Barchocabas</persName> dux <rs type="ethnic">iudiace</rs> factionis:
               nolentes sibi <choice>
-                <abbr>xanos</abbr>
+                <abbr>xianos</abbr>
                 <expan>christianos</expan>
               </choice> aduersum. <rs type="ethnic"><choice>
                   <abbr>Ro.</abbr>
@@ -24612,7 +24609,7 @@
                   <expan>in</expan>
                 </choice>
                 <choice>
-                  <abbr>xanos</abbr>
+                  <abbr>xianos</abbr>
                   <expan>christianos</expan>
                 </choice> facta <persName>Leonides</persName>
                 <persName>origenis</persName>
@@ -24730,9 +24727,7 @@
           </row>
           <row n="247_2">
             <cell role="annimundi"><choice>
-                <abbr><num>V</num>.<num>CCCCX</num></abbr>
-                <expan><num>V</num>. milia <num>CCCCX</num></expan>
-              </choice>.</cell>
+                <abbr><num>V</num></abbr><expan><num>V</num> milia</expan></choice>.<num>CCCCX</num>.</cell>
             <cell>XVII</cell>
             <cell><persName>Origenes</persName>
               <placeName>Alexandrie</placeName> studiis <choice>
@@ -25800,7 +25795,7 @@
             <cell role="spatium"/>
             <cell><num>IIII</num></cell>
             <cell><persName>Volarianus</persName> in <choice>
-                <abbr>xanos</abbr>
+                <abbr>xianos</abbr>
                 <expan>christianos</expan>
               </choice> persecutione <choice>
                 <abbr>comoto</abbr>
