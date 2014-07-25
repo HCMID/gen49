@@ -13430,14 +13430,14 @@
                   <expan>Appollonium</expan>
                 </choice></persName>
               <persName>seleuci</persName>
-              <choice>
+              <del><choice>
                 <abbr>filiu</abbr>
                 <expan>filium</expan>
               </choice>
               <choice>
                 <abbr>duce</abbr>
                 <expan>ducem</expan>
-              </choice>
+              </choice></del>
               <placeName>phoenicis</placeName> confugiens: multis ei muneribus repromissis <choice>
                 <abbr>sacerdotiu</abbr>
                 <expan>sacerdotium</expan>
@@ -22145,7 +22145,7 @@
               </choice>. <num>IIII</num>. <choice>
                 <abbr>episcopatu</abbr>
                 <expan>episcopatum</expan>
-              </choice> tenet suscipit <persName>Euaristus</persName>. <choice>
+              </choice> <del>tenet</del> suscipit <persName>Euaristus</persName>. <choice>
                 <abbr>ann</abbr>
                 <expan>annis</expan>
               </choice>.
