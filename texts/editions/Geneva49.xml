@@ -6895,7 +6895,7 @@
                 <abbr>pmo</abbr>
                 <expan>primo</expan>
               </choice>
-              <title>Stromate</title> ita scribens. Et perseuerauit Captiuitas <choice>
+              <title>Stromate</title> ita scribens. <q>Et perseuerauit Captiuitas <choice>
                 <abbr>ann</abbr>
                 <expan>annis</expan>
               </choice>.
@@ -6915,13 +6915,13 @@
               </choice> functus est <persName>Iosedech</persName>. hec <choice>
                 <abbr>supdict</abbr>
                 <expan>supradictus</expan>
-              </choice> uir. Quod <choice>
+              </choice> uir.</q> Quod <choice>
                 <abbr>aut</abbr>
                 <expan>autem</expan>
               </choice>
               <num>LXX</num> annus desolationes templi altero anno <persName>Darii</persName> fuerit
               expletus domesticus testis est <persName>Zacharias</persName> propheta: Secundo anno
-                <persName>darii</persName> ita dicens. Domine omnipotens: quo <choice>
+                <persName>darii</persName> ita dicens. <q>Domine omnipotens: quo <choice>
                 <abbr>usq</abbr>
                 <expan>usque</expan>
               </choice> non misereberis <placeName>hierusalem</placeName> et <choice>
@@ -6932,7 +6932,7 @@
               <choice>
                 <abbr>qas</abbr>
                 <expan>quas</expan>
-              </choice> despexisti. Iste <num>LXX</num> annus.</cell>
+              </choice> despexisti.</q> Iste <num>LXX</num> annus.</cell>
             <cell><num>XXXIII</num></cell>
             <cell><num>XXVII</num></cell>
             <cell role="annimundi"><choice>
@@ -16047,10 +16047,10 @@
                 <expan>primus</expan>
               </choice>
               <placeName>rome</placeName> latinam rhetoricam docuit de quo
-                <persName>cicero</persName> sic refert. Memoria teneo pueris nobis <choice>
-                <abbr>primu</abbr>
-                <expan>primum</expan>
-              </choice> latine docere caepisse <persName>plotium</persName> quendam.</cell>
+                <persName>cicero</persName> sic refert. <q>Memoria teneo pueris nobis <choice>
+                  <abbr>primu</abbr>
+                  <expan>primum</expan>
+                </choice> latine docere caepisse <persName>plotium</persName> quendam.</q></cell>
           </row>
           <row n="173_2">
             <cell role="spatium"/>
@@ -17123,10 +17123,10 @@
                 </choice> bos in <placeName>suburbano Rome</placeName> ad <choice>
                   <abbr>arante</abbr>
                   <expan>arentem</expan>
-                </choice> locutus est. frustra se urgeri. Non. <choice>
-                  <abbr>N</abbr>
-                  <expan>Unknown</expan>
-                </choice>. frumenta sed homines breui defuturos.</p></cell>
+                </choice> locutus est. <q>frustra se urgeri. Non. <choice>
+                    <abbr>N</abbr>
+                    <expan>Unknown</expan>
+                  </choice>. frumenta sed homines breui defuturos.</q></p></cell>
             <cell role="spatium"/>
           </row>
           <row role="regnal" n="184_1_r1">
@@ -17601,29 +17601,29 @@
                 <persName>MOSEN</persName>. <choice>
                   <abbr>loquit</abbr>
                   <expan>loquitur</expan>
-                </choice>. Non deficiet <choice>
-                  <abbr>pncipes</abbr>
-                  <expan>princeps</expan>
-                </choice> ex <placeName>iuda</placeName>: <choice>
-                  <abbr>neq</abbr>
-                  <expan>neque</expan>
-                </choice> dux <choice>
-                  <abbr>definorib</abbr>
-                  <expan>definoribus</expan>
-                </choice>
-                <choice>
-                  <abbr>ei</abbr>
-                  <expan>eius</expan>
-                </choice> donec ueniat cui <choice>
-                  <abbr>repositu</abbr>
-                  <expan>repositum</expan>
-                </choice> est: et <choice>
-                  <abbr>ipe</abbr>
-                  <expan>ipse</expan>
-                </choice> erit expectatio <choice>
-                  <abbr>gentiu</abbr>
-                  <expan>gentium</expan>
-                </choice>. In hoc loco <choice>
+                </choice>. <q>Non deficiet <choice>
+                    <abbr>pncipes</abbr>
+                    <expan>princeps</expan>
+                  </choice> ex <placeName>iuda</placeName>: <choice>
+                    <abbr>neq</abbr>
+                    <expan>neque</expan>
+                  </choice> dux <choice>
+                    <abbr>definorib</abbr>
+                    <expan>definoribus</expan>
+                  </choice>
+                  <choice>
+                    <abbr>ei</abbr>
+                    <expan>eius</expan>
+                  </choice> donec ueniat cui <choice>
+                    <abbr>repositu</abbr>
+                    <expan>repositum</expan>
+                  </choice> est: et <choice>
+                    <abbr>ipe</abbr>
+                    <expan>ipse</expan>
+                  </choice> erit expectatio <choice>
+                    <abbr>gentiu</abbr>
+                    <expan>gentium</expan>
+                  </choice>.</q> In hoc loco <choice>
                   <abbr>et</abbr>
                   <expan>etiam</expan>
                 </choice>
@@ -17728,48 +17728,49 @@
                 <persName>Daniel</persName> propheta <choice>
                   <abbr>uaticinat</abbr>
                   <expan>uaticanatur</expan>
-                </choice> ita dicens. Et post ebdomadas <num>VII</num>. Et <num>LXII</num>.
-                interibit Chrisma et <choice>
-                  <abbr>iudiciu</abbr>
-                  <expan>iudicium</expan>
-                </choice>
-                <choice>
-                  <abbr>no</abbr>
-                  <expan>non</expan>
-                </choice> erit <choice>
-                  <abbr>i</abbr>
-                  <expan>in</expan>
-                </choice> eo. <choice>
-                  <abbr>Templu</abbr>
-                  <expan>Templum</expan>
-                </choice> et sanctum corrumpet populus duce ueniente: et <choice>
-                  <abbr>cedent</abbr>
-                  <expan>cedentur</expan>
-                </choice>
-                <choice>
-                  <abbr>i</abbr>
-                  <expan>in</expan>
-                </choice> Cataclismo belli. Et <choice>
-                  <abbr>i</abbr>
-                  <expan>in</expan>
-                </choice> consequentibus. Et super templum inquit abominatio desolationum et <choice>
-                  <abbr>usq</abbr>
-                  <expan>usque</expan>
-                </choice> ad <choice>
-                  <abbr>consumatione</abbr>
-                  <expan>consumationem</expan>
-                </choice> temporis consumatio <choice>
-                  <abbr>dabit</abbr>
-                  <expan>dabitur</expan>
-                </choice>
-                <choice>
-                  <abbr>sup</abbr>
-                  <expan>super</expan>
-                </choice>
-                <choice>
-                  <abbr>desolatione</abbr>
-                  <expan>desolationem</expan>
-                </choice>.</p>
+                </choice> ita dicens. <q>Et post ebdomadas <num>VII</num>. Et <num>LXII</num>.
+                  interibit Chrisma et <choice>
+                    <abbr>iudiciu</abbr>
+                    <expan>iudicium</expan>
+                  </choice>
+                  <choice>
+                    <abbr>no</abbr>
+                    <expan>non</expan>
+                  </choice> erit <choice>
+                    <abbr>i</abbr>
+                    <expan>in</expan>
+                  </choice> eo. <choice>
+                    <abbr>Templu</abbr>
+                    <expan>Templum</expan>
+                  </choice> et sanctum corrumpet populus duce ueniente: et <choice>
+                    <abbr>cedent</abbr>
+                    <expan>cedentur</expan>
+                  </choice>
+                  <choice>
+                    <abbr>i</abbr>
+                    <expan>in</expan>
+                  </choice> Cataclismo belli. Et <choice>
+                    <abbr>i</abbr>
+                    <expan>in</expan>
+                  </choice> consequentibus.</q> Et super templum inquit <q>abominatio desolationum
+                  et <choice>
+                    <abbr>usq</abbr>
+                    <expan>usque</expan>
+                  </choice> ad <choice>
+                    <abbr>consumatione</abbr>
+                    <expan>consumationem</expan>
+                  </choice> temporis consumatio <choice>
+                    <abbr>dabit</abbr>
+                    <expan>dabitur</expan>
+                  </choice>
+                  <choice>
+                    <abbr>sup</abbr>
+                    <expan>super</expan>
+                  </choice>
+                  <choice>
+                    <abbr>desolatione</abbr>
+                    <expan>desolationem</expan>
+                  </choice>.</q></p>
               <p><persName>Herodes</persName>
                 <persName>ANANALEVM</persName> quendam de <placeName>babilone</placeName>
                 <choice>
@@ -18333,11 +18334,11 @@
                 </choice> moriens <choice>
                   <abbr>ipe</abbr>
                   <expan>ipse</expan>
-                </choice> dictauerat.</p>
-              <p><placeName>Mantua</placeName> me genuit: <rs type="ethnic">Calabri</rs> rapuere:
-                tenet nunc</p>
-              <p><persName>Parthenope</persName>. Cecini pascua: Rura: Duces.</p>
-              <p><persName>Augustus</persName>
+                </choice> dictauerat.</p><q>
+                <p><placeName>Mantua</placeName> me genuit: <rs type="ethnic">Calabri</rs> rapuere:
+                  tenet nunc</p>
+                <p><persName>Parthenope</persName>. Cecini pascua: Rura: Duces.</p>
+              </q><p><persName>Augustus</persName>
                 <rs type="ethnic">Samiis</rs>
                 <choice>
                   <abbr>libertate</abbr>
@@ -19772,33 +19773,33 @@
               <choice>
                 <abbr><num>XIII</num>o</abbr>
                 <expan>Unknown</expan>
-              </choice> libro ita direns. Quarto <choice>
-                <abbr>aut</abbr>
-                <expan>autem</expan>
-              </choice> anno <num>CCII</num>. olympiadis magna et excellens inter <choice>
-                <abbr>oms</abbr>
-                <expan>omnes</expan>
-              </choice>
-              <choice>
-                <abbr>q</abbr>
-                <expan>Unknown</expan>
-              </choice> ante eam acciderant defectio solis est facta. Dies hora <num>VI</num> ita in
-              tenebrosam <choice>
-                <abbr>nocte</abbr>
-                <expan>noctem</expan>
-              </choice> uersus: ut stelle <choice>
-                <abbr>i</abbr>
-                <expan>in</expan>
-              </choice> caelo uise sint. <choice>
-                <abbr>Terreq</abbr>
-                <expan>Terreque</expan>
-              </choice> motus <choice>
-                <abbr>i</abbr>
-                <expan>in</expan>
-              </choice>
-              <placeName>bithynia</placeName>
-              <placeName>niceae</placeName> urbis multas edes subuerterit. hec supradictus uir.
-              Argumentum aut huius rei: <choice>
+              </choice> libro ita direns. <q>Quarto <choice>
+                  <abbr>aut</abbr>
+                  <expan>autem</expan>
+                </choice> anno <num>CCII</num>. olympiadis magna et excellens inter <choice>
+                  <abbr>oms</abbr>
+                  <expan>omnes</expan>
+                </choice>
+                <choice>
+                  <abbr>q</abbr>
+                  <expan>Unknown</expan>
+                </choice> ante eam acciderant defectio solis est facta. Dies hora <num>VI</num> ita
+                in tenebrosam <choice>
+                  <abbr>nocte</abbr>
+                  <expan>noctem</expan>
+                </choice> uersus: ut stelle <choice>
+                  <abbr>i</abbr>
+                  <expan>in</expan>
+                </choice> caelo uise sint. <choice>
+                  <abbr>Terreq</abbr>
+                  <expan>Terreque</expan>
+                </choice> motus <choice>
+                  <abbr>i</abbr>
+                  <expan>in</expan>
+                </choice>
+                <placeName>bithynia</placeName>
+                <placeName>niceae</placeName> urbis multas edes subuerterit.</q> hec supradictus
+              uir. Argumentum aut huius rei: <choice>
                 <abbr>q</abbr>
                 <expan>Unknown</expan>
               </choice> saluator isto anno <choice>
@@ -19855,10 +19856,10 @@
               </choice> subito eruisse uocem <choice>
                 <abbr>dicentiu</abbr>
                 <expan>dicentium</expan>
-              </choice>. <choice>
-                <abbr>Transmigrem</abbr>
-                <expan>Transmigremus</expan>
-              </choice> ex his sedibus. Scribit <choice>
+              </choice>. <q><choice>
+                  <abbr>Transmigrem</abbr>
+                  <expan>Transmigremus</expan>
+                </choice> ex his sedibus.</q> Scribit <choice>
                 <abbr>aut</abbr>
                 <expan>autem</expan>
               </choice> supradictus uir: <choice>
@@ -20568,8 +20569,8 @@
                 </choice></placeName> et <placeName><choice>
                   <abbr>gutta</abbr>
                   <expan>guttam</expan>
-                </choice></placeName> interesset. <placeName>Gutta</placeName> inquit stat.
-                <placeName>Stilla</placeName> cadit.</cell>
+                </choice></placeName> interesset. <q><placeName>Gutta</placeName> inquit stat.
+                  <placeName>Stilla</placeName> cadit.</q></cell>
             <cell role="spatium"/>
           </row>
           <row role="Olympiad" n="207">
@@ -22316,8 +22317,8 @@
             <cell><persName>PLINIVS</persName>. <num>II</num>. cum quandam <choice>
                 <abbr>prouincia</abbr>
                 <expan>prouinciam</expan>
-            </choice> regeret: et in magistratu suo plurimos <rs type="person">christianorum</rs> interfecisset:
-              multitudine <choice>
+              </choice> regeret: et in magistratu suo plurimos <rs type="person">christianorum</rs>
+              interfecisset: multitudine <choice>
                 <abbr>eor</abbr>
                 <expan>eorum</expan>
               </choice>
@@ -22338,15 +22339,15 @@
                 <abbr>comotus</abbr>
                 <expan>commotus</expan>
               </choice>
-              <persName>traianus</persName> rescripsit. hoc genus quidem inquirendum <choice>
-                <abbr>no</abbr>
-                <expan>non</expan>
-              </choice>
-              <choice>
-                <abbr>ee</abbr>
-                <expan>esse</expan>
-              </choice>. Oblatos uero puniri oportere. <persName>Tertulianus</persName> refert in
-                <title>Apologetico</title>.</cell>
+              <persName>traianus</persName> rescripsit. <q>hoc genus quidem inquirendum <choice>
+                  <abbr>no</abbr>
+                  <expan>non</expan>
+                </choice>
+                <choice>
+                  <abbr>ee</abbr>
+                  <expan>esse</expan>
+                </choice>. Oblatos uero puniri oportere.</q>
+              <persName>Tertulianus</persName> refert in <title>Apologetico</title>.</cell>
             <cell role="spatium"/>
           </row>
           <row n="222_2">
