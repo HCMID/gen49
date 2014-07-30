@@ -2096,7 +2096,7 @@
                         </choice> sub celo in <choice>
                             <abbr>congregatione</abbr>
                             <expan>congregationem</expan>
-                        </choice> unam et apparuit arida: quam deus <choice>
+                        </choice> unam et apparuit arida: quam <persName>deus</persName> <choice>
                             <abbr>terra</abbr>
                             <expan>terram</expan>
                         </choice> nominauit. <choice>
@@ -2361,7 +2361,7 @@
                             <abbr>terra</abbr>
                             <expan>terram</expan>
                         </choice>. </s>
-                    <s n="33"> Et fecit deus <choice>
+                    <s n="33"> Et fecit <persName>deus</persName> <choice>
                             <abbr>homine</abbr>
                             <expan>hominem</expan>
                         </choice> secundum <choice>
@@ -2404,7 +2404,7 @@
                     <s n="37"> et dixit <choice>
                             <abbr>dns</abbr>
                             <expan>dominus</expan>
-                        </choice> deus <choice>
+                        </choice> <persName>deus</persName> <choice>
                             <abbr>no</abbr>
                             <expan>non</expan>
                         </choice>
