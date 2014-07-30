@@ -10271,7 +10271,7 @@
               <placeName><choice>
                   <abbr>Iudea</abbr>
                   <expan>Iudeam</expan>
-                </choice></placeName> inuadit: a qua fauorabiliter exceptus deo uictimas Immolat. et <choice>
+                </choice></placeName> inuadit: a qua fauorabiliter exceptus <persName>deo</persName> uictimas Immolat. et <choice>
                 <abbr>pont.</abbr>
                 <expan>pontificem</expan>
               </choice> templi honoribus plurimis <choice>
@@ -13834,7 +13834,7 @@
                 <sic>necat</sic>
                 <corr>enecat</corr>
               </choice>. Postea uero <placeName>hierosolimam</placeName> ascendens: templum et uasa
-              dei <choice>
+              <persName>dei</persName> <choice>
                 <abbr>q</abbr>
                 <expan>quae</expan>
               </choice> ministerio uerunt consecrat uastat. In templo <persName>Iouis
@@ -14093,7 +14093,7 @@
                   <abbr>tpis</abbr>
                   <expan>temporis</expan>
                 </choice>
-              </choice> dei ira percussus interiit. Ac sic <choice>
+              </choice> <persName>dei</persName> ira percussus interiit. Ac sic <choice>
                 <abbr>cu</abbr>
                 <expan>cum</expan>
               </choice>
@@ -17706,7 +17706,7 @@
                 <choice>
                   <abbr>seriuentib</abbr>
                   <expan>seruientibus</expan>
-                </choice> deo. Ignobiles uero quidam et alio tempore alii. Et <choice>
+                </choice> <persName>deo</persName>. Ignobiles uero quidam et alio tempore alii. Et <choice>
                   <abbr>nonulli</abbr>
                   <expan>nonnulli</expan>
                 </choice> unius anni siue modico amplius a <rs type="ethnic"><choice>
@@ -18800,7 +18800,7 @@
           </row>
           <row role="regnal" n="194_3_r1">
             <cell role="spatium"/>
-            <cell><persName>IHESVS. CHRISTUS</persName>. FILIVS. DEI. IN. <placeName><choice>
+            <cell><persName>IHESVS. CHRISTUS</persName>. FILIVS. <persName>DEI</persName>. IN. <placeName><choice>
                   <abbr>BETLEE</abbr>
                   <expan>BETLEEM</expan>
                 </choice>. <placeName>IVDAE</placeName> NASCITVR.</placeName></cell>
@@ -19551,7 +19551,7 @@
                 <choice>
                   <abbr>filiu</abbr>
                   <expan>filium</expan>
-                </choice> dei <choice>
+                </choice> <persName>dei</persName> <choice>
                   <abbr>i</abbr>
                   <expan>in</expan>
                 </choice> medio eorum adesse <choice>
@@ -19682,7 +19682,7 @@
             <cell><num>XVI</num></cell>
             <cell role="spatium"/>
             <cell><num>XVI</num></cell>
-            <cell><persName>Ihesus christus</persName> filius dei <choice>
+            <cell><persName>Ihesus christus</persName> filius <persName>dei</persName> <choice>
                 <abbr>salutare</abbr>
                 <expan>salutarem</expan>
               </choice> cunctis predicans predicans uiam: miracula que <choice>
@@ -19698,7 +19698,7 @@
             <cell><num>XVII</num></cell>
             <cell role="spatium"/>
             <cell><num>XVII</num></cell>
-            <cell><persName>Ihiesus christus</persName> filius dei discipulos suos diuinis imbuens
+            <cell><persName>Ihiesus christus</persName> filius <persName>dei</persName> discipulos suos diuinis imbuens
               sacramentis ut uniuersis <choice>
                 <abbr>genitb</abbr>
                 <expan>gentibus</expan>
@@ -19706,7 +19706,7 @@
               <choice>
                 <abbr>conuesione</abbr>
                 <expan>conuersionem</expan>
-              </choice> ad deum annuncient imperat.</cell>
+              </choice> ad <persName>deum</persName> annuncient imperat.</cell>
             <cell role="annimundi"><choice>
                 <abbr><num>VCCXXX</num></abbr>
                 <expan><num>V</num> milia <num>CCXXX</num></expan>
@@ -19716,7 +19716,7 @@
             <cell><num>XVIII</num></cell>
             <cell role="spatium"/>
             <cell><num>XVIII</num></cell>
-            <cell><p><persName>Ihiesus christus</persName> filius dei <choice>
+            <cell><p><persName>Ihiesus christus</persName> filius <persName>dei</persName> <choice>
                   <abbr>secundu</abbr>
                   <expan>secundum</expan>
                 </choice> prophetias que de eo fuerant prelocutae: ad possionem uenit Anno
@@ -21772,10 +21772,10 @@
               <choice>
                 <abbr>dn</abbr>
                 <expan>dominem</expan>
-              </choice> se et <choice>
+              </choice> se et <persName><choice>
                 <abbr>deu</abbr>
                 <expan>deum</expan>
-              </choice> appellari Iussit. <rs type="ethnic">Nasamones</rs> et <rs type="ethnic"
+              </choice></persName> appellari Iussit. <rs type="ethnic">Nasamones</rs> et <rs type="ethnic"
                 >daci</rs> dimicantes auersum <rs type="ethnic">romanos</rs> uicti:</cell>
             <cell role="spatium"/>
           </row>
@@ -26768,10 +26768,10 @@
           </row>
           <row n="268_2">
             <cell><num>IX</num></cell>
-            <cell role="regnal"><note><p>Primus <persName>diocletianus</persName> adorari se ut <choice>
+            <cell role="regnal"><note><p>Primus <persName>diocletianus</persName> adorari se ut <persName><choice>
                     <abbr>deu</abbr>
                     <expan>deum</expan>
-                  </choice> iussit. Et gemmas <choice>
+                  </choice></persName> iussit. Et gemmas <choice>
                     <abbr>uestib</abbr>
                     <expan>uestibus</expan>
                   </choice>
@@ -29054,7 +29054,7 @@
               <p>Ecclesia <placeName>Antiochie</placeName> clausa et grauissima imminentis <choice>
                   <abbr>psecutionis</abbr>
                   <expan>persecutionis</expan>
-                </choice> procella dei uoluntate sopita est. Nam <persName>Iulianus</persName> in
+                </choice> procella <persName>dei</persName> uoluntate sopita est. Nam <persName>Iulianus</persName> in
                   <rs type="ethnic">persas</rs> profectus <choice>
                   <abbr>nostru</abbr>
                   <expan>nostrum</expan>
