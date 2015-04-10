@@ -25315,14 +25315,14 @@
               <placeName>romam</placeName> ingresso <persName>pupienus</persName> et <persName><choice>
                   <abbr>Albin</abbr>
                   <expan>Albinus</expan>
-                </choice></persName> (<choice>
+                </choice></persName> <note resp="scribe1"><choice>
                 <abbr>q</abbr>
                 <expan>qui</expan>
               </choice>
               <choice>
                 <abbr>impiu</abbr>
                 <expan>imperium</expan>
-              </choice> arripuerant) in palatio occisi.</cell>
+              </choice> arripuerant</note> in palatio occisi.</cell>
           </row>
           <row role="olympiad" n="255">
             <cell role="spatium"/>
