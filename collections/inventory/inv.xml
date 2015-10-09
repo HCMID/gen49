@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="file:/data/repos/git/gen49/collections/CiteCollectionInventory.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="CiteCollectionInventory.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <collectionService xmlns="http://chs.harvard.edu/xmlns/cite">
+    
+    <extensionImplementation abbr="image" rdfType="cite:Image"/>
+    
+    
+    
+    
     <citeCollection canonicalId="PageUrn" label="PageUrn" urn="urn:cite:hcmid:gen49">
         <namespaceMapping abbr="hcmid" fullValue="http://shot.holycross.edu/hcmid/datans"></namespaceMapping>
         <title xmlns="http://purl.org/dc/elements/1.1/">Pages of Geneva Latin MS 49</title>
@@ -17,6 +23,35 @@
         
     </citeCollection>
     
+    <!-- IMAGE COLLECTIONS  *****************************************************  -->
+    <!-- urn:cite:hcmid:gen49bifolioimgs.gen49_1v_2r -->
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:hcmid:gen49bifolioimgs">
+        <namespaceMapping
+            abbr="ecod"
+            fullValue="http://www.homermultitext.org/citedata/rdf/"/>
+        <extension name="image"/>
+        <title
+            xmlns="http://purl.org/dc/elements/1.1/">Images of Geneva, Codex 49</title>
+        <creator
+            xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
+        <coverage
+            xmlns="http://purl.org/dc/elements/1.1/">Photography of the entire MS</coverage>
+        <description
+            xmlns="http://purl.org/dc/elements/1.1/">Images from the e-codices project of Geneva MS 49.</description>
+        <rights
+            xmlns="http://purl.org/dc/elements/1.1/"> Data in this collection are available under the terms of
+            a Creative Commons-Attribution-Share Alike license, and document public-domain images made available from the e-codices project.
+        </rights>
+        <source
+            type="file"
+            value="imgs/gen49img.csv"/>
+        <citeProperty name="Image" label="Image URN" type="citeurn"/>
+        <citeProperty name="Caption" label="Caption" type="string"/>
+        <citeProperty name="Rights" label="Rights" type="string"/>
+        
+    </citeCollection>
+    
+    <!--
     
     <citeCollection canonicalId="Bifolio" label="Bifolio spread" urn="urn:cite:hcmid:gen49bifolios">
         <namespaceMapping abbr="hcmid" fullValue="http://shot.holycross.edu/hcmid/datans"></namespaceMapping>
@@ -28,12 +63,11 @@
         <source  type="file" value="bifolios.tsv"></source>
         <citeProperty name="Bifolio" label="Bifolio" type="citeurn"/>
         <citeProperty name="Sequence" label="Sequence" type="number"/>
-        <citeProperty name="Image" label="Image"  type="citeimg"/>
+        <citeProperty name="Image" label="Image"  type="citeurn"/>
         
-    </citeCollection>
+    </citeCollection> -->
     
-    
-    
+    <!--
     
     <citeCollection canonicalId="Graphic" label="Caption" urn="urn:cite:hcmid:gen49graphics">
         <namespaceMapping abbr="hcmid" fullValue="http://shot.holycross.edu/hcmid/datans"></namespaceMapping>
@@ -48,4 +82,5 @@
         <citeProperty name="Caption" label="Summary" type="string"/>
         
     </citeCollection>
+    -->
 </collectionService>
