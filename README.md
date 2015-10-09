@@ -1,7 +1,7 @@
 gen49
 =====
 
-Archival repository originally for work editing Geneva Latin MS 49, Jerome's *Chronicles*, and expanded to include work on MSS in St. Gallen and Bern as well.
+Archival repository originally for work editing Geneva Latin MS 49, Jerome's *Chronicles*, and expanded to include work on MSS in St. Gallen (Kantonsbibliothek, Vadianische Sammlung, Ms. 298) and Bern (Burgerbibliothek, Cod. 219) as well.
 
 Contributors should see the [project wiki](https://github.com/HCMID/gen49/wiki) for help getting started.
 
