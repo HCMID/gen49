@@ -10,9 +10,9 @@ project.ext {
 
 
     // Lists of index files to use in DSE verification:
-    folioToImage = "/Users/nsmith/repos/mid-git/gen49/indices/pageToDefaultImage.csv"
-    textToImage = "/Users/nsmith/repos/mid-git/gen49/indices/textToImage.csv"
-    textToFolio = "/Users/nsmith/repos/mid-git/gen49/indices/textToPage.csv"
+    folioToImage = "/vagrant/gen49/indices/pageToDefaultImage.csv"
+    textToImage = "/vagrant/gen49/indices/textToImage.csv"
+    textToFolio = "/vagrant/gen49/indices/textToPage.csv"
 
 
     imgsvc = "http://beta.hpcc.uh.edu/tomcat/mss/images"
