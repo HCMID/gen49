@@ -11,16 +11,16 @@
     </ctsnamespace>
    
     <textgroup
-        urn="urn:cts:latinLit:stoa0162">
+        urn="urn:cts:latinLit:stoa0162:">
         <groupname
             xml:lang="eng">Works by Jerome</groupname>
         <work
-            urn="urn:cts:latinLit:stoa0162.stoa005"
+            urn="urn:cts:latinLit:stoa0162.stoa005:"
             xml:lang="lat">
             <title
                 xml:lang="eng">Chronicles</title>
             <edition
-                urn="urn:cts:latinLit:stoa0162.stoa005.gen49">
+                urn="urn:cts:latinLit:stoa0162.stoa005.gen49:">
                 <label xml:lang="eng">Original diplomatic edition of the Geneva 49 MS</label>
                 <online
                     docname="Geneva49.xml">
@@ -58,7 +58,7 @@
             </edition>
             
             <edition
-                urn="urn:cts:latinLit:stoa0162.stoa005.hchelm">
+                urn="urn:cts:latinLit:stoa0162.stoa005.hchelm:">
                 <label xml:lang="eng">Digital edition based on public-domain text on tertullian web site, compared to readings in Helm</label>
                 <online
                     docname="JerChronicles-tert.xml">
