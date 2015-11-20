@@ -1,0 +1,37 @@
+project.ext {
+
+    // don't forget to pass a folio value on the CL
+
+
+
+    // Settings for hocuspocus CTS repository:
+    textInventory = ""
+    textArchive = ""
+
+
+    // Lists of index files to use in DSE verification:
+    folioToImage = "/Users/nsmith/repos/mid-git/gen49/indices/pageToDefaultImage.csv"
+    textToImage = "/Users/nsmith/repos/mid-git/gen49/indices/textToImage.csv"
+    textToFolio = "/Users/nsmith/repos/mid-git/gen49/indices/textToPage.csv"
+
+
+    imgsvc = "http://beta.hpcc.uh.edu/tomcat/mss/images"
+
+
+    // Collection with systematic, random set of HMT
+    // paleographic observations:
+    //paleo = "collections/paleography.csv"
+
+    // settings for concordion testing
+    mdSrc = "specs/md"
+
+    htmlPreface = """
+<html xmlns:concordion="http://www.concordion.org/2007/concordion">
+<body>
+    """
+    htmlEnd = "</body>\n</html>\n"
+
+
+    tokenMap = [    "openex": "<div class='example'>", "closeex" : "</div>"]
+
+}
