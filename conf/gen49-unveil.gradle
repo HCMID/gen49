@@ -5,8 +5,9 @@ project.ext {
 
 
     // Settings for hocuspocus CTS repository:
-    textInventory = ""
-    textArchive = ""
+    textInventory = "/vagrant/gen49/texts/inventory.xml"
+    textArchive = "/vagrant/gen49/texts/editions"
+    invSchema = "/vagrant/gen49/texts/TextInventory.rng"
 
 
     // Lists of index files to use in DSE verification:
