@@ -1,6 +1,6 @@
 
 if [ "$#" -ne 1 ]; then
-    echo "Usage: sh validate.sh URN"
+    echo "Usage: sh dse.sh URN"
     exit
 fi
 
@@ -16,4 +16,4 @@ gradle clean
 
 echo Beginning verification for folio $1
 
-gradle -Pfolio=$1 -Pconf=$CONFFILE  validate
+gradle -Pfolio=$1 -Pconf=$CONFFILE  dse

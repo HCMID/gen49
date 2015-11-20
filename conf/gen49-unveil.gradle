@@ -5,14 +5,15 @@ project.ext {
 
 
     // Settings for hocuspocus CTS repository:
-    textInventory = ""
-    textArchive = ""
+    textInventory = "/vagrant/gen49/texts/inventory.xml"
+    textArchive = "/vagrant/gen49/texts/editions"
+    invSchema = "/vagrant/gen49/texts/TextInventory.rng"
 
 
     // Lists of index files to use in DSE verification:
-    folioToImage = "/Users/nsmith/repos/mid-git/gen49/indices/pageToDefaultImage.csv"
-    textToImage = "/Users/nsmith/repos/mid-git/gen49/indices/textToImage.csv"
-    textToFolio = "/Users/nsmith/repos/mid-git/gen49/indices/textToPage.csv"
+    folioToImage = "/vagrant/gen49/indices/pageToDefaultImage.csv"
+    textToImage = "/vagrant/gen49/indices/textToImage.csv"
+    textToFolio = "/vagrant/gen49/indices/textToPage.csv"
 
 
     imgsvc = "http://beta.hpcc.uh.edu/tomcat/mss/images"
