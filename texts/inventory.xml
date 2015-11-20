@@ -20,6 +20,44 @@
             <title
                 xml:lang="eng">Chronicles</title>
             <edition
+                urn="urn:cts:latinLit:stoa0162.stoa005.gen49">
+                <label xml:lang="eng">Original diplomatic edition of the Geneva 49 MS</label>
+                <online
+                    docname="Geneva49.xml">
+                    
+                    <namespaceMapping
+                        abbreviation="tei"
+                        nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation
+                            label="era"
+                            scope="/tei:TEI/tei:text/tei:body"
+                            xpath="/tei:div[@n = '?']">
+                            <citation label="paragraph" xpath="/tei:p[@n = '?']" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"></citation>
+                        </citation>
+                        
+                        <citation
+                            label="era"
+                            scope="/tei:TEI/tei:text/tei:body"
+                            
+                            xpath="/tei:div[@n = '?']">
+                            <citation
+                                label="table"
+                                scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                                xpath="/tei:table[@n = '?']">
+                                
+                                <citation
+                                    label="row"
+                                    scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']/tei:table[@n = '?']"
+                                    xpath="/tei:row[@n = '?']"/> 
+                                   
+                            </citation>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
+            
+            <edition
                 urn="urn:cts:latinLit:stoa0162.stoa005.hchelm">
                 <label xml:lang="eng">Digital edition based on public-domain text on tertullian web site, compared to readings in Helm</label>
                 <online
