@@ -76,7 +76,7 @@
             <cell><num>XXI</num></cell>
             <cell><num>III</num>
             </cell>
-            <cell><persName n="Arctinus">Arctinus <rs type="ethnic">milesius</rs></persName>
+            <cell><persName>Arctinus <rs type="ethnic">milesius</rs></persName>
               uersificator florentissimus <choice>
                 <abbr>hr</abbr>
                 <expan>habetur</expan>
@@ -90,7 +90,7 @@
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
-            <cell>Post quem <persName n="Facee">FACEE</persName>
+            <cell>Post quem <persName>FACEE</persName>
               <choice>
                 <abbr>ann</abbr>
                 <expan>annis</expan>
@@ -109,7 +109,7 @@
             <cell><num>LI</num></cell>
             <cell role="spatium"/>
             <cell><num>I</num></cell>
-            <cell>Sub hoc <persName n="Facee">facee</persName>
+            <cell>Sub hoc <persName>facee</persName>
               <persName>Theglad fallassar</persName> rex <rs type="ethnic">assyrius</rs>
               <choice>
                 <abbr>magna</abbr>
@@ -832,7 +832,7 @@
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
-            <cell role="filum" n="Romans"><persName>ROMVLVS</persName>. PRIMVS. REX. <rs
+            <cell role="filum" n="Romans"><persName n="urn:cite:hcmid:jerpers.1">ROMVLVS</persName>. PRIMVS. REX. <rs
                 type="ethnic"><choice>
                   <abbr>ROMAN</abbr>
                   <expan>ROMANORVM</expan>
@@ -999,7 +999,7 @@
               </choice> mouerant: <choice>
                 <abbr>uincunt</abbr>
                 <expan>uincuntur</expan>
-              </choice> a. <persName>Romulo</persName>.</cell>
+              </choice> a. <persName n="urn:cite:hcmid:jerpers.1">Romulo</persName>.</cell>
             <cell role="spatium"/>
             <cell role="spatium"/>
             <cell role="spatium"/>
@@ -1656,7 +1656,7 @@
             <cell><num>VIII</num></cell>
             <cell><num>XXV</num></cell>
             <cell>
-              <persName n="Romulus">Romulus</persName> primus milites sumpsit ex populo: et
+              <persName n="urn:cite:hcmid:jerpers.1">Romulus</persName> primus milites sumpsit ex populo: et
               nobilissimos. <num>C</num>. senes ob <choice>
                 <abbr>aetate</abbr>
                 <expan>aetatem</expan>
@@ -1936,12 +1936,12 @@
             <cell role="spatium"/>
             <cell><num>XX</num></cell>
             <cell><num>XXXVII</num></cell>
-            <cell><persName n="Romulus">ROMVLVS</persName> apud <placeName>paludes
+            <cell><persName n="urn:cite:hcmid:jerpers.1">ROMVLVS</persName> apud <placeName>paludes
                 capree</placeName>
               <choice>
                 <abbr>nusq</abbr>
                 <expan>nusque</expan>
-              </choice> comparuit. et suadente <persName n="Julius Proculus">Iulio
+              </choice> comparuit. et suadente <persName>Iulio
                 proculo</persName>: <persName>quirini</persName> nomine apud suos consicratus est.
               Mortuo <persName>romulo</persName>
               <choice>
@@ -7104,7 +7104,7 @@
               </choice>. <rs type="ethnic"><choice>
                   <abbr>Romano</abbr>
                   <expan>Romanorum</expan>
-                </choice></rs> reges. <num>VII</num>. a <persName>Romulo</persName>
+              </choice></rs> reges. <num>VII</num>. a <persName n="urn:cite:hcmid:jerpers.1">Romulo</persName>
               <choice>
                 <abbr>usq</abbr>
                 <expan>usque</expan>
