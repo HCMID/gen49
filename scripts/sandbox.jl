@@ -2,15 +2,29 @@ using EzXML
 f = joinpath(pwd(), "texts", "editions", "Geneva49.xml")
 
 teins = "http://www.tei-c.org/ns/1.0"
-
 xp = "/ns:TEI/ns:text/ns:body/ns:div"
 doc = readxml(f)
 
-divs = findall(xp, root(doc),["ns"=> teins])
 
+
+function format_row(row)
+    if haskey(row, "role")
+        role = row["role"]
+        @info("FORMAT ROLE $(role)")
+    end
+    cells = findall("ns:cell", row,  ["ns"=> teins])
+    #@info("$(psg): $(length(cells)) cells")
+    rowtext = []
+    for c in cells
+        stripped = replace(c.content, "\n" => " " )
+        push!(rowtext,  replace(stripped, r"[ ]+" => " ") *  " | ") 
+    end
+    join(rowtext,"") * " |"
+end
+
+divs = findall(xp, root(doc),["ns"=> teins])
 for d in divs
     psg = d["n"]            
-    #@info(psg)
     tlist = findall("ns:table", d, ["ns"=> teins])
     for t in tlist
         if haskey(t, "n")
@@ -21,28 +35,15 @@ for d in divs
             for r in  findall("ns:row", t,  ["ns"=> teins])
                 if haskey(r, "n")
                     row = r["n"]
-                    @info("$(refbase).$(row)")
+                    ref = "$(refbase).$(row)"
+                    println(ref, "|", format_row(r))
+
                 else
-                    @info("NO n attr for row in $(refbase)")
+                    @warn("NO n attr for row in $(refbase)")
                 end
-                
-                if haskey(r, "role")
-                    role = r["role"]
-                    @info("FORMAT ROLE $(role)")
-                end
-                cells = findall("ns:cell", r,  ["ns"=> teins])
-                @info("$(length(cells)) cells")
-                
-                row = []
-                for c in cells
-                    stripped = replace(c.content, "\n" => " " )
-                    push!(row,  replace(stripped, r"[ ]+" => " ") *  " | ") 
-                end
-                println(join(row,"") , " |")
             end
-     
         else
-            @info("No n attr for table in div $(psg)")
+            @warn("No n attr for table in div $(psg)")
         end
     end
 end
