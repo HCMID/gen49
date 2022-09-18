@@ -32,10 +32,13 @@ for d in divs
                 end
                 cells = findall("ns:cell", r,  ["ns"=> teins])
                 @info("$(length(cells)) cells")
+                
+                row = []
                 for c in cells
-                    @info(c)
+                    stripped = replace(c.content, "\n" => " " )
+                    push!(row,  replace(stripped, r"[ ]+" => " ") *  " | ") 
                 end
-      
+                println(join(row,"") , " |")
             end
      
         else
