@@ -32,6 +32,9 @@ for d in divs
                 end
                 cells = findall("ns:cell", r,  ["ns"=> teins])
                 @info("$(length(cells)) cells")
+                for c in cells
+                    @info(c)
+                end
       
             end
      
