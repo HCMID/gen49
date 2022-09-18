@@ -3,8 +3,11 @@
 
 Rpository for work editing Bibliothèque de Genève, Ms. lat. 49, Jerome's *Chronicles*.
 
+## References
 
-
+- URN for text: `urn:cts:latinLit:stoa0162.stoa005.gen49:`
+- URN for manuscript pages: `urn:cite2:hcmid:gen49.v1:`
+- URN for image collection: `urn:cite2:citeecod:gen49imgs.v1:`
 
 
 ## License
