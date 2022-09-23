@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="jerome-html-proof.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chronicles</title>
+        <author>Jerome</author>
+        <editor>ADD YOUR NAMES</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Diplomatic edition of Geneva 49 MS.</p>
+
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+        <div n="14">
+        <table n="t1">
+            <row role="header" n="header"></row>
+            <row role="header" n="regnal"></row>
+            <row role="header" n="1"></row>
+            <row role="header" n="2"></row>
+        </table>
+        </div>
+    </body>
+    </text>
+</TEI>
