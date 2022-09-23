@@ -1,0 +1,10 @@
+#!citerelationset
+urn|urn:cts:latinLit:stoa0162.stoa005.gen49:
+label|Collection of DSE records for Bibliothèque de Genève, Ms. lat. 49, Jerome's Chronicles.
+
+
+passage|imageroi|surface
+urn:cts:latinLit:stoa0162.stoa005.gen49:1.t1.header|urn:cite2:citeecod:gen49imgs.v1:gen49_1v_2r@0.1141,0.01006,0.8731,0.1131|urn:cite2:hcmid:gen49.v1:1v-2r
+urn:cts:latinLit:stoa0162.stoa005.gen49:1.t1.regnal|urn:cite2:citeecod:gen49imgs.v1:gen49_1v_2r@0.1798,0.1131,0.7489,0.1110|urn:cite2:hcmid:gen49.v1:1v-2r
+urn:cts:latinLit:stoa0162.stoa005.gen49:1.t1.1|urn:cite2:citeecod:gen49imgs.v1:gen49_1v_2r@0.1078,0.2123,0.8711,0.07744|urn:cite2:hcmid:gen49.v1:1v-2r
+urn:cts:latinLit:stoa0162.stoa005.gen49:1.t1.2|urn:cite2:citeecod:gen49imgs.v1:gen49_1v_2r@0.1150,0.2518,0.7321,0.02614|urn:cite2:hcmid:gen49.v1:1v-2r
