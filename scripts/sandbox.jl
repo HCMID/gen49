@@ -1,7 +1,7 @@
 using EzXML
 using CitableBase, CitableText, CitableCorpus
 
-f = joinpath(pwd(), "texts", "editions", "Geneva49.xml")
+f = joinpath(pwd(), "archive", "texts", "editions", "Geneva49.xml")
 teins = "http://www.tei-c.org/ns/1.0"
 xp = "/ns:TEI/ns:text/ns:body/ns:div"
 doc = readxml(f)
