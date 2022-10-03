@@ -33,8 +33,11 @@ begin
 	using EditorsRepo
 end
 
+# ╔═╡ 896905a8-477d-410b-9b07-26914afe5354
+TableOfContents(title = "Contents")
+
 # ╔═╡ ed8eaf10-0482-493f-979c-e07a2a3aa42d
-md"""> ### MID validating notebook:   `v0.17.0` (F22)
+md"""> **MID validating notebook:   `v0.17.0` (F22)**
 >
 > Problems, suggestions?  Please file an issue in the MID  [`validatormodel` repository](https://github.com/HCMID/validatormodel/issues).
 > 
@@ -61,7 +64,7 @@ md"*Height of thumbnail image*: $(@bind thumbht Slider(150:500, show_value=true)
 
 
 # ╔═╡ 3dd5b685-62b7-4d05-9866-a60b1c20bdf9
-md""" ### 1.B. Verify *accuracy* of indexing
+md"""### 1.B. Verify *accuracy* of indexing
 
 *Check that the diplomatic reading and the indexed image correspond*.
 """
@@ -73,10 +76,66 @@ md"""
 """
 
 # ╔═╡ e3492287-4d55-4be9-b92f-b9bb7d39e982
-md"""### Orthographic verification"""
+md"""## Orthographic verification"""
+
+# ╔═╡ db956017-d168-4c8d-a0e8-166d1e1fd7b9
+md"""
+$br
+$br
+$br
+$br
+$br
+$br
+"""
 
 # ╔═╡ a0599bb7-02fc-4cd3-acac-507dfbff9cf1
-md"""> Hide all this stuff once we've got a working nb"""
+md"""> ### How does it work?
+"""
+
+# ╔═╡ a0e7627b-13b6-4cc8-b07b-d6aeaaf63774
+md"""
+
+*Show explanation* $(@bind showhow CheckBox(default=false)) 
+
+
+"""
+
+# ╔═╡ 73ac6089-a845-45e4-bb15-720f054a1685
+if showhow
+md"""#### How it works
+
+Eight cells below this one are hidden.  You can unhide them to see how this notebook works.  The bulk of the computational work is done using the HC MID `EditorsRepo` package to interpret the contents of an MID editorial repository.
+
+
+The hidden cells are arranged in the following order:
+
+- **Cells 1-2**: The next 2 cells configure remote image services (the HMT project's Image Citation Tool, and a citable image service at the University of Houston)
+- **Cells 3-4**: These are followed by 2 cells that read in local source data: 
+    1. the parent directory of this notebook's home is interpreted as an MID editorial repository, and loaded as an  `EditorsRepository` object
+    2. within this notebook's directory, the file `MID.toml` is read for project-specific configuration
+- **Cells 5-6**:  These are followed by 2 cells for user selection of a page to valdiate:
+    1. create a menu of edited surfaces from the data in this editorial repository. (This is used for the popup menu right below the heading `Choose a surface to verify` above.)  
+    2. create a `Cite2Urn` from the user's selection from the and read in source data.
+- **Cells 7-8**: The final two cells just define some HTML and CSS formatting.
+"""
+
+	
+else
+	md""
+end
+
+# ╔═╡ 62918cf4-1d08-477a-9de7-ff2d31f71e12
+# Base URL for an ImageCitationTool
+function ict()
+	"http://www.homermultitext.org/ict2/?"
+end;
+
+# ╔═╡ 7abaa610-a931-4654-ad3d-d9d3ba688ef9
+# API to work with an IIIF image service
+function iiifsvc()
+	IIIFservice("http://www.homermultitext.org/iipsrv",
+	"/project/homer/pyramidal/deepzoom")
+end;
 
 # ╔═╡ 09421ad8-7c4a-4906-978c-b84185a7eb16
 # Create EditingRepository for this notebook's repository
@@ -88,23 +147,10 @@ md"""> Hide all this stuff once we've got a working nb"""
 r =  begin
 	loadem
 	repository(dirname(pwd()))
-end
-
-# ╔═╡ 62918cf4-1d08-477a-9de7-ff2d31f71e12
-# Base URL for an ImageCitationTool
-function ict()
-	"http://www.homermultitext.org/ict2/?"
-end
-
-# ╔═╡ 7abaa610-a931-4654-ad3d-d9d3ba688ef9
-# API to work with an IIIF image service
-function iiifsvc()
-	IIIFservice("http://www.homermultitext.org/iipsrv",
-	"/project/homer/pyramidal/deepzoom")
-end
+end;
 
 # ╔═╡ a97482e8-426b-4df8-872b-bde763ec1299
-middict = TOML.parsefile(joinpath(pwd(), "MID.toml"))
+middict = TOML.parsefile(joinpath(pwd(), "MID.toml"));
 
 # ╔═╡ e96bb62d-3763-48e6-943c-519862c454ab
 begin
@@ -116,10 +162,10 @@ begin
 		
 		"<blockquote  class='splash'>",
 		"<div class=\"center\">",
-		"<h2>Project: <em>",
+		"<h1>Project: <em>",
 		projectname,
 		"</em>",
-		"</h2>",
+		"</h1>",
 		"</div>",
 		"<ul>",
 		"<li>On github at:  ",
@@ -148,26 +194,22 @@ function surfacemenu()
 		push!(options, string(s))
 	end
 	options
-end
+end;
 
 # ╔═╡ 1869b33f-6e12-48cf-bf0e-e1f1434b0fbf
 # ╠═╡ show_logs = false
-md""" ## Choose a surface to verify
+md"""## Choose a surface to verify
 
 $(@bind surface Select(surfacemenu()))
 """
 
 # ╔═╡ 8cc290e6-f1e4-41e5-8030-bc26f29113da
-surfaceurn = isempty(surface) ? nothing  : Cite2Urn(surface)
-
-# ╔═╡ 186ce538-55b1-460c-94ba-18e43093b99f
-# ╠═╡ show_logs = false
-surfacemenu()
+surfaceurn = isempty(surface) ? nothing  : Cite2Urn(surface);
 
 # ╔═╡ f43c7c84-401d-4016-b774-f424a16b75a6
 function waiting()
 	"<span class=\"waiting\">No surface selected</span>"
-end
+end;
 
 # ╔═╡ 092e6b5d-f12d-40de-94cb-b9a408ea3b97
 # ╠═╡ show_logs = false
@@ -279,7 +321,7 @@ text-align: center;
 
 
 </style>
-"""
+""";
 
 # ╔═╡ 00000000-0000-0000-0000-000000000001
 PLUTO_PROJECT_TOML_CONTENTS = """
@@ -1470,6 +1512,7 @@ version = "17.4.0+0"
 
 # ╔═╡ Cell order:
 # ╟─a6369bbe-ae25-426a-a9cc-bbb8c22277d1
+# ╟─896905a8-477d-410b-9b07-26914afe5354
 # ╟─ed8eaf10-0482-493f-979c-e07a2a3aa42d
 # ╟─e96bb62d-3763-48e6-943c-519862c454ab
 # ╟─8c81ce37-f715-4570-8155-c41d3a69dd86
@@ -1483,14 +1526,16 @@ version = "17.4.0+0"
 # ╟─62090e84-04d6-4dd9-875c-80baa4ba7da4
 # ╟─e3492287-4d55-4be9-b92f-b9bb7d39e982
 # ╟─64f00304-d6f5-4496-929a-2cdd5bedb809
+# ╟─db956017-d168-4c8d-a0e8-166d1e1fd7b9
 # ╟─a0599bb7-02fc-4cd3-acac-507dfbff9cf1
-# ╟─8cc290e6-f1e4-41e5-8030-bc26f29113da
-# ╟─09421ad8-7c4a-4906-978c-b84185a7eb16
+# ╟─a0e7627b-13b6-4cc8-b07b-d6aeaaf63774
+# ╟─73ac6089-a845-45e4-bb15-720f054a1685
 # ╟─62918cf4-1d08-477a-9de7-ff2d31f71e12
 # ╟─7abaa610-a931-4654-ad3d-d9d3ba688ef9
+# ╟─09421ad8-7c4a-4906-978c-b84185a7eb16
 # ╟─a97482e8-426b-4df8-872b-bde763ec1299
 # ╟─31949609-cdb4-44fd-93fa-3d72864a9d11
-# ╠═186ce538-55b1-460c-94ba-18e43093b99f
+# ╟─8cc290e6-f1e4-41e5-8030-bc26f29113da
 # ╟─f43c7c84-401d-4016-b774-f424a16b75a6
 # ╟─375fd29d-98d4-4742-ada1-7daa123c9cc4
 # ╟─00000000-0000-0000-0000-000000000001
