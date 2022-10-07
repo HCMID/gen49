@@ -113,7 +113,7 @@ The hidden cells are arranged in the following order:
 - **Cells 3-4**: These are followed by 2 cells that read in local source data: 
     1. the parent directory of this notebook's home is interpreted as an MID editorial repository, and loaded as an  `EditorsRepository` object
     2. within this notebook's directory, the file `MID.toml` is read for project-specific configuration
-- **Cells 5-6**:  These are followed by 2 cells for user selection of a page to valdiate:
+- **Cells 5-6**:  These are followed by 2 cells for user selection of a page to validate:
     1. create a menu of edited surfaces from the data in this editorial repository. (This is used for the popup menu right below the heading `Choose a surface to verify` above.)  
     2. create a `Cite2Urn` from the user's selection from the and read in source data.
 - **Cells 7-8**: The final two cells just define some HTML and CSS formatting.
